@@ -1,0 +1,49 @@
+name: Update EPG Schedules
+
+on:
+  # Run every day at 01:00 UTC (safely past UK midnight in both GMT and BST)
+  schedule:
+    - cron: "0 1 * * *"
+
+  # Allow manual trigger from the Actions tab anytime
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    name: Scrape & Commit EPG Data
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # required to push schedule/ files back to the repo
+
+    steps:
+      # ── 1. Check out the repo ───────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ── 2. Set up Python ────────────────────────────────────────────────────
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # ── 3. Run the scraper (no pip install needed — pure stdlib) ────────────
+      - name: Run EPG scraper
+        run: python scraper.py
+
+      # ── 4. Commit & push updated schedule files ─────────────────────────────
+      - name: Commit schedule files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add schedule/
+
+          # Only commit if there are actual changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit — schedules are already up to date."
+          else
+            TODAY=$(TZ="Europe/London" date +"%-d %B %Y")
+            git commit -m "chore: update EPG schedules for ${TODAY}"
+            git push
+          fi
