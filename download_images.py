@@ -16,7 +16,7 @@ Structure:
   downloaded-images/{Channel Name}/{show-name}.webp        ← show logo
 
 Base URL for JSON replacement:
-  https://example.com/wp-content/uploads/downloaded-images/{Channel Name}/{show-name}.webp
+  http://uk-schedule.local/wp-content/uploads/downloaded-images/{Channel Name}/{show-name}.webp
 
 Requirements:
   pip install Pillow
