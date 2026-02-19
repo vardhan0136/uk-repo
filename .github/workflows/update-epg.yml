@@ -1,4 +1,4 @@
-name: Update EPG Schedules
+name: Update EPG Schedules & Images
 
 on:
   # Run every day at 01:00 UTC (safely past UK midnight in both GMT and BST)
@@ -9,12 +9,12 @@ on:
   workflow_dispatch:
 
 jobs:
-  scrape:
-    name: Scrape & Commit EPG Data
+  scrape-and-download:
+    name: Scrape EPG → Download Images → Commit
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write   # required to push schedule/ files back to the repo
+      contents: write   # required to push files back to the repo
 
     steps:
       # ── 1. Check out the repo ───────────────────────────────────────────────
@@ -27,23 +27,36 @@ jobs:
         with:
           python-version: "3.11"
 
-      # ── 3. Run the scraper (no pip install needed — pure stdlib) ────────────
+      # ── 3. Install Pillow (needed only by download_images.py) ───────────────
+      - name: Install dependencies
+        run: pip install Pillow --quiet
+
+      # ── 4. Step 1 — Run EPG scraper ─────────────────────────────────────────
+      #        Fetches XML, parses today + tomorrow, writes schedule/*.json
       - name: Run EPG scraper
         run: python scraper.py
 
-      # ── 4. Commit & push updated schedule files ─────────────────────────────
-      - name: Commit schedule files
+      # ── 5. Step 2 — Download & process images ───────────────────────────────
+      #        Reads schedule/*.json, downloads logos, converts to WebP,
+      #        compresses show logos to <10 KB, updates URLs in JSON files
+      - name: Download and process images
+        run: python download_images.py
+
+      # ── 6. Commit & push everything ─────────────────────────────────────────
+      - name: Commit all changes
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          # Stage schedule JSON files and downloaded images
           git add schedule/
+          git add downloaded-images/
 
           # Only commit if there are actual changes
           if git diff --staged --quiet; then
-            echo "No changes to commit — schedules are already up to date."
+            echo "No changes to commit — everything is already up to date."
           else
             TODAY=$(TZ="Europe/London" date +"%-d %B %Y")
-            git commit -m "chore: update EPG schedules for ${TODAY}"
+            git commit -m "chore: update EPG schedules and images for ${TODAY}"
             git push
           fi
