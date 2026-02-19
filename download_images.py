@@ -41,7 +41,7 @@ from PIL import Image, ImageDraw, ImageFont
 SCHEDULE_DIR   = Path("schedule")
 IMAGES_DIR     = Path("downloaded-images")
 BASE_URL       = "https://example.com/wp-content/uploads/downloaded-images"
-MAX_WORKERS    = 12          # parallel download threads
+MAX_WORKERS    = 25          # parallel download threads
 SHOW_MAX_KB    = 10          # compress show logos to under this
 SHOW_MAX_BYTES = SHOW_MAX_KB * 1024
 REQUEST_TIMEOUT = 15         # seconds per download attempt
