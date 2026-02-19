@@ -1,0 +1,541 @@
+{
+  "channel_name": "That's TV",
+  "channel_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/thats-tv.webp",
+  "schedule": [
+    {
+      "date": "19 February 2026",
+      "programmes": [
+        {
+          "show_name": "Minder",
+          "show_description": "Dave at the Winchester Arms points out that banknotes given to Arthur by Shamy to pay off his debts have been forged. S5 E2: What Makes Shamy Run?",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/minder.webp",
+          "start_time": "00:50",
+          "end_time": "01:55"
+        },
+        {
+          "show_name": "Till Death Us Do Part",
+          "show_description": "Alf doesn't seem very keen on becoming a blood donor, and Mike finds this very amusing - would they want Alf's blood anyway? S3 E2: Blood Donor",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/till-death-us-do-part.webp",
+          "start_time": "01:55",
+          "end_time": "02:30"
+        },
+        {
+          "show_name": "Man About The House",
+          "show_description": "Larry gives girls fake names; the most recent one he uses is Robin Tripp, so Chrissy and Jo think Robin is a real bounder when a girl turns up saying she is pregnant. S4 E4: Never Give Your Real Name",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/man-about-the-house.webp",
+          "start_time": "02:30",
+          "end_time": "02:55"
+        },
+        {
+          "show_name": "Duty Free",
+          "show_description": "David is less than happy to find that the obnoxious Kev Wilson, a man who has always done better than him and let him know it since childhood, is staying at the hotel. S2 E6: Snap",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/duty-free.webp",
+          "start_time": "02:55",
+          "end_time": "03:20"
+        },
+        {
+          "show_name": "The Osbournes",
+          "show_description": "In tribute to Ozzy Osbourne. Ozzy is on tour travelling across the US as Sharon says she'll reunite with him as she misses him so much, and Kelly complains about her twisted ankle. S1 E6: Break a Leg",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/the-osbournes.webp",
+          "start_time": "03:20",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Nearest & Dearest",
+          "show_description": "Hit 70s sitcom starring Jimmy Jewel and Hylda Baker as brother and sister Eli and Nellie Pledge, forced to run a family pickle factory together in Lancashire. S6, E6: A Question Of Taste",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/nearest-dearest.webp",
+          "start_time": "04:00",
+          "end_time": "04:20"
+        },
+        {
+          "show_name": "Nearest & Dearest",
+          "show_description": "Hit 70s sitcom starring Jimmy Jewel and Hylda Baker as brother and sister Eli and Nellie Pledge, forced to run a family pickle factory together in Lancashire. S6, E7: A Pair Of Bloomers",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/nearest-dearest.webp",
+          "start_time": "04:20",
+          "end_time": "04:45"
+        },
+        {
+          "show_name": "Trainspotting: Waterloo Sunset",
+          "show_description": "The last steam-worked main lines on the Southern Region, from Waterloo to Salisbury and Weymouth, are recalled on this all-colour programme which features cine film made between 1958 and 1967.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/trainspotting-waterloo-sunset.webp",
+          "start_time": "04:45",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Shop: Riviera Travel",
+          "show_description": "Holiday inspiration. Discover the perfect holiday for you, featuring the hottest destinations and exclusive deals to make your next holiday the best one. Teleshopping.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/shop-riviera-travel.webp",
+          "start_time": "06:00",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Shop: Jet Hawk",
+          "show_description": "Jet Hawk is cordless, rechargeable and turns any water source into a powerful pressure washer. Call or visit highstreettv.com for more details. Teleshopping.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/shop-jet-hawk.webp",
+          "start_time": "06:30",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Shop: Fred Olsen Cruise Lines",
+          "show_description": "Holiday inspiration. Discover the perfect holiday for you, featuring the hottest destinations and exclusive deals to make your next holiday the best one. Teleshopping.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/shop-fred-olsen-cruise-lines.webp",
+          "start_time": "07:00",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "Shop: Dormeo Mattresses",
+          "show_description": "The home of a great night's sleep. Every body. Every bedroom. Every budget. Teleshopping.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/shop-dormeo-mattresses.webp",
+          "start_time": "07:30",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "That's 60s - Best Music Live!",
+          "show_description": "A selection of live performances from TV music shows in the 1960s for a genuine taste of the best of the '60s!",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/thats-60s-best-music-live.webp",
+          "start_time": "08:00",
+          "end_time": "08:10"
+        },
+        {
+          "show_name": "Birds of a Feather",
+          "show_description": "Tracey gets a letter from her auntie Vera who is retiring as a Pearly Queen and wants her to take over, but Tracey faces competition from a jealous Sharon. S11 E4: The Girls With The Pearl Buttons",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/birds-of-a-feather.webp",
+          "start_time": "08:10",
+          "end_time": "08:40"
+        },
+        {
+          "show_name": "Upstairs, Downstairs",
+          "show_description": "It's November 1903 in an English townhouse; the very proper butler Hudson, maid Rose, and cook Mrs Bridges are joined by a troublesome new maid called Clemence. S1 E1: On Trial",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/upstairs-downstairs.webp",
+          "start_time": "08:40",
+          "end_time": "09:40"
+        },
+        {
+          "show_name": "Duty Free",
+          "show_description": "With Amy having sent all his clothes to the cleaners, David looks doomed to spend the rest of his holiday in drag and gets no sympathy from his wife or the Cochrans. S2 E1: Manana",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/duty-free.webp",
+          "start_time": "09:40",
+          "end_time": "10:15"
+        },
+        {
+          "show_name": "Bread",
+          "show_description": "Adrian is put through the wringer when he attempts to apply for social benefits and Aveline reveals she has met a nice boy in London. S2 E4",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/bread.webp",
+          "start_time": "10:15",
+          "end_time": "10:50"
+        },
+        {
+          "show_name": "Steptoe and Son",
+          "show_description": "Harold is offered a piano for free providing he moves it himself; he gets Albert to help, only to find out that it is on the top floor of a block of flats. S1 E3: The Piano",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/steptoe-and-son.webp",
+          "start_time": "10:50",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Oh Doctor Beeching!",
+          "show_description": "It's Jack and May's wedding anniversary, but May is worried that she might be pregnant - meanwhile, Arnold fears that he is about to get the sack. S2 E9: A Pregnant Pause",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/oh-doctor-beeching.webp",
+          "start_time": "11:30",
+          "end_time": "12:05"
+        },
+        {
+          "show_name": "Rising Damp",
+          "show_description": "An election polarises the household - Rigsby supports the Conservatives, Alan and Philip lean towards Labour, and Miss Jones is impressed with the Liberal candidate. S1 E7: Stand Up and Be Counted",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/rising-damp.webp",
+          "start_time": "12:05",
+          "end_time": "12:35"
+        },
+        {
+          "show_name": "Man About The House",
+          "show_description": "There is a formal dinner dance at the firm where Jo and Chrissy work, but Chrissy's dance partner has injured himself and so Robin becomes her partner instead. S3 E3: I Won't Dance, Don't Ask Me",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/man-about-the-house.webp",
+          "start_time": "12:35",
+          "end_time": "13:10"
+        },
+        {
+          "show_name": "Goodnight Sweetheart",
+          "show_description": "Gary returns to the bar to begin courting Phoebe, where he runs into her husband Donald. S1 E2: Fools Rush In",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/goodnight-sweetheart.webp",
+          "start_time": "13:10",
+          "end_time": "13:45"
+        },
+        {
+          "show_name": "When the Boat Comes In",
+          "show_description": "Matt and Jack want to buy property in Wellesley Street; they are up against devious businessmen - including Mr Colefax - who are also interested, and battle commences. S3 E8: The Empire Builders",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/when-the-boat-comes-in.webp",
+          "start_time": "13:45",
+          "end_time": "14:50"
+        },
+        {
+          "show_name": "Minder",
+          "show_description": "Arthur's latest flight of fancy takes him into the world of darts, but has he hit the bullseye? S3 E10: Broken Arrow",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/minder.webp",
+          "start_time": "14:50",
+          "end_time": "15:50"
+        },
+        {
+          "show_name": "Just Good Friends",
+          "show_description": "Sitcom. Penny is aching to tell Vince that she doesn't want to see him again, but he hasn't contacted her for over three weeks. S1 E5: I Don't Want to See You Again",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/just-good-friends.webp",
+          "start_time": "15:50",
+          "end_time": "16:25"
+        },
+        {
+          "show_name": "Man About The House",
+          "show_description": "When the lease is up on the flat and George wants to increase the rent, the flatmates decide that the only way to raise the money is to get a fourth tenant to share. S6 E2: One More for the Pot",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/man-about-the-house.webp",
+          "start_time": "16:25",
+          "end_time": "16:55"
+        },
+        {
+          "show_name": "Are You Being Served? Again!",
+          "show_description": "A group of businessmen due to stay at the manor are expecting some culture, Shakespeare and opera, but there seems to be only one answer with no money to spend on entertainment. S2 E6",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/are-you-being-served-again.webp",
+          "start_time": "16:55",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "Birds of a Feather",
+          "show_description": "Tracey gets a letter from her auntie Vera who is retiring as a Pearly Queen and wants her to take over, but Tracey faces competition from a jealous Sharon. S11 E4: The Girls With The Pearl Buttons",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/birds-of-a-feather.webp",
+          "start_time": "17:30",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "That's 60s - Best Music Live!",
+          "show_description": "A selection of live performances from TV music shows in the 1960s for a genuine taste of the best of the '60s!",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/thats-60s-best-music-live.webp",
+          "start_time": "18:00",
+          "end_time": "18:10"
+        },
+        {
+          "show_name": "Steptoe and Son",
+          "show_description": "Harold is offered a piano for free providing he moves it himself; he gets Albert to help, only to find out that it is on the top floor of a block of flats. S1 E3: The Piano",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/steptoe-and-son.webp",
+          "start_time": "18:10",
+          "end_time": "18:50"
+        },
+        {
+          "show_name": "Minder",
+          "show_description": "Arthur gets involved with Clive Cosgrove, who has several businesses that are each run by a woman he is married to. S5 E3: A Number of Old Wives' Tales",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/minder.webp",
+          "start_time": "18:50",
+          "end_time": "19:55"
+        },
+        {
+          "show_name": "Rising Damp",
+          "show_description": "When Miss Jones sees a prowler through her window, Rigsby suspects everyone else as a police detective appears and begins to investigate. S1 E6: The Prowler",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/rising-damp.webp",
+          "start_time": "19:55",
+          "end_time": "20:25"
+        },
+        {
+          "show_name": "Likely Lads: Whatever Happened?",
+          "show_description": "Bob's married life promises work, worry and wallpapering; Terry wastes the days away in the pub and the bookies as happy as ever. Bob wonders who has the right answer. S2 E3: The Ant & The Grasshopper",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/likely-lads-whatever-happened.webp",
+          "start_time": "20:25",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Benidorm",
+          "show_description": "After a night at the Benidorm Palace, Mel and Madge have their eyes on a life in the sun, and a new Benidorm business venture. Geoff and Chantelle, meanwhile, have eyes only for each other. S3 E6",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/benidorm.webp",
+          "start_time": "21:00",
+          "end_time": "21:55"
+        },
+        {
+          "show_name": "Shameless",
+          "show_description": "When Debbie makes friends with a popular girl her own age, she realises what she's been missing out on and goes on strike. Meanwhile, Frank becomes a medical guinea pig. S3 E7",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/shameless.webp",
+          "start_time": "21:55",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Man About The House",
+          "show_description": "George has been claiming for a non-existent son for the past 19 years in order to fiddle his tax returns, but he is in danger of being caught when a tax inspector visits. S4 E6: My Son, My Son",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/man-about-the-house.webp",
+          "start_time": "23:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "Rising Damp",
+          "show_description": "When Miss Jones raises suspicions about new tenant Madeline, Rigsby is not too bothered about her brand of 'modern interpretive dancing' but isn't that keen on her partner. S3 E5: Fawcett's Python",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/rising-damp.webp",
+          "start_time": "23:30",
+          "end_time": "00:05"
+        }
+      ]
+    },
+    {
+      "date": "20 February 2026",
+      "programmes": [
+        {
+          "show_name": "Benidorm",
+          "show_description": "After a night at the Benidorm Palace, Mel and Madge have their eyes on a life in the sun, and a new Benidorm business venture. Geoff and Chantelle, meanwhile, have eyes only for each other. S3 E6",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/benidorm.webp",
+          "start_time": "00:05",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "Minder",
+          "show_description": "Arthur gets involved with Clive Cosgrove, who has several businesses that are each run by a woman he is married to. S5 E3: A Number of Old Wives' Tales",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/minder.webp",
+          "start_time": "01:00",
+          "end_time": "02:05"
+        },
+        {
+          "show_name": "Till Death Us Do Part",
+          "show_description": "With Else unwell and in bed upstairs, Aunt Maud comes over to help Alf and the family - lost for decades, this episode has been recovered from videotape. S3 E7: Aunt Maud",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/till-death-us-do-part.webp",
+          "start_time": "02:05",
+          "end_time": "02:30"
+        },
+        {
+          "show_name": "Man About The House",
+          "show_description": "Robin accompanies Chrissy to her nephew's christening while Jo runs out of excuses not to hear George sing in the British Legion's choir concert. S4 E5: The Tender Trap",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/man-about-the-house.webp",
+          "start_time": "02:30",
+          "end_time": "02:55"
+        },
+        {
+          "show_name": "Duty Free",
+          "show_description": "The last night of the holiday finds both couples packing, but David and Linda decide to slip away and meet for one last time. S2 E7: Adios",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/duty-free.webp",
+          "start_time": "02:55",
+          "end_time": "03:20"
+        },
+        {
+          "show_name": "The Osbournes",
+          "show_description": "In tribute to Ozzy Osbourne. Ozzy mixes alcohol with the pain medication for his foot injury and winds up stoned, and the Osbournes suffer through a miserable Thanksgiving. S1 E7: Get Stuffed",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/the-osbournes.webp",
+          "start_time": "03:20",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Nearest & Dearest Xmas 1972",
+          "show_description": "Cindernellie: Hit '70s sitcom with Jimmy Jewel and Hylda Baker. Nellie and Eli are left performing a pantomime after the producer does a runner with their money. Christmas 1972 (S7, E1)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/nearest-dearest-xmas-1972.webp",
+          "start_time": "04:00",
+          "end_time": "04:25"
+        },
+        {
+          "show_name": "Nearest & Dearest",
+          "show_description": "Hit 70s sitcom starring Jimmy Jewel and Hylda Baker as brother and sister Eli and Nellie Pledge, forced to run a family pickle factory together in Lancashire. S7, E2: Good Time Girl",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/nearest-dearest.webp",
+          "start_time": "04:25",
+          "end_time": "04:50"
+        },
+        {
+          "show_name": "Trainspotting: Steam in the...",
+          "show_description": "We study the real feel of what it was like to observe the busy railway network of the Midlands in the last decade of steam operations, an era renowned for its heavy industry.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/trainspotting-steam-in-the.webp",
+          "start_time": "04:50",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Shop: Dormeo Mattresses",
+          "show_description": "The home of a great night's sleep. Every body. Every bedroom. Every budget. Teleshopping.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/shop-dormeo-mattresses.webp",
+          "start_time": "06:00",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Shop: Princess Cruises",
+          "show_description": "Holiday inspiration. Discover the perfect holiday for you, featuring the hottest destinations and exclusive deals to make your next holiday the best one. Teleshopping.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/shop-princess-cruises.webp",
+          "start_time": "06:30",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Shop: Drew&Cole Clever Micro Toastie",
+          "show_description": "Make perfect toasties right in your microwave - that's right! Clever Micro Toastie is microwave cooking with a crunch! Order now at www.highstreettv.com. Teleshopping.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/shop-drewcole-clever-micro-toastie.webp",
+          "start_time": "07:00",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "Shop: Riviera Travel",
+          "show_description": "Holiday inspiration. Discover the perfect holiday for you, featuring the hottest destinations and exclusive deals to make your next holiday the best one. Teleshopping.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/shop-riviera-travel.webp",
+          "start_time": "07:30",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "That's 60s - Best Music Live!",
+          "show_description": "A selection of live performances from TV music shows in the 1960s for a genuine taste of the best of the '60s!",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/thats-60s-best-music-live.webp",
+          "start_time": "08:00",
+          "end_time": "08:05"
+        },
+        {
+          "show_name": "Birds of a Feather",
+          "show_description": "Dorien's book group is convening to discuss Crime and Punishment, which turns out to be rather applicable to the events that unfold in Tracey's household. S11 E5: Tracey's Choice",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/birds-of-a-feather.webp",
+          "start_time": "08:05",
+          "end_time": "08:35"
+        },
+        {
+          "show_name": "Upstairs, Downstairs",
+          "show_description": "It's June 1904 and Lady Marjorie is sitting for her portrait by Guthrie Scone, a Scottish aristocrat-turned-avant-garde painter. S1 E2: The Mistress and the Maids",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/upstairs-downstairs.webp",
+          "start_time": "08:35",
+          "end_time": "09:40"
+        },
+        {
+          "show_name": "Duty Free",
+          "show_description": "David goes to a casino where he meets the Cochrans and hopes that Linda will bring him luck as he puts his winning system into play. S2 E2: Casino",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/duty-free.webp",
+          "start_time": "09:40",
+          "end_time": "10:10"
+        },
+        {
+          "show_name": "Bread",
+          "show_description": "The boys consider the impact of their father moving back into the Boswell household, while Nellie is shocked at her husband's changing views on his faith. S2 E5",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/bread.webp",
+          "start_time": "10:10",
+          "end_time": "10:45"
+        },
+        {
+          "show_name": "Steptoe and Son",
+          "show_description": "Harold reads a book on capitalism and comes to the conclusion that the business is not being run properly; he decides that they must start buying goods in bulk for profits. S1 E4: The Economist",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/steptoe-and-son.webp",
+          "start_time": "10:45",
+          "end_time": "11:20"
+        },
+        {
+          "show_name": "Oh Doctor Beeching!",
+          "show_description": "The staff discover that the station is a hundred years old and decide to have a street party to celebrate. S2 E10: Ton Up",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/oh-doctor-beeching.webp",
+          "start_time": "11:20",
+          "end_time": "11:55"
+        },
+        {
+          "show_name": "Rising Damp",
+          "show_description": "When Ruth is depressed following the 'deception' of a recent male friend, Rigsby takes what he believes to be his chance to woo her. S2 E1: The Permissive Society",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/rising-damp.webp",
+          "start_time": "11:55",
+          "end_time": "12:30"
+        },
+        {
+          "show_name": "Man About The House",
+          "show_description": "Jo sees a mouse in her bedroom and refuses to sleep in there; much to Chrissy's dismay, Jo swaps with Robin while the mouse is on the loose. S3 E4: Of Mice And Women",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/man-about-the-house.webp",
+          "start_time": "12:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Goodnight Sweetheart",
+          "show_description": "Gary arouses suspicions when he saves Phoebe from an early evening bombing raid. S1 E3: Is Your Journey Really Necessary?",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/goodnight-sweetheart.webp",
+          "start_time": "13:00",
+          "end_time": "13:35"
+        },
+        {
+          "show_name": "When the Boat Comes In",
+          "show_description": "The battle for Wellesley Street continues and Colefax refuses to employ union men, but he is cornered when Matt announces that there is no deal if there is no union. S3 E9: Look Up & See The Sky",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/when-the-boat-comes-in.webp",
+          "start_time": "13:35",
+          "end_time": "14:40"
+        },
+        {
+          "show_name": "Minder",
+          "show_description": "Terry has to mind Danny Varrow, a footballer whose gambling, womanising and boozing leaves his club in the lurch. S3 E11: Poetic Justice, Innit?",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/minder.webp",
+          "start_time": "14:40",
+          "end_time": "15:45"
+        },
+        {
+          "show_name": "Just Good Friends",
+          "show_description": "John Sullivan's bittersweet 80s sitcom. Mr and Mrs Warrender plan a surprise for Penny's birthday, but Penny and Vince have a surprise of their own. S1 E6: Happy Birthday Penny",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/just-good-friends.webp",
+          "start_time": "15:45",
+          "end_time": "16:25"
+        },
+        {
+          "show_name": "Man About The House",
+          "show_description": "When Mildred is going to the Floral Society annual dinner dance but George doesn't want to, Robin agrees to accompany Mildred to the dance and leaves George rather jealous. S6 E3: The Generation Game",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/man-about-the-house.webp",
+          "start_time": "16:25",
+          "end_time": "16:55"
+        },
+        {
+          "show_name": "Are You Being Served? Again!",
+          "show_description": "Young Mr Grace has died and the Grace Brothers department store has closed when the former staff attend a reading of his will and find that they have inherited a hotel. S1 E1: Grace & Favour",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/are-you-being-served-again.webp",
+          "start_time": "16:55",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "Birds of a Feather",
+          "show_description": "Dorien's book group is convening to discuss Crime and Punishment, which turns out to be rather applicable to the events that unfold in Tracey's household. S11 E5: Tracey's Choice",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/birds-of-a-feather.webp",
+          "start_time": "17:30",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "That's 60s - Best Music Live!",
+          "show_description": "A selection of live performances from TV music shows in the 1960s for a genuine taste of the best of the '60s!",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/thats-60s-best-music-live.webp",
+          "start_time": "18:00",
+          "end_time": "18:10"
+        },
+        {
+          "show_name": "Steptoe and Son",
+          "show_description": "Harold reads a book on capitalism and comes to the conclusion that the business is not being run properly; he decides that they must start buying goods in bulk for profits. S1 E4: The Economist",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/steptoe-and-son.webp",
+          "start_time": "18:10",
+          "end_time": "18:45"
+        },
+        {
+          "show_name": "Minder",
+          "show_description": "When an author friend of Arthur learns her ex-husband has sold her house without permission, she hires Terry to help with ideas and Arthur to help get the money back. S5 E4: The Second Time Around",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/minder.webp",
+          "start_time": "18:45",
+          "end_time": "19:50"
+        },
+        {
+          "show_name": "Rising Damp",
+          "show_description": "An election polarises the household - Rigsby supports the Conservatives, Alan and Philip lean towards Labour, and Miss Jones is impressed with the Liberal candidate. S1 E7: Stand Up and Be Counted",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/rising-damp.webp",
+          "start_time": "19:50",
+          "end_time": "20:25"
+        },
+        {
+          "show_name": "Likely Lads: Whatever Happened?",
+          "show_description": "According to Bob and Shakespeare, 'wine is a gentle stimulant and good companion' - and so is Terry on the night Bob gets breathalysed. S2 E4: One for the Road",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/likely-lads-whatever-happened.webp",
+          "start_time": "20:25",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Benidorm Xmas 2010",
+          "show_description": "Su Pollard stars in this Christmas special, as Madge prepares a big show at the Benidorm Palace. The Garveys come and visit, whilst Donald and Jacqueline bring a group of friends to the Solana. S3 E7",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/benidorm-xmas-2010.webp",
+          "start_time": "21:00",
+          "end_time": "21:55"
+        },
+        {
+          "show_name": "Shameless",
+          "show_description": "Frank and Sheila's wedding day looms, but there's a surprise in store for Frank when Sheila reveals what really happened to her ex-husband Sheldon. S3 E8",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/shameless.webp",
+          "start_time": "21:55",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Man About The House",
+          "show_description": "It is Chrissy's birthday when she receives a cine camera and projector from her boyfriend Neil, but Larry plans to use it to watch blue movies. S5 E1: The Last Picture Show",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/man-about-the-house.webp",
+          "start_time": "23:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "Rising Damp",
+          "show_description": "Alan's getting serious about Caroline, but her parents are well-to-do and Rigsby is far from convinced that the young scruff could possibly make the relationship work. S3 E6: The Cocktail Hour",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/That's TV/rising-damp.webp",
+          "start_time": "23:30",
+          "end_time": "00:00"
+        }
+      ]
+    }
+  ]
+}

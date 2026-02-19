@@ -1,0 +1,366 @@
+{
+  "channel_name": "RTÉ News",
+  "channel_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/rté-news.webp",
+  "schedule": [
+    {
+      "date": "19 February 2026",
+      "programmes": [
+        {
+          "show_name": "EuroNews",
+          "show_description": "European and international headlines live via satellite.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/euronews.webp",
+          "start_time": "06:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Morning Ireland",
+          "show_description": "Morning news programme.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/morning-ireland.webp",
+          "start_time": "07:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Today with David McCullagh",
+          "show_description": "The Today show live from RTÉ Radio 1.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/today-with-david-mccullagh.webp",
+          "start_time": "09:00",
+          "end_time": "10:30"
+        },
+        {
+          "show_name": "Mass",
+          "show_description": "Mass",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/mass.webp",
+          "start_time": "10:30",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/latest-news-and-weather.webp",
+          "start_time": "11:00",
+          "end_time": "11:50"
+        },
+        {
+          "show_name": "Leaders' Questions",
+          "show_description": "Coverage of Question Time in the Dail.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/leaders-questions.webp",
+          "start_time": "11:50",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "RTE News: One O'clock",
+          "show_description": "(And Weather)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/rte-news-one-oclock.webp",
+          "start_time": "13:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/latest-news-and-weather.webp",
+          "start_time": "13:30",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/latest-news-and-weather.webp",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "Latest News and Weather.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/latest-news-and-weather.webp",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "Latest News and Weather.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/latest-news-and-weather.webp",
+          "start_time": "16:00",
+          "end_time": "16:20"
+        },
+        {
+          "show_name": "news2day",
+          "show_description": "Domestic and international news items of interest to younger viewers.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/news2day.webp",
+          "start_time": "16:20",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/latest-news-and-weather.webp",
+          "start_time": "16:30",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Nuacht RTÉ",
+          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/nuacht-rté.webp",
+          "start_time": "17:00",
+          "end_time": "17:10"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/latest-news-and-weather.webp",
+          "start_time": "17:10",
+          "end_time": "17:40"
+        },
+        {
+          "show_name": "Nuacht RTÉ",
+          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/nuacht-rté.webp",
+          "start_time": "17:40",
+          "end_time": "18:01"
+        },
+        {
+          "show_name": "RTÉ News: Six One",
+          "show_description": "(And Weather)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/rté-news-six-one.webp",
+          "start_time": "18:01",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/latest-news-and-weather.webp",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/latest-news-and-weather.webp",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Nuacht RTÉ",
+          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/nuacht-rté.webp",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "RTÉ News: Nine O'Clock",
+          "show_description": "(And Weather)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/rté-news-nine-oclock.webp",
+          "start_time": "21:00",
+          "end_time": "21:35"
+        },
+        {
+          "show_name": "Prime Time",
+          "show_description": "An in-depth analysis of current issues and topical reports.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/prime-time.webp",
+          "start_time": "21:35",
+          "end_time": "22:10"
+        },
+        {
+          "show_name": "The Late Debate",
+          "show_description": "Live debate with the news and political stories of the day. Presented by Cormac Ó hEadhra.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/the-late-debate.webp",
+          "start_time": "22:10",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Prime Time",
+          "show_description": "An in-depth analysis of current issues and topical reports.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/prime-time.webp",
+          "start_time": "23:00",
+          "end_time": "23:35"
+        },
+        {
+          "show_name": "Nuacht RTÉ",
+          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/nuacht-rté.webp",
+          "start_time": "23:35",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "20 February 2026",
+      "programmes": [
+        {
+          "show_name": "EuroNews",
+          "show_description": "The latest International and European news.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/euronews.webp",
+          "start_time": "00:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Morning Ireland",
+          "show_description": "Morning news programme.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/morning-ireland.webp",
+          "start_time": "07:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Today with David McCullagh",
+          "show_description": "The Today show live from RTÉ Radio 1.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/today-with-david-mccullagh.webp",
+          "start_time": "09:00",
+          "end_time": "10:30"
+        },
+        {
+          "show_name": "Mass",
+          "show_description": "Mass",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/mass.webp",
+          "start_time": "10:30",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/latest-news-and-weather.webp",
+          "start_time": "11:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/latest-news-and-weather.webp",
+          "start_time": "12:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "RTE News: One O'clock",
+          "show_description": "(And Weather)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/rte-news-one-oclock.webp",
+          "start_time": "13:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/latest-news-and-weather.webp",
+          "start_time": "13:30",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/latest-news-and-weather.webp",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "Latest News and Weather.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/latest-news-and-weather.webp",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/latest-news-and-weather.webp",
+          "start_time": "16:00",
+          "end_time": "16:20"
+        },
+        {
+          "show_name": "news2day",
+          "show_description": "Domestic and international news items of interest to younger viewers.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/news2day.webp",
+          "start_time": "16:20",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/latest-news-and-weather.webp",
+          "start_time": "16:30",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Nuacht RTÉ",
+          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/nuacht-rté.webp",
+          "start_time": "17:00",
+          "end_time": "17:10"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/latest-news-and-weather.webp",
+          "start_time": "17:10",
+          "end_time": "17:40"
+        },
+        {
+          "show_name": "Nuacht RTÉ",
+          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/nuacht-rté.webp",
+          "start_time": "17:40",
+          "end_time": "18:01"
+        },
+        {
+          "show_name": "RTÉ News: Six One",
+          "show_description": "(And Weather)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/rté-news-six-one.webp",
+          "start_time": "18:01",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/latest-news-and-weather.webp",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/latest-news-and-weather.webp",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Nuacht RTÉ",
+          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/nuacht-rté.webp",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "RTÉ News: Nine O'Clock",
+          "show_description": "(And Weather)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/rté-news-nine-oclock.webp",
+          "start_time": "21:00",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/latest-news-and-weather.webp",
+          "start_time": "21:30",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/latest-news-and-weather.webp",
+          "start_time": "22:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Nuacht RTÉ",
+          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/nuacht-rté.webp",
+          "start_time": "23:00",
+          "end_time": "23:25"
+        },
+        {
+          "show_name": "EuroNews",
+          "show_description": "The latest International and European news.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ News/euronews.webp",
+          "start_time": "23:25",
+          "end_time": "06:00"
+        }
+      ]
+    }
+  ]
+}

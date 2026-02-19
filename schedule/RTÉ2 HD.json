@@ -1,0 +1,611 @@
+{
+  "channel_name": "RTÉ2 HD",
+  "channel_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/rté2-hd.webp",
+  "schedule": [
+    {
+      "date": "19 February 2026",
+      "programmes": [
+        {
+          "show_name": "The Newsreader",
+          "show_description": "In 1989, Helen and Dale are forced into direct competition as they fight to become number one in the shifting world of news. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/the-newsreader.webp",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "Apples Never Fall",
+          "show_description": "The Delaney's: Joy and Stan Delaney find that retirement isn't what they hoped for until a mysterious visitor arrives. When Joy later goes missing, her children wonder if foul play is involved. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/apples-never-fall.webp",
+          "start_time": "01:00",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "EuroNews",
+          "show_description": "The latest international news headlines. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/euronews.webp",
+          "start_time": "02:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "EuroNews",
+          "show_description": "The latest international news headlines. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/euronews.webp",
+          "start_time": "06:00",
+          "end_time": "07:40"
+        },
+        {
+          "show_name": "news2day",
+          "show_description": "Domestic and international news items of interest to younger viewers. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/news2day.webp",
+          "start_time": "07:40",
+          "end_time": "07:50"
+        },
+        {
+          "show_name": "BeddyByes (As Gaeilge)",
+          "show_description": "Suas, Síos Agus Bunoscionn: Tá MeMo agus BaBa ag baint sult mór as dul suas síos ar chranndaí bogadaí. Téann Éinín thart leo agus é ag eitilt bunoscionn. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/beddybyes-as-gaeilge.webp",
+          "start_time": "07:50",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Breacaí",
+          "show_description": "Léaspáin agus Líníochtaí: Lorgaíonn Breacaí foscadh i gcaisleán ceomhar lán seachmaill. Caithfidh sí a bheith cliste agus cruthaitheach chun éalú ó chleasa mhuintir an tí. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/breacaí.webp",
+          "start_time": "08:00",
+          "end_time": "08:05"
+        },
+        {
+          "show_name": "Puffin Rock (As Gaeilge)",
+          "show_description": "Blaosc Bernie: Nuair a bhriseann Bernie a bhlaosc trí thimpiste, socraíonn Oona agus Silky dul ag tumadh le ceann nua a aimsiú dó. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/puffin-rock-as-gaeilge.webp",
+          "start_time": "08:05",
+          "end_time": "08:15"
+        },
+        {
+          "show_name": "Puffin Rock (As Gaeilge)",
+          "show_description": "Léim, Scip is Preab: Tá Oona ag iarraidh ar May an dóigh le léimint go hard a theagasc di. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/puffin-rock-as-gaeilge.webp",
+          "start_time": "08:15",
+          "end_time": "08:20"
+        },
+        {
+          "show_name": "Baile na Samhlaíochta",
+          "show_description": "Déanann Hugo agus Sonia dearmad rud éigin speisialta a chur isteach i bpacáiste Mhamó. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/baile-na-samhlaíochta.webp",
+          "start_time": "08:20",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "Baile na Samhlaíochta",
+          "show_description": "Níl báid pháipéir Hugo agus Sonia ag dul sa treo ceart go dtí go n-oibríonn siad amach treo na gaoithe. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/baile-na-samhlaíochta.webp",
+          "start_time": "08:30",
+          "end_time": "08:35"
+        },
+        {
+          "show_name": "The Wee Littles",
+          "show_description": "Cruthaíonn na Bheigíní culaith fíodóir chun cuidiú le bailiú úlla I gcomhair císte úll cáiliúil Chóilín (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/the-wee-littles.webp",
+          "start_time": "08:35",
+          "end_time": "08:40"
+        },
+        {
+          "show_name": "The Wee Littles",
+          "show_description": "Taispeánann an Spideog bealach go paiste sméara dubha do na Bheigíní, ach tá balla cloiche ard rompu. Conas a rachaidh siad thar an mballa chun na sméara a bhaint amach? (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/the-wee-littles.webp",
+          "start_time": "08:40",
+          "end_time": "08:45"
+        },
+        {
+          "show_name": "Dizzy Deliveries",
+          "show_description": "Set in the Dizzy Deliveries Depot with Joe, Aisling and Ozzy the robot. Pre-school and Lamh Users of all ages learn 3 key Lamh signs in every episode. (SL,HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/dizzy-deliveries.webp",
+          "start_time": "08:45",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "The Big Pet Project",
+          "show_description": "From dancing dogs to a stinky turtle and a giant lizard, the Pet Mobile visits Tipperary. And Dr Bobby explains why rabbits can't fart! (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/the-big-pet-project.webp",
+          "start_time": "09:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Journeycam International",
+          "show_description": "JourneyCam reporter Abu Bakar (10) is heading to Karachi in Pakistan. He reunites with his granny and cousins and visits one of Asia's largest cow markets to buy a cow. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/journeycam-international.webp",
+          "start_time": "09:30",
+          "end_time": "09:55"
+        },
+        {
+          "show_name": "Horrible Histories",
+          "show_description": "A pirate captain worries about bedtime, a soldier from World War I struggles to cook, and the four King Georges form a boyband.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/horrible-histories.webp",
+          "start_time": "09:55",
+          "end_time": "10:30"
+        },
+        {
+          "show_name": "Horrible Histories",
+          "show_description": "A pirate captain worries about bedtime, a soldier from World War I struggles to cook, and the four King Georges form a boyband.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/horrible-histories.webp",
+          "start_time": "10:30",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "Total Football",
+          "show_description": "Liam Scales' former club, Arklow Town A.F.C, hosts us as we travel to Wales to meet Premier League stars. Tadhg Leader joins us in studio for a special in-studio challenge... (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/total-football.webp",
+          "start_time": "11:00",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Total Football",
+          "show_description": "In the UK, we meet Irish stars Heather Payne & Courtney Brosnan. Limerick's Newcastle West Town A.F.C. introduces its rising stars, we meet Ireland's most soccer-obsessed school. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/total-football.webp",
+          "start_time": "11:30",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Teen Titans Go!",
+          "show_description": "While searching for a missing Aquaman, the Titans find themselves at the mercy of Black Manta. Having watched everything available on TV, the Titans decide to make their own show. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/teen-titans-go.webp",
+          "start_time": "12:00",
+          "end_time": "12:25"
+        },
+        {
+          "show_name": "Holt as Gaeilge",
+          "show_description": "Damháin Phortán: Bíonn ar Mhata aghaidh a thabhairt ar an bhfaitíos chun Roo agus Cré a thabhairt slán as scoilt dhainséarach atá lán le damháin alla-portáin chontúirteacha. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/holt-as-gaeilge.webp",
+          "start_time": "12:25",
+          "end_time": "12:40"
+        },
+        {
+          "show_name": "The Strange Chores",
+          "show_description": "It's major trouble when a flushed singing monster gets stuck in the toilet. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/the-strange-chores.webp",
+          "start_time": "12:40",
+          "end_time": "12:55"
+        },
+        {
+          "show_name": "The Strange Chores",
+          "show_description": "When Pierce is paired with Malcolm in class, Charlie jealously tries to split them apart by using Helsing's magic music player to turn Malcolm bad. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/the-strange-chores.webp",
+          "start_time": "12:55",
+          "end_time": "13:10"
+        },
+        {
+          "show_name": "Hardball",
+          "show_description": "Mikey moves to Western Sydney, and finds himself in the thick of the ultra-competitive, schoolyard game of handball. Comedy-drama, starring Semisi Cheekam. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/hardball.webp",
+          "start_time": "13:10",
+          "end_time": "13:35"
+        },
+        {
+          "show_name": "The Secret Life of Boys",
+          "show_description": "The Hughes family say 'Yes, and' to everything for a day. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/the-secret-life-of-boys.webp",
+          "start_time": "13:35",
+          "end_time": "14:05"
+        },
+        {
+          "show_name": "Lagging",
+          "show_description": "Sidequests: A Quest Elf brings new adventures with cakes, quacks, hats and crowns for Team SMoRCLe. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/lagging.webp",
+          "start_time": "14:05",
+          "end_time": "14:35"
+        },
+        {
+          "show_name": "Jamie Johnson",
+          "show_description": "Troubled Eric refuses to play in the U12's next game. Can Molly uncover his secret?. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/jamie-johnson.webp",
+          "start_time": "14:35",
+          "end_time": "15:10"
+        },
+        {
+          "show_name": "Mortina",
+          "show_description": "A skeleton named Rudy: A friendly skeleton knight appears in the library. Helping him home, the Mystery Squad learns home is where true friends are. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/mortina.webp",
+          "start_time": "15:10",
+          "end_time": "15:25"
+        },
+        {
+          "show_name": "Silverpoint",
+          "show_description": "Four kids at Silverpoint adventure camp stumble upon something strange buried in the woods, which sends their lives and the world around them spiralling out of control. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/silverpoint.webp",
+          "start_time": "15:25",
+          "end_time": "15:50"
+        },
+        {
+          "show_name": "The Big Pet Project",
+          "show_description": "From dancing dogs to a stinky turtle and a giant lizard, the Pet Mobile visits Tipperary. And Dr Bobby explains why rabbits can't fart! (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/the-big-pet-project.webp",
+          "start_time": "15:50",
+          "end_time": "16:20"
+        },
+        {
+          "show_name": "Shaun The Sheep",
+          "show_description": "Cones: Wallace and Gromit's friend returns for more adventures. The flock manages to divert an ice-cream van into their field.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/shaun-the-sheep.webp",
+          "start_time": "16:20",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "The Goldbergs",
+          "show_description": "Erica's new job at the department store is put in jeopardy when Beverly takes advantage of her daughter's employee discount too frequently. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/the-goldbergs.webp",
+          "start_time": "16:30",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Young Sheldon",
+          "show_description": "George Sr learns his job is in jeopardy, while Sheldon makes friends with his dormitory neighbours. Comedy, starring Iain Armitage (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/young-sheldon.webp",
+          "start_time": "17:00",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "The Big Bang Theory",
+          "show_description": "Penny struggles with Leonard's confession that he kissed another woman and has to decide whether to marry him. Amy tells Sheldon she wants to take a break. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/the-big-bang-theory.webp",
+          "start_time": "17:30",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Shortland Street",
+          "show_description": "Damo's incredulous when it's revealed he and Desi have defied the odds to win the publicly-voted-for reality show, Honeymoon or Doom. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/shortland-street.webp",
+          "start_time": "18:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "Home and Away",
+          "show_description": "As excitement for the Off The Rails festival builds, Remi invites Mackenzie - as a thank you for always being such a big supporter of his career. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/home-and-away.webp",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Bake Off: The Professionals",
+          "show_description": "The teams take all their patisserie skill and spin it on its head by creating 24 savoury slices. They also need to execute razor-sharp precision as they make 24 layered crepe cakes. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/bake-off-the-professionals.webp",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Grand Designs",
+          "show_description": "In 2013, Jon and Noreen started building a giant tree house in Gloucestershire. By 2016, the money ran out. Are they finally living up in the trees? (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/grand-designs.webp",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Father Ted",
+          "show_description": "Think Fast, Father Ted: The priests organise a raffle to raise funds to fix their leaky roof, but plan to pull a fast one when it comes to awarding the prize.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/father-ted.webp",
+          "start_time": "21:00",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "First Dates Ireland",
+          "show_description": "Larger than life site foreman James (23) from Clondalkin matches with Fayth (21) from East Wall. Itzel from Mexico is looking for a hot date with dark hair and blue eyes. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/first-dates-ireland.webp",
+          "start_time": "21:30",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Derry Girls",
+          "show_description": "Erin and Orla throw a joint 18th birthday party - but the festivities threaten to be overshadowed by the referendum on the Good Friday Agreement. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/derry-girls.webp",
+          "start_time": "22:30",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "1923",
+          "show_description": "Spencer and Alexandra begin their long journey back to Montana. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/1923.webp",
+          "start_time": "23:30",
+          "end_time": "00:50"
+        }
+      ]
+    },
+    {
+      "date": "20 February 2026",
+      "programmes": [
+        {
+          "show_name": "Lioness",
+          "show_description": "Bruise Like a Fist: Cruz is invited to spend the weekend with Aaliyah and her inner-circle. Joe keeps Kaitlyn informed of Cruz's progress. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/lioness.webp",
+          "start_time": "00:50",
+          "end_time": "01:40"
+        },
+        {
+          "show_name": "Clash of the Crown Princes",
+          "show_description": "Two crown princes, two empires - and two completely different dramas at the end of the 19th century, fatefully linked to each other: Rudolf of Austria and Wilhelm of Prussia. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/clash-of-the-crown-princes.webp",
+          "start_time": "01:40",
+          "end_time": "02:40"
+        },
+        {
+          "show_name": "EuroNews",
+          "show_description": "The latest international news headlines. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/euronews.webp",
+          "start_time": "02:40",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "EuroNews",
+          "show_description": "The latest international news headlines. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/euronews.webp",
+          "start_time": "06:00",
+          "end_time": "07:50"
+        },
+        {
+          "show_name": "BeddyByes (As Gaeilge)",
+          "show_description": "Láib: Tá MeMo agus BaBa ag greadadh na gcos i slodán láibe. Ag Crann Spraoi, tá MeMo ag iarraidh pióg láibe a dhéanamh agus roghnaíonn sé cistin láibe don tsúgradh. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/beddybyes-as-gaeilge.webp",
+          "start_time": "07:50",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Breacaí",
+          "show_description": "Ciorcail agus Crosa: Téann Breacaí ar fhoireann Chiorcail agus Crosa i gcluiche ceannais an domhain. Caithfidh sí an cluiche a fhoghlaim go tapa le cuidiú lena cairde nua chun an bua a fháil. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/breacaí.webp",
+          "start_time": "08:00",
+          "end_time": "08:05"
+        },
+        {
+          "show_name": "Puffin Rock (As Gaeilge)",
+          "show_description": "Ag Preabadh Le Chéile: Tá Oona agus Silky ag iarraidh cluiche spraíúil a aimsiú a dtig leo beirt a imirt. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/puffin-rock-as-gaeilge.webp",
+          "start_time": "08:05",
+          "end_time": "08:15"
+        },
+        {
+          "show_name": "Puffin Rock (As Gaeilge)",
+          "show_description": "Comharsa Challánach: Tá eagla ar Oona go musclófar Baba nuair a thagann druid bheag challánach ar cuairt chuig poll na bpuifíní. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/puffin-rock-as-gaeilge.webp",
+          "start_time": "08:15",
+          "end_time": "08:20"
+        },
+        {
+          "show_name": "Baile na Samhlaíochta",
+          "show_description": "Tá an t-léine is fearr le Sonia róbheag di anois ach tá sí sásta gur féidir léi í a thabhairt do Mhel. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/baile-na-samhlaíochta.webp",
+          "start_time": "08:20",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "Baile na Samhlaíochta",
+          "show_description": "Tá Hugo agus Sonia ag imirt cluiche na scáthanna ach tá an ghrian ag dul faoi. An mbeidh deireadh leis an gcluiche? (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/baile-na-samhlaíochta.webp",
+          "start_time": "08:30",
+          "end_time": "08:35"
+        },
+        {
+          "show_name": "The Wee Littles",
+          "show_description": "Cuidíonn Sherrod Heron leis na Bheigíní nuair a aithníonn siad nach bhfuil ciseáin acu le cispheil a imirt, ach ansin teastaíonn cabhair uaithi lena hiallacha a ceangail. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/the-wee-littles.webp",
+          "start_time": "08:35",
+          "end_time": "08:40"
+        },
+        {
+          "show_name": "The Wee Littles",
+          "show_description": "Tá ar na Bheigíní trí sheangáin agus a teaghlach a thabhairt le chéile arís nuair a leanann siad Smúirlín abhaile trí thimpiste. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/the-wee-littles.webp",
+          "start_time": "08:40",
+          "end_time": "08:45"
+        },
+        {
+          "show_name": "Dizzy Deliveries",
+          "show_description": "Joe & Ozzy are going to the Sports Centre to make some deliveries and to play some games. (SL,HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/dizzy-deliveries.webp",
+          "start_time": "08:45",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Journeycam International",
+          "show_description": "Sisters Babette (10) and Suzel (12) are off on a Caribbean adventure to Cuba. First stop, Havana! They go for a ride in a cool vintage car & party with some amazing street dancers. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/journeycam-international.webp",
+          "start_time": "09:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Journeycam International",
+          "show_description": "Babette and Suzel continue their Cuban adventures in Trinidad. They join in the National May Day celebrations and try their hand at making sugar can juice. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/journeycam-international.webp",
+          "start_time": "09:30",
+          "end_time": "09:55"
+        },
+        {
+          "show_name": "Horrible Histories",
+          "show_description": "A pirate captain worries about bedtime, a soldier from World War I struggles to cook, and the four King Georges form a boyband.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/horrible-histories.webp",
+          "start_time": "09:55",
+          "end_time": "10:30"
+        },
+        {
+          "show_name": "Horrible Histories",
+          "show_description": "Queen Victoria learns her British comforts aren't very British.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/horrible-histories.webp",
+          "start_time": "10:30",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "Total Football",
+          "show_description": "We meet WSL stars Louise Quinn & Lucy Quinn. We visit Beara United FC, Ruesha Littlejohn is in studio & young reporter Danny gets to know players at the Men's National Team camp (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/total-football.webp",
+          "start_time": "11:00",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Total Football",
+          "show_description": "We travel to Arsenal to meet the all-star Katie McCabe. Everton A.F.C. welcomes us, and young reporter's Patrick, Sylvia and Megan get to know some of Ireland's biggest players. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/total-football.webp",
+          "start_time": "11:30",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Teen Titans Go!",
+          "show_description": "Sticky Joe's search for a can opener leads to a series of wacky adventures; Robin struggles to lead the Titans after finding out that his catchphrase is trademarked by another team (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/teen-titans-go.webp",
+          "start_time": "12:00",
+          "end_time": "12:25"
+        },
+        {
+          "show_name": "Holt as Gaeilge",
+          "show_description": "Dopó: Tugann an triúr aghaidh ar fheallmharfóirí den scoth Blight chun píosa ríthábhachtach de Loah a chosaint. Cé go gcailleann siad go leor tugtar splanc dóchais dóibh. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/holt-as-gaeilge.webp",
+          "start_time": "12:25",
+          "end_time": "12:40"
+        },
+        {
+          "show_name": "The Strange Chores",
+          "show_description": "When Pierce is paired with Malcolm in class, Charlie jealously tries to split them apart by using Helsing's magic music player to turn Malcolm bad. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/the-strange-chores.webp",
+          "start_time": "12:40",
+          "end_time": "12:55"
+        },
+        {
+          "show_name": "The Strange Chores",
+          "show_description": "Charlie takes a three-headed monster dog to school for pet day, but his unwillingness to enforce the rules sees it grow bigger and more dangerous. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/the-strange-chores.webp",
+          "start_time": "12:55",
+          "end_time": "13:10"
+        },
+        {
+          "show_name": "Hardball",
+          "show_description": "Mikey moves to Western Sydney, and finds himself in the thick of the ultra-competitive, schoolyard game of handball. Comedy-drama, starring Semisi Cheekam. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/hardball.webp",
+          "start_time": "13:10",
+          "end_time": "13:35"
+        },
+        {
+          "show_name": "The Secret Life of Boys",
+          "show_description": "Robbie grapples with his family being overly interested in his first date. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/the-secret-life-of-boys.webp",
+          "start_time": "13:35",
+          "end_time": "14:05"
+        },
+        {
+          "show_name": "Malory Towers",
+          "show_description": "Felicity struggles to get out of Darrell's shadow in her second year at Malory Towers; newcomer, Jo, struggles to follow the rules, getting Felicity caught in the crosshairs. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/malory-towers.webp",
+          "start_time": "14:05",
+          "end_time": "14:35"
+        },
+        {
+          "show_name": "Jamie Johnson",
+          "show_description": "Drama about a gifted schoolboy footballer, whose parents have recently split forcing him to move house and school. Louis Dunn stars. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/jamie-johnson.webp",
+          "start_time": "14:35",
+          "end_time": "15:10"
+        },
+        {
+          "show_name": "Mortina",
+          "show_description": "The crazy parcel: A mysterious package arrives for Aunt Departed and it refuses to open. Mortina and the Mystery Squad are determined to uncover its secret. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/mortina.webp",
+          "start_time": "15:10",
+          "end_time": "15:25"
+        },
+        {
+          "show_name": "Silverpoint",
+          "show_description": "An abandoned cabin isn't quite what it seems for Bea and Louis, while Meg and Glen discover a new quality to the alien rock in the ground. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/silverpoint.webp",
+          "start_time": "15:25",
+          "end_time": "15:50"
+        },
+        {
+          "show_name": "Journeycam International",
+          "show_description": "Sisters Babette (10) and Suzel (12) are off on a Caribbean adventure to Cuba. First stop, Havana! They go for a ride in a cool vintage car & party with some amazing street dancers. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/journeycam-international.webp",
+          "start_time": "15:50",
+          "end_time": "16:20"
+        },
+        {
+          "show_name": "Shaun The Sheep",
+          "show_description": "Caught Short Alien: An alien stops by to use the bathroom at the farmhouse, and leaves Shaun in charge of an intriguing gadget.",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/shaun-the-sheep.webp",
+          "start_time": "16:20",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "The Goldbergs",
+          "show_description": "Beverly and Murray fall out over Barry's plan to perform his martial arts routine at the annual high school talent show, while Pops buys Erica an electric guitar. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/the-goldbergs.webp",
+          "start_time": "16:30",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Young Sheldon",
+          "show_description": "Mary is given a lottery ticket, while Sheldon butts heads with Dr Lee, a new scientist in the lab. Comedy, starring Iain Armitage (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/young-sheldon.webp",
+          "start_time": "17:00",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "The Big Bang Theory",
+          "show_description": "Leonard meets up with the woman he kissed in the hope of setting Penny's mind at ease, while Sheldon films a special episode of Fun with Flags after his break-up with Amy. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/the-big-bang-theory.webp",
+          "start_time": "17:30",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Shortland Street",
+          "show_description": "Madonna feels threatened. Drew and Cece draw closer. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/shortland-street.webp",
+          "start_time": "18:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "Home and Away",
+          "show_description": "Eden passes John, explaining she couldn't attend Off The Rails as she has other things going on. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/home-and-away.webp",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Georgie & Mandy's First Marriage",
+          "show_description": "Big Decisions: Tensions rise when Georgie finds out the truth about Mandy's boss; Georgie does all he can to buy the tyre store before Jim sells it. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/georgie-mandys-first-marriage.webp",
+          "start_time": "19:00",
+          "end_time": "19:25"
+        },
+        {
+          "show_name": "Rick Stein's Food Stories",
+          "show_description": "Cumbria: Rick Stein begins his food tour of the United Kingdom in the Lake District, enjoying a traditional mutton hotpot with sheep farmer and author James Rebanks. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/rick-steins-food-stories.webp",
+          "start_time": "19:25",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Rick Stein's Food Stories",
+          "show_description": "Argyll: Rick Stein rediscovers his love for the foodie heaven of Argyll, where land and loch yield exquisite produce. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/rick-steins-food-stories.webp",
+          "start_time": "20:00",
+          "end_time": "20:35"
+        },
+        {
+          "show_name": "Eva Longoria: Searching for Spain",
+          "show_description": "Galicia: Rustic, remote and wild, the Galician gem possesses rich produce and dishes from its rugged land, seas and estuaries. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/eva-longoria-searching-for-spain.webp",
+          "start_time": "20:35",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "The Net",
+          "show_description": "When Angela Bennett, a computer programmer, stumbles upon government secrets, she finds herself on the run from an unknown enemy hell-bent on destroying her completely. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/the-net.webp",
+          "start_time": "21:30",
+          "end_time": "23:35"
+        },
+        {
+          "show_name": "Live At The Apollo",
+          "show_description": "The inimitable Joel Dommett introduces Fatiha El-Ghorri and Jamie MacDonald to the stage. (HD)",
+          "show_logo": "https://example.com/wp-content/uploads/downloaded-images/RTÉ2 HD/live-at-the-apollo.webp",
+          "start_time": "23:35",
+          "end_time": "00:30"
+        }
+      ]
+    }
+  ]
+}
