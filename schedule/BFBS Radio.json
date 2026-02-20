@@ -3,81 +3,6 @@
   "channel_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BFBS Radio/bfbs-radio.webp",
   "schedule": [
     {
-      "date": "19 February 2026",
-      "programmes": [
-        {
-          "show_name": "Nicky Smith",
-          "show_description": "Nicky presents music, sport and entertainment bringing together the Forces communities overseas and in the UK.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BFBS Radio/nicky-smith.webp",
-          "start_time": "00:00",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Ops Breakfast",
-          "show_description": "Good morning from Ops! E-mail: ops@bfbs.com",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BFBS Radio/ops-breakfast.webp",
-          "start_time": "03:00",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "UK Breakfast with Kam & Danni",
-          "show_description": "Waking you up the best way with chances to win, celebrity guests, great chat and fresh music to start your day!",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BFBS Radio/uk-breakfast-with-kam-danni.webp",
-          "start_time": "06:30",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Rewind with Kam & Danni",
-          "show_description": "Waking you up the best way with chances to win, celebrity guests, great chat and fresh music to start your day!",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BFBS Radio/rewind-with-kam-danni.webp",
-          "start_time": "09:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Totally Connected",
-          "show_description": "Keeping you connected across the Forces world. E-mail: connected@bfbs.com",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BFBS Radio/totally-connected.webp",
-          "start_time": "10:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "UK Afternoons",
-          "show_description": "Join us for fresh music, great chat, the latest Forces stories, fantastic guests and more!",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BFBS Radio/uk-afternoons.webp",
-          "start_time": "13:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "UK Drivetime",
-          "show_description": "Where it all happens - we bring you news from the Forces world, celebrity guests, the latest trends and great music! Email: messages@bfbs.com",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BFBS Radio/uk-drivetime.webp",
-          "start_time": "16:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "Sitrep",
-          "show_description": "Military news and current affairs.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BFBS Radio/sitrep.webp",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "UK Evening Show",
-          "show_description": "Bringing you the hottest new music and the latest stories from around the Forces world.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BFBS Radio/uk-evening-show.webp",
-          "start_time": "19:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Nicky Smith",
-          "show_description": "Nicky presents music, sport and entertainment bringing together the Forces communities overseas and in the UK.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BFBS Radio/nicky-smith.webp",
-          "start_time": "23:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "20 February 2026",
       "programmes": [
         {
@@ -141,6 +66,60 @@
           "show_description": "Get your weekend well and truly underway with a playlist that is guaranteed to get you dancing!",
           "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BFBS Radio/bfbs-beats.webp",
           "start_time": "23:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "21 February 2026",
+      "programmes": [
+        {
+          "show_name": "BFBS Beats",
+          "show_description": "Get your weekend well and truly underway with a playlist that is guaranteed to get you dancing!",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BFBS Radio/bfbs-beats.webp",
+          "start_time": "00:00",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Ops Breakfast",
+          "show_description": "Good morning from Ops! E-mail: ops@bfbs.com",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BFBS Radio/ops-breakfast.webp",
+          "start_time": "03:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Saturday Breakfast",
+          "show_description": "Music, sport, and entertainment to get you ready for the weekend.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BFBS Radio/saturday-breakfast.webp",
+          "start_time": "06:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Saturday Morning",
+          "show_description": "Music, sport and entertainment bringing together the Forces communities overseas and in the UK.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BFBS Radio/saturday-morning.webp",
+          "start_time": "10:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Saturday Sport",
+          "show_description": "The Saturday Show with music, sport, interaction and chat.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BFBS Radio/saturday-sport.webp",
+          "start_time": "14:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Old Skool & Anthems",
+          "show_description": "Reminisce with gems from way back when, absolute classics and bangers.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BFBS Radio/old-skool-anthems.webp",
+          "start_time": "19:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Club Culture",
+          "show_description": "Kick off the Forces Saturday night with the best house, trance, upfront and classic floor-fillers.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BFBS Radio/club-culture.webp",
+          "start_time": "21:00",
           "end_time": "00:00"
         }
       ]

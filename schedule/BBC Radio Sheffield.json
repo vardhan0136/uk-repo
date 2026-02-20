@@ -3,67 +3,6 @@
   "channel_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Sheffield/bbc-radio-sheffield.webp",
   "schedule": [
     {
-      "date": "19 February 2026",
-      "programmes": [
-        {
-          "show_name": "As Radio 5 Live",
-          "show_description": "A simulcast with the BBC's news and sport network Radio 5 Live",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Sheffield/as-radio-5-live.webp",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Ellie Colton",
-          "show_description": "",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Sheffield/ellie-colton.webp",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Paulette Edwards",
-          "show_description": "",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Sheffield/paulette-edwards.webp",
-          "start_time": "10:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Toby Foster",
-          "show_description": "Call 01142 796 699 or text 07786 205454",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Sheffield/toby-foster.webp",
-          "start_time": "14:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Football Heaven",
-          "show_description": "Discussion on the day's football news",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Sheffield/football-heaven.webp",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Upload",
-          "show_description": "",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Sheffield/upload.webp",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "BBC Introducing",
-          "show_description": "Unsigned, undiscovered and under the radar music",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Sheffield/bbc-introducing.webp",
-          "start_time": "20:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The Late Show",
-          "show_description": "",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Sheffield/the-late-show.webp",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "20 February 2026",
       "programmes": [
         {
@@ -106,6 +45,60 @@
           "show_description": "Chat and conversation",
           "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Sheffield/sile-sibanda.webp",
           "start_time": "19:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Jo Good",
+          "show_description": "Music and chat",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Sheffield/jo-good.webp",
+          "start_time": "22:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "21 February 2026",
+      "programmes": [
+        {
+          "show_name": "As Radio 5 Live",
+          "show_description": "A simulcast with the BBC's news and sport network Radio 5 Live",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Sheffield/as-radio-5-live.webp",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Xanthe Palmer",
+          "show_description": "",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Sheffield/xanthe-palmer.webp",
+          "start_time": "06:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Colson Smith",
+          "show_description": "",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Sheffield/colson-smith.webp",
+          "start_time": "10:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Football Heaven",
+          "show_description": "Discussion on the day's football news",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Sheffield/football-heaven.webp",
+          "start_time": "14:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Upload",
+          "show_description": "",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Sheffield/upload.webp",
+          "start_time": "18:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "BBC Introducing",
+          "show_description": "Unsigned, undiscovered and under the radar music",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Sheffield/bbc-introducing.webp",
+          "start_time": "20:00",
           "end_time": "22:00"
         },
         {

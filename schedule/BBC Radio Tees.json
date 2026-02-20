@@ -3,67 +3,6 @@
   "channel_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Tees/bbc-radio-tees.webp",
   "schedule": [
     {
-      "date": "19 February 2026",
-      "programmes": [
-        {
-          "show_name": "Weekday overnights with BBC...",
-          "show_description": "...Radio 5 Live. Local BBC Radio joins BBC Radio 5 Live through the night on a weekday.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Tees/weekday-overnights-with-bbc.webp",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Amy Oakden",
-          "show_description": "Trusted local news and sport, information and advice, and great music.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Tees/amy-oakden.webp",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Gary Philipson",
-          "show_description": "Steve Bailey brings you great music, information and advice, and mid-morning updates.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Tees/gary-philipson.webp",
-          "start_time": "10:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Scott Makin",
-          "show_description": "Scott brings you trusted news and sport, music and fun, and afternoon conversation.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Tees/scott-makin.webp",
-          "start_time": "14:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "BBC Radio Tees Sport",
-          "show_description": "The latest on Middlesbrough and Hartlepool United and sports news from across the region.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Tees/bbc-radio-tees-sport.webp",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Upload with Emma Millen",
-          "show_description": "Original comedy, podcasts, poetry, fiction and more on BBC Upload with Emma Millen. Upload your work for a chance to get on the BBC.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Tees/upload-with-emma-millen.webp",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "BBC Introducing - North East",
-          "show_description": "Shakk with unsigned, undiscovered and under-the-radar music from the north east.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Tees/bbc-introducing-north-east.webp",
-          "start_time": "20:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The Late Show",
-          "show_description": "Becky Want with late-night conversation, amazing stories and the soundtrack to your night.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Tees/the-late-show.webp",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "20 February 2026",
       "programmes": [
         {
@@ -106,6 +45,74 @@
           "show_description": "Rachel's here with great music and conversation to get your weekend started.",
           "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Tees/rachel-teate.webp",
           "start_time": "19:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Late Night Jo",
+          "show_description": "Jo Good with late-night conversation, amazing stories and the soundtrack to your night.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Tees/late-night-jo.webp",
+          "start_time": "22:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "21 February 2026",
+      "programmes": [
+        {
+          "show_name": "Weekend overnights with BBC...",
+          "show_description": "...Radio 5 Live. Local BBC Radio joins BBC Radio 5 Live through the night on a weekend.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Tees/weekend-overnights-with-bbc.webp",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Gilly Hope",
+          "show_description": "Gilly starts your weekend the right way with great music and conversation.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Tees/gilly-hope.webp",
+          "start_time": "06:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Kelly Scott",
+          "show_description": "Kelly brings you great music and conversation for your mid-morning.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Tees/kelly-scott.webp",
+          "start_time": "10:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "BBC Radio Tees Sport: Pre-match",
+          "show_description": "Paul Addison with the build-up ahead of Middlesbrough and Hartlepool United's matches.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Tees/bbc-radio-tees-sport-pre-match.webp",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "BBC Radio Tees Sport: Commentary",
+          "show_description": "Middlesbrough v Oxford United (95FM & Freeview 714, NOT Online) & Solihull Moors v Hartlepool United (DAB & BBC Sounds).",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Tees/bbc-radio-tees-sport-commentary.webp",
+          "start_time": "15:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "BBC Radio Tees Sport: Post-match",
+          "show_description": "Match reaction and interviews following today's games. Call 08000 859 595. Text 81333 (starting with Tees). X @bbcteesport.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Tees/bbc-radio-tees-sport-post-match.webp",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Upload with Emma Millen",
+          "show_description": "Original comedy, podcasts, poetry, fiction and more on BBC Upload with Emma Millen. Upload your work for a chance to get on the BBC.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Tees/upload-with-emma-millen.webp",
+          "start_time": "18:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "BBC Introducing - North East",
+          "show_description": "Track of the week: Robyn Errico - Touch, Demob Happy live in session, Ava & The Fates.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Tees/bbc-introducing-north-east.webp",
+          "start_time": "20:00",
           "end_time": "22:00"
         },
         {

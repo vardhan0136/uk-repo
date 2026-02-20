@@ -3,67 +3,6 @@
   "channel_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio London/bbc-radio-london.webp",
   "schedule": [
     {
-      "date": "19 February 2026",
-      "programmes": [
-        {
-          "show_name": "Weekday overnights with BBC Radio 5 Live",
-          "show_description": "Local BBC Radio joins BBC Radio 5 Live through the night on a weekday.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio London/weekday-overnights-with-bbc-radio-5-live.webp",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Aaron Paul",
-          "show_description": "Have your say on the day's news with Aaron.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio London/aaron-paul.webp",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Eddie Nestor",
-          "show_description": "The best topical guests and stories in London mixed with great music and your calls.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio London/eddie-nestor.webp",
-          "start_time": "10:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Shay Kaur Grewal",
-          "show_description": "Celebrating Londoners and a recap of the day's news.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio London/shay-kaur-grewal.webp",
-          "start_time": "14:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Total Sport London",
-          "show_description": "The latest news and updates from fans, teams and competitors across the capital.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio London/total-sport-london.webp",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Upload with Alice Dale",
-          "show_description": "Original comedy, podcasts, poetry, fiction and more on BBC Upload. Upload your work for a chance to get on the BBC.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio London/upload-with-alice-dale.webp",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "BBC Introducing",
-          "show_description": "Jess Iszatt plays the best undiscovered, under the radar and unsigned music.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio London/bbc-introducing.webp",
-          "start_time": "20:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The Late Show",
-          "show_description": "Becky Want with late-night conversation, amazing stories and the soundtrack to your night.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio London/the-late-show.webp",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "20 February 2026",
       "programmes": [
         {
@@ -106,6 +45,81 @@
           "show_description": "Great music, good vibes and stories from our African and Caribbean communities.",
           "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio London/jacqueline-shepherd.webp",
           "start_time": "19:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Late Night Jo",
+          "show_description": "Jo Good with late-night conversation, amazing stories and the soundtrack to your night.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio London/late-night-jo.webp",
+          "start_time": "22:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "21 February 2026",
+      "programmes": [
+        {
+          "show_name": "Weekend overnights with BBC Radio 5 Live",
+          "show_description": "Local BBC Radio joins BBC Radio 5 Live through the night on a weekend.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio London/weekend-overnights-with-bbc-radio-5-live.webp",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Carrie and David Grant",
+          "show_description": "Looking ahead to London's weekend with Carrie and David Grant.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio London/carrie-and-david-grant.webp",
+          "start_time": "06:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Robert Elms",
+          "show_description": "Everything you need to know about London from architecture to accents and great music.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio London/robert-elms.webp",
+          "start_time": "10:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Gary Crowley",
+          "show_description": "Gary Crowley's Saturday Session with your songs with 'over' and 'out' in the title.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio London/gary-crowley.webp",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Total Sport: Pre-match",
+          "show_description": "All the build-up and interviews ahead of today's matches featuring our local teams.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio London/total-sport-pre-match.webp",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Total Sport London",
+          "show_description": "Coverage of Brentford v Brighton & Hove Albion in the Premier League. Kick-off at 3pm. NOT online.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio London/total-sport-london.webp",
+          "start_time": "15:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Total Sport: The Far Post",
+          "show_description": "The final say on all that's happened on the London football scene.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio London/total-sport-the-far-post.webp",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Upload with Alice Dale",
+          "show_description": "Original comedy, podcasts, poetry, fiction and more on BBC Upload with Alice Dale. Upload your work for a chance to get on the BBC.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio London/upload-with-alice-dale.webp",
+          "start_time": "18:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "BBC Introducing",
+          "show_description": "Jess Iszatt plays the best undiscovered, under the radar and unsigned music.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio London/bbc-introducing.webp",
+          "start_time": "20:00",
           "end_time": "22:00"
         },
         {

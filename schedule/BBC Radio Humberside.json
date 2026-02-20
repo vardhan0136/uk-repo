@@ -3,67 +3,6 @@
   "channel_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Humberside/bbc-radio-humberside.webp",
   "schedule": [
     {
-      "date": "19 February 2026",
-      "programmes": [
-        {
-          "show_name": "As Radio 5 Live",
-          "show_description": "A simulcast with the BBC's news and sport network Radio 5 Live",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Humberside/as-radio-5-live.webp",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Kofi Smiles",
-          "show_description": "",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Humberside/kofi-smiles.webp",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Carla Greene",
-          "show_description": "",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Humberside/carla-greene.webp",
-          "start_time": "10:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Richard Stead",
-          "show_description": "",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Humberside/richard-stead.webp",
-          "start_time": "14:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Humberside Sport",
-          "show_description": "",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Humberside/humberside-sport.webp",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Upload",
-          "show_description": "",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Humberside/upload.webp",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "BBC Introducing",
-          "show_description": "Unsigned, undiscovered and under the radar music",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Humberside/bbc-introducing.webp",
-          "start_time": "20:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The Late Show",
-          "show_description": "",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Humberside/the-late-show.webp",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "20 February 2026",
       "programmes": [
         {
@@ -106,6 +45,88 @@
           "show_description": "Chat and conversation",
           "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Humberside/sile-sibanda.webp",
           "start_time": "19:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Jo Good",
+          "show_description": "Music and chat",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Humberside/jo-good.webp",
+          "start_time": "22:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "21 February 2026",
+      "programmes": [
+        {
+          "show_name": "As Radio 5 Live",
+          "show_description": "A simulcast with the BBC's news and sport network Radio 5 Live",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Humberside/as-radio-5-live.webp",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Fiona Mills",
+          "show_description": "",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Humberside/fiona-mills.webp",
+          "start_time": "06:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Sean Dunderdale",
+          "show_description": "",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Humberside/sean-dunderdale.webp",
+          "start_time": "10:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Humberside Sport",
+          "show_description": "",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Humberside/humberside-sport.webp",
+          "start_time": "12:00",
+          "end_time": "12:30"
+        },
+        {
+          "show_name": "Humberside Sport Live",
+          "show_description": "",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Humberside/humberside-sport-live.webp",
+          "start_time": "12:30",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "Humberside Sport",
+          "show_description": "",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Humberside/humberside-sport.webp",
+          "start_time": "14:30",
+          "end_time": "14:55"
+        },
+        {
+          "show_name": "Humberside Sport Live",
+          "show_description": "",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Humberside/humberside-sport-live.webp",
+          "start_time": "14:55",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Humberside Sport",
+          "show_description": "",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Humberside/humberside-sport.webp",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Upload",
+          "show_description": "",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Humberside/upload.webp",
+          "start_time": "18:00",
+          "end_time": "19:45"
+        },
+        {
+          "show_name": "Humberside Sport Live",
+          "show_description": "",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Humberside/humberside-sport-live.webp",
+          "start_time": "19:45",
           "end_time": "22:00"
         },
         {
