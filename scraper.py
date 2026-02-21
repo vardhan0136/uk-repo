@@ -145,10 +145,22 @@ def main():
         desc_el  = prog.find("desc")
         icon_el  = prog.find("icon")
 
+        # Prefer the "onscreen" episode-num (e.g. S1E8), fall back to any found
+        episode_num = ""
+        for ep_el in prog.findall("episode-num"):
+            if ep_el.get("system") == "onscreen":
+                episode_num = (ep_el.text or "").strip()
+                break
+        if not episode_num:
+            ep_el = prog.find("episode-num")
+            if ep_el is not None:
+                episode_num = (ep_el.text or "").strip()
+
         entry = {
             "show_name":        (title_el.text or "").strip() if title_el is not None else "",
             "show_description": (desc_el.text  or "").strip() if desc_el  is not None else "",
             "show_logo":        (icon_el.get("src") or "")    if icon_el  is not None else "",
+            "episode_number":   episode_num,
             "start_time":       fmt_time(start_utc),
             "end_time":         fmt_time(stop_utc) if stop_utc else "",
         }
