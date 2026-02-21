@@ -16,7 +16,7 @@ Structure:
   downloaded-images/{Channel Name}/{show-name}.webp        ← show logo
 
 Base URL for JSON replacement:
-  http://uk-schedule.local/wp-content/uploads/downloaded-images/{Channel Name}/{show-name}.webp
+  https://example.com/wp-content/uploads/downloaded-images/{Channel Name}/{show-name}.webp
 
 Requirements:
   pip install Pillow
@@ -40,8 +40,8 @@ from PIL import Image, ImageDraw, ImageFont
 # ── Config ────────────────────────────────────────────────────────────────────
 SCHEDULE_DIR   = Path("schedule")
 IMAGES_DIR     = Path("downloaded-images")
-BASE_URL       = "http://uk-schedule.local/wp-content/uploads/downloaded-images"
-MAX_WORKERS    = 25          # parallel download threads
+BASE_URL       = "http://uk-schedule.local//wp-content/uploads/downloaded-images"
+MAX_WORKERS    = 12          # parallel download threads
 SHOW_MAX_KB    = 10          # compress show logos to under this
 SHOW_MAX_BYTES = SHOW_MAX_KB * 1024
 REQUEST_TIMEOUT = 15         # seconds per download attempt
@@ -262,7 +262,34 @@ def main():
         print("❌ No JSON files found in schedule/")
         return
 
-    print(f"📂 Found {len(json_files)} channel JSON files\n")
+    print(f"📂 Found {len(json_files)} channel JSON files")
+
+    # ── Read filter.txt ───────────────────────────────────────────────────────
+    filter_path = Path("filter.txt")
+    if not filter_path.exists():
+        print("❌ filter.txt not found. Create it with one channel name per line (e.g. 5 HD)")
+        return
+
+    allowed_channels = set()
+    with open(filter_path, encoding="utf-8") as f:
+        for line in f:
+            name = line.strip()
+            if name:
+                allowed_channels.add(name)
+
+    if not allowed_channels:
+        print("❌ filter.txt is empty. Add at least one channel name.")
+        return
+
+    # Filter json_files to only allowed channels
+    json_files = [j for j in json_files if j.stem in allowed_channels]
+
+    if not json_files:
+        print("❌ No matching JSON files found for channels in filter.txt")
+        print(f"   Channels in filter.txt: {sorted(allowed_channels)}")
+        return
+
+    print(f"🔍 Filtered to {len(json_files)} channels from filter.txt:\n   {', '.join(sorted(allowed_channels))}\n")
 
     # ── Pass 1: Collect all tasks ─────────────────────────────────────────────
     # We track (channel_folder, slug) to avoid downloading the same image twice
