@@ -3,60 +3,6 @@
   "channel_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Leeds/bbc-radio-leeds.webp",
   "schedule": [
     {
-      "date": "20 February 2026",
-      "programmes": [
-        {
-          "show_name": "Weekday overnights with BBC...",
-          "show_description": "...Radio 5 Live. Local BBC Radio joins BBC Radio 5 Live through the night on a weekday.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Leeds/weekday-overnights-with-bbc.webp",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Rima Ahmed",
-          "show_description": "Waking you up this weekday morning, it's Sam.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Leeds/rima-ahmed.webp",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Gayle Lofthouse",
-          "show_description": "West Yorkshire stories to make you smile, mid-morning updates and the music you love.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Leeds/gayle-lofthouse.webp",
-          "start_time": "10:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Toby Foster",
-          "show_description": "The day's local and national news, as well as great music and quizzes with Toby.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Leeds/toby-foster.webp",
-          "start_time": "14:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "West Yorkshire Sport Daily",
-          "show_description": "Topical sports issues of the day.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Leeds/west-yorkshire-sport-daily.webp",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "West Yorkshire Sport: Rugby League",
-          "show_description": "James Deighton is joined by Michael Lawrence for Super League commentary of Bradford Bulls v Catalans live from Odsal Stadium, plus updates from Leeds Rhinos v York (both 8pm ko).",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Leeds/west-yorkshire-sport-rugby-league.webp",
-          "start_time": "19:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Late Night Jo",
-          "show_description": "Jo Good with late-night conversation, amazing stories and the soundtrack to your night.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Leeds/late-night-jo.webp",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "21 February 2026",
       "programmes": [
         {
@@ -119,6 +65,53 @@
           "show_name": "Late Night Jo",
           "show_description": "Jo Good with late-night conversation, amazing stories and the soundtrack to your night.",
           "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Leeds/late-night-jo.webp",
+          "start_time": "22:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "22 February 2026",
+      "programmes": [
+        {
+          "show_name": "Weekend overnights with BBC...",
+          "show_description": "...Radio 5 Live. Local BBC Radio joins BBC Radio 5 Live through the night on a weekend.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Leeds/weekend-overnights-with-bbc.webp",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Kat Cowan",
+          "show_description": "The week's big topics, faith and ethical discussion. Includes The Grow Show at 9am.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Leeds/kat-cowan.webp",
+          "start_time": "06:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Nick Ahad",
+          "show_description": "Fun, updates and entertainment to brighten up Sunday mid-morning.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Leeds/nick-ahad.webp",
+          "start_time": "10:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "West Yorkshire Sport: Rugby League",
+          "show_description": "James Deighton brings you an afternoon of live Rugby League action and reaction, including full commentary of Huddersfield Giants v Wakefield Trinity in round two of Super League.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Leeds/west-yorkshire-sport-rugby-league.webp",
+          "start_time": "14:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Dotun Adebayo",
+          "show_description": "Dotun Adebayo brings you the best of community programming from across England.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Leeds/dotun-adebayo.webp",
+          "start_time": "18:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "The Late Show",
+          "show_description": "Asma Younus with late-night conversation, stories and the soundtrack to your night.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Leeds/the-late-show.webp",
           "start_time": "22:00",
           "end_time": "01:00"
         }

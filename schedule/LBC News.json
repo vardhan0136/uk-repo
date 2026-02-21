@@ -3,60 +3,6 @@
   "channel_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/LBC News/lbc-news.webp",
   "schedule": [
     {
-      "date": "20 February 2026",
-      "programmes": [
-        {
-          "show_name": "Non-stop News",
-          "show_description": "Where the news never stops. The latest from LBC News reporters across the UK and around the world.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/LBC News/non-stop-news.webp",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Vanessa Baffoe",
-          "show_description": "Where the news never stops. Vanessa Baffoe updates you on the top stories at breakfast.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/LBC News/vanessa-baffoe.webp",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Steve Holden",
-          "show_description": "Where the news never stops. Steve Holden has the latest from LBC News reporters across the UK and around the world.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/LBC News/steve-holden.webp",
-          "start_time": "10:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Charlotte Lynch",
-          "show_description": "Where the news never stops. Charlotte Lynch has the latest from LBC News reporters across the UK and around the world.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/LBC News/charlotte-lynch.webp",
-          "start_time": "13:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "John Stratford",
-          "show_description": "Where the news never stops. John Stratford has the latest from LBC News reporters across the UK and around the world.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/LBC News/john-stratford.webp",
-          "start_time": "16:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Andrew Peach",
-          "show_description": "Where the news never stops. Andrew Peach has the latest from LBC News reporters across the UK and around the world.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/LBC News/andrew-peach.webp",
-          "start_time": "19:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Jonathan Ray",
-          "show_description": "Where the news never stops. Jonathan Ray brings you the latest from LBC News reporters across the UK and around the world.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/LBC News/jonathan-ray.webp",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "21 February 2026",
       "programmes": [
         {
@@ -91,6 +37,53 @@
           "show_name": "Arron Armstrong",
           "show_description": "Where the news never stops. Arron Armstrong has the latest updates from LBC News reporters across the UK and around the world.",
           "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/LBC News/arron-armstrong.webp",
+          "start_time": "19:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Non-stop News",
+          "show_description": "Where the news never stops. The latest from LBC News reporters across the UK and around the world.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/LBC News/non-stop-news.webp",
+          "start_time": "23:00",
+          "end_time": "05:00"
+        }
+      ]
+    },
+    {
+      "date": "22 February 2026",
+      "programmes": [
+        {
+          "show_name": "Non-stop News",
+          "show_description": "Where the news never stops. The latest from LBC News reporters across the UK and around the world.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/LBC News/non-stop-news.webp",
+          "start_time": "05:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Sandy Warr",
+          "show_description": "Where the news never stops. Sandy Warr has the latest updates from LBC News reporters across the UK and around the world.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/LBC News/sandy-warr.webp",
+          "start_time": "07:00",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "Andrew Peach",
+          "show_description": "Where the news never stops. Andrew Peach has the latest from LBC News reporters across the UK and around the world.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/LBC News/andrew-peach.webp",
+          "start_time": "11:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Pip Tomson",
+          "show_description": "Where the news never stops. Pip Tomson has the latest from LBC News reporters across the UK and around the world.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/LBC News/pip-tomson.webp",
+          "start_time": "15:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Jonathan Ray",
+          "show_description": "Where the news never stops. Jonathan Ray brings you the latest from LBC News reporters across the UK and around the world.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/LBC News/jonathan-ray.webp",
           "start_time": "19:00",
           "end_time": "23:00"
         },

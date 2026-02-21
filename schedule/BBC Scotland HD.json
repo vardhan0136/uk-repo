@@ -3,74 +3,6 @@
   "channel_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/bbc-scotland-hd.webp",
   "schedule": [
     {
-      "date": "20 February 2026",
-      "programmes": [
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/this-is-bbc-scotland.webp",
-          "start_time": "00:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/this-is-bbc-scotland.webp",
-          "start_time": "06:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/this-is-bbc-scotland.webp",
-          "start_time": "12:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/this-is-bbc-scotland.webp",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Reporting Scotland: News at Seven",
-          "show_description": "More from the day's top stories and communities across Scotland.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/reporting-scotland-news-at-seven.webp",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Sportscene: Championship Live",
-          "show_description": "Live football coverage as Raith host St Johnstone in the Scottish Championship.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/sportscene-championship-live.webp",
-          "start_time": "19:30",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Still Game",
-          "show_description": "Sitcom. After a year of marriage, Fergie gets relationship advice from Jack and Victor. Navid and Boabby settle a dispute over whose job is the cushiest. Contains adult humour.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/still-game.webp",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "Two Doors Down",
-          "show_description": "1/6. Sitcom. Cathy and Colin return from a luxury cruise strangely keen to persuade neighbours Eric and Beth to join them on their next trip. Contains some strong language.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/two-doors-down.webp",
-          "start_time": "22:30",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "City Lights: Pure Dead Brilliant",
-          "show_description": "Nostalgic look back at City Lights, the sitcom that captured the spirit of 1980s Scotland. Contains some strong language.",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/city-lights-pure-dead-brilliant.webp",
-          "start_time": "23:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "21 February 2026",
       "programmes": [
         {
@@ -148,6 +80,102 @@
           "show_description": "11/16. Michelle presents Little Mix star Leigh-Anne, Kaiser Chiefs' Simon Rix, Diversity's Jordan Banjo, West Lothian band The Snuts, comedian Fred MacAulay and music from Riley.",
           "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/the-entertainment-mix.webp",
           "start_time": "23:30",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "22 February 2026",
+      "programmes": [
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/this-is-bbc-scotland.webp",
+          "start_time": "00:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/this-is-bbc-scotland.webp",
+          "start_time": "06:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/this-is-bbc-scotland.webp",
+          "start_time": "12:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/this-is-bbc-scotland.webp",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Reporting Scotland: News at Seven",
+          "show_description": "All the weekend national, UK-wide and international news on Sunday evening at 7.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/reporting-scotland-news-at-seven.webp",
+          "start_time": "19:00",
+          "end_time": "19:15"
+        },
+        {
+          "show_name": "Sportscene: Premiership Highlights",
+          "show_description": "Highlights from the Scottish Premiership.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/sportscene-premiership-highlights.webp",
+          "start_time": "19:15",
+          "end_time": "20:15"
+        },
+        {
+          "show_name": "The Repair Shop on the Road",
+          "show_description": "Mark battles rust and dead wiring to preserve Prestwick's derelict art deco picture palace, and Dom picks up an heirloom accordion from Shetlander Victoria.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/the-repair-shop-on-the-road.webp",
+          "start_time": "20:15",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Paramedics on Scene",
+          "show_description": "2/10. A toddler in Ayr suffers a seizure in front of his frightened parents.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/paramedics-on-scene.webp",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Still Game",
+          "show_description": "Sitcom. After a year of marriage, Fergie gets relationship advice from Jack and Victor. Navid and Boabby settle a dispute over whose job is the cushiest. Contains adult humour.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/still-game.webp",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Dinosaur",
+          "show_description": "5/6. Nina has a moment of clarity at the museum fundraiser, which changes everything. Contains some strong language and adult humour.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/dinosaur.webp",
+          "start_time": "22:30",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Dinosaur",
+          "show_description": "6/6. Nina wants to make things right, but a family emergency means she has to drop everything. Contains some strong language and adult humour.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/dinosaur.webp",
+          "start_time": "23:00",
+          "end_time": "23:25"
+        },
+        {
+          "show_name": "Situationships with Sophie and Christine",
+          "show_description": "1/8. Sophie Gravia and Christine McGuinness chat relationships, dating dramas and more.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/situationships-with-sophie-and-christine.webp",
+          "start_time": "23:25",
+          "end_time": "23:55"
+        },
+        {
+          "show_name": "Loop",
+          "show_description": "Drawing unconventional inspiration from pubs rather than churches, stained-glass artist Tessa Mackenzie reveals the secrets of her trade.",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Scotland HD/loop.webp",
+          "start_time": "23:55",
           "end_time": "00:00"
         }
       ]

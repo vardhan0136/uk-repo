@@ -3,60 +3,6 @@
   "channel_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Berkshire/bbc-radio-berkshire.webp",
   "schedule": [
     {
-      "date": "20 February 2026",
-      "programmes": [
-        {
-          "show_name": "As Radio 5 Live",
-          "show_description": "A simulcast with the BBC's news and sport network Radio 5 Live",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Berkshire/as-radio-5-live.webp",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Rich Clarke",
-          "show_description": "",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Berkshire/rich-clarke.webp",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Kirsten O'Brien",
-          "show_description": "",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Berkshire/kirsten-obrien.webp",
-          "start_time": "10:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Bridgitte Tetteh",
-          "show_description": "",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Berkshire/bridgitte-tetteh.webp",
-          "start_time": "14:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Weekend Kick-off",
-          "show_description": "",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Berkshire/weekend-kick-off.webp",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Kamilah McInnis",
-          "show_description": "",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Berkshire/kamilah-mcinnis.webp",
-          "start_time": "19:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Jo Good",
-          "show_description": "Music and chat",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Berkshire/jo-good.webp",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "21 February 2026",
       "programmes": [
         {
@@ -105,6 +51,53 @@
           "show_name": "Jo Good",
           "show_description": "Music and chat",
           "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Berkshire/jo-good.webp",
+          "start_time": "22:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "22 February 2026",
+      "programmes": [
+        {
+          "show_name": "As Radio 5 Live",
+          "show_description": "A simulcast with the BBC's news and sport network Radio 5 Live",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Berkshire/as-radio-5-live.webp",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Phil Mercer",
+          "show_description": "",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Berkshire/phil-mercer.webp",
+          "start_time": "06:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Katie Tyler",
+          "show_description": "",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Berkshire/katie-tyler.webp",
+          "start_time": "10:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "The Make a Difference Show",
+          "show_description": "",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Berkshire/the-make-a-difference-show.webp",
+          "start_time": "14:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Dotun Adebayo",
+          "show_description": "Community reports from around the country",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Berkshire/dotun-adebayo.webp",
+          "start_time": "18:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "The Late Show",
+          "show_description": "",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Berkshire/the-late-show.webp",
           "start_time": "22:00",
           "end_time": "01:00"
         }

@@ -3,60 +3,6 @@
   "channel_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Newcastle/bbc-radio-newcastle.webp",
   "schedule": [
     {
-      "date": "20 February 2026",
-      "programmes": [
-        {
-          "show_name": "As Radio 5 Live",
-          "show_description": "A simulcast with the BBC's news and sport network Radio 5 Live",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Newcastle/as-radio-5-live.webp",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Matt Bailey",
-          "show_description": "",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Newcastle/matt-bailey.webp",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Tom Campbell",
-          "show_description": "",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Newcastle/tom-campbell.webp",
-          "start_time": "10:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Scott Makin",
-          "show_description": "",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Newcastle/scott-makin.webp",
-          "start_time": "14:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Total Sport",
-          "show_description": "",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Newcastle/total-sport.webp",
-          "start_time": "18:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Rachel Teate",
-          "show_description": "",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Newcastle/rachel-teate.webp",
-          "start_time": "20:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Jo Good",
-          "show_description": "Music and chat",
-          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Newcastle/jo-good.webp",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "21 February 2026",
       "programmes": [
         {
@@ -106,6 +52,67 @@
           "show_description": "Music and chat",
           "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Newcastle/jo-good.webp",
           "start_time": "22:30",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "22 February 2026",
+      "programmes": [
+        {
+          "show_name": "As Radio 5 Live",
+          "show_description": "A simulcast with the BBC's news and sport network Radio 5 Live",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Newcastle/as-radio-5-live.webp",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Gilly Hope",
+          "show_description": "",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Newcastle/gilly-hope.webp",
+          "start_time": "06:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Garden Mania",
+          "show_description": "",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Newcastle/garden-mania.webp",
+          "start_time": "09:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Kelly Scott",
+          "show_description": "",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Newcastle/kelly-scott.webp",
+          "start_time": "10:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Total Sport",
+          "show_description": "",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Newcastle/total-sport.webp",
+          "start_time": "13:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "The Make a Difference Show",
+          "show_description": "",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Newcastle/the-make-a-difference-show.webp",
+          "start_time": "16:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Dotun Adebayo",
+          "show_description": "Community reports from around the country",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Newcastle/dotun-adebayo.webp",
+          "start_time": "18:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "The Late Show",
+          "show_description": "",
+          "show_logo": "http://uk-schedule.local/wp-content/uploads/downloaded-images/BBC Radio Newcastle/the-late-show.webp",
+          "start_time": "22:00",
           "end_time": "01:00"
         }
       ]
