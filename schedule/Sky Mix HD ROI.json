@@ -3,259 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Mix.png",
   "schedule": [
     {
-      "date": "21 February 2026",
-      "programmes": [
-        {
-          "show_name": "Wynonna Earp",
-          "show_description": "Better Dig Two: Wynonna and Waverly both want to save Purgatory, but take very different routes to achieve their aim. (S4, ep 11)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cb203d03-722d-4be3-9d35-11355fd9ccd2/cover",
-          "episode_number": "S4E11",
-          "start_time": "00:00",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "Cop Squad",
-          "show_description": "Sharing shifts with Cambridgeshire's police force, this documentary reveals what life on the beat is really like. Contains strong language and some distressing scenes. (S1, ep 3)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0c23c165-19b9-3e96-b907-1036bc364bf1/cover",
-          "episode_number": "S1E3",
-          "start_time": "01:00",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "Brit Cops: Law & Disorder",
-          "show_description": "Documentary series charting the exploits of the City of London police, charged with safeguarding the Square Mile at the heart of the crime-ridden capital. (S4, ep 6)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/57918542-f53a-45ef-8b14-116c5d92b8ab/cover",
-          "episode_number": "S4E6",
-          "start_time": "02:00",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "The Force: North East",
-          "show_description": "A raid on the house of a suspected dealer leads officers to a drugs den, while two drunk men test PC Aaron Parsley's patience. (S6, ep 10)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/81b0d304-d6e5-4ba6-b794-dff2519829bc/cover",
-          "episode_number": "S6E10",
-          "start_time": "03:00",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "Border Patrol",
-          "show_description": "New Zealand reality series following the work of customs officers as they prevent drug smuggling, illegal immigrants and more. (S13, ep 5)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/94dc9a21-7ef3-4a70-b35d-a5d33b974dfd/cover",
-          "episode_number": "S13E5",
-          "start_time": "04:00",
-          "end_time": "04:30"
-        },
-        {
-          "show_name": "Border Patrol",
-          "show_description": "New Zealand reality series following the work of customs officers as they prevent drug smuggling, illegal immigrants and more. (S13, ep 6)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dc038ed4-ae57-46da-a06b-611c786412b5/cover",
-          "episode_number": "S13E6",
-          "start_time": "04:30",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "Highway Patrol",
-          "show_description": "Drunk Smash: Officers face high-speed chases, defiant hooligans, explosive crashes and out-of-control drunk drivers while policing the roads of Australia. (S10, ep 7)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3fc027e8-75dd-4376-8ae0-0d0e799651bf/cover",
-          "episode_number": "S1E10",
-          "start_time": "05:00",
-          "end_time": "05:30"
-        },
-        {
-          "show_name": "Highway Patrol",
-          "show_description": "Following Australia's traffic enforcers as they face high-speed chases, explosive crashes and out-of-control drunk drivers. (S10, ep 8)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f856a388-b886-4e4b-bc6c-b79e55fe1a6f/cover",
-          "episode_number": "S10E8",
-          "start_time": "05:30",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Border Patrol",
-          "show_description": "New Zealand reality series following the work of customs officers as they prevent drug smuggling, illegal immigrants and more. (S13, ep 9)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a2295974-12b0-41c1-86b9-550b89420b86/cover",
-          "episode_number": "S13E9",
-          "start_time": "06:00",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Border Patrol",
-          "show_description": "New Zealand reality series following the work of customs officers as they prevent drug smuggling, illegal immigrants and more. (S13, ep 10)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bfc6c942-550b-4843-88b0-1cd44d411159/cover",
-          "episode_number": "S13E10",
-          "start_time": "06:30",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Border Patrol",
-          "show_description": "New Zealand reality series following the work of customs officers as they prevent drug smuggling, illegal immigrants and more. (S14, ep 1)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4bc3d1f8-0619-4999-a1fb-b03fe9880b3e/cover",
-          "episode_number": "S14E1",
-          "start_time": "07:00",
-          "end_time": "07:30"
-        },
-        {
-          "show_name": "Border Patrol",
-          "show_description": "New Zealand reality series following the work of customs officers as they prevent drug smuggling, illegal immigrants and more. (S14, ep 2)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b8aa9bbf-8653-4d83-b6a1-6d4efeb3a712/cover",
-          "episode_number": "S14E2",
-          "start_time": "07:30",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "Border Security USA",
-          "show_description": "Documentary exploring the extreme measures people take to break US security laws and America's desperate fight against drugs, illegal immigration and terrorism. (S1, ep 5)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2b8f9208-ee3e-47b7-b5dd-b7303b36d908/cover",
-          "episode_number": "S1E5",
-          "start_time": "08:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Border Security USA",
-          "show_description": "Documentary exploring the extreme measures people take to break US security laws and America's desperate fight against drugs, illegal immigration and terrorism. (S1, ep 6)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3448ad1f-6556-4dd5-b692-6c612a3fb98e/cover",
-          "episode_number": "S1E6",
-          "start_time": "09:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Nothing To Declare",
-          "show_description": "Cameras join officers from Australia's airports, harbours and mail services as they protect the nation from drug-smugglers, illegal products and unusual creepy-crawlies. (S10, ep 17)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b031dd26-0e6e-4ffd-97ec-ff2c33e4d123/cover",
-          "episode_number": "S10E17",
-          "start_time": "10:00",
-          "end_time": "10:30"
-        },
-        {
-          "show_name": "Nothing To Declare",
-          "show_description": "Cameras join officers from Australia's airports, harbours and mail services as they protect the nation from drug-smugglers, illegal products and unusual creepy-crawlies. (S10, ep 18)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/40b680ea-a84a-4815-ad04-ec40e6147c89/cover",
-          "episode_number": "S10E18",
-          "start_time": "10:30",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "Nothing To Declare",
-          "show_description": "Cameras join officers from Australia's airports, harbours and mail services as they protect the nation from drug-smugglers, illegal products and unusual creepy-crawlies. (S10, ep 19)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9edc6813-4672-4f4e-bccd-9be004d5e8ec/cover",
-          "episode_number": "S10E19",
-          "start_time": "11:00",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Nothing To Declare",
-          "show_description": "Cameras join officers from Australia's airports, harbours and mail services as they protect the nation from drug-smugglers, illegal products and unusual creepy-crawlies. (S10, ep 20)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9ba139c0-9a52-4ca7-a334-f7601b262bfe/cover",
-          "episode_number": "S10E20",
-          "start_time": "11:30",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Caught On Dashcam",
-          "show_description": "From drivers forgetting the basics to hacks that'll raise eyebrows, plus a face-off between cops versus animals - we've got it all Caught on Dashcam! (S5, ep 8)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/258f740b-dd45-3296-ab17-ed055cd61306/cover",
-          "episode_number": "S5E8",
-          "start_time": "12:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Caught On Dashcam",
-          "show_description": "From distracted drivers to dramatic carjackings and those silly stunts you definitely shouldn't try at home - we've got it all Caught on Dashcam! (S5, ep 9)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/84b8a3fd-5594-3d9e-84e0-d32685ce881a/cover",
-          "episode_number": "S5E9",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Caught Red Handed",
-          "show_description": "A carer steals from a former member of the royal household, while an armed robber targets a petrol station and gets more than he bargained for. (S6, ep 2)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0c234aeb-222a-4eca-8550-9329d1fed3f3/cover",
-          "episode_number": "S6E2",
-          "start_time": "14:00",
-          "end_time": "14:40"
-        },
-        {
-          "show_name": "Caught Red Handed",
-          "show_description": "A hairdressing salon owner races to confront his thieves in action, while a burglar is caught in the act by an eagle-eyed neighbour and another thief makes a rookie mistake. (S6, ep 3)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/968e05ab-388c-4a9f-9587-71d47404356c/cover",
-          "episode_number": "S6E3",
-          "start_time": "14:40",
-          "end_time": "15:20"
-        },
-        {
-          "show_name": "Caught Red Handed",
-          "show_description": "A burglar tries to rob a house with no idea of what's waiting to confront him inside. A man gets more than he bargained for when he breaks into a garage. (S6, ep 4)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6701bddb-653a-41ef-86ba-0bfd463121d6/cover",
-          "episode_number": "S6E4",
-          "start_time": "15:20",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Africa's Hunters",
-          "show_description": "Deadly Rivals: A group of spotted hyenas moves into a burrow that's close to where a litter of wild dog pups reside. (S3, ep 5)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d0454098-6727-4762-8f8d-e533dfe29f1a/cover",
-          "episode_number": "S3E5",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Africa's Claws And Jaws",
-          "show_description": "Living With Sharks: Sharks are among the planet's oldest and most highly evolved predators. Along the coast of southern Africa, pioneers work to uncover their incredible secrets. (S1, ep 3)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/aee75336-0adc-4e9c-8af1-8ad031f45788/cover",
-          "episode_number": "S1E3",
-          "start_time": "17:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Wild Dogs: Pack Vs. Pride",
-          "show_description": "New & Exclusive. Tragedy Strikes Kakumbi: Join Julz on a lion-collaring mission, go fishing with scout Simon and witness a heartbreaking vigil for a badly injured Kakumbi pup. (S1, ep 5)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/78c3bc49-56c2-3569-af92-5b4752ed6601/cover",
-          "episode_number": "S1E5",
-          "start_time": "18:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "Wild Dogs: Pack Vs. Pride",
-          "show_description": "New & Exclusive. Manzi the Superpack: Rejoin the Kakumbi, who are mourning the loss of two pups, before entering a standoff between a leopard and an angry elephant herd. (S1, ep 6)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b34a281d-ba5f-3a81-be91-d4809cb776e0/cover",
-          "episode_number": "S1E6",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Dogs: An Amazing Animal Family",
-          "show_description": "Asia and Africa: Patrick Aryee follows a pack of African hunting dogs and meets a fox with ears longer than its legs. Plus, a jackal's cunning is caught on camera. (3 of 3)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f4d3566c-eac2-48dd-8e70-907a51cc0e44/cover",
-          "episode_number": "S1E3",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Caught On Dashcam",
-          "show_description": "From distracted drivers to animals on the attack and an unmissable heroic rescue - join us for a brand-new episode of Caught on Dashcam. (S6, ep 2)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/207a272b-171e-495a-8d29-a5d804239d57/cover",
-          "episode_number": "S6E2",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "FILM: A Fistful Of Dollars",
-          "show_description": "A wandering gunfighter plays two rival families against each other in a town torn apart by greed, pride and revenge. (1964)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8be43435-58dd-42ad-80fa-00c9c624ce95/cover",
-          "episode_number": "",
-          "start_time": "21:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Clint Eastwood: A Life In Film",
-          "show_description": "Clint Eastwood, the actor and Academy Award-winning director of films including Unforgiven and Million Dollar Baby, talks candidly about his extraordinary life and career.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2cbed822-2d0b-4d70-99ba-79a048fe0c5f/cover",
-          "episode_number": "",
-          "start_time": "23:00",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "22 February 2026",
       "programmes": [
         {
@@ -511,6 +258,315 @@
           "show_description": "After striking a deal with McCann, Vinnie is asked to collect someone - a simple task that soon goes very wrong. Adult themes. (S2, ep 2)",
           "show_logo": "https://images.metadata.sky.com/pd-image/21dc38f7-a992-4d87-8bd6-c29254a86a9e/cover",
           "episode_number": "S2E2",
+          "start_time": "23:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "23 February 2026",
+      "programmes": [
+        {
+          "show_name": "Caught On Dashcam",
+          "show_description": "From some of the most heart stopping police chases ever seen, to smashing total wipeouts, we've got it all caught on the handy dashboard camera. (S3, ep 9)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cab85676-4931-4da0-b229-5308125dc4b6/cover",
+          "episode_number": "S3E9",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "Caught On Dashcam",
+          "show_description": "Our series finale brings you the greatest smashes, extreme bouts of road rage and even the most bizarre traffic entertainment ever caught on camera. (S3, ep 10)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7d056c7c-4299-4b32-b06d-0d7f807ef01b/cover",
+          "episode_number": "S3E10",
+          "start_time": "01:00",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "Motorway Patrol",
+          "show_description": "New & Exclusive. Documentary series from New Zealand following the madness and mayhem faced by intrepid officers as they pull over motorists for a variety of suspected offences. (S19, ep 5)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/560cb8f0-769e-3fe4-8387-95bb5c4e4cd0/cover",
+          "episode_number": "S19E5",
+          "start_time": "02:00",
+          "end_time": "02:30"
+        },
+        {
+          "show_name": "Motorway Patrol",
+          "show_description": "New & Exclusive. Documentary series from New Zealand following the madness and mayhem faced by intrepid officers as they pull over motorists for a variety of suspected offences. (S19, ep 6)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/574ef0f6-18d9-3651-bedc-2367e9e248f3/cover",
+          "episode_number": "S19E6",
+          "start_time": "02:30",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Motorway Patrol",
+          "show_description": "New & Exclusive. Documentary series from New Zealand following the madness and mayhem faced by intrepid officers as they pull over motorists for a variety of suspected offences. (S19, ep 7)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/51dfe56e-95ff-38c2-8dbf-a9eb220ddbb7/cover",
+          "episode_number": "S19E7",
+          "start_time": "03:00",
+          "end_time": "03:30"
+        },
+        {
+          "show_name": "Motorway Patrol",
+          "show_description": "New & Exclusive. Documentary series from New Zealand following the madness and mayhem faced by intrepid officers as they pull over motorists for a variety of suspected offences. (S19, ep 8)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f506fe31-8ef1-328d-bb39-032658fb357e/cover",
+          "episode_number": "S19E8",
+          "start_time": "03:30",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Border Patrol",
+          "show_description": "A family of foodies cook up some trouble in Biosecurity. Meanwhile, a dubious Christmas gift sent from the US raises eyebrows. (S12, ep 7)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6142b4d3-b200-36be-8002-8b46021ba1f5/cover",
+          "episode_number": "S12E7",
+          "start_time": "04:00",
+          "end_time": "04:30"
+        },
+        {
+          "show_name": "Border Patrol",
+          "show_description": "An actress finds herself in trouble with Customs. Meanwhile, a unique drug concealment is discovered. (S12, ep 8)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f59a138e-1ad1-4c2f-98d7-c49cfa3c46eb/cover",
+          "episode_number": "S12E8",
+          "start_time": "04:30",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "Border Patrol",
+          "show_description": "A troublesome taxi drivers keeps Customs and the police busy, while some solar lights arrive supercharged with drugs. (S12, ep 9)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/549e7ffa-042c-4286-9a1f-02ab9a4e8979/cover",
+          "episode_number": "S12E9",
+          "start_time": "05:00",
+          "end_time": "05:30"
+        },
+        {
+          "show_name": "Border Patrol",
+          "show_description": "Biosecurity New Zealand finds a hidden haul. Plus, Customs finds a picture worth a thousand words - and tens of thousands of dollars. (S12, ep 10)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/638a54be-262d-4b1c-9a0e-2cd8fcc228c8/cover",
+          "episode_number": "S12E10",
+          "start_time": "05:30",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Teleshopping.",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "06:00",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Teleshopping.",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "06:30",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Motorway Patrol",
+          "show_description": "New & Exclusive. Documentary series from New Zealand following the madness and mayhem faced by intrepid officers as they pull over motorists for a variety of suspected offences. (S19, ep 5)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/560cb8f0-769e-3fe4-8387-95bb5c4e4cd0/cover",
+          "episode_number": "S19E5",
+          "start_time": "07:00",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "Motorway Patrol",
+          "show_description": "New & Exclusive. Documentary series from New Zealand following the madness and mayhem faced by intrepid officers as they pull over motorists for a variety of suspected offences. (S19, ep 6)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/574ef0f6-18d9-3651-bedc-2367e9e248f3/cover",
+          "episode_number": "S19E6",
+          "start_time": "07:30",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Border Security: Canada's Front Line",
+          "show_description": "The Halifax canine unit brings home the bacon. An American discovers she's got a friend in high places. (S3, ep 21)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/320e0bfe-46aa-4364-a6f9-dfe93d3d532c/cover",
+          "episode_number": "S3E21",
+          "start_time": "08:00",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "Border Security: Canada's Front Line",
+          "show_description": "Toronto airport officers discover a suspicious bag with a fake baggage tag. A box full of critters lands in the mail centre. (S3, ep 22)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ba4ad0cb-14f7-49bc-ae2f-c0cb36c457c5/cover",
+          "episode_number": "S3E22",
+          "start_time": "08:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Nothing To Declare",
+          "show_description": "Documentary series following Australian Customs and Border Protection officers as they attempt to enforce the country's customs, quarantine, immigration and finance laws. (S15, ep 21)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ce33de48-2423-482c-8a8c-1a8ed39e3a64/cover",
+          "episode_number": "S15E21",
+          "start_time": "09:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Nothing To Declare",
+          "show_description": "Documentary series following Australian Customs and Border Protection officers as they attempt to enforce the country's customs, quarantine, immigration and finance laws. (S15, ep 22)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/06c9fc89-115d-4e5a-9a56-87f4a31974e2/cover",
+          "episode_number": "S15E22",
+          "start_time": "09:30",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Nothing To Declare",
+          "show_description": "Follow Australian Customs and Border Protection officers as they attempt to enforce the country's quarantine, customs, immigration and finance laws. (S16, ep 1)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/dffc410c-9969-3b68-9b20-6d953d717e01/cover",
+          "episode_number": "S16E1",
+          "start_time": "10:00",
+          "end_time": "10:30"
+        },
+        {
+          "show_name": "Nothing To Declare",
+          "show_description": "Follow Australian Customs and Border Protection officers as they attempt to enforce the country's quarantine, customs, immigration and finance laws. (S16, ep 2)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8853c736-c391-3605-95b4-103e1fb8867b/cover",
+          "episode_number": "S16E2",
+          "start_time": "10:30",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "Highway Patrol",
+          "show_description": "Slowest Getaway: A driver on the run from police crashes a stop sign and risks a head-on collision with a bus. Can he escape both the police and a serious smash? (S10, ep 1)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6150c978-bc52-4896-91de-d73b240c4c82/cover",
+          "episode_number": "S10E1",
+          "start_time": "11:00",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Highway Patrol",
+          "show_description": "Brand New Car: Officers Damien O'Brien and Steve Mottram stop a woman who likes to let her dog ride shotgun - even when her boyfriend is in the car. (S10, ep 2)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ae693185-fcb0-47cb-b6b9-7202c75fb26f/cover",
+          "episode_number": "S10E2",
+          "start_time": "11:30",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Border Security: Canada's Front Line",
+          "show_description": "A traveller's belongings raise repeated alarms, and a man's reasons for studying in Canada may not be academic. Plus, an American couple make the move to Alaska. (S2, ep 12)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5aae870d-9514-4692-8d42-f2d370358d02/cover",
+          "episode_number": "S2E12",
+          "start_time": "12:00",
+          "end_time": "12:30"
+        },
+        {
+          "show_name": "Border Security: Canada's Front Line",
+          "show_description": "A currency dog sniffs out thousands in undeclared cash, and an aspiring actor can't keep track of the plot. Plus, officers arrest a wanted burglar. (S2, ep 13)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b3234d6c-99aa-466c-8d12-1f3a59d30dbe/cover",
+          "episode_number": "S2E13",
+          "start_time": "12:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Border Patrol",
+          "show_description": "Reality series following the work of New Zealand's customs agents. (S15, ep 1)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/92215bdf-5c42-42cc-972c-d7514baac07c/cover",
+          "episode_number": "S15E1",
+          "start_time": "13:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Border Patrol",
+          "show_description": "Reality series following the work of New Zealand's customs agents. (S15, ep 2)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bf8ea26c-b281-4a24-a941-f2863c47fec8/cover",
+          "episode_number": "S15E2",
+          "start_time": "13:30",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Nothing To Declare",
+          "show_description": "When a Chinese bulk carrier docks in Newcastle it appears there's been a major security breach and what the Border Force officers find is shocking. (S15, ep 10)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3a99c6dd-a729-4c1c-962c-04e250be1565/cover",
+          "episode_number": "S15E10",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "Nothing To Declare",
+          "show_description": "Border Force investigate the claims of two people who claim to be on their honeymoon when their travel itinerary raises alarm bells. (S15, ep 11)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/deccf9af-e7db-34db-9718-24bc9b8b363e/cover",
+          "episode_number": "S16E13",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Nothing To Declare",
+          "show_description": "A man struggles to explain what his plans are for a three-month trip to Australia, and suspicion heightens when a drug dog takes an interest in his bag. (S15, ep 12)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f1575293-8c7d-4649-8ee8-88216808c1fb/cover",
+          "episode_number": "S15E12",
+          "start_time": "15:00",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "Nothing To Declare",
+          "show_description": "Officers stop a Vietnamese man wearing very unusual jewellery. Another man claims he has nothing to declare but an inspection proves he is lying... a lot! (S15, ep 13)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/23c9a143-6838-41a0-986b-bc402f851b85/cover",
+          "episode_number": "S15E13",
+          "start_time": "15:30",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Star Trek: Deep Space Nine",
+          "show_description": "Captive Pursuit: Through a new friendship with a bizarre alien, O'Brien and the rest of the officers of Deep Space Nine learn that other beings do not respect life as much as they do.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/20cd00a4-9e9a-4566-a684-3ad3c6f61b09/cover",
+          "episode_number": "S1E5",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Stargate SG-1",
+          "show_description": "Learning Curve: O'Neill risks a potential court-martial in order to teach a young alien girl the joys of childhood. (S3, ep 5)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cc40ed91-91dd-40c6-9292-aa9ad3dbc76c/cover",
+          "episode_number": "S3E5",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Star Trek: Voyager",
+          "show_description": "Live Fast and Prosper: A pair of con artists attempt to trade with a mining colony by impersonating Tuvok and Captain Janeway. (S6, Ep 21)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fa7bf743-f30d-4018-b513-1db3bd24df4e/cover",
+          "episode_number": "S6E21",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Star Trek: The Next Generation",
+          "show_description": "Sub Rosa: Shortly after her grandmother's death, Beverly falls under the spell of a ghost lover who has been in her family for generations. (S7, ep 14)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4b239eac-e14e-49d4-88fd-bd0806b04810/cover",
+          "episode_number": "S7E14",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Primeval",
+          "show_description": "Jurassic Mall: Cutter grapples with Claudia's disappearance after he returns to a different present. The team are called in to capture raptors on the loose at a shopping centre. (S2, ep 1)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2b698892-9330-4b3c-8dbe-5f76f00be951/cover",
+          "episode_number": "S2E1",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "FBI",
+          "show_description": "Sisterhood: A drug dealer is shot in a federal park and the team sets out to look for his killer. Maggie's sister returns to New York. (S5, ep 19)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/486b350a-aff7-3fa6-84c9-347a4aa1fcbf/cover",
+          "episode_number": "S5E20",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "FBI",
+          "show_description": "Privilege: All eyes are on the team when they try to find out who kidnapped the child of a senator, but the abduction reveals a link to a similar case. (S5, ep 20)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f7771615-e0a3-33f8-9c55-82dd09a17cf6/cover",
+          "episode_number": "S5E21",
+          "start_time": "22:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Grimm",
+          "show_description": "The Taming Of The Wu: Wu's bite begins to have serious unforeseen consequences, as Adalind finds herself backed into a corner and forced to make a choice. (S5, ep 19)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f96ed753-4b60-4118-b46d-9d5b387a3822/cover",
+          "episode_number": "S5E19",
           "start_time": "23:00",
           "end_time": "00:00"
         }
