@@ -40,7 +40,7 @@ from PIL import Image, ImageDraw, ImageFont
 # ── Config ────────────────────────────────────────────────────────────────────
 SCHEDULE_DIR   = Path("schedule")
 IMAGES_DIR     = Path("downloaded-images")
-BASE_URL       = "http://uk-schedule.local//wp-content/uploads/downloaded-images"
+BASE_URL       = "/public/"
 MAX_WORKERS    = 12          # parallel download threads
 SHOW_MAX_KB    = 10          # compress show logos to under this
 SHOW_MAX_BYTES = SHOW_MAX_KB * 1024
