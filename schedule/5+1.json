@@ -3,315 +3,30 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-plus-uk.png",
   "schedule": [
     {
-      "date": "22 February 2026",
-      "programmes": [
-        {
-          "show_name": "Most Shocking Celebrity Moments",
-          "show_description": "We look at when stars go bad, break the law and sometimes even do time. From the tragedy of Biggie and Tupac to the shock caused by Michael Jackson.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e5b7dc96-f3f4-4518-80da-f11f6dc54309/cover",
-          "episode_number": "S1E9",
-          "start_time": "00:05",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "Cruise TV with LoveitBookit",
-          "show_description": "Your one-stop-shop for all things cruise; bringing you the hottest destinations, ground-breaking ships and the latest deals to ensure your next cruise holiday is your greatest one!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c4cb4071-8940-42ba-b7a1-79b9c5f54834/cover",
-          "episode_number": "",
-          "start_time": "02:00",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Shop by phone from the comfort of your home.",
-          "show_logo": "",
-          "episode_number": "",
-          "start_time": "03:00",
-          "end_time": "03:30"
-        },
-        {
-          "show_name": "Friends",
-          "show_description": "Monica decides she still wants to have a baby. Phoebe finds herself being stalked by a man. Chandler gets advice from Ross on how to avoid cuddling in bed.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c1e4ac1c-a709-4614-97a9-45fb3efe9c87/cover",
-          "episode_number": "S3E3",
-          "start_time": "03:30",
-          "end_time": "03:55"
-        },
-        {
-          "show_name": "Charles & the Women Who Could Have Been Queen",
-          "show_description": "Revisit Charles's early days with the Duchess of Cornwall as well as his courtship with Princess Diana. But who were the other women who could have been Queen?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/07c091c3-a241-4ab8-bcb9-b250f74f854b/cover",
-          "episode_number": "",
-          "start_time": "03:55",
-          "end_time": "04:45"
-        },
-        {
-          "show_name": "Adrian Dunbar's Scenic Ireland",
-          "show_description": "The actor explores Ireland's Ancient East, taking in the Boyne Valley, a Neolithic passage, a trip to Kilmacthomas Viaduct, a visit to Hook Lighthouse, and meets chef Richard Corrigan. (Ep 2)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0b3dc20a-bb95-4349-9eba-f5c05a9534bc/cover",
-          "episode_number": "S1E2",
-          "start_time": "04:45",
-          "end_time": "05:35"
-        },
-        {
-          "show_name": "** Visually Signed** Paul...",
-          "show_description": "...Martin's Antiques Showdown. In Berkshire, Paul goes head to head with local expert Jessica Forrester. Will either auctioneer be wowed by police badges or a pewter model car? (VS) (Ep31)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1f881b2b-cf82-42ff-bc74-e1f334834642/cover",
-          "episode_number": "S1E31",
-          "start_time": "05:35",
-          "end_time": "06:25"
-        },
-        {
-          "show_name": "Entertainment News on 5",
-          "show_description": "A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e00b2bd8-a28a-4a4f-9fb4-5b41d5a41d8d/cover",
-          "episode_number": "",
-          "start_time": "06:25",
-          "end_time": "06:35"
-        },
-        {
-          "show_name": "**Visually Signed** The Adventures of Paddington",
-          "show_description": "Mr Brown is taking the kids to the circus tonight but where are the tickets? Paddington and the children must retrace his steps to find them. (VS)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/13e8818f-1a4a-4cd4-a252-b01f05ec6f86/cover",
-          "episode_number": "",
-          "start_time": "06:35",
-          "end_time": "06:45"
-        },
-        {
-          "show_name": "**Visually Signed** Milo",
-          "show_description": "Milo and his pals have to get creative when left in charge of florists Blossoms and Blooms. (BSL)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d64249df-0638-4180-b6b8-bcfdc2cf28d1/cover",
-          "episode_number": "S1E51",
-          "start_time": "06:45",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Mixmups",
-          "show_description": "The Mixmups mix up an adventure to build a Breakfast Robot. But when everyone has their own idea on how it should look, the robot falls apart.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bf221c4f-82ca-3067-b257-4207956fe42a/cover",
-          "episode_number": "S1E27",
-          "start_time": "07:00",
-          "end_time": "07:10"
-        },
-        {
-          "show_name": "Peppa Pig",
-          "show_description": "Paper Aeroplanes: Some of Daddy Pig's important work papers have gone missing because Mummy Pig, Peppa and George have accidentally made them into paper aeroplanes!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9f295e24-dbd3-4d45-8a6a-d16da8f561d4/cover",
-          "episode_number": "S3E48",
-          "start_time": "07:10",
-          "end_time": "07:15"
-        },
-        {
-          "show_name": "Peppa Pig",
-          "show_description": "Peppa and her friends go to help at Edmond Elephant's birthday party, but the little children are harder to look after than they expected.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/aee182dd-c6dd-4542-bd8e-87c20e2cef83/cover",
-          "episode_number": "S3E49",
-          "start_time": "07:15",
-          "end_time": "07:20"
-        },
-        {
-          "show_name": "Ben and Holly's Little Kingdom",
-          "show_description": "Ben and Holly set out in the elves' new vessel to try and rescue Redbeard the elf pirate's sunken treasure.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/70fbff4b-96c2-443b-902e-6c2a68c0a4ef/cover",
-          "episode_number": "S1E48",
-          "start_time": "07:20",
-          "end_time": "07:30"
-        },
-        {
-          "show_name": "Thomas & Friends: All Engines Go!",
-          "show_description": "When Thomas' whistle suddenly stops working, he learns that he doesn't need his whistle to still be him-self.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4c6e9527-e561-40c1-ae6d-14efc7cbc9b9/cover",
-          "episode_number": "S1E36",
-          "start_time": "07:30",
-          "end_time": "07:40"
-        },
-        {
-          "show_name": "Fireman Sam",
-          "show_description": "Malcolm goes on a hike with Mike, Helen, Mandy and Norman. When a forest fire starts, Malcolm keeps them safe until Sam can find their location.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/71923955-a0c0-4fcb-ae8c-b576c95fe473/cover",
-          "episode_number": "S12E11",
-          "start_time": "07:40",
-          "end_time": "07:50"
-        },
-        {
-          "show_name": "Tim Rex in Space",
-          "show_description": "Join Tim Rex as he tackles kid-shaped problems with dino-sized solutions... in space!  Tim and Kai go crater surfing and attempt a cool new trick.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e8692fe9-872b-402b-b389-cec40391994e/cover",
-          "episode_number": "S1E4",
-          "start_time": "07:50",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "Peppa Pig",
-          "show_description": "Madame Gazelle decides to teach the children how to play Bat and Ball, but when it is her turn she hits the ball too far!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/75fba8a1-f00e-41f9-b30b-416135afec4d/cover",
-          "episode_number": "S6E24",
-          "start_time": "08:00",
-          "end_time": "08:05"
-        },
-        {
-          "show_name": "Peppa Pig",
-          "show_description": "While Mummy Pig is enjoying a spa day out, Daddy, George and Peppa explore the rest of the shopping centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/01317c19-43a3-4789-a978-4a717ac2efb6/cover",
-          "episode_number": "S6E28",
-          "start_time": "08:05",
-          "end_time": "08:10"
-        },
-        {
-          "show_name": "Pip and Posy",
-          "show_description": "Pip leaves Posy alone to have a jungle adventure but gets jealous when she invents a new imaginary jungle buddy, Pop.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1512912b-798c-3ce1-a327-818a856ce1f4/cover",
-          "episode_number": "S2E47",
-          "start_time": "08:10",
-          "end_time": "08:20"
-        },
-        {
-          "show_name": "New: The Woohoos!",
-          "show_description": "The Woohoos investigate a series of mysterious knocking sounds. They find out that woodpeckers make different kinds of knocking and drumming sounds as they find food and build homes!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/50084553-00c6-400c-82f1-6b90ab66f5f2/cover",
-          "episode_number": "S1E47",
-          "start_time": "08:20",
-          "end_time": "08:30"
-        },
-        {
-          "show_name": "The Adventures of Paddington",
-          "show_description": "Paddington accidentally ruins Mr Brown's lovely lawn and must repair it, but the birds take a liking to the seeds, so he builds a scarecrow.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/db7029b2-b183-47e9-a64d-fa82e183143d/cover",
-          "episode_number": "S1E22",
-          "start_time": "08:30",
-          "end_time": "08:50"
-        },
-        {
-          "show_name": "PAW Patrol",
-          "show_description": "...Hum-stronaut. Captain Gordy and his Space Shuttle are blasting off with a satellite! But when Mayor Humdinger sneaks on board, the space shuttle blasts off with him still inside!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9ffe88da-8ca7-39cb-802b-285e6b5843c3/cover",
-          "episode_number": "S11E9",
-          "start_time": "08:50",
-          "end_time": "09:15"
-        },
-        {
-          "show_name": "Animal Care Club",
-          "show_description": "The Cadets head to Peak Wildlife Park, where they make fun enrichment toys for the polar bears, give the Arctic foxes a health check and feed the hungry penguins their fishy dinner!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5d8beda4-06d2-4135-96a9-cb8fae7826c2/cover",
-          "episode_number": "S2E4",
-          "start_time": "09:15",
-          "end_time": "09:35"
-        },
-        {
-          "show_name": "New: The Creature Cases",
-          "show_description": "Friendly rhinos gather at the Watering Hole.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/25d6592b-6d8e-4a08-a2e4-c548b4f20fde/cover",
-          "episode_number": "S1E2",
-          "start_time": "09:35",
-          "end_time": "09:45"
-        },
-        {
-          "show_name": "New: The Patrick Star Show",
-          "show_description": "Pearl stars in a guest appearance on The Patrick Show.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/249843c6-9089-4d8c-aa72-c1cef1e6eb31/cover",
-          "episode_number": "S1E19",
-          "start_time": "09:45",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Entertainment News on 5",
-          "show_description": "A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/52f36f9a-7d15-4abe-993c-2afbbfbf6718/cover",
-          "episode_number": "",
-          "start_time": "10:00",
-          "end_time": "10:10"
-        },
-        {
-          "show_name": "Bargain Loving Brits in the Sun Cutdowns",
-          "show_description": "Caroline readies herself for the busiest day of the week at her chippy - fishy Friday! (Ep19)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4a2849d5-db88-4cde-9980-90903160a5ca/cover",
-          "episode_number": "S2025E19",
-          "start_time": "10:10",
-          "end_time": "10:30"
-        },
-        {
-          "show_name": "Bargain-Loving Brits in the Sun",
-          "show_description": "John, who works 80 hours a week, takes a well-earned break on a family excursion to a bird sanctuary. But he must also face his fear of heights, travelling by cable car.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b9f32eff-16bc-4119-826a-f93c31d7c3f5/cover",
-          "episode_number": "S14E62",
-          "start_time": "10:30",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Cruising with Jane McDonald",
-          "show_description": "Jane rides a sumptuous steam train from the peak of the Austro-Hungarian Empire, boards a luxury river ship to Bratislava, and visits Dracula's castle.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bcb33080-3131-4aea-8e66-db843f45a95f/cover",
-          "episode_number": "S6E3",
-          "start_time": "11:30",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "Cruising with Jane McDonald",
-          "show_description": "Jane cruises the Adriatic from historic Dubrovnik, via Venice, to the spectacular Split and the beautiful bay of Boka.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/df97faf6-7aff-43f9-a976-47366ea15149/cover",
-          "episode_number": "S6E4",
-          "start_time": "12:30",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Live: Snooker Players Championship: The Final",
-          "show_description": "Live coverage of the Players Championship Final. An elite field includes former champions Judd Trump, Shaun Murphy, John Higgins and Neil Robertson.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/875662b7-56c7-4144-a94d-584589b3d956/cover",
-          "episode_number": "",
-          "start_time": "13:30",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "Inside the Tower of London",
-          "show_description": "As the death of Queen Elizabeth II is announced, the Tower enters a two-week official period of mourning. And plans are made for a big retirement event for the departing constable.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/91587ddd-7fc3-4380-a8c9-cee573749ea8/cover",
-          "episode_number": "S5E6",
-          "start_time": "18:30",
-          "end_time": "19:25"
-        },
-        {
-          "show_name": "5 News Weekend",
-          "show_description": "National and international news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a872db30-decf-467e-83b7-81de4063be0a/cover",
-          "episode_number": "",
-          "start_time": "19:25",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Live: Snooker Players Championship: The Final",
-          "show_description": "Live coverage as the Players Championship reaches its climax. An elite field includes former champions Judd Trump, Shaun Murphy, John Higgins and Neil Robertson.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a8b59070-c0dc-4b01-953d-00c63b58cafb/cover",
-          "episode_number": "",
-          "start_time": "19:30",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "New: Rich House, Poor House",
-          "show_description": "An edition that shines a light on Britain's big wealth divide as muti-millionaire plumbing entrepreneurs swap lives with another couple in the trades who lead a very different life.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1b329806-2076-4a93-9689-b209581bc1dc/cover",
-          "episode_number": "S12E3",
-          "start_time": "22:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "World's Most Expensive Cruise",
-          "show_description": "The luxurious Splendor is back, with a new entertainment team, a newly-promoted sommelier keen to make his mark, and a boutique that carries three million pounds of precious jewels.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1c9f98d0-d169-3e1c-a153-d6ec3823aaba/cover",
-          "episode_number": "S3E1",
-          "start_time": "23:30",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "23 February 2026",
       "programmes": [
         {
-          "show_name": "Murder Trial: The Suffolk Strangler",
-          "show_description": "In this drama-documentary we get privileged access inside the courtroom when, 27 years after a 17-year-old was found dead, Steve Wright pleaded guilty to the murder.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/648eaf12-7aff-4119-937f-c4fffdbe90a2/cover",
+          "show_name": "World's Strongest Man 2025",
+          "show_description": "Twelve athletes tackle five events for the continental crown, with three former Champions in the field, including reigning and defending Champion Luke Stoltman. (Ep2/11)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d5a5164b-d6bd-4203-8867-09229001d902/cover",
           "episode_number": "",
-          "start_time": "00:30",
+          "start_time": "00:25",
+          "end_time": "01:20"
+        },
+        {
+          "show_name": "Bargain Loving Brits in the Sun Cutdowns",
+          "show_description": "Tour guide Gill Bird takes her party of paying guests to the Lobo Wolf Park in the spectacular El Torcal mountains. But will the wildlife make a much-anticipated appearance? (Ep3)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5315c3c9-3076-4ef9-9654-a3e0c0a5bf04/cover",
+          "episode_number": "",
+          "start_time": "01:20",
+          "end_time": "01:50"
+        },
+        {
+          "show_name": "Entertainment News on 5",
+          "show_description": "A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/63abc366-6b4a-4a2b-9de3-b00caeedb571/cover",
+          "episode_number": "",
+          "start_time": "01:50",
           "end_time": "02:00"
         },
         {
@@ -671,6 +386,403 @@
           "show_description": "Eddie's perfect plans fall apart. Billy is drawn into a toxic masculine online culture. Helen doesn't feel safe in her own home when a persistent client starts threatening her. (Ep4/6)",
           "show_logo": "https://images.metadata.sky.com/pd-image/6386d0ab-0bc7-30ec-b94a-a060fef990ed/cover",
           "episode_number": "S1E4",
+          "start_time": "23:00",
+          "end_time": "00:05"
+        }
+      ]
+    },
+    {
+      "date": "24 February 2026",
+      "programmes": [
+        {
+          "show_name": "Traffic Cops",
+          "show_description": "In this episode - car thieves out of control and on the run, a young driver has a brush with death, and a drunk woman causes a disturbance at a local pub.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7422a7c2-7a5f-33c0-bc3d-cac5e73ec8de/cover",
+          "episode_number": "S13E12",
+          "start_time": "00:05",
+          "end_time": "01:05"
+        },
+        {
+          "show_name": "Police Interceptors",
+          "show_description": "Two men attempt to evade a helicopter and armed responsible vehicles on a motorbike. Officers Clarkie and Nick stop two dangerous road racers.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bb34dc95-4aff-40e4-a761-f86035b2578f/cover",
+          "episode_number": "S16E2",
+          "start_time": "01:05",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "Cruise TV with LoveitBookit",
+          "show_description": "Your one-stop-shop for all things cruise; bringing you the hottest destinations, ground-breaking ships and the latest deals to ensure your next cruise holiday is your greatest one!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4a10ee86-6bfb-42fc-b8df-01dfb9e54cc1/cover",
+          "episode_number": "",
+          "start_time": "02:00",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Shop by phone from the comfort of your home.",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "03:00",
+          "end_time": "03:30"
+        },
+        {
+          "show_name": "Friends",
+          "show_description": "The gang remember the events from three years ago, when several of them almost slept together.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/89fe26c9-afc0-4514-b618-f6b90e00c940/cover",
+          "episode_number": "S3E6",
+          "start_time": "03:30",
+          "end_time": "03:55"
+        },
+        {
+          "show_name": "Friends",
+          "show_description": "Phoebe has trouble bonding with her half-brother Frank, Joey attempts to build an entertainment center, and Ross is challenged to name the five celebrities he'd most like to sleep with.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/39ef6207-da11-45a9-9ec6-1ec2696a42bf/cover",
+          "episode_number": "S3E5",
+          "start_time": "03:55",
+          "end_time": "04:20"
+        },
+        {
+          "show_name": "Friends",
+          "show_description": "The gang remember the events from three years ago, when several of them almost slept together.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/89fe26c9-afc0-4514-b618-f6b90e00c940/cover",
+          "episode_number": "S3E6",
+          "start_time": "04:20",
+          "end_time": "04:45"
+        },
+        {
+          "show_name": "The Hoover Dam: Building the Impossible",
+          "show_description": "From stormy seas to the land-locked Mojave Desert, Rob Bell discovers the amazing story of how the mighty Colorado river was tamed and the Hoover Dam built.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d7807301-fb4b-3312-ba89-339baf2aa1ee/cover",
+          "episode_number": "S3E3",
+          "start_time": "04:45",
+          "end_time": "05:35"
+        },
+        {
+          "show_name": "This is Channel 5 +1",
+          "show_description": "This is Channel 5 +1",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1d8d1354-35ec-48e9-85bd-8126b2bab06d/cover",
+          "episode_number": "",
+          "start_time": "05:35",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "This is Channel 5 +1",
+          "show_description": "This is Channel 5 +1",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e3562128-0cce-4f18-b346-9356f0fde404/cover",
+          "episode_number": "",
+          "start_time": "06:00",
+          "end_time": "06:25"
+        },
+        {
+          "show_name": "Entertainment News on 5",
+          "show_description": "A daily round-up of showbiz news and gossip from around the world, focusing on celebrities, movies, music and entertainment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/03452bb6-63c4-40bd-93b6-49b809ec98ad/cover",
+          "episode_number": "",
+          "start_time": "06:25",
+          "end_time": "06:35"
+        },
+        {
+          "show_name": "**Visually Signed** The Adventures of Paddington",
+          "show_description": "Mrs Brown has bought an old camper van and decides to take the family on a camping holiday. (VS)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5fd1b5b4-93c4-40ab-a4bb-0837e9693fc3/cover",
+          "episode_number": "",
+          "start_time": "06:35",
+          "end_time": "06:45"
+        },
+        {
+          "show_name": "**Visually Signed** Ben...",
+          "show_description": "...and Holly's Little Kingdom. Holly accidentally breaks her mum's special new teapot. Can Ben help her repair it? (SL)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3fda6f6c-7037-4c2f-ac58-9a8d9b8e9ac7/cover",
+          "episode_number": "S1E1",
+          "start_time": "06:45",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Peppa Pig",
+          "show_description": "It's nearly time for bed. Peppa and George play outside then they are called in for their bath.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9f50c654-08b0-4d44-80d3-748dd9e7b8b7/cover",
+          "episode_number": "S2E14",
+          "start_time": "07:00",
+          "end_time": "07:05"
+        },
+        {
+          "show_name": "Peppa Pig",
+          "show_description": "Sports Day: It is Sports Day at Peppa's playgroup and lots of special events are due to take place.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ab17d036-aeef-46ff-9d80-9ef4f8c05aa8/cover",
+          "episode_number": "S2E15",
+          "start_time": "07:05",
+          "end_time": "07:10"
+        },
+        {
+          "show_name": "Tweedy & Fluff",
+          "show_description": "Tweedy discovers that music can really make you move and that Fluff... doesn't like that! (Ep39)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a50ea3a4-1bda-3780-a82a-75c513ca57cb/cover",
+          "episode_number": "S1E39",
+          "start_time": "07:10",
+          "end_time": "07:15"
+        },
+        {
+          "show_name": "Treehouse",
+          "show_description": "When Fluff realises Squiggle has no plans for his birthday, she decides to plan a surprise party with a little help from their friends... but will they pull it off? (Ep20)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7e3e2c7d-cdf9-4830-bb20-95bfe1328898/cover",
+          "episode_number": "S1E20",
+          "start_time": "07:15",
+          "end_time": "07:20"
+        },
+        {
+          "show_name": "Thomas & Friends: Big World!...",
+          "show_description": "...Big Adventures! Bulgy thinks that people should travel by bus instead of rail - until he tries carrying all their passengers.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4db26786-9118-45d7-96dc-306867ec02b3/cover",
+          "episode_number": "S23E1",
+          "start_time": "07:20",
+          "end_time": "07:35"
+        },
+        {
+          "show_name": "New: Fireman Sam",
+          "show_description": "It's the Annual Pontypandy Bread Baking Competition and Hannah 's ambition accidentally causes her to spark a wildfire.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8fed4cca-1c86-45d6-bd34-27254f980b04/cover",
+          "episode_number": "S16E20",
+          "start_time": "07:35",
+          "end_time": "07:45"
+        },
+        {
+          "show_name": "Peppa Pig",
+          "show_description": "The Eye Test: Peppa's friend Pedro wears glasses. Peppa thinks she might need glasses too, so Mummy Pig takes her to the optician.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5177aeab-f8e7-4ba5-a853-4b6064e09ecc/cover",
+          "episode_number": "S2E16",
+          "start_time": "07:45",
+          "end_time": "07:50"
+        },
+        {
+          "show_name": "The Adventures of Paddington",
+          "show_description": "Baaz teaches Jonathan and Paddington about upcycling, and the pair must create something to earn a reward.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/530859e4-44e4-462e-a898-2e5889f58a55/cover",
+          "episode_number": "S2E20",
+          "start_time": "07:50",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Pip and Posy",
+          "show_description": "When Pip and Posy are having a 'bad mood day', Jamila encourages them to climb the 'happiness hill'. As they climb, they begin to have fun again and banish the bad mood day forever.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b08325b1-164b-36f9-b83b-e3cd97e6a28e/cover",
+          "episode_number": "S2E11",
+          "start_time": "08:00",
+          "end_time": "08:10"
+        },
+        {
+          "show_name": "PAW Patrol",
+          "show_description": "...Cabin. Uncle Otis installs a Smart Home 3000 in his cabin, that ends up trapping him and Mr Wingnut inside.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/be687b62-207a-4994-92f0-b0b7284b4b72/cover",
+          "episode_number": "S7E26",
+          "start_time": "08:10",
+          "end_time": "08:20"
+        },
+        {
+          "show_name": "Rubble & Crew",
+          "show_description": "As the pups work on building a surprise playroom for Miles and Lily, a squirrelly visitor causes construction complications. (Ep25)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/aa7b74cb-1f21-37d9-a236-0099b64ff827/cover",
+          "episode_number": "S1E25",
+          "start_time": "08:20",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "Peppa Pig",
+          "show_description": "The children must walk to school in a walking bus! Miss Rabbit wears a high visibility jacket, leading Peppa and friends in a bus formation.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/33a66845-1ac0-3be9-843b-598959494bae/cover",
+          "episode_number": "S8E34",
+          "start_time": "08:30",
+          "end_time": "08:40"
+        },
+        {
+          "show_name": "Peppa Pig",
+          "show_description": "At the playgroup, Madame Gazelle is reading the children a story, but a page is missing so she makes up an ending. During playtime, the children make up their own alternative endings.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ba22f44e-58eb-3c3d-acbf-93ced15c2274/cover",
+          "episode_number": "S8E35",
+          "start_time": "08:40",
+          "end_time": "08:45"
+        },
+        {
+          "show_name": "Tim Rex in Space",
+          "show_description": "Tim tries to return a lost walky talky to its owner.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d27f13cc-00f3-4009-99a1-4aff3ebdaa44/cover",
+          "episode_number": "S2E22",
+          "start_time": "08:45",
+          "end_time": "08:55"
+        },
+        {
+          "show_name": "New: Stan & Gran",
+          "show_description": "Stan and his friends are at the Ley to do a nature survey but strangely, there doesn't seem to be anything to spot. Where has all the wildlife gone?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3ec9defa-195e-40fe-b93d-731acfb3e7e4/cover",
+          "episode_number": "S1E17",
+          "start_time": "08:55",
+          "end_time": "09:15"
+        },
+        {
+          "show_name": "PAW Patrol",
+          "show_description": "Humdinger puts on a cat costume and is mistaken for a real kitty.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1f5d3a39-3126-4616-91a8-05a67d1f486d/cover",
+          "episode_number": "S11E45",
+          "start_time": "09:15",
+          "end_time": "09:25"
+        },
+        {
+          "show_name": "Milo",
+          "show_description": "When Dame Dolores gets double-booked for the Dancing on Skates final and to perform opera, Milo, Lofty and Lark take to the ice in her place.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ff9d5191-aa87-49f3-b405-905c9c7abf7b/cover",
+          "episode_number": "S1E20",
+          "start_time": "09:25",
+          "end_time": "09:40"
+        },
+        {
+          "show_name": "Ben and Holly's Little Kingdom",
+          "show_description": "The king comes to visit. When Nanny accidentally shrinks all of the king's clothes, she magics some more from vegetables in the kitchen.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d36e0911-1805-4cc0-984d-5c388a25253d/cover",
+          "episode_number": "S1E17",
+          "start_time": "09:40",
+          "end_time": "09:50"
+        },
+        {
+          "show_name": "Peppa Pig",
+          "show_description": "The school roof has a leak again, so the children organise a fete to raise money for a new roof.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/69aa039a-1ea5-3d55-ab7a-867cb8b9ccd8/cover",
+          "episode_number": "S1E20",
+          "start_time": "09:50",
+          "end_time": "09:55"
+        },
+        {
+          "show_name": "Odo",
+          "show_description": "During a game of hide and seek, Doodle gets a funny feeling that Pigeon Post is in trouble. Together with the flamingos, they leave the game in order to rescue Pigeon Post.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5c60ace8-a207-4a7d-984b-11df950ee62e/cover",
+          "episode_number": "S2E32",
+          "start_time": "09:55",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Come & Play with Pip and Posy",
+          "show_description": "After watching Pip teach Posy the best way to play catchy leaf, Jen and the Milkshakers go an extra step and show us how to make works of art with leaves of any shape and size. (Ep3)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/980d3765-1ad0-4cc5-b949-041abf93cde3/cover",
+          "episode_number": "S1E4",
+          "start_time": "10:00",
+          "end_time": "10:10"
+        },
+        {
+          "show_name": "Milkshake! Story Den",
+          "show_description": "Join Jen for a story about Captain Snarkle Tooth, a grouchy pirate who steals treasure that no one else can see! Can Billy solve the mystery and learn to spy the sparkly treasure too?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c62c98a3-97e4-3c95-946a-9aba4dce51e5/cover",
+          "episode_number": "S3E11",
+          "start_time": "10:10",
+          "end_time": "10:15"
+        },
+        {
+          "show_name": "Jeremy Vine",
+          "show_description": "Start the day with a dose of hard-hitting debate, your phone calls and a little fun - all driven by Jeremy's unique style.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d4bb32ec-2dcf-4604-bd57-ad08ccc6b301/cover",
+          "episode_number": "S9E37",
+          "start_time": "10:15",
+          "end_time": "12:30"
+        },
+        {
+          "show_name": "Storm & Alexis",
+          "show_description": "Two of 5's much-loved faces team up to focus on the issues that matter most to viewers - with your opinions front and centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9874468e-8ce8-4182-ad88-6711872a4e43/cover",
+          "episode_number": "S2026E37",
+          "start_time": "12:30",
+          "end_time": "13:45"
+        },
+        {
+          "show_name": "5 News at Lunchtime",
+          "show_description": "National and international news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/06b201ff-74b0-48db-931d-abab59635101/cover",
+          "episode_number": "",
+          "start_time": "13:45",
+          "end_time": "13:50"
+        },
+        {
+          "show_name": "Matt Allwright",
+          "show_description": "Matt looks at the big news stories developing during the day and offers help and advice to save you money and make your lives a little easier.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cc9677ad-ad00-40dc-af7a-10eec9cdd1d9/cover",
+          "episode_number": "S2026E37",
+          "start_time": "13:50",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Vanessa",
+          "show_description": "Raw, unfiltered, authentic and personal, Vanessa Feltz wants you to tell her what's on your mind. Fiery discussions, a good giggle and plenty of afternoon gossip!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/25bf6de9-dd99-4406-ac9b-68505b45fa4d/cover",
+          "episode_number": "S3E37",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "The Good Ship Murder",
+          "show_description": "A deadly family saga unfolds as the ship arrives in Sicily with a successful businessman, his children and new wife. When death strikes, is it a Mafia hit, or a killer closer to home?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1297a869-0719-31d4-bb0c-9fe18adf2be1/cover",
+          "episode_number": "S1E6",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "New: Bargain-Loving Brits in the Sun",
+          "show_description": "Mum-of-two Kayleigh teams up with two friends to start their own girl group - and in just a few days they have their biggest gig so far, performing at a wedding.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4a654b27-a5c6-4943-924f-2d8c6ad0dae8/cover",
+          "episode_number": "S14E64",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "5 News at 5",
+          "show_description": "Join Dan Walker and the team for the news that matters to you.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/eacb5b89-81d6-4da4-8170-452aae587187/cover",
+          "episode_number": "",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "New: Love Nature",
+          "show_description": "Islay is Scotland's southernmost Inner Hebrides Island: a haven for nature lovers with stunning landscapes, abundant wildlife, beautiful beaches. This is the story of winter on Islay.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8ad0391a-016e-4f09-8575-0064fddd5a38/cover",
+          "episode_number": "S1E13",
+          "start_time": "19:00",
+          "end_time": "19:05"
+        },
+        {
+          "show_name": "The Motorway",
+          "show_description": "Bad British weather makes for a bad day on the motorway as a freak hailstorm causes chaos for the patrollers as three cars crash off the motorway at high speed.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a60dfc80-d13a-3d82-b360-ff82370050ae/cover",
+          "episode_number": "S4E3",
+          "start_time": "19:05",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "New: Celebrity Puzzling",
+          "show_description": "Jeremy Vine hosts, alongside team captains Sally Lindsay and Carol Vorderman, who are joined by actress Nina Wadia and stand-up comic Russell Kane to tackle fiendish puzzles.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/12884833-b025-4b4f-b8d7-9f79d02cb4c9/cover",
+          "episode_number": "S2E2",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "New: The Yorkshire Vet",
+          "show_description": "Shona Searson rushes to an emergency calving, while Peter Wright's patient is a Samoyed - a dog originally bred for herding reindeer and pulling sleds in the Arctic.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ea7f3c36-c80d-499c-8325-acfd2f58a01e/cover",
+          "episode_number": "S22E1",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "New: Ben Fogle: New Lives in the Wild",
+          "show_description": "In the USA, Ben meets a woman on a perpetual walk across the country, uncovering what first set her on this never-ending path and the harsh realities of her travels.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/04c038c8-3cf1-4bb7-a4f2-fa11809c02dc/cover",
+          "episode_number": "S21E6",
+          "start_time": "22:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "New: The Curfew",
+          "show_description": "Pamela is shaken by new evidence that the killer is a woman. Sarah is released on tag but evades the police. Pamela realises Cass is in danger. (Ep5/6)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/42b7ab5b-1923-3622-917c-02c51641ee8d/cover",
+          "episode_number": "S1E5",
           "start_time": "23:00",
           "end_time": "00:05"
         }

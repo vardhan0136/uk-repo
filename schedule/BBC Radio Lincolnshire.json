@@ -3,67 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Lincolnshire.png",
   "schedule": [
     {
-      "date": "22 February 2026",
-      "programmes": [
-        {
-          "show_name": "Weekend overnights with BBC...",
-          "show_description": "...Radio 5 Live. Local BBC Radio joins BBC Radio 5 Live through the night on a weekend.",
-          "show_logo": "http://img.freeviewplay.net/ee17ea3724390bd840569ca9065cdf5a1?w=800",
-          "episode_number": "",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Fiona Mills",
-          "show_description": "Fiona has a bright start to your day with ideas for the weekend.",
-          "show_logo": "http://img.freeviewplay.net/e94a15a98868e73693bda2f99aa6af320?w=800",
-          "episode_number": "",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Sean Dunderdale",
-          "show_description": "Sean livens up your weekend with great guests, conversation and music.",
-          "show_logo": "http://img.freeviewplay.net/eaf28ff24a40066dd8eb72694ad7c6530?w=800",
-          "episode_number": "",
-          "start_time": "10:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "The Make a Difference Show",
-          "show_description": "Gaby Roslin talks to some amazing people making a difference where we live.",
-          "show_logo": "http://img.freeviewplay.net/e1b6f70a6cea51e10fc9332e1668916ca?w=800",
-          "episode_number": "",
-          "start_time": "14:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Lincolnshire Farmwatch",
-          "show_description": "Your weekly round-up of rural life in Lincolnshire with Sean Dunderdale.",
-          "show_logo": "http://img.freeviewplay.net/e204d0f01b133c5b54058037bae66aec0?w=800",
-          "episode_number": "",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Tim Walker's Folk",
-          "show_description": "The best folk music from Lincolnshire and beyond with Tim Walker.",
-          "show_logo": "http://img.freeviewplay.net/e8949e24078600e2c7839121a9cc909d5?w=800",
-          "episode_number": "",
-          "start_time": "19:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The Late Show",
-          "show_description": "Asma Younus with late-night conversation, stories and the soundtrack to your night.",
-          "show_logo": "http://img.freeviewplay.net/e8ef4199b4b86ef99ff71dacc8df9ffe3?w=800",
-          "episode_number": "",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "23 February 2026",
       "programmes": [
         {
@@ -120,6 +59,83 @@
           "show_logo": "http://img.freeviewplay.net/e8ef4199b4b86ef99ff71dacc8df9ffe3?w=800",
           "episode_number": "",
           "start_time": "22:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "24 February 2026",
+      "programmes": [
+        {
+          "show_name": "Weekday overnights with BBC...",
+          "show_description": "...Radio 5 Live. Local BBC Radio joins BBC Radio 5 Live through the night on a weekday.",
+          "show_logo": "http://img.freeviewplay.net/ed696d45f139e2dfbc9209252d443822a?w=800",
+          "episode_number": "",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Scott Dalton",
+          "show_description": "Scott has trusted Lincolnshire news, advice and great music to start the day.",
+          "show_logo": "http://img.freeviewplay.net/ee9c4ed122649d248cc9b1c8e7ffce23d?w=800",
+          "episode_number": "",
+          "start_time": "06:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Frances Finn",
+          "show_description": "Frances brings you topical debate, real life stories and The Rewind after 1pm.",
+          "show_logo": "http://img.freeviewplay.net/eaac7e033d3e316aacaa551d51bf29740?w=800",
+          "episode_number": "",
+          "start_time": "10:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Richard Stead",
+          "show_description": "Entertainment through the afternoon and updates on the day's events with Richard.",
+          "show_logo": "http://img.freeviewplay.net/e9484aa838044101344dc272428919a93?w=800",
+          "episode_number": "",
+          "start_time": "14:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Hope and Glory",
+          "show_description": "We're celebrating Lincolnshire sport across the county.",
+          "show_logo": "http://img.freeviewplay.net/e68b9b3139d061bd84301e78b46204042?w=800",
+          "episode_number": "",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Hope and Glory: Pre-match",
+          "show_description": "All the build-up and interviews ahead of Lincoln City and our other team's matches.",
+          "show_logo": "http://img.freeviewplay.net/e2b74320ec5b3c784f2935335d6a88842?w=800",
+          "episode_number": "",
+          "start_time": "19:00",
+          "end_time": "19:45"
+        },
+        {
+          "show_name": "Hope and Glory: Live",
+          "show_description": "Coverage of Forest Green Rovers v Boston United in the National League. Kick-off at 7.45pm.",
+          "show_logo": "http://img.freeviewplay.net/efcdc2aec582cd1ea3714039325322f04?w=800",
+          "episode_number": "",
+          "start_time": "19:45",
+          "end_time": "21:45"
+        },
+        {
+          "show_name": "Hope and Glory: Analysis",
+          "show_description": "Match reports, manager and player interviews, and your views on today's games.",
+          "show_logo": "http://img.freeviewplay.net/e0647a252b86562fdc8d5e03565189349?w=800",
+          "episode_number": "",
+          "start_time": "21:45",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "The Late Show",
+          "show_description": "Becky Want with late-night conversation, amazing stories and the soundtrack to your night.",
+          "show_logo": "http://img.freeviewplay.net/e8ef4199b4b86ef99ff71dacc8df9ffe3?w=800",
+          "episode_number": "",
+          "start_time": "22:30",
           "end_time": "01:00"
         }
       ]

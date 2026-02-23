@@ -3,75 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Newcastle.png",
   "schedule": [
     {
-      "date": "22 February 2026",
-      "programmes": [
-        {
-          "show_name": "As Radio 5 Live",
-          "show_description": "A simulcast with the BBC's news and sport network Radio 5 Live",
-          "show_logo": "",
-          "episode_number": "",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Gilly Hope",
-          "show_description": "",
-          "show_logo": "",
-          "episode_number": "",
-          "start_time": "06:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Garden Mania",
-          "show_description": "",
-          "show_logo": "",
-          "episode_number": "",
-          "start_time": "09:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Kelly Scott",
-          "show_description": "",
-          "show_logo": "",
-          "episode_number": "",
-          "start_time": "10:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Total Sport",
-          "show_description": "",
-          "show_logo": "",
-          "episode_number": "",
-          "start_time": "13:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "The Make a Difference Show",
-          "show_description": "",
-          "show_logo": "",
-          "episode_number": "",
-          "start_time": "16:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Dotun Adebayo",
-          "show_description": "Community reports from around the country",
-          "show_logo": "",
-          "episode_number": "",
-          "start_time": "18:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The Late Show",
-          "show_description": "",
-          "show_logo": "",
-          "episode_number": "",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "23 February 2026",
       "programmes": [
         {
@@ -128,6 +59,59 @@
           "show_logo": "",
           "episode_number": "",
           "start_time": "22:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "24 February 2026",
+      "programmes": [
+        {
+          "show_name": "As Radio 5 Live",
+          "show_description": "A simulcast with the BBC's news and sport network Radio 5 Live",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Kelly Scott",
+          "show_description": "",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "06:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Anna Foster",
+          "show_description": "",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "10:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Scott Makin",
+          "show_description": "",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "14:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Total Sport",
+          "show_description": "",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "18:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "The Late Show",
+          "show_description": "",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "22:30",
           "end_time": "01:00"
         }
       ]
