@@ -21,7 +21,7 @@ from zoneinfo import ZoneInfo
 EPG_URL      = "https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml"
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SCHEDULE_DIR = os.path.join(PROJECT_ROOT, "data", "schedule")
-FILTER_FILE  = os.path.join(PROJECT_ROOT, "filter.txt")  # <-- Added filter file path
+FILTER_FILE  = os.path.join(os.path.dirname(os.path.abspath(__file__)), "filter.txt")
 UK_TZ        = ZoneInfo("Europe/London")   # auto-handles GMT & BST
 # ─────────────────────────────────────────────────────────────────────────────
 
@@ -85,27 +85,44 @@ def safe_filename(name: str) -> str:
     return name.strip()
 
 
-def load_channel_filter(filepath: str) -> set[str]:
-    """Load target channel names from filter.txt (case-insensitive)."""
-    if not os.path.exists(filepath):
-        return set()
-    with open(filepath, "r", encoding="utf-8") as f:
-        return {line.strip().lower() for line in f if line.strip()}
+def load_filter() -> set[str]:
+    """
+    Read filter.txt and return a set of allowed channel display-names.
+    Each line in the file is one channel name, e.g. 'Channel 5 HD'.
+    """
+    if not os.path.exists(FILTER_FILE):
+        print("❌ filter.txt not found — please create it with one channel name per line.")
+        raise SystemExit(1)
+
+    allowed = set()
+    with open(FILTER_FILE, encoding="utf-8") as f:
+        for line in f:
+            name = line.strip()
+            if name:
+                allowed.add(name)
+
+    if not allowed:
+        print("❌ filter.txt is empty — add at least one channel name.")
+        raise SystemExit(1)
+
+    return allowed
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
-    today, tomorrow  = get_target_dates()
-    target_dates     = {today, tomorrow}
-    allowed_channels = load_channel_filter(FILTER_FILE)  # <-- Load the filter
+    today, tomorrow = get_target_dates()
+    target_dates    = {today, tomorrow}
 
     print(f"\n📺 UK EPG Scraper")
-    print(f"   Targeting: {today} and {tomorrow} (UK time)")
-    if allowed_channels:
-        print(f"   Filter: Active ({len(allowed_channels)} channels loaded from filter.txt)\n")
-    else:
-        print(f"   Filter: None (filter.txt not found or empty, processing all)\n")
+    print(f"   Targeting: {today} and {tomorrow} (UK time)\n")
+
+    # ── Load channel filter ───────────────────────────────────────────────────
+    allowed_channels = load_filter()
+    print(f"🔍 Filtering to {len(allowed_channels)} channel(s) from filter.txt:")
+    for name in sorted(allowed_channels):
+        print(f"   • {name}")
+    print()
 
     # ── Fetch XML ─────────────────────────────────────────────────────────────
     print("⬇  Fetching EPG XML …")
@@ -121,25 +138,31 @@ def main():
     print(f"   Channels:   {len(channels)}")
     print(f"   Programmes: {len(programs)}\n")
 
-    # ── Build channel map {id → {name, logo}} ─────────────────────────────────
+    # ── Build channel map {id → {name, logo}} — only allowed channels ─────────
     channel_map: dict[str, dict] = {}
     for ch in channels:
         ch_id = (ch.get("id") or "").strip()
         if not ch_id:
             continue
-        
-        name_el      = ch.find("display-name")
-        channel_name = (name_el.text or ch_id).strip() if name_el is not None else ch_id
+        name_el = ch.find("display-name")
+        icon_el = ch.find("icon")
+        ch_name = (name_el.text or ch_id).strip() if name_el is not None else ch_id
 
-        # <-- Apply the filter logic here
-        if allowed_channels and channel_name.lower() not in allowed_channels:
+        # Skip channels not in filter.txt
+        if ch_name not in allowed_channels:
             continue
 
-        icon_el = ch.find("icon")
         channel_map[ch_id] = {
-            "channel_name": channel_name,
+            "channel_name": ch_name,
             "channel_logo": (icon_el.get("src") or "") if icon_el is not None else "",
         }
+
+    # Warn about any channel names in filter.txt that weren't found in the EPG
+    found_names = {info["channel_name"] for info in channel_map.values()}
+    for name in sorted(allowed_channels - found_names):
+        print(f"  ⚠  '{name}' not found in EPG — check the name matches exactly.")
+
+    print(f"   Matched {len(channel_map)} channel(s) in EPG\n")
 
     # ── Collect programmes per channel, grouped by UK date ───────────────────
     # schedule[channel_id][date_key] = [ ...entries ]
@@ -150,8 +173,6 @@ def main():
         start_raw = prog.get("start") or ""
         stop_raw  = prog.get("stop")  or ""
 
-        # Notice this will inherently skip programmes for filtered-out channels 
-        # because those ch_ids were never added to channel_map
         if not ch_id or ch_id not in channel_map or not start_raw:
             continue
 
@@ -208,11 +229,8 @@ def main():
         days = []
         for date_key in sorted(ch_schedule.keys()):
             progs = ch_schedule[date_key]
-            # Use the first programme's UTC start to get the formatted date label
             days.append({
                 "date":       fmt_date(parse_epg_time(
-                    # re-derive from date_key since we already have entries
-                    # just use date_key to build a noon UTC time for formatting
                     date_key.replace("-", "") + "120000 +0000"
                 )),
                 "programmes": progs,
