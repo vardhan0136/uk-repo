@@ -19,7 +19,9 @@ from zoneinfo import ZoneInfo
 
 # ── Config ────────────────────────────────────────────────────────────────────
 EPG_URL      = "https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml"
-SCHEDULE_DIR = os.path.join(os.path.dirname(__file__), "schedule")
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+SCHEDULE_DIR = os.path.join(PROJECT_ROOT, "data", "schedule")
+FILTER_FILE  = os.path.join(PROJECT_ROOT, "filter.txt")  # <-- Added filter file path
 UK_TZ        = ZoneInfo("Europe/London")   # auto-handles GMT & BST
 # ─────────────────────────────────────────────────────────────────────────────
 
@@ -83,14 +85,27 @@ def safe_filename(name: str) -> str:
     return name.strip()
 
 
+def load_channel_filter(filepath: str) -> set[str]:
+    """Load target channel names from filter.txt (case-insensitive)."""
+    if not os.path.exists(filepath):
+        return set()
+    with open(filepath, "r", encoding="utf-8") as f:
+        return {line.strip().lower() for line in f if line.strip()}
+
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
-    today, tomorrow = get_target_dates()
-    target_dates    = {today, tomorrow}
+    today, tomorrow  = get_target_dates()
+    target_dates     = {today, tomorrow}
+    allowed_channels = load_channel_filter(FILTER_FILE)  # <-- Load the filter
 
     print(f"\n📺 UK EPG Scraper")
-    print(f"   Targeting: {today} and {tomorrow} (UK time)\n")
+    print(f"   Targeting: {today} and {tomorrow} (UK time)")
+    if allowed_channels:
+        print(f"   Filter: Active ({len(allowed_channels)} channels loaded from filter.txt)\n")
+    else:
+        print(f"   Filter: None (filter.txt not found or empty, processing all)\n")
 
     # ── Fetch XML ─────────────────────────────────────────────────────────────
     print("⬇  Fetching EPG XML …")
@@ -112,10 +127,17 @@ def main():
         ch_id = (ch.get("id") or "").strip()
         if not ch_id:
             continue
-        name_el = ch.find("display-name")
+        
+        name_el      = ch.find("display-name")
+        channel_name = (name_el.text or ch_id).strip() if name_el is not None else ch_id
+
+        # <-- Apply the filter logic here
+        if allowed_channels and channel_name.lower() not in allowed_channels:
+            continue
+
         icon_el = ch.find("icon")
         channel_map[ch_id] = {
-            "channel_name": (name_el.text or ch_id).strip() if name_el is not None else ch_id,
+            "channel_name": channel_name,
             "channel_logo": (icon_el.get("src") or "") if icon_el is not None else "",
         }
 
@@ -128,6 +150,8 @@ def main():
         start_raw = prog.get("start") or ""
         stop_raw  = prog.get("stop")  or ""
 
+        # Notice this will inherently skip programmes for filtered-out channels 
+        # because those ch_ids were never added to channel_map
         if not ch_id or ch_id not in channel_map or not start_raw:
             continue
 
