@@ -3,251 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/rte-one-plus-ie.png",
   "schedule": [
     {
-      "date": "23 February 2026",
-      "programmes": [
-        {
-          "show_name": "The Week In Politics",
-          "show_description": "Reflections on the political week and current affairs, combined with interviews and discussion from journalists, senators and TDs.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4791a1a0-7764-4984-bb7e-a4c56c0fc902/cover",
-          "episode_number": "S2026E7",
-          "start_time": "00:00",
-          "end_time": "01:05"
-        },
-        {
-          "show_name": "The Tommy Tiernan Show",
-          "show_description": "Tommy will once again come face-to-face with guests, totally unprepared and without prior knowledge of who is coming on the show.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f71947ac-06c8-42de-9aaf-e9e917f6adfe/cover",
-          "episode_number": "S10E8",
-          "start_time": "01:05",
-          "end_time": "02:15"
-        },
-        {
-          "show_name": "Playing Nice",
-          "show_description": "Pete and Maddie begin the fight to keep Theo. It's expensive and painful. The constant dredging up of their past starts to damage their relationship. Can they survive?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/87a166bb-192a-372b-af86-e78ae8a5a042/cover",
-          "episode_number": "S1E2",
-          "start_time": "02:15",
-          "end_time": "03:15"
-        },
-        {
-          "show_name": "Hitler: A Life in Pictures",
-          "show_description": "Once elected as Chancellor in 1933, Hitler and his party used the latest propaganda techniques of photography, film and radio to mould Germany in their own image.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8e293ac7-c3cf-3e92-b828-1e03c66593f9/cover",
-          "episode_number": "S1E2",
-          "start_time": "03:15",
-          "end_time": "04:05"
-        },
-        {
-          "show_name": "Euronews",
-          "show_description": "The latest international news headlines.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ec533e72-2791-4271-8dc7-cc991a43bd00/cover",
-          "episode_number": "",
-          "start_time": "04:05",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Euronews",
-          "show_description": "The latest international news headlines.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e6975983-d86b-43e1-8ced-07619f642ced/cover",
-          "episode_number": "",
-          "start_time": "07:00",
-          "end_time": "07:40"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Buying goods from the comfort of home.",
-          "show_logo": "",
-          "episode_number": "",
-          "start_time": "07:40",
-          "end_time": "08:15"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Buying goods from the comfort of home.",
-          "show_logo": "",
-          "episode_number": "",
-          "start_time": "08:15",
-          "end_time": "08:50"
-        },
-        {
-          "show_name": "Today",
-          "show_description": "Daily magazine show featuring entertainment and celebrity news, consumer advice, and Ireland's biggest giveaways.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ae7b2311-eb43-48c4-a3ce-06273f45408c/cover",
-          "episode_number": "S2026E34",
-          "start_time": "08:50",
-          "end_time": "10:50"
-        },
-        {
-          "show_name": "The Drew Barrymore Show",
-          "show_description": "Michael Symon is joining Drew in the kitchen and showing her an easy $20 dinner.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bb9dd679-e121-4adb-8aea-bb962de7a2f1/cover",
-          "episode_number": "S5E247",
-          "start_time": "10:50",
-          "end_time": "11:15"
-        },
-        {
-          "show_name": "The Drew Barrymore Show",
-          "show_description": "Elizabeth Olsen is telling Drew all about her latest film, 'The Assessment.'",
-          "show_logo": "https://images.metadata.sky.com/pd-image/685086a6-52c1-44e8-a148-838db0bad248/cover",
-          "episode_number": "S5E250",
-          "start_time": "11:15",
-          "end_time": "11:40"
-        },
-        {
-          "show_name": "The Kelly Clarkson Show",
-          "show_description": "Kelly is joined by Jason Derulo, Nora Fatehi and Jason Isaacs.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a9677b44-42ca-480f-b64a-ce9a88a37fa0/cover",
-          "episode_number": "S6E103",
-          "start_time": "11:40",
-          "end_time": "12:35"
-        },
-        {
-          "show_name": "Father Brown",
-          "show_description": "The sleuthing priest investigates the mysterious death of a beekeeper. Nigel Planer guest stars in the 1950s-set murder mystery series.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a42399ee-b6a8-410d-b03f-07c9fa65ddd8/cover",
-          "episode_number": "S8E2",
-          "start_time": "12:35",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "10 Things to Know About...",
-          "show_description": "Could the solution to feeding the world in a more sustainable way be the humble insect? Kathriona Devereux and Jonathan McCrea investigate.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/baabc4d3-131a-4fb2-98e8-1d43bb467985/cover",
-          "episode_number": "S8E1",
-          "start_time": "13:30",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "RTÉ News: One O'Clock",
-          "show_description": "The latest national and international headlines.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2ec40fc9-3c85-4183-a872-fe37bdd497ec/cover",
-          "episode_number": "",
-          "start_time": "14:00",
-          "end_time": "14:30"
-        },
-        {
-          "show_name": "Home and Away",
-          "show_description": "In the red glow of emergency lights, surrounded by debris and the eerie silence that follows disaster... a hand moves.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/45b7c2c5-a5e6-424c-8306-79fd794183f7/cover",
-          "episode_number": "S39E1",
-          "start_time": "14:30",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Shortland Street",
-          "show_description": "TK doesn't like looking in the mirror. Cece sets some boundaries. Vili has a guilty conscience.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/79cceb0b-bffd-45c2-9181-d792c247fc64/cover",
-          "episode_number": "S31E105",
-          "start_time": "15:00",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Fair City",
-          "show_description": "Gwen faces rejection when Lily turns the tables and forces her to come clean about being her daughter. Alex and Ellie reunite but agree to take it slow.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1d51de64-0b62-4faf-bef7-edd1da7505af/cover",
-          "episode_number": "S2026E8",
-          "start_time": "15:30",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Fair City",
-          "show_description": "While Gwen remains determined to ignore Lily, Lily has to decide whether or not to give up on Gwen. As the trial looms, Kira's effort to help an isolated Mondo backfires.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f81a2ff9-c8d2-4e1b-ad62-ba15d7935957/cover",
-          "episode_number": "S2026E9",
-          "start_time": "16:00",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "Today",
-          "show_description": "Daily magazine show featuring entertainment and celebrity news, consumer advice, and Ireland's biggest giveaways.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0e6c6c0d-dffe-47d7-bb66-9cdfe6c56405/cover",
-          "episode_number": "S2026E35",
-          "start_time": "16:30",
-          "end_time": "18:40"
-        },
-        {
-          "show_name": "Nuacht RTÉ",
-          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8f029543-7ed4-4b7d-a9b0-cfaa36c6ce74/cover",
-          "episode_number": "",
-          "start_time": "18:40",
-          "end_time": "18:55"
-        },
-        {
-          "show_name": "RTÉ News with Signing",
-          "show_description": "The latest national and international headlines with Irish Sign Language (ISL). (SL)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f341ac89-fbaf-4cf5-a0da-7ad909866cae/cover",
-          "episode_number": "",
-          "start_time": "18:55",
-          "end_time": "19:01"
-        },
-        {
-          "show_name": "RTÉ News: Six One",
-          "show_description": "The latest national and international headlines.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d81c8a42-17c8-42e1-97bf-d61afc3e77d5/cover",
-          "episode_number": "",
-          "start_time": "19:01",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Nationwide",
-          "show_description": "Bláthnaid Ní Chofaigh presents this episode focuing on the challenge of housing and the ongoing efforts to help people find a home.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/45b20a09-e383-443f-8d18-9451ba42f055/cover",
-          "episode_number": "S2026E21",
-          "start_time": "20:00",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "EastEnders",
-          "show_description": "The Brannings have an eventful Sunday lunch, Callum faces a moral dilemma, and Ravi applies for a job at the car lot.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7aab517b-fd83-445a-b424-11e8d7eb3cdc/cover",
-          "episode_number": "S2026E30",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Scéalta na Lochanna",
-          "show_description": "Documentary celebrating the beauty, history, culture and wildlife of Lough Neagh and Lough Corrib, reflecting on the impact humans are having on their ecology.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7de9eaaa-c997-47a4-a3eb-b4942f861545/cover",
-          "episode_number": "S1E3",
-          "start_time": "21:00",
-          "end_time": "21:30"
-        },
-        {
-          "show_name": "Saol Na Feirme",
-          "show_description": "Goat farmer Siobhán makes hard cheese for the first time in five years. / Tá an feirmeoir gabhar Siobhán ag déanamh cáis chrua den chéad uair le cúig bliana.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c7376bc0-a6c5-4fd2-852d-5ba0304a83ec/cover",
-          "episode_number": "S2E4",
-          "start_time": "21:30",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "RTÉ News: Nine O'Clock",
-          "show_description": "The latest national and international headlines.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c38c99fc-12b4-4630-9a70-17b64187d308/cover",
-          "episode_number": "",
-          "start_time": "22:00",
-          "end_time": "22:35"
-        },
-        {
-          "show_name": "CrimeCall",
-          "show_description": "Presenter Carla O'Brien with reconstructions, CCTV footage and live studio appeals for information from the public, to help with Garda investigations.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3dcea205-5ca9-4d2a-b8a8-aba354d98888/cover",
-          "episode_number": "S2025E6",
-          "start_time": "22:35",
-          "end_time": "23:35"
-        },
-        {
-          "show_name": "Swindlers",
-          "show_description": "The Julia Holmes Story: Tyrone woman Julia Holmes swindled millions from multiple victims across three continents, over four decades using 40 aliases.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/459a1d16-f820-4e9a-a0a3-9c80783b3723/cover",
-          "episode_number": "S1E1",
-          "start_time": "23:35",
-          "end_time": "00:40"
-        }
-      ]
-    },
-    {
       "date": "24 February 2026",
       "programmes": [
         {
@@ -489,6 +244,251 @@
           "episode_number": "S6E6",
           "start_time": "23:15",
           "end_time": "00:10"
+        }
+      ]
+    },
+    {
+      "date": "25 February 2026",
+      "programmes": [
+        {
+          "show_name": "Annika",
+          "show_description": "Annika reflects on Jekyll and Hyde as she and the team investigate a Scottish millionaire found dead in his own shark tank.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/dfe92710-4f2b-363d-8ecf-eccb8a947717/cover",
+          "episode_number": "S2E3",
+          "start_time": "00:10",
+          "end_time": "01:15"
+        },
+        {
+          "show_name": "Silent Witness",
+          "show_description": "When more passengers become infected on the plane, Nikki and the Lyell team must work to uncover the truth and find a cure before it's too late.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bcbbf0de-76c1-4988-835e-56f2bd8d585e/cover",
+          "episode_number": "S28E8",
+          "start_time": "01:15",
+          "end_time": "02:15"
+        },
+        {
+          "show_name": "Prime Time",
+          "show_description": "An in-depth analysis of current issues and topical reports.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cfe905ad-5a61-4434-8666-99e0dcbd417a/cover",
+          "episode_number": "S2026E14",
+          "start_time": "02:15",
+          "end_time": "02:55"
+        },
+        {
+          "show_name": "Telly Bingo",
+          "show_description": "National lottery game show.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ce5ebeaf-8aae-4abd-b0c7-c45831c85339/cover",
+          "episode_number": "",
+          "start_time": "02:55",
+          "end_time": "03:05"
+        },
+        {
+          "show_name": "The Kelly Clarkson Show",
+          "show_description": "With Denise Richards and her daughter Lola Sheen.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0e5c696f-6770-4880-af00-162fb31cb7cb/cover",
+          "episode_number": "S6E104",
+          "start_time": "03:05",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Euronews",
+          "show_description": "The latest international news headlines.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/20f39c8e-39a0-4af8-af94-3bdaff9b40a3/cover",
+          "episode_number": "",
+          "start_time": "04:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Euronews",
+          "show_description": "The latest international news headlines.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1b1799b3-ea71-4082-93bf-af1004f0c931/cover",
+          "episode_number": "",
+          "start_time": "07:00",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Buying goods from the comfort of home.",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "07:30",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Buying goods from the comfort of home.",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "08:00",
+          "end_time": "08:35"
+        },
+        {
+          "show_name": "Today",
+          "show_description": "Daily magazine show featuring entertainment and celebrity news, consumer advice, and Ireland's biggest giveaways.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a01b17f4-d6dd-4348-b638-75028705c131/cover",
+          "episode_number": "S2026E36",
+          "start_time": "08:35",
+          "end_time": "10:35"
+        },
+        {
+          "show_name": "The Drew Barrymore Show",
+          "show_description": "Valerie Bertinelli is joining Drew and Ross to cover the latest news. Connie Britton is telling Drew about her upcoming movie 'The Life List.'",
+          "show_logo": "https://images.metadata.sky.com/pd-image/03242b51-aa36-4441-a4de-7f23ea6302d1/cover",
+          "episode_number": "S5E251",
+          "start_time": "10:35",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "The Drew Barrymore Show",
+          "show_description": "Drew is sitting down with 'Teen Mom' cast members Briana DeJesus and Mackenzie McKee.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/28399e1d-e52d-4377-9ef7-275046cefb66/cover",
+          "episode_number": "S5E253",
+          "start_time": "11:00",
+          "end_time": "11:25"
+        },
+        {
+          "show_name": "The Kelly Clarkson Show",
+          "show_description": "Kelly welcomes comedy superstar Kevin Hart and the always-charming Josh Groban to help her celebrate the 1000th episode.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d0019b56-7036-4b79-bc47-867ebedca426/cover",
+          "episode_number": "S6E105",
+          "start_time": "11:25",
+          "end_time": "12:15"
+        },
+        {
+          "show_name": "Keeping Up Appearances",
+          "show_description": "Hyacinth's plans to take Daddy on a picnic soon backfire. Suburban comedy, starring Patricia Routledge, Clive Swift and Geoffrey Hughes.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/65c238ce-3223-47df-9d20-e152663533f5/cover",
+          "episode_number": "S2E10",
+          "start_time": "12:15",
+          "end_time": "12:50"
+        },
+        {
+          "show_name": "Leaders' Questions",
+          "show_description": "Live coverage of Question Time in the Dáil and the latest reactions to political developments.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/93b3a30a-935f-4275-844c-a5f5c22a3090/cover",
+          "episode_number": "S2026E12",
+          "start_time": "12:50",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "RTÉ News: One O'Clock",
+          "show_description": "The latest national and international headlines.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/73268017-c8e1-43b0-906e-6a88efcd0708/cover",
+          "episode_number": "",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "Home and Away",
+          "show_description": "Alf approaches a small circle of lifeguards, distressed to find they've gathered around Remi, who's lying on the ground unconscious.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6db4b78b-1129-4cb7-972f-8829ad6d5b67/cover",
+          "episode_number": "S39E3",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Shortland Street",
+          "show_description": "TK's challenged not to give in. Chris plays the long game. Vili refuses to face reality.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d022644c-dfb5-4966-be11-d1aa40d86f04/cover",
+          "episode_number": "S31E107",
+          "start_time": "15:00",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "Fair City",
+          "show_description": "Secrets are revealed when Gwen and Lily have a no holds barred confrontation. As Victor begins to succeed with his anti Carol Cabs strategy, Carol switches to survival mode.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b752031c-a361-4fb1-ada4-83226bcc64de/cover",
+          "episode_number": "S2026E10",
+          "start_time": "15:30",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "EastEnders",
+          "show_description": "Johnny tries to resolve an escalating situation, Penny is torn over a life-changing decision, and Denzel gets an idea of how to help Patrick.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6bb868f8-e5d3-4604-953b-f69a20b79988/cover",
+          "episode_number": "S2026E31",
+          "start_time": "16:00",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "Today",
+          "show_description": "Daily magazine show featuring entertainment and celebrity news, consumer advice, and Ireland's biggest giveaways.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5890baa0-303f-4662-8dea-0622e64794e5/cover",
+          "episode_number": "S2026E37",
+          "start_time": "16:30",
+          "end_time": "18:40"
+        },
+        {
+          "show_name": "Nuacht RTÉ",
+          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/06744bfd-1182-4e21-83dc-9d7f18c96464/cover",
+          "episode_number": "",
+          "start_time": "18:40",
+          "end_time": "18:55"
+        },
+        {
+          "show_name": "RTÉ News with Signing",
+          "show_description": "The latest national and international headlines with Irish Sign Language (ISL). (SL)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5d7fb035-5939-451e-aade-801c4c269730/cover",
+          "episode_number": "",
+          "start_time": "18:55",
+          "end_time": "19:01"
+        },
+        {
+          "show_name": "RTÉ News: Six One",
+          "show_description": "The latest national and international headlines.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0284175c-c160-4159-b473-816a47db6da0/cover",
+          "episode_number": "",
+          "start_time": "19:01",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Nationwide",
+          "show_description": "The team explores alternative ways to control invasive plant species. Presented by Anne Cassin.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cddcc88c-58aa-46e8-a774-5f86af73d2eb/cover",
+          "episode_number": "S2026E22",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "EastEnders",
+          "show_description": "Ravi loses control after a difficult day, Johnny wrestles with a situation, and Denzel puts a plan into action.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bbd3a146-ecf4-42df-bbde-a2c0946ae1c4/cover",
+          "episode_number": "S2026E32",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "At Your Service",
+          "show_description": "Legendary hoteliers Francis and John Brennan are back. In episode one, can they help a family of first-time hoteliers.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1d65ef61-8d87-3c43-8087-c19b3da81d16/cover",
+          "episode_number": "S13E1",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "RTÉ News: Nine O'Clock",
+          "show_description": "The latest national and international headlines.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/114d2d7c-e1e4-44f1-bb2c-14e79b1dda43/cover",
+          "episode_number": "",
+          "start_time": "22:00",
+          "end_time": "22:35"
+        },
+        {
+          "show_name": "Swindlers",
+          "show_description": "The Thomas Byrne Affair: A look at how Thomas Byrne stole 52 million from the banks and took ownership of 12 of his victims houses.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4be37ec9-1d22-4af3-b756-ff1e7e86642a/cover",
+          "episode_number": "S1E2",
+          "start_time": "22:35",
+          "end_time": "23:35"
+        },
+        {
+          "show_name": "The Case I Can't Forget",
+          "show_description": "Garda detectives uncover the sexual slavery and human trafficking taking place in Irish market towns as they describe the complex investigation from Nigeria to Mullingar.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9bbaf7cb-0dce-3b1c-9e09-e750b26916ba/cover",
+          "episode_number": "S4E4",
+          "start_time": "23:35",
+          "end_time": "00:40"
         }
       ]
     }

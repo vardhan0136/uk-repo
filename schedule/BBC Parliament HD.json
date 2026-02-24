@@ -3,171 +3,78 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-parliament-uk.png",
   "schedule": [
     {
-      "date": "23 February 2026",
+      "date": "24 February 2026",
       "programmes": [
-        {
-          "show_name": "Northern Ireland Office Questions",
-          "show_description": "Coverage of questions in the House of Commons to Hilary Benn, the Northern Ireland secretary, and his team of ministers on Wednesday 11 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/aafd8523-e516-4291-b15b-670d31d79cd6/cover",
-          "episode_number": "",
-          "start_time": "01:00",
-          "end_time": "01:25"
-        },
-        {
-          "show_name": "Energy Security and Net Zero Questions",
-          "show_description": "Coverage of questions in the House of Commons to Ed Miliband, the energy security and net zero secretary, and his team of ministers on Tuesday 10 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d79af1a4-2a5a-4f6c-bf73-6ab0b2f86585/cover",
-          "episode_number": "",
-          "start_time": "01:25",
-          "end_time": "02:35"
-        },
-        {
-          "show_name": "Home Office Questions",
-          "show_description": "Coverage of questions in the House of Commons to Shabana Mahmood, the home secretary, and her team of ministers on Monday 9 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e925ac13-dfef-4c3d-89fe-3d9858d611ca/cover",
-          "episode_number": "",
-          "start_time": "02:35",
-          "end_time": "03:40"
-        },
-        {
-          "show_name": "Prime Minister's Questions",
-          "show_description": "Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 11 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8351c2a1-c101-48af-af1f-abf73a3b27b4/cover",
-          "episode_number": "",
-          "start_time": "03:40",
-          "end_time": "04:15"
-        },
-        {
-          "show_name": "Scottish First Minister's Questions",
-          "show_description": "Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 19 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4ac4473c-fea5-4a7b-81b3-374d4df0aa17/cover",
-          "episode_number": "",
-          "start_time": "04:15",
-          "end_time": "05:05"
-        },
-        {
-          "show_name": "Welsh First Minister's Questions",
-          "show_description": "Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 10 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7833ba77-cfc9-49f0-abfb-9acb69bd8bff/cover",
-          "episode_number": "",
-          "start_time": "05:05",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Westminster Hall",
-          "show_description": "Proceedings in Westminster Hall including a select committee statement on the fifth report of the Environment, Food and Rural Affairs committee, from Thursday 12 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0e1775b2-2739-44f9-a8ad-531a092d2aac/cover",
-          "episode_number": "",
-          "start_time": "06:00",
-          "end_time": "08:30"
-        },
-        {
-          "show_name": "Scottish Parliament - Urgent Question",
-          "show_description": "Coverage of an urgent question in the Scottish Parliament on information given to the first minister on the Peter Murrell charges, on Wednesday 18 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/973e94cb-400f-4e13-83c7-8951cff5aa7d/cover",
-          "episode_number": "",
-          "start_time": "08:30",
-          "end_time": "09:05"
-        },
-        {
-          "show_name": "Northern Ireland Assembly -...",
-          "show_description": "...Executive Office Questions. Questions in Stormont to the Northern Ireland executive, with the first minister Michelle O'Neill, on Monday 16 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ce3b9387-b8fe-441c-9132-2b2685286aec/cover",
-          "episode_number": "",
-          "start_time": "09:05",
-          "end_time": "09:50"
-        },
-        {
-          "show_name": "Welsh First Minister's Questions",
-          "show_description": "Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 10 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7833ba77-cfc9-49f0-abfb-9acb69bd8bff/cover",
-          "episode_number": "",
-          "start_time": "09:50",
-          "end_time": "10:40"
-        },
-        {
-          "show_name": "Scottish First Minister's Questions",
-          "show_description": "Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 19 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4ac4473c-fea5-4a7b-81b3-374d4df0aa17/cover",
-          "episode_number": "",
-          "start_time": "10:40",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Prime Minister's Questions",
-          "show_description": "Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 11 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8351c2a1-c101-48af-af1f-abf73a3b27b4/cover",
-          "episode_number": "",
-          "start_time": "11:30",
-          "end_time": "12:05"
-        },
-        {
-          "show_name": "Northern Ireland Assembly -...",
-          "show_description": "...Greenhouse Gas Emissions Scheme Motion. Coverage of a debate in the Northern Ireland Assembly on a motion covering the greenhouse gas emissions trading scheme, on Monday 16 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/57ccffdd-8768-43e3-b268-692e3d23c018/cover",
-          "episode_number": "",
-          "start_time": "12:05",
-          "end_time": "12:20"
-        },
-        {
-          "show_name": "Lords Environment Committee on Drought Preparedness",
-          "show_description": "The Lords Environment and Climate Change select committee session on drought preparedness.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a0eb8685-59b0-4cd8-9475-fa2b4cbd6163/cover",
-          "episode_number": "",
-          "start_time": "12:20",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Live Northern Ireland Assembly - Economy Questions",
-          "show_description": "Questions in the Northern Ireland Assembly to the economy minister, Caoimhe Archibald, on Monday 23 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b0ca7b6a-f7bb-46f3-a87a-156b2e7920f2/cover",
-          "episode_number": "",
-          "start_time": "14:00",
-          "end_time": "14:30"
-        },
-        {
-          "show_name": "Live Housing, Communities and...",
-          "show_description": "...Local Government Questions. Coverage of questions to Steve Reed on Monday 23 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e5fcdf83-495f-47ff-83fc-39043738fbad/cover",
-          "episode_number": "",
-          "start_time": "14:30",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Live House of Commons",
-          "show_description": "Coverage of the day's proceedings in the House of Commons including the debate on all remaining stages of the Industry and Exports (Financial Assistance) Bill.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5c8e8d55-8b6c-4a5f-8f3d-d5cfb0f701dd/cover",
-          "episode_number": "",
-          "start_time": "15:30",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "Northern Ireland Assembly - Economy Questions",
-          "show_description": "Questions in the Northern Ireland Assembly to the economy minister, Caoimhe Archibald, on Monday 23 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b0ca7b6a-f7bb-46f3-a87a-156b2e7920f2/cover",
-          "episode_number": "",
-          "start_time": "22:30",
-          "end_time": "23:15"
-        },
         {
           "show_name": "Lords Questions",
           "show_description": "Questions in the Lords covering global biodiversity loss, the Free Speech Complaints Scheme run by the Office for Students, and more, on Monday 23 February.",
           "show_logo": "https://images.metadata.sky.com/pd-image/743ee30d-c6e3-41cc-ba69-63319f62b0eb/cover",
           "episode_number": "",
-          "start_time": "23:15",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
-      "date": "24 February 2026",
-      "programmes": [
+          "start_time": "00:10",
+          "end_time": "00:50"
+        },
         {
-          "show_name": "House of Lords",
-          "show_description": "Business in the House of Lords including the report stage of the Medical Training (Prioritisation) Bill, on Monday 23 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e18d73f3-f163-4e78-bd29-768b566a6f02/cover",
+          "show_name": "House of Lords - US Tariffs Private Notice Question",
+          "show_description": "The private notice question on the announcement of new US global tariffs set at 15%.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/54361d6d-5a11-43a2-8f59-92356b6888a9/cover",
           "episode_number": "",
-          "start_time": "00:00",
+          "start_time": "00:50",
+          "end_time": "01:10"
+        },
+        {
+          "show_name": "House of Lords - Medical Training Bill, Part 1",
+          "show_description": "Coverage of the debate in the House of Lords on the report stage of the Medical Training (Prioritisation) Bill, on Monday 23 February.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7a96dd32-3b8e-46e5-b301-4561e6fd927e/cover",
+          "episode_number": "",
+          "start_time": "01:10",
+          "end_time": "03:10"
+        },
+        {
+          "show_name": "House of Lords - Medical Training Bill, Part 2",
+          "show_description": "Coverage of the debate in the House of Lords on the report stage of the Medical Training (Prioritisation) Bill, on Monday 23 February.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/391c70a8-c901-4655-8082-b675f278ba67/cover",
+          "episode_number": "",
+          "start_time": "03:10",
+          "end_time": "03:45"
+        },
+        {
+          "show_name": "Lord Mandelson Documents Statement",
+          "show_description": "Coverage of the government's response to the Humble Address on the release of documents relating to the appointment of Lord Mandelson as UK ambassador to the US, on Monday 23 February.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2ce108fb-c4d1-491d-bbc9-0251ad047caa/cover",
+          "episode_number": "",
+          "start_time": "03:45",
+          "end_time": "04:15"
+        },
+        {
+          "show_name": "This is BBC Parliament",
+          "show_description": "The top political and parliamentary stories from BBC News.",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "04:15",
+          "end_time": "04:30"
+        },
+        {
+          "show_name": "Northern Ireland Assembly - Education Questions",
+          "show_description": "Coverage of questions in the Northern Ireland Assembly to the education minister, Paul Givan, on Monday 23 February.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6d91ce2e-d017-4033-97e4-884889986933/cover",
+          "episode_number": "",
+          "start_time": "04:30",
+          "end_time": "05:15"
+        },
+        {
+          "show_name": "Northern Ireland Assembly - Casement Park Debate",
+          "show_description": "A debate on creating a 'clawback' mechanism for public funds spent on Casement Park.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/47f8e3a2-a6da-4ee5-9dde-f536abd84b31/cover",
+          "episode_number": "",
+          "start_time": "05:15",
+          "end_time": "06:50"
+        },
+        {
+          "show_name": "Northern Ireland Assembly -...",
+          "show_description": "...NSMC Meeting on Special EU Programmes. Statement on the recent North South Ministerial Council meeting on Special EU Programmes.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b25753c2-cbd7-46f3-8371-e02ab2dafbe9/cover",
+          "episode_number": "",
+          "start_time": "06:50",
           "end_time": "07:00"
         },
         {
@@ -176,14 +83,38 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/e5fcdf83-495f-47ff-83fc-39043738fbad/cover",
           "episode_number": "",
           "start_time": "07:00",
-          "end_time": "08:00"
+          "end_time": "08:10"
         },
         {
-          "show_name": "House of Commons",
-          "show_description": "Highlights of proceedings in the House of Commons from Monday 23 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/87ef79bc-0524-4232-a184-c7fd1cf6aac8/cover",
+          "show_name": "Scottish Parliament - Topical Questions",
+          "show_description": "Topical questions on NHS Ayrshire and Arran, palliative care and Peter Murrell's trial.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1ab4fa5f-a4dc-4f21-8639-643dc8a56ca7/cover",
           "episode_number": "",
-          "start_time": "08:00",
+          "start_time": "08:10",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "Constitution, External Affairs and Culture Questions",
+          "show_description": "Questions in Holyrood to the constitution, external affairs and culture ministers in the Scottish government, on Wednesday 18 February.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b87c2759-570b-4596-99d3-61becaa888d3/cover",
+          "episode_number": "",
+          "start_time": "08:30",
+          "end_time": "08:55"
+        },
+        {
+          "show_name": "Scottish Parliament - Education and Skills Questions",
+          "show_description": "Coverage of questions in the Scottish parliament to the cabinet secretary for education and skills, Jenny Gilruth, on Thursday 19 February.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a0192df0-33c1-44a4-99bd-92553b7395ee/cover",
+          "episode_number": "",
+          "start_time": "08:55",
+          "end_time": "09:25"
+        },
+        {
+          "show_name": "Scottish Parliament - Urgent Question",
+          "show_description": "Coverage of an urgent question in the Scottish Parliament on information given to the first minister on the Peter Murrell charges, on Wednesday 18 February.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/06de0ebb-20b2-42a0-9830-45137fb1b19e/cover",
+          "episode_number": "",
+          "start_time": "09:25",
           "end_time": "10:00"
         },
         {
@@ -240,6 +171,91 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/5c8b1705-5d7b-497a-89a3-7460abc610e9/cover",
           "episode_number": "",
           "start_time": "23:35",
+          "end_time": "07:00"
+        }
+      ]
+    },
+    {
+      "date": "25 February 2026",
+      "programmes": [
+        {
+          "show_name": "Health and Social Care Questions",
+          "show_description": "Coverage of questions in the House of Commons to Wes Streeting, the health and social care secretary, and his team of ministers on Tuesday 24 February.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c6f8d61a-9db5-4514-b9e1-12ab3f7a1ff4/cover",
+          "episode_number": "",
+          "start_time": "07:00",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "House of Commons",
+          "show_description": "Highlights of proceedings in the House of Commons from Tuesday 24 February.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c88dd13e-e58d-4cc7-83ac-bf5ff6fda1a6/cover",
+          "episode_number": "",
+          "start_time": "08:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Live Health and Social Care...",
+          "show_description": "...Committee on Food and Weight Management. Coverage of the Health and Social Care select committee session on food and weight management, on Wednesday 25 February.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f7e699b8-1f35-45ec-998b-1b9c2615f0c4/cover",
+          "episode_number": "",
+          "start_time": "09:30",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Live Scotland Office Questions",
+          "show_description": "Coverage of questions in the House of Commons to Douglas Alexander, the Scottish secretary, and his team of ministers on Wednesday 25 February.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fd8f6938-3a60-496e-b0e3-7cccffc15a7b/cover",
+          "episode_number": "",
+          "start_time": "11:30",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Live Prime Minister's Questions",
+          "show_description": "Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 25 February.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6c8dae1e-8ea9-46a6-9e95-86c82d6a2fb2/cover",
+          "episode_number": "",
+          "start_time": "12:00",
+          "end_time": "12:35"
+        },
+        {
+          "show_name": "Live House of Commons",
+          "show_description": "Coverage of the day's proceedings in the House of Commons including a ten minute rule bill on chalk streams and a general debate on Ukraine, on Wednesday 25 February.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/48ab4e58-a350-4432-a796-83cadeb4c606/cover",
+          "episode_number": "",
+          "start_time": "12:35",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Live House of Lords",
+          "show_description": "Coverage of proceedings in the House of Lords including the first day of debate on the report stage of the Crime and Policing Bill, on Wednesday 25 February.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/dbb02c23-e382-4f97-b52c-3c6fa04200a4/cover",
+          "episode_number": "",
+          "start_time": "19:30",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Prime Minister's Questions",
+          "show_description": "Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 25 February.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6c8dae1e-8ea9-46a6-9e95-86c82d6a2fb2/cover",
+          "episode_number": "",
+          "start_time": "22:00",
+          "end_time": "22:35"
+        },
+        {
+          "show_name": "Lords Questions",
+          "show_description": "Questions in the Lords covering changes in the labour market, cyclist safety measures and on the reliance on China for components in British military equipment, on 25 February.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2b8a4397-4484-405c-8b93-ffa0b9fcb5f0/cover",
+          "episode_number": "",
+          "start_time": "22:35",
+          "end_time": "23:20"
+        },
+        {
+          "show_name": "House of Lords",
+          "show_description": "Business in the House of Lords including the debate on the third reading of the Medical Training (Prioritisation) Bill, on Wednesday 25 February.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8dd2095d-2388-4eda-ae42-7fe3f684afcf/cover",
+          "episode_number": "",
+          "start_time": "23:20",
           "end_time": "07:00"
         }
       ]

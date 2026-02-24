@@ -3,99 +3,22 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Scotland.png",
   "schedule": [
     {
-      "date": "23 February 2026",
-      "programmes": [
-        {
-          "show_name": "Radio Scotland Breakfast",
-          "show_description": "News from across Scotland and the world, plus sport, weather, entertainment and big name interviews.",
-          "show_logo": "",
-          "episode_number": "",
-          "start_time": "06:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Mornings",
-          "show_description": "Connie McLaughlin gets to the heart of the stories making the news.",
-          "show_logo": "",
-          "episode_number": "",
-          "start_time": "09:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Lunchtime Live",
-          "show_description": "News updates from Scotland and beyond, plus all your lunchtime sport, travel and weather.",
-          "show_logo": "",
-          "episode_number": "",
-          "start_time": "12:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Afternoons",
-          "show_description": "Michelle McManus brings you feelgood music and chat with celebrity guests.",
-          "show_logo": "",
-          "episode_number": "",
-          "start_time": "13:30",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Afternoons",
-          "show_description": "Len Pennie keeps you up to date on what's happening in the arts and culture scene across Scotland.",
-          "show_logo": "",
-          "episode_number": "",
-          "start_time": "15:30",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Drivetime",
-          "show_description": "Breaking down the day's talking points with comment and opinion, plus sport, travel and weather.",
-          "show_logo": "",
-          "episode_number": "",
-          "start_time": "16:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Get It On with Bryan Burnett",
-          "show_description": "It's the songs that have shunned the eco message - whether it's driving in the fast lane, heading off on a jetplane or life being a gas!  It's the songs that are not eco-friendly.",
-          "show_logo": "",
-          "episode_number": "",
-          "start_time": "18:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Vic Galloway",
-          "show_description": "New Scottish music from Dead Pony and The Twilight Sad, and classic tracks from Teenage Fanclub, Kraftwerk and Franz Ferdinand, plus another Slow Club and Parallel Lines.",
-          "show_logo": "",
-          "episode_number": "",
-          "start_time": "20:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Up Late",
-          "show_description": "The best company to end the day, with lively chat and some of your favourite tunes.",
-          "show_logo": "",
-          "episode_number": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "24 February 2026",
       "programmes": [
         {
           "show_name": "Scotcast",
-          "show_description": "Martin Geissler and the team bring you thoughtful conversation and expert analysis, covering the most interesting news stories in Scotland.",
+          "show_description": "Martin Geissler and Natalie Higgins speak to a key Alex Salmond adviser about the possible demise of the political party the ex-first minister founded.",
           "show_logo": "",
           "episode_number": "",
           "start_time": "00:00",
-          "end_time": "00:30"
+          "end_time": "00:25"
         },
         {
           "show_name": "As BBC Radio 5 Live",
           "show_description": "Joining Radio 5 Live.",
           "show_logo": "",
           "episode_number": "",
-          "start_time": "00:30",
+          "start_time": "00:25",
           "end_time": "06:00"
         },
         {
@@ -108,7 +31,7 @@
         },
         {
           "show_name": "Mornings",
-          "show_description": "Connie McLaughlin gets to the heart of the stories making the news.",
+          "show_description": "Lucy Whyte gets to the heart of the stories making the news.",
           "show_logo": "",
           "episode_number": "",
           "start_time": "09:00",
@@ -132,7 +55,7 @@
         },
         {
           "show_name": "Afternoons",
-          "show_description": "Len Pennie keeps you up to date on what's happening in the arts and culture scene across Scotland.",
+          "show_description": "Felipe Bustos Sierra on his new documentary, the Glasgow-set Everybody to Kenmure Street, which tells the story of an act of resistance by a community in Pollokshields.",
           "show_logo": "",
           "episode_number": "",
           "start_time": "15:30",
@@ -168,6 +91,99 @@
           "show_logo": "",
           "episode_number": "",
           "start_time": "22:30",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "25 February 2026",
+      "programmes": [
+        {
+          "show_name": "Scotcast",
+          "show_description": "Martin Geissler and the team bring you thoughtful conversation and expert analysis, covering the most interesting news stories in Scotland.",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "00:00",
+          "end_time": "00:30"
+        },
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "Joining Radio 5 Live.",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "00:30",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Radio Scotland Breakfast",
+          "show_description": "News from across Scotland and the world, plus sport, weather, entertainment and big name interviews.",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "06:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Mornings",
+          "show_description": "Lucy Whyte gets to the heart of the stories making the news.",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Lunchtime Live",
+          "show_description": "News updates from Scotland and beyond, plus all your lunchtime sport, travel and weather.",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "12:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Afternoons",
+          "show_description": "Michelle McManus brings you feelgood music and chat with celebrity guests.",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "13:30",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "Afternoons",
+          "show_description": "Len Pennie and Anna Welander discover listener content from BBC Upload.",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "15:30",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Drivetime",
+          "show_description": "Breaking down the day's talking points with comment and opinion, plus sport, travel and weather.",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "16:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Get It On with Bryan Burnett",
+          "show_description": "Bryan Burnett is looking for you to help create tonight's playlist. Whatever the theme chosen, all you need to do is come up with the songs to match.",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "18:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "The Quay Sessions",
+          "show_description": "Live sessions and archive performances from Pacific Quay alongside news of upcoming gigs and festivals with upfront releases and classic tracks from some of your favourite artists.",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "20:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Up Late",
+          "show_description": "The best company to end the day, with lively chat and some of your favourite tunes.",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "22:00",
           "end_time": "00:00"
         }
       ]

@@ -3,11 +3,11 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/LBC.png",
   "schedule": [
     {
-      "date": "23 February 2026",
+      "date": "24 February 2026",
       "programmes": [
         {
-          "show_name": "Richard Spurr",
-          "show_description": "Richard Spurr is Leading Britain's Conversation.",
+          "show_name": "Simon Marks",
+          "show_description": "Simon Marks is Leading Britain's Conversation.",
           "show_logo": "",
           "episode_number": "",
           "start_time": "01:00",
@@ -51,6 +51,14 @@
           "show_logo": "",
           "episode_number": "",
           "start_time": "16:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Tonight with Andrew Marr",
+          "show_description": "Andrew Marr is Leading Britain's Conversation.",
+          "show_logo": "",
+          "episode_number": "",
+          "start_time": "18:00",
           "end_time": "19:00"
         },
         {
@@ -72,7 +80,7 @@
       ]
     },
     {
-      "date": "24 February 2026",
+      "date": "25 February 2026",
       "programmes": [
         {
           "show_name": "Richard Spurr",
