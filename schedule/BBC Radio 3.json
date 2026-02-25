@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
   "schedule": [
     {
-      "date": "24 February 2026",
-      "programmes": [
-        {
-          "show_name": "Through the Night",
-          "show_description": "Nature forms the inspiration for this song recital from Madrid.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Essential Classics",
-          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Classical Live",
-          "show_description": "Fiona Talkington introduces an afternoon of specially made recordings including Berlioz's Harold in Italy symphony and recent studio recordings by Radio 3's New Generaton Artists.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Composer of the Week: Amy Beach",
-          "show_description": "2/5. Donald explores the story behind the 'first Symphony by an American woman' - Amy Beach's 'Gaelic' Symphony of 1897.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "In Tune",
-          "show_description": "Tim Garland and Geoffrey Keezer play live and Katie chats to conductor Kevin John Edusei.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Classical Mixtape",
-          "show_description": "Take time out with a 30-minute soundscape of classical music.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Radio 3 in Concert",
-          "show_description": "Adam Hickox conducts the BBC Philharmonic Orchestra in Rachmaninov's Symphonic Dances. Elisabeth Brauss joins them for Ravel's Piano Concerto in G.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "The Essay: Full Moon on...",
-          "show_description": "...Progress Street - series 2. Dr Rommi Smith examines the music and contributions of five leading Black female musicians, to civil rights and social change.",
-          "show_logo": "",
-          "start_time": "21:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Night Tracks",
-          "show_description": "Sara Mohr-Pietsch presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "'Round Midnight",
-          "show_description": "Soweto is joined once again by his 4/4 guest this week, Aaron Parks, who has another album to share that has inspired him.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "25 February 2026",
       "programmes": [
         {
@@ -138,7 +56,7 @@
         },
         {
           "show_name": "Classical Mixtape",
-          "show_description": "Take time out with a 30-minute soundscape of classical music.",
+          "show_description": "Half an hour of back-to-back classical music, including works by Hamilton Harty, Steve Reich, Henry Purcell and Pauline Hall.",
           "show_logo": "",
           "start_time": "19:00",
           "end_time": "19:30"
@@ -167,6 +85,88 @@
         {
           "show_name": "'Round Midnight",
           "show_description": "Soweto shares more of the best in jazz, and we hear Aaron Parks' third 4/4 selection.",
+          "show_logo": "",
+          "start_time": "23:30",
+          "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "26 February 2026",
+      "programmes": [
+        {
+          "show_name": "Through the Night",
+          "show_description": "Philip Glass's Concerto for saxophone quartet and orchestra, alongside Bernstein and Stravinsky as well as Joan Pérez-Villegas's Fantasy for Ravel's 150th Birthday.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Essential Classics",
+          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Classical Live",
+          "show_description": "Elizabeth Alker introduces an afternoon of specially made recordings including Sibelius' Symphony No. 2 from the BBC Philharmonic Orchestra and music from R3 New Generation Artists.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Composer of the Week: Amy Beach",
+          "show_description": "4/5. Donald Macleod explores Amy Beach's experiences at the MacDowell Colony, a remarkable artists' retreat in the New Hampshire woods.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "In Tune",
+          "show_description": "Cambridge Handel Opera Company singers perform live, and Jeremy Cooper on his latest book.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Classical Mixtape",
+          "show_description": "Take time out with a 30-minute soundscape of classical music.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Radio 3 in Concert",
+          "show_description": "The BBC Singers and BBC Concert Orchestra conducted by Sofi Jeannin in a programme of music by Howells, Sir James MacMillan, Dame Judith Weir, Caroline Shaw and Rautavaara.",
+          "show_logo": "",
+          "start_time": "19:30",
+          "end_time": "21:45"
+        },
+        {
+          "show_name": "The Essay: Full Moon on...",
+          "show_description": "...Progress Street - series 2. Dr Rommi Smith examines the music and contributions of five leading Black female musicians, to civil rights and social change.",
+          "show_logo": "",
+          "start_time": "21:45",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Night Tracks",
+          "show_description": "Sara Mohr-Pietsch presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "'Round Midnight",
+          "show_description": "Tonight we hear the fourth and final 4/4 record choice from Soweto's guest this week, pianist Aaron Parks.",
           "show_logo": "",
           "start_time": "23:30",
           "end_time": "00:30"

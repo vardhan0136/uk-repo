@@ -3,7 +3,7 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cornwall.png",
   "schedule": [
     {
-      "date": "24 February 2026",
+      "date": "25 February 2026",
       "programmes": [
         {
           "show_name": "As Radio 5 Live",
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "date": "25 February 2026",
+      "date": "26 February 2026",
       "programmes": [
         {
           "show_name": "As Radio 5 Live",
@@ -81,10 +81,17 @@
           "end_time": "18:00"
         },
         {
-          "show_name": "Dan Pascoe",
+          "show_name": "Upload",
           "show_description": "",
           "show_logo": "",
           "start_time": "18:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "BBC Introducing",
+          "show_description": "Unsigned, undiscovered and under the radar music",
+          "show_logo": "",
+          "start_time": "20:00",
           "end_time": "22:00"
         },
         {
