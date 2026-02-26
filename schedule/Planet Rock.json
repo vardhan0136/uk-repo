@@ -3,81 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Planet-Rock.png",
   "schedule": [
     {
-      "date": "25 February 2026",
-      "programmes": [
-        {
-          "show_name": "Through the Night",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "The Long Player",
-          "show_description": "Mark Jeeves is playing the long tunes",
-          "show_logo": "",
-          "start_time": "04:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Breakfast with Paul Anthony",
-          "show_description": "A mixture of news and rock music, plus traffic, travel and weather information",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Wyatt",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "The Planet Rock Jukebox",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Darren Redick",
-          "show_description": "Darren plays classical favourites alongside new discoveries",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "The Rock Block",
-          "show_description": "An hour of music chosen by a Planet Rock listener",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Elles Bailey",
-          "show_description": "Elles Bailey another chance to hear Elles' Saturday show",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Long Player's Little Brother",
-          "show_description": "Mark Jeeves is playing the long tunes",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Steve Priestley",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "26 February 2026",
       "programmes": [
         {
@@ -148,6 +73,74 @@
           "show_description": "One hour of the best music from the 90's",
           "show_logo": "",
           "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Steve Priestley",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "27 February 2026",
+      "programmes": [
+        {
+          "show_name": "Through the Night",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Toby Jepson",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "04:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Breakfast with Paul Anthony",
+          "show_description": "A mixture of news and rock music, plus traffic, travel and weather information",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Wyatt",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "The Planet Rock Jukebox",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Darren Redick",
+          "show_description": "Darren plays classical favourites alongside new discoveries",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "The Rock Block",
+          "show_description": "An hour of music chosen by a Planet Rock listener",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Friday Night Rocks with Blaze Bayley",
+          "show_description": "Legendary singer, Blaze Bayley playing the tunes on the Friday Night Rock Show",
+          "show_logo": "",
+          "start_time": "19:00",
           "end_time": "22:00"
         },
         {

@@ -3,95 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/RNIB-Connect-Radio.png",
   "schedule": [
     {
-      "date": "25 February 2026",
-      "programmes": [
-        {
-          "show_name": "Highlights",
-          "show_description": "Great features, interviews and music from RNIB Connect Radio",
-          "show_logo": "",
-          "start_time": "04:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "The Daily Connect",
-          "show_description": "The voice of the RNIB community",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "The Lunch Break",
-          "show_description": "Hubert Pawelkiewicz presents a mix of music and features",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Pure 80s",
-          "show_description": "Roger Cole presents the greatest hits from the deacde of decadence",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Talking Books",
-          "show_description": "Robert Kirkwood introduces the best in spoken word",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "The Afternoon Edition",
-          "show_description": "The voice of the RNIB community",
-          "show_logo": "",
-          "start_time": "15:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Folk and Roots",
-          "show_description": "Aly Prince presents a great mix of folk and roots tracks from around the world",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Sunset Melodies",
-          "show_description": "Gary Moritz plays relaxing tracks from the 30s, 40s, 50s and 60s",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "TED Radio Hour",
-          "show_description": "Showcasing important ideas and inspiring stories from some of the world's most remarkable minds",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "The Rock Years",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Talking Books",
-          "show_description": "Robert Kirkwood introduces the best in spoken word",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Relax with RNIB Connect Radio",
-          "show_description": "An hour of the most relaxing tracks and ballads",
-          "show_logo": "",
-          "start_time": "23:00",
-          "end_time": "04:00"
-        }
-      ]
-    },
-    {
       "date": "26 February 2026",
       "programmes": [
         {
@@ -160,6 +71,95 @@
         {
           "show_name": "Tech Talk",
           "show_description": "The best tech for the blind and partially sighted",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Talking Books",
+          "show_description": "Robert Kirkwood introduces the best in spoken word",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Relax with RNIB Connect Radio",
+          "show_description": "An hour of the most relaxing tracks and ballads",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "04:00"
+        }
+      ]
+    },
+    {
+      "date": "27 February 2026",
+      "programmes": [
+        {
+          "show_name": "Highlights",
+          "show_description": "Great features, interviews and music from RNIB Connect Radio",
+          "show_logo": "",
+          "start_time": "04:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "The Daily Connect",
+          "show_description": "The voice of the RNIB community",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "The Lunch Break",
+          "show_description": "Hubert Pawelkiewicz presents a mix of music and features",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Read On - The Audiobook Show from RNIB",
+          "show_description": "Author interviews and book reviews presented by Robert Kirkwood",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Talking Books",
+          "show_description": "Robert Kirkwood introduces the best in spoken word",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "The Afternoon Edition",
+          "show_description": "The voice of the RNIB community",
+          "show_logo": "",
+          "start_time": "15:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "The Jazz Club",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Pure 80s",
+          "show_description": "Roger Cole presents the greatest hits from the deacde of decadence",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Highlights",
+          "show_description": "Great features, interviews and music from RNIB Connect Radio",
+          "show_logo": "",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "A Little Alternative",
+          "show_description": "David Hogg presents the best in indie, rock, folk and pop",
           "show_logo": "",
           "start_time": "21:00",
           "end_time": "22:00"

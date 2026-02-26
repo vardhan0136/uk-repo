@@ -3,7 +3,7 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Gold-Radio.png",
   "schedule": [
     {
-      "date": "25 February 2026",
+      "date": "26 February 2026",
       "programmes": [
         {
           "show_name": "Gold Radio Through the Night",
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "date": "26 February 2026",
+      "date": "27 February 2026",
       "programmes": [
         {
           "show_name": "Gold Radio Through the Night",
@@ -92,20 +92,34 @@
           "show_description": "Kirsty Gallacher plays All Time Classics on Gold Radio Drive, every weekday from 4pm!",
           "show_logo": "",
           "start_time": "16:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "60s at 6",
+          "show_description": "One hour of All Time 60s Classics on Gold Radio.",
+          "show_logo": "",
+          "start_time": "18:00",
           "end_time": "19:00"
         },
         {
-          "show_name": "Evenings on Gold Radio",
-          "show_description": "The soundtrack to your evening, with All Time Classics on Gold Radio.",
+          "show_name": "70s at 7",
+          "show_description": "One hour of All Time 70s Classics on Gold Radio.",
           "show_logo": "",
           "start_time": "19:00",
-          "end_time": "22:00"
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "80s at 8",
+          "show_description": "One hour of All Time 80s Classics on Gold Radio.",
+          "show_logo": "",
+          "start_time": "20:00",
+          "end_time": "21:00"
         },
         {
           "show_name": "Late Night Gold Radio",
           "show_description": "Unwind with laid-back All Time Classics on Gold Radio",
           "show_logo": "",
-          "start_time": "22:00",
+          "start_time": "21:00",
           "end_time": "00:00"
         }
       ]

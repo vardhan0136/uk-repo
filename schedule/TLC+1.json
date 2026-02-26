@@ -3,270 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TLC-Plus-1.png",
   "schedule": [
     {
-      "date": "25 February 2026",
-      "programmes": [
-        {
-          "show_name": "Dr. Pimple Popper",
-          "show_description": "Nevus And Bumphead. Jacqueline's shoulder growth makes it difficult to do fire spinning, her favourite hobby. And the mysterious bump on James' cheek loves to bleed. S5, Ep2",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c14afd8f-c7bf-39c3-9270-420ef6700b40/cover",
-          "start_time": "01:00",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "Dr. Pimple Popper",
-          "show_description": "Cyst Over Troubled Water. After losing his long-time love, Joe wants the large bumps all over his head removed. The itchy, painful rash on Nisa's ears has spread to her face. S5, Ep3",
-          "show_logo": "https://images.metadata.sky.com/pd-image/038c659b-acb5-3824-b87a-00f5ab19cdad/cover",
-          "start_time": "02:00",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "New: My 600-lb Life",
-          "show_description": "Deshaun's Journey. Deshaun is over 700 pounds and won't leave his mother's apartment. Dr. Now might get him to leave the bedroom, but he may never make it to Houston. S10, Ep18",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3acf24a9-ad60-47fe-b7d8-2a5b25152c03/cover",
-          "start_time": "03:00",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "Say Yes to the Dress",
-          "show_description": "I Wanna Be Naked. The consultants have a client who wants to show all of her body on her wedding day. Plus, Randy is pushed for time when a bride has only a month until her big day! S18, Ep2",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fd65b5ac-34c0-4045-bb44-75d343c09274/cover",
-          "start_time": "05:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Say Yes to the Dress",
-          "show_description": "You Look Like A Chicken! A country girl is looking for a gown with bling! A socialite needs an extravagant dress for her royal Kentucky wedding, and a vintage Randy dress emerges! S18, Ep3",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1b83f756-7019-4f5e-9475-b17b3a08491c/cover",
-          "start_time": "06:00",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Teleshopping.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "07:30"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Teleshopping.",
-          "show_logo": "",
-          "start_time": "07:30",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "Mike & Molly",
-          "show_description": "To Have And Withhold. Molly comes down with a case of writer's block. If she doesn't shake it fast, she'll be in danger of losing her big advance. S5, Ep2",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b6cf2980-67dd-47e8-8846-98de1ed01772/cover",
-          "start_time": "08:00",
-          "end_time": "08:30"
-        },
-        {
-          "show_name": "Mike & Molly",
-          "show_description": "'Tis The Season To Be Molly. Mike assures Molly he'll be home in time for Christmas Eve dinner until he and Carl end up in the back of a stolen truck. S5, Ep3",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4f0c52f3-4f70-4f8d-89de-a903f69be5db/cover",
-          "start_time": "08:30",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Mike & Molly",
-          "show_description": "Gone Cheatin'. Mike thinks Carl is out of line when he invites Victoria to go on what is supposed to be a men-only fishing trip. S5, Ep4",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d21d32e8-790a-4b8b-831c-1c00ddfce5eb/cover",
-          "start_time": "09:00",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Young Sheldon",
-          "show_description": "An Expensive Glitch. Sheldon gets a dorm room all to himself, which soon becomes the campus hotspot. Meanwhile, Meemaw gets an unwanted business partner. S5, Ep10",
-          "show_logo": "https://images.metadata.sky.com/pd-image/58e22ad6-9e5f-4f5f-a2b0-8f0a46a0dba4/cover",
-          "start_time": "09:30",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Young Sheldon",
-          "show_description": "A Lock-In, A Weather Girl. Sheldon acts as Mary's spy when he's forced to spend the night at church for a youth lock-in. Meanwhile, Georgie gets attracted to an older woman. S5, Ep11",
-          "show_logo": "https://images.metadata.sky.com/pd-image/732a1ea2-7474-4dff-8e57-d32cb4573b8e/cover",
-          "start_time": "10:00",
-          "end_time": "10:30"
-        },
-        {
-          "show_name": "Young Sheldon",
-          "show_description": "A Pink Cadillac. Sheldon attends his first comic book convention, and Mary tries selling makeup. S5, Ep12",
-          "show_logo": "https://images.metadata.sky.com/pd-image/79ff36d8-efa3-4b03-bf1d-4fd5b6be9894/cover",
-          "start_time": "10:30",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "The Big Bang Theory",
-          "show_description": "The Monetary Insufficiency. Sheldon goes to Vegas to win money for science. Penny and Bernadette take Amy wedding dress shopping, but her choice entangles them in a web of lies. S11, Ep22",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a4b7fc01-2b2f-4c19-8949-50d107bf8e68/cover",
-          "start_time": "11:00",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "The Big Bang Theory",
-          "show_description": "The Sibling Realignment. Sheldon and Leonard travel to Texas to end a family feud. The Wolowitz kids inadvertently infest Amy, Bernadette, Howard and Raj with pinkeye. S11, Ep23",
-          "show_logo": "https://images.metadata.sky.com/pd-image/67145df2-7b38-4d4d-8bf9-5d3c85156053/cover",
-          "start_time": "11:30",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "The Big Bang Theory",
-          "show_description": "The Bow Tie Asymmetry. When Amy's parents and Sheldon's family arrive, everybody is focused on making sure all goes according to plan - everyone except the bride and groom. S11, Ep24",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e3a925c8-207d-41ce-beb4-f84cfcc01dc2/cover",
-          "start_time": "12:00",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "The Big Bang Theory",
-          "show_description": "The Conjugal Configuration. Sheldon and Amy's honeymoon runs aground, while Penny and Leonard discover similarities with Amy's parents. Raj insults physicist Neil deGrasse Tyson. S12, Ep1",
-          "show_logo": "https://images.metadata.sky.com/pd-image/66e80cc4-aafc-4e79-9899-e9ab4e019ecb/cover",
-          "start_time": "12:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "The Big Bang Theory",
-          "show_description": "The Wedding Gift Wormhole. Sheldon and Amy try to figure out what 'perfect gift' Leonard and Penny gave them. Raj asks his father to arrange a marriage for him. S12, Ep2",
-          "show_logo": "https://images.metadata.sky.com/pd-image/51b6ab22-d169-4c55-ba26-1ff0ae7135b3/cover",
-          "start_time": "13:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "The Big Bang Theory",
-          "show_description": "The Procreation Calculation. Stuart starts bringing his new girlfriend home, Penny and Leonard talk about starting a family, and Raj explores an arranged marriage. S12, Ep3",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c08a7a37-d13e-40f3-a2a3-e7dc175d0a31/cover",
-          "start_time": "13:30",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "The Big Bang Theory",
-          "show_description": "The Tam Turbulence. Sheldon won't tell anyone why he's never mentioned his childhood friend Tam. Bernadette and Penny take out Raj's fiancée to get the skinny on her. S12, Ep4",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e5e8a3ba-e644-46ed-85ae-fd62b81dd2ec/cover",
-          "start_time": "14:00",
-          "end_time": "14:30"
-        },
-        {
-          "show_name": "The Big Bang Theory",
-          "show_description": "The Planetarium Collision. Amy doesn't have time to work on a project, so Sheldon goes to great lengths to ensure she can work with him, even if it means sabotaging her career. S12, Ep5",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ba81436b-f440-4694-8747-1248ddcaba3e/cover",
-          "start_time": "14:30",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Mike & Molly",
-          "show_description": "Molly's Neverending Story. Molly's constant rewrites on her book begin to irritate Mike and the family and leave them wondering if the end is anywhere in sight. S5, Ep5",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b33fd1cc-b89d-4a75-a796-653e18224c41/cover",
-          "start_time": "15:00",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Mike & Molly",
-          "show_description": "The Last Temptation Of Mike. Mike engages in a little innocent flirting with a rookie policewoman and then begins to feel guilty when she reciprocates. S5, Ep6",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b0a04874-f3fc-4371-a421-f22c9fd8ce1a/cover",
-          "start_time": "15:30",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Mike & Molly",
-          "show_description": "Support Your Local Samuel. Samuel contemplates moving back to Africa when he receives a letter from his parents saying they're struggling financially. S5, Ep7",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f8816bb9-f260-4850-8f07-92ffe2b4eb64/cover",
-          "start_time": "16:00",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "Young Sheldon",
-          "show_description": "A Lot Of Band-Aids. Sheldon makes friends with his dorm neighbours. Meanwhile, George Sr. learns his job is in jeopardy. S5, Ep13",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cb2c82a9-096e-44ec-91a5-456643a9785e/cover",
-          "start_time": "16:30",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Young Sheldon",
-          "show_description": "A Free Scratcher. When a new scientist, Dr. Lee, joins the lab, Sheldon is the odd man out. Meanwhile, Mary is given a lotto ticket. S5, Ep14",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7e06a4b2-3532-4289-b5b0-6396771cd05a/cover",
-          "start_time": "17:00",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "Young Sheldon",
-          "show_description": "A Lobster, An Armadillo. Sheldon joins Dr. Linkletter and Dr. Sturgis on a science road trip, landing them in the middle of nowhere. Georgie continues to lie about his age. S5, Ep15",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a3fc6ce6-484e-47e6-82c5-27091d00baa7/cover",
-          "start_time": "17:30",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "The Big Bang Theory",
-          "show_description": "The Imitation Perturbation. When Howard dresses up as Sheldon for Halloween, Sheldon seeks retaliation. Leonard is shocked that Penny doesn't remember their first kiss. S12, Ep6",
-          "show_logo": "https://images.metadata.sky.com/pd-image/35b98c90-447c-4bf5-a043-145a321560e8/cover",
-          "start_time": "18:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "The Big Bang Theory",
-          "show_description": "Grant Allocation Derivation. Leonard is caught in a tough spot when he's responsible for distributing extra grant money. Bernadette turns the backyard playhouse into a hideaway. S12, Ep7",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9186b947-5be4-4143-9b22-e5ec40c5d37e/cover",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "The Big Bang Theory",
-          "show_description": "The Consummation Deviation. Sheldon tries to bond with Amy's father, but Howard lures Mr. Fowler away with magic tricks. Raj and Anu try to get physical for the first time. S12, Ep8",
-          "show_logo": "https://images.metadata.sky.com/pd-image/623ba739-203b-456f-bbd4-715268eadfcf/cover",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "The Big Bang Theory",
-          "show_description": "The Citation Negation. Sheldon and Amy are devastated learning that Super Asymmetry has been discovered and disproven. Bernadette asks Denise to help her win a videogame. S12, Ep9",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c78e6d8f-a0df-45e0-ae07-ff1dabec0707/cover",
-          "start_time": "19:30",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "The Big Bang Theory",
-          "show_description": "The VCR Illumination. A VHS tape inspires Sheldon to not give up on his and Amy's theory. Bernadette turns into a pageant mom over Howard's Magic Castle audition. S12, Ep10",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f886985d-b457-417c-a026-6c15a0b27534/cover",
-          "start_time": "20:00",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "The Big Bang Theory",
-          "show_description": "The Paintball Scattering. Penny and Leonard organise a paintball game that results in mayhem. Raj catches Anu with her ex, and Stuart doesn't want to move in with Denise. S12, Ep11",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bda36d03-869e-4b03-94ee-3dc1bba1b09e/cover",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "The Big Bang Theory",
-          "show_description": "The Propagation Proposition. Penny's ex, Zack, and his wife want a baby, but when Zack is infertile, they ask Leonard to help. Raj attempts to mend things with his ex-fiancée. S12, Ep12",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9e0e9be6-dcca-446b-a1f2-38f70a4f7c3a/cover",
-          "start_time": "21:00",
-          "end_time": "21:30"
-        },
-        {
-          "show_name": "The Big Bang Theory",
-          "show_description": "The Confirmation Polarization. Sheldon and Amy's theory is proven by two physicists, who then try to kick Amy off the Nobel nomination. Bernadette has a big success at work. S12, Ep13",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6b0b59eb-a3f9-4a5c-88d4-b75106d97efd/cover",
-          "start_time": "21:30",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "New: The Bad Skin Clinic",
-          "show_description": "Trapped In My Legs. Samantha's severe lymphedema has left her legs swollen, scaly, and painful and she is barely able to walk. Dr. Emma steps in with intensive treatment. S8, Ep7",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3ebd03ae-ee94-45bc-a644-afb213beeaab/cover",
-          "start_time": "22:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "The Bad Skin Clinic",
-          "show_description": "Hair. Ashleigh has lost all her hair, but a new treatment gives her hope. Teenager Serena refuses to leave the house due to her facial hair. S7, Ep10",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5f18c42a-64fd-464a-8823-395289a37351/cover",
-          "start_time": "23:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "26 February 2026",
       "programmes": [
         {
@@ -335,7 +71,7 @@
         {
           "show_name": "Mike & Molly",
           "show_description": "The Last Temptation Of Mike. Mike engages in a little innocent flirting with a rookie policewoman and then begins to feel guilty when she reciprocates. S5, Ep6",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b0a04874-f3fc-4371-a421-f22c9fd8ce1a/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f1630f8d-e2b7-4400-8d2b-86f4bccca8e0/cover",
           "start_time": "08:30",
           "end_time": "09:00"
         },
@@ -426,7 +162,7 @@
         {
           "show_name": "Mike & Molly",
           "show_description": "Mike Check. When Molly learns it's been more than ten years since her husband's seen a doctor, she badgers a reluctant Mike to get checked out. S5, Ep8",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e9c7c8a1-e5c1-4a7e-a755-0ae076625fe9/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6e0729d4-08dc-4b91-9481-0c4db93c7686/cover",
           "start_time": "15:00",
           "end_time": "15:30"
         },
@@ -525,6 +261,270 @@
           "show_name": "New: 90 Day: The Single Life",
           "show_description": "The Art Of The Love Bomb. Sophie arrives in the Dominican Republic for a girls' trip with Liz and Julia. Kim must deal with the secrets of her past before she can move on. S5, Ep1",
           "show_logo": "https://images.metadata.sky.com/pd-image/d491b556-eff2-4f1e-aade-83aeafbba884/cover",
+          "start_time": "22:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "27 February 2026",
+      "programmes": [
+        {
+          "show_name": "The Bad Skin Clinic",
+          "show_description": "Trapped In My Legs. Samantha's severe lymphedema has left her legs swollen, scaly, and painful and she is barely able to walk. Dr. Emma steps in with intensive treatment. S8, Ep7",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3ebd03ae-ee94-45bc-a644-afb213beeaab/cover",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "Dr. Pimple Popper",
+          "show_description": "Plum Nose. Brittney has hundreds of tiny bumps over her chest that have destroyed her confidence. John has a nose the size of a plum. Dr. Lee's friend drops in. S5, Ep6",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7218dcf1-0fae-3f2b-9b23-beb8f9b7c6ac/cover",
+          "start_time": "01:00",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "Dr. Pimple Popper",
+          "show_description": "Pig Snout. Mike's religious beliefs have kept him from seeing a doctor about his huge growth. Plus, Kylie debates whether to remove her birthmark. S5, Ep7",
+          "show_logo": "https://images.metadata.sky.com/pd-image/77349841-5d4c-3d8e-95fb-0341ac7c6082/cover",
+          "start_time": "02:00",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "New: My 600-lb Life",
+          "show_description": "Juan's Journey. Pastor Juan's love of food made him overweight, but it was never a problem until he got too big to preach and sing to his congregation. S10, Ep20",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c34f8bcb-3267-4893-b04d-bf760b8a7c02/cover",
+          "start_time": "03:00",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "Say Yes to the Dress",
+          "show_description": "Hollywood Meets Bollywood. Bride Stephanie tries to please her squabbling parents. Plus, a former pageant queen wants a dress with a Hollywood-meets-Bollywood vibe. S18, Ep6",
+          "show_logo": "https://images.metadata.sky.com/pd-image/099dfae1-9db7-4264-92fe-32ab9df7b47e/cover",
+          "start_time": "05:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Say Yes to the Dress",
+          "show_description": "This Is A Randy Situation. Indecisive bride Jacqueline has a challenge for Randy. Plus, a hip-hop medium is on the hunt for the perfect black dress for her special day. S18, Ep7",
+          "show_logo": "https://images.metadata.sky.com/pd-image/43a577c6-ee55-466b-80ab-1d287b63d6ba/cover",
+          "start_time": "06:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Teleshopping.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Teleshopping.",
+          "show_logo": "",
+          "start_time": "07:30",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Mike & Molly",
+          "show_description": "Mike Check. When Molly learns it's been more than ten years since her husband's seen a doctor, she badgers a reluctant Mike to get checked out. S5, Ep8",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6e0729d4-08dc-4b91-9481-0c4db93c7686/cover",
+          "start_time": "08:00",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "Mike & Molly",
+          "show_description": "Hack To The Future. Molly runs into a roadblock in the form of her publisher, who wants her to make a provocative rewrite in a section of her book. S5, Ep9",
+          "show_logo": "https://images.metadata.sky.com/pd-image/75a6613d-ee74-4ca8-870a-6d6b83bc540f/cover",
+          "start_time": "08:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Mike & Molly",
+          "show_description": "Checkpoint Joyce. When Joyce refuses to take a breathalyser test at a DUI checkpoint, Mike is forced to arrest her. S5, Ep10",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f1630f8d-e2b7-4400-8d2b-86f4bccca8e0/cover",
+          "start_time": "09:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Young Sheldon",
+          "show_description": "A Suitcase Full Of Cash. When Meemaw's gambling room is a success, she ends up with a suitcase of illegal cash. Missy starts a business, and Sheldon tries the stock market. S5, Ep16",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bee7a347-8b49-485e-baa7-c19e2a90e51c/cover",
+          "start_time": "09:30",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Young Sheldon",
+          "show_description": "Solo Peanut, Social Butterfly. Sheldon gets an odd request from an old friend, while George and Mary are caught in the middle of Meemaw and Dale's breakup. S5, Ep17",
+          "show_logo": "https://images.metadata.sky.com/pd-image/df70a9d7-ba72-4346-8af4-98254dbe9594/cover",
+          "start_time": "10:00",
+          "end_time": "10:30"
+        },
+        {
+          "show_name": "Young Sheldon",
+          "show_description": "Babies, Lies And A Cannoli. While Sheldon copes with the death of a hero, Georgie struggles with his big secret, and Missy wants to babysit. S5, Ep18",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b21ecae5-ea93-46b3-ac29-6b63b48aeac4/cover",
+          "start_time": "10:30",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "The Big Bang Theory",
+          "show_description": "The Meteorite Manifestation. Sheldon helps Bernadette and Howard navigate bureaucratic paperwork. Leonard is disappointed when his friends exclude him from a scientific project. S12, Ep14",
+          "show_logo": "https://images.metadata.sky.com/pd-image/152084b9-8bfb-4ecc-94d1-9a27a768dc2c/cover",
+          "start_time": "11:00",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "The Big Bang Theory",
+          "show_description": "The Donation Oscillation. Penny tries to seduce an abstaining Leonard to ruin his 'donation' for her ex-boyfriend and his wife. Raj's cancelled bachelor party takes a turn. S12, Ep15",
+          "show_logo": "https://images.metadata.sky.com/pd-image/15d10b13-8f8c-44f7-b172-971e3280243e/cover",
+          "start_time": "11:30",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "The Big Bang Theory",
+          "show_description": "The D & D Vortex. The gang finds out Wil Wheaton hosts a celebrity Dungeons and Dragons game. Deception and betrayal are the path to make it to the one open seat. S12, Ep16",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3a7dc403-224d-41c7-95c3-58dd13c37769/cover",
+          "start_time": "12:00",
+          "end_time": "12:30"
+        },
+        {
+          "show_name": "The Big Bang Theory",
+          "show_description": "The Conference Valuation. While Bernadette is away and Howard is in charge of the kids, Sheldon finds a book on experimenting on kids. The guys plus Amy make a day of it. S12, Ep17",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7ad18f1b-4e6d-45ab-be0f-749e40a093d0/cover",
+          "start_time": "12:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "The Big Bang Theory",
+          "show_description": "The Laureate Accumulation. Pemberton and Campbell charm America, so Sheldon and Amy bring Nobel laureates Kip Thorne, George Smoot and Frances Arnold to their side. S12, Ep18",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ef5bb84e-724f-4ac3-8f76-89794d2a1a07/cover",
+          "start_time": "13:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "The Big Bang Theory",
+          "show_description": "The Inspiration Deprivation. Amy has a meltdown due to the pressure associated with winning a Nobel Prize. Raj and Howard try to relive the good old days. S12, Ep19",
+          "show_logo": "https://images.metadata.sky.com/pd-image/313ea3a7-59d0-47c2-a6eb-8224107d00ef/cover",
+          "start_time": "13:30",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "The Big Bang Theory",
+          "show_description": "The Decision Reverberation. Raj is worried people won't take him seriously in his own field after publishing a paper that suggests he may have discovered alien life. S12, Ep20",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c34e7b9f-32b3-466a-80f3-cf5e90d91b76/cover",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "The Big Bang Theory",
+          "show_description": "The Plagiarism Schism. Kripke has proof that Dr. Pemberton plagiarized his thesis, and Sheldon and Amy aren't sure whether they should turn him in or not. S12, Ep21",
+          "show_logo": "https://images.metadata.sky.com/pd-image/48c3abee-a6a2-4974-aff4-4001edbefa2b/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Mike & Molly",
+          "show_description": "Immaculate Deception. The prospect of an empty house for the weekend has Mike and Molly in a state of excitement. S5, Ep11",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2b6cd179-1a35-4cca-8003-efa822f50e64/cover",
+          "start_time": "15:00",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "Mike & Molly",
+          "show_description": "The World According To Peggy. When Peggy suddenly announces she's leaving her job, Molly scrambles to throw her a retirement party, but wonders just why Peggy is calling it quits. S5, Ep12",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6e0729d4-08dc-4b91-9481-0c4db93c7686/cover",
+          "start_time": "15:30",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Mike & Molly",
+          "show_description": "Buy The Book. It's an exciting new chapter in Molly's life as her book is finally released, but she soon becomes obsessively worried that no one will buy it. S5, Ep13",
+          "show_logo": "https://images.metadata.sky.com/pd-image/54c2dd8d-923a-4a93-a130-523de03bc261/cover",
+          "start_time": "16:00",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "Young Sheldon",
+          "show_description": "A God-Fearin' Baptist. George and Mary insist on meeting the new woman in Georgie's life, while Sheldon and Missy have suspicions about what's going on with their family. S5, Ep19",
+          "show_logo": "https://images.metadata.sky.com/pd-image/955e8556-8df8-404b-887d-03f42540f54c/cover",
+          "start_time": "16:30",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Young Sheldon",
+          "show_description": "Uncle Sheldon. Despite the whole family trying to keep it a secret, Sheldon and Missy learn about Georgie's pregnancy. S5, Ep20",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b6ed6227-24ff-4789-8969-bfe4843d5a41/cover",
+          "start_time": "17:00",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "Young Sheldon",
+          "show_description": "White Trash, Holy Rollers. With the Coopers facing judgement from the congregation in the wake of Georgie's pregnancy, Sheldon is distracted by the family drama. S5, Ep21",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b543599e-f1ec-4d76-83a0-2a824373709d/cover",
+          "start_time": "17:30",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "The Big Bang Theory",
+          "show_description": "The Maternal Conclusion. Leonard is surprised when Beverly is kind to him on a visit, until he finds out the real reason she's there. Denise and Stuart overstay their welcome. S12, Ep22",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a8faa535-998a-4fda-9f96-7c24dd794b78/cover",
+          "start_time": "18:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "The Big Bang Theory",
+          "show_description": "The Change Constant. Everything changes as Amy and Sheldon await big news. Howard and Bernadette leave their kids, while Leonard and Penny keep a secret. S12, Ep23",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2947f56b-2f62-4447-9e7c-f0a60c573f9e/cover",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "The Big Bang Theory",
+          "show_description": "The Stockholm Syndrome. Bernadette and Howard leave their kids, Penny and Leonard try to keep a secret, Sheldon and Amy stick together, and Raj makes a new friend. S12, Ep24",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ae862bae-bcb1-46f0-8409-e3df5da090f4/cover",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "The Big Bang Theory",
+          "show_description": "Pilot. Brilliant physicists Leonard and Sheldon meet new neighbour Penny, who shows them that although they're smart, they know very little about real life. S1, Ep1",
+          "show_logo": "https://images.metadata.sky.com/pd-image/40e70df3-025d-40a9-81ca-100e902b392a/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "The Big Bang Theory",
+          "show_description": "The Big Bran Hypothesis. Leonard volunteers to sign for a package to make a good impression on Penny, but things go terribly awry when he enlists Sheldon for help. S1, Ep2",
+          "show_logo": "https://images.metadata.sky.com/pd-image/dca544aa-edc0-4b4a-bb39-e8cfc6d15d8f/cover",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "The Big Bang Theory",
+          "show_description": "The Fuzzy Boots Corollary. Leonard is depressed to learn that Penny is dating someone. Encouraged by his friends and fellow scientists, he asks a colleague out on a date. S1, Ep3",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b4158b1f-8863-41f9-ae05-bbce98a7605f/cover",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "The Big Bang Theory",
+          "show_description": "The Luminous Fish Effect. Sheldon gets fired and explores what life has to offer outside physics, leaving Leonard to take drastic action to snap his friend out of his funk. S1, Ep4",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d02ad732-54de-4c73-983d-9171ad18b5c3/cover",
+          "start_time": "21:00",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "The Big Bang Theory",
+          "show_description": "The Hamburger Postulate. Fearing he's wasting his time on Penny, Leonard makes a connection with Leslie. Meanwhile, Sheldon frets over a change to his hamburger routine. S1, Ep5",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1a6bd255-339b-4fa9-a3e7-14a2317b50cf/cover",
+          "start_time": "21:30",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "New: 90 Day Fiancé: Before The...",
+          "show_description": "Brace For Impact. Lisa struggles with Daniel's cultural expectations, Forrest meets Sheena's family, and Rick and Trish clash over financial expectations. S8, Ep7",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d71b8e65-fde1-45d0-9ad9-4e36a7e7726a/cover",
           "start_time": "22:00",
           "end_time": "00:00"
         }

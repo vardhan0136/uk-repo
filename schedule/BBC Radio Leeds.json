@@ -3,60 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Leeds.png",
   "schedule": [
     {
-      "date": "25 February 2026",
-      "programmes": [
-        {
-          "show_name": "Weekday overnights with BBC...",
-          "show_description": "...Radio 5 Live. Local BBC Radio joins BBC Radio 5 Live through the night on a weekday.",
-          "show_logo": "http://img.freeviewplay.net/e4db4431f28f77b8f720b9f8e5c1d2e53?w=800",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Rima Ahmed",
-          "show_description": "Waking you up this morning, Dixie sits in for Rima.",
-          "show_logo": "http://img.freeviewplay.net/efe0e21bf2b2fb7639a552bf4044b2eef?w=800",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Gayle Lofthouse",
-          "show_description": "West Yorkshire stories to make you smile, mid-morning updates and the music you love.",
-          "show_logo": "http://img.freeviewplay.net/ee958bd0e7bd89087f5cd36a64bfad2cd?w=800",
-          "start_time": "10:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Toby Foster",
-          "show_description": "The day's local and national news, as well as great music and quizzes with Toby.",
-          "show_logo": "http://img.freeviewplay.net/e0ae457ef87c5a95a0cf0ee28df46e800?w=800",
-          "start_time": "14:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "West Yorkshire Sport Daily",
-          "show_description": "Topical sports issues of the day.",
-          "show_logo": "http://img.freeviewplay.net/ee87333564c85f29b7454ead54a9d9509?w=800",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "John Kane's Northern Soul",
-          "show_description": "John Kane brings you the best in northern soul and Motown music.",
-          "show_logo": "http://img.freeviewplay.net/e6b1d6d378206ac84fa65cd898d4d5ca8?w=800",
-          "start_time": "19:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The Late Show",
-          "show_description": "Becky Want with late-night conversation, amazing stories and the soundtrack to your night.",
-          "show_logo": "http://img.freeviewplay.net/efd65265b511daa476ef72564c81e71c0?w=800",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "26 February 2026",
       "programmes": [
         {
@@ -112,6 +58,60 @@
           "show_name": "The Late Show",
           "show_description": "Becky Want with late-night conversation, amazing stories and the soundtrack to your night.",
           "show_logo": "http://img.freeviewplay.net/efd65265b511daa476ef72564c81e71c0?w=800",
+          "start_time": "22:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "27 February 2026",
+      "programmes": [
+        {
+          "show_name": "Weekday overnights with BBC...",
+          "show_description": "...Radio 5 Live. Local BBC Radio joins BBC Radio 5 Live through the night on a weekday.",
+          "show_logo": "http://img.freeviewplay.net/e4db4431f28f77b8f720b9f8e5c1d2e53?w=800",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Rima Ahmed",
+          "show_description": "Waking you up this morning, Dixie sits in for Rima.",
+          "show_logo": "http://img.freeviewplay.net/efe0e21bf2b2fb7639a552bf4044b2eef?w=800",
+          "start_time": "06:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Gayle Lofthouse",
+          "show_description": "West Yorkshire stories to make you smile, mid-morning updates and the music you love.",
+          "show_logo": "http://img.freeviewplay.net/ee958bd0e7bd89087f5cd36a64bfad2cd?w=800",
+          "start_time": "10:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Toby Foster",
+          "show_description": "The day's local and national news, as well as great music and quizzes with Sam.",
+          "show_logo": "http://img.freeviewplay.net/e0ae457ef87c5a95a0cf0ee28df46e800?w=800",
+          "start_time": "14:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "West Yorkshire Sport Daily",
+          "show_description": "Topical sports issues of the day.",
+          "show_logo": "http://img.freeviewplay.net/ee87333564c85f29b7454ead54a9d9509?w=800",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "West Yorkshire Sport: Rugby League",
+          "show_description": "Super League coverage of Castleford Tigers v Huddersfield Giants with commentary from James Deighton & Barry Eaton live from OneBore Stadium (8pm ko).",
+          "show_logo": "http://img.freeviewplay.net/e08d751c1ed8808652a9f6ed24f60bdb2?w=800",
+          "start_time": "19:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Late Night Jo",
+          "show_description": "Jo Good with late-night conversation, amazing stories and the soundtrack to your night.",
+          "show_logo": "http://img.freeviewplay.net/ebccb55fa5a5016e8794730c01535ad5a?w=800",
           "start_time": "22:00",
           "end_time": "01:00"
         }

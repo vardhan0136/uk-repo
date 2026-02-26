@@ -3,74 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cymru-2.png",
   "schedule": [
     {
-      "date": "25 February 2026",
-      "programmes": [
-        {
-          "show_name": "Gweler BBC Radio 2",
-          "show_description": "Mae Radio Cymru 2 yn ymuno â BBC Radio 2 dros nos. Radio Cymru joins BBC Radio 2 overnight.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Sioe Frecwast",
-          "show_description": "Cerddoriaeth ac adloniant gyda Rhydian Bowen Phillips. Music and entertainment breakfast show with Rhydian Bowen Phillips.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Lisa Gwilym",
-          "show_description": "Lisa Gwilym yn chwarae eich hoff fiwsig. Lisa Gwilym plays your favourite music.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Rhestr Chwarae Lisa: Eto",
-          "show_description": "17/21. Rhestr chwarae llawn anthemau sy'n haeddu cael eu chware eto, ac eto, ac eto... A playlist of anthems that deserve to be played again, and again, and again....",
-          "show_logo": "",
-          "start_time": "13:30",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Ifan Jones Evans",
-          "show_description": "Harri Cole o Gaerdydd sy'n hel atgofion am ddyddiau ysgol ar y rhaglen heddiw. Harri Cole from Cardiff reminisces about his school days with Ifan on today's programme.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Traciau Radio Cymru 2",
-          "show_description": "Tiwns trwy'r dydd yn parhau ar Radio Cymru 2. More tunes on Radio Cymru 2.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Mirain Iwerydd",
-          "show_description": "Cerddoriaeth newydd Cymru. New Welsh music.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Caryl",
-          "show_description": "Cerddoriaeth, hwyl a sylw i ddigwyddiadau gyda Marc Griffiths yn sedd Caryl Parry Jones. Music and fun with Marc Griffiths sitting in for Caryl Parry Jones.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Y Clwb PJs",
-          "show_description": "Ymunwch â Marc Griffiths i ymlacio wrth wrando ar gerddoriaeth hudolus cyn cysgu. Unwind with Marc Griffiths while listening to soothing music before sleeping.",
-          "show_logo": "",
-          "start_time": "23:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "26 February 2026",
       "programmes": [
         {
@@ -103,7 +35,7 @@
         },
         {
           "show_name": "Ifan Jones Evans",
-          "show_description": "Digon o gerddoriaeth, chwerthin a sgwrsio, yn ogystal â chystadleuaeth neu ddwy. Music and chat, plus a competition or two.",
+          "show_description": "Branwen Dafydd o Sesiwn Fawr Dolgellau sy'n cadw cwmni i Ifan ar y rhaglen heddiw. Branwen Dafydd chats to Ifan about this year's Sesiwn Fawr Dolgellau.",
           "show_logo": "",
           "start_time": "14:00",
           "end_time": "17:00"
@@ -131,7 +63,7 @@
         },
         {
           "show_name": "Caryl",
-          "show_description": "Cerddoriaeth a hwyl gyda'r hwyr gyda Marc Griffiths yn sedd Caryl Parry Jones. Music and fun with Marc Griffiths sitting in for Caryl Parry Jones.",
+          "show_description": "Cerddoriaeth a hwyl gyda Marc Griffiths yn sedd Caryl Parry Jones. Music and fun with Marc Griffiths sitting in for Caryl Parry Jones.  G?yl Gwrw a Seidr Llanbedr Pont Steffan.",
           "show_logo": "",
           "start_time": "21:00",
           "end_time": "23:00"
@@ -141,6 +73,67 @@
           "show_description": "Ymunwch â Marc Griffiths i ymlacio wrth wrando ar gerddoriaeth hudolus cyn cysgu. Unwind with Marc Griffiths while listening to soothing music before sleeping.",
           "show_logo": "",
           "start_time": "23:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "27 February 2026",
+      "programmes": [
+        {
+          "show_name": "Gweler BBC Radio 2",
+          "show_description": "Mae Radio Cymru 2 yn ymuno â BBC Radio 2 dros nos. Radio Cymru joins BBC Radio 2 overnight.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Sioe Frecwast",
+          "show_description": "Cerddoriaeth ac adloniant gyda Lisa Angharad. Music and entertainment breakfast show with Lisa Angharad.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Trystan ac Emma",
+          "show_description": "Cerddoriaeth ac adloniant gyda Trystan Ellis-Morris ac Emma Walford. Music and entertainment with Trystan Ellis-Morris and Emma Walford.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "Dom James",
+          "show_description": "Dom James yn chwarae eich hoff fiwsig. Dom James plays your favourite music.",
+          "show_logo": "",
+          "start_time": "11:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Ifan Davies",
+          "show_description": "Dewch i ddechrau'r penwythnos gyda cherddoriaeth a hwyl yng nghwmni Ifan Davies a'r criw. Music and fun to start the weekend with Ifan Davies and the crew.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Parti Nos Wener",
+          "show_description": "Y dechrau gorau i'r penwythnos gyda Radio Cymru 2. Start the weekend with Radio Cymru 2.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Lauren Moore",
+          "show_description": "Cerddoriaeth ar gyfer nos Wener yng nghwmni Lauren Moore. Friday night music with Lauren Moore.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Ffion Emyr",
+          "show_description": "Cerddoriaeth a chwmnïaeth yng nghwmni Ffion Emyr. Music and companionship with Ffion Emyr.",
+          "show_logo": "",
+          "start_time": "21:00",
           "end_time": "00:00"
         }
       ]

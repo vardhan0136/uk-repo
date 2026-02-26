@@ -3,7 +3,7 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Classic-FM.png",
   "schedule": [
     {
-      "date": "25 February 2026",
+      "date": "26 February 2026",
       "programmes": [
         {
           "show_name": "Bill Overton",
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "date": "26 February 2026",
+      "date": "27 February 2026",
       "programmes": [
         {
           "show_name": "Bill Overton",
@@ -137,15 +137,22 @@
           "end_time": "19:00"
         },
         {
-          "show_name": "Relaxing Evenings with Zeb Soanes",
-          "show_description": "Zeb Soanes eases you into the evening with a relaxing soundtrack of all-time favourites and contemporary classics.",
+          "show_name": "Movies",
+          "show_description": "Jonathan Ross, award-winning presenter and film critic, presents the greatest music from the silver screen.",
           "show_logo": "",
           "start_time": "19:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Dawn O'Porter",
+          "show_description": "Throughout February, Dawn dives into classical music's greatest love stories, sharing iconic pieces that capture every swoon, spark and heartfelt moment along the way.",
+          "show_logo": "",
+          "start_time": "21:00",
           "end_time": "22:00"
         },
         {
-          "show_name": "Calm Classics with Ritula Shah",
-          "show_description": "Ritula Shah provides the perfect soothing soundtrack to help you wind down at the end of the day.",
+          "show_name": "Calm Classics with Myleene Klass",
+          "show_description": "Myleene presents her selection of calming classical music to help you wind down at the end of the day.",
           "show_logo": "",
           "start_time": "22:00",
           "end_time": "01:00"
