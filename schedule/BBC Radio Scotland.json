@@ -3,93 +3,11 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Scotland.png",
   "schedule": [
     {
-      "date": "26 February 2026",
-      "programmes": [
-        {
-          "show_name": "Scotcast",
-          "show_description": "Laura Miller and Natalie Higgins discuss what we have learned from the publication of the so-called 'Alex Salmond files'.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "00:25"
-        },
-        {
-          "show_name": "As BBC Radio 5 Live",
-          "show_description": "Joining Radio 5 Live.",
-          "show_logo": "",
-          "start_time": "00:25",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Radio Scotland Breakfast",
-          "show_description": "News from across Scotland and the world, plus sport, weather, entertainment and big name interviews.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Mornings",
-          "show_description": "Stephen Jardine gets to the heart of the stories making the news.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Lunchtime Live",
-          "show_description": "News updates from Scotland and beyond, plus all your lunchtime sport, travel and weather.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Afternoons",
-          "show_description": "Michelle McManus brings you feelgood music and chat with celebrity guests.",
-          "show_logo": "",
-          "start_time": "13:30",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Afternoons",
-          "show_description": "Len Pennie returns with live guests and features including One Day: The Musical, the Retro Reels exhibition in Glasgow and A Play, A Pie and A Pint, which is back for the spring.",
-          "show_logo": "",
-          "start_time": "15:30",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Drivetime",
-          "show_description": "Breaking down the day's talking points with comment and opinion, plus sport, travel and weather.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Sportsound",
-          "show_description": "Sporting commentary, analysis and debate.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Travelling Folk",
-          "show_description": "Anna Massie with the very best of folk and roots music from Scotland and beyond.",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Up Late",
-          "show_description": "The best company to end the day, with lively chat and some of your favourite tunes.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "27 February 2026",
       "programmes": [
         {
           "show_name": "Scotcast",
-          "show_description": "Martin Geissler and the team bring you thoughtful conversation and expert analysis, covering the most interesting news stories in Scotland.",
+          "show_description": "Laura Miller speaks to two reporters who covered the case from its very beginning in February 2024 to find out what went wrong, and why.",
           "show_logo": "",
           "start_time": "00:00",
           "end_time": "00:30"
@@ -145,7 +63,7 @@
         },
         {
           "show_name": "Grant Stott's Vinyl Collective",
-          "show_description": "New and classic cuts all played from 7', 12' and vinyl LPs. Grant shares the treasures from his own shopping adventures and discovers the stories about your record collections.",
+          "show_description": "Tanita Tikaram shares a favourite vinyl album, Grant counts down the top 10 albums this week in 1988 and there's a Fatboy Slim double in Side 2.",
           "show_logo": "",
           "start_time": "18:00",
           "end_time": "20:00"
@@ -160,6 +78,81 @@
         {
           "show_name": "Up Late",
           "show_description": "The best company to end the day, with lively chat and some of your favourite tunes.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "28 February 2026",
+      "programmes": [
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "Joining Radio 5 Live.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Out of Doors",
+          "show_description": "Mark Stephen and Rachel Stewart with stories from the great outdoors.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Radio Scotland Breakfast",
+          "show_description": "The stories that matter across Scotland and the world.",
+          "show_logo": "",
+          "start_time": "08:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "The Saturday Show",
+          "show_description": "Amy Irons and Steven Mill kick-start your Saturday with lots of laughs, great guests and timeless tunes as we look back on the week's news and preview the day's football fixtures.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Off the Ball",
+          "show_description": "The most petty and ill-informed football show on radio.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Sportsound",
+          "show_description": "Open All Mics keeps you up to date with all the goals and big moments across the country on another big Saturday in Scottish football.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "Sportsound",
+          "show_description": "Michael Stewart and Tom English debate the big talking points following Saturday's action as the fans join in.",
+          "show_logo": "",
+          "start_time": "17:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Take the Floor",
+          "show_description": "For the very best in traditional music, join Gary Innes for Take the Floor. This week, we are joined by Davie Stewart and his Scottish Dance Band in session.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Piping Sounds",
+          "show_description": "Ewen Henderson with a selection of the best in pipe music. This week, he celebrates World Gaelic Week and features sets from Brìghde Chaimbeul, Inyal and Roddy MacLeod.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Roddy Hart's Mix Tape",
+          "show_description": "Roddy Hart with a mix of classic tracks and new discoveries.",
           "show_logo": "",
           "start_time": "22:00",
           "end_time": "00:00"

@@ -3,431 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/s4c-uk.png",
   "schedule": [
     {
-      "date": "26 February 2026",
-      "programmes": [
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Home Shopping.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "..programmes start at 6.00am",
-          "show_description": "..programmes start at 6.00am",
-          "show_logo": "",
-          "start_time": "03:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Brethyn a Fflwff",
-          "show_description": "Mae Fflwff yn caru chwarae a fyddai'n hapus chwarae gem o Botwm Gwyllt o fore gwyn tan nos. Ond beth am Brethyn? Fluff loves to play and can happily enjoy endless games of Whizzy Button...",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b18c7203-3467-3539-89cf-2a30dc8790c9/cover",
-          "start_time": "06:00",
-          "end_time": "06:05"
-        },
-        {
-          "show_name": "Sion y Chef",
-          "show_description": "Mae Siôn yn sownd yn lifft y goleudy ac yn methu â chyrraedd y ty bwyta i drefnu'r prydau nos felly mae'n galw am gymorth gan Izzy. Siôn gets trapped in the lift and can't finish his stew!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5a06fa7f-3011-4521-9b18-6b98cca0f9e9/cover",
-          "start_time": "06:05",
-          "end_time": "06:20"
-        },
-        {
-          "show_name": "Cacamwnci",
-          "show_description": "Mae Cacamwnci nôl gyda mwy o sgetsys dwl a doniol, a chymeriadau newydd sbon fel Clem Clocsio, Myrddin y Dewin a Vanessa drws nesa. Cacamwnci is back with more silly sketches!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a70129d3-c0d3-4d8d-a24d-c89f8e156b0c/cover",
-          "start_time": "06:20",
-          "end_time": "06:35"
-        },
-        {
-          "show_name": "Octonots",
-          "show_description": "Rhaid i'r Octonots rwystro dau ferdysyn mantis rhag ymladd cyn i'w crafangau cryfion chwalu'r Octofad. The Octonauts must stop two mantis shrimps fighting before they destroy the Octopad.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/635b9e11-eefc-45c2-bb55-da4320997bf2/cover",
-          "start_time": "06:35",
-          "end_time": "06:45"
-        },
-        {
-          "show_name": "Byd Tad-cu",
-          "show_description": "Mae gan Tad-cu stori am ddyn o'r enw Twm Twls sy'n helpu ei ffrindiau gyda phob math o dasgau anarferol. Tac-cu spins one of his tall tales about a rather unusual handyman called Twm Twls.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4c2747d9-4378-4b13-a859-de6737ec141c/cover",
-          "start_time": "06:45",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Blociau Rhif",
-          "show_description": "Mae'r Blociau Rhif yn cyflwyno eu fersiwn arbennig nhw o Y Tri Mochyn Bach a'r Sgwar Mawr Drwg. The Numberblocks present their own version of The Three Little Pigs and the Big Bad Square.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/01ffb765-39a0-491d-b7d3-dac680f9b153/cover",
-          "start_time": "07:00",
-          "end_time": "07:05"
-        },
-        {
-          "show_name": "Crawc a'i Ffrindiau",
-          "show_description": "Pan mae Gwich a'i frawd yn mynd â charafán Crawc ar daith drwy gefn gwlad buan iawn mae ffrae yn codi rhwng y brodyr. Sibling jealousies rise to the surface when Gwich goes on holiday.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9126a30c-b1ac-3af4-a915-c8046d89a316/cover",
-          "start_time": "07:05",
-          "end_time": "07:15"
-        },
-        {
-          "show_name": "Bendibwmbwls",
-          "show_description": "Heddiw mae Ben Dant yn ymuno á disgyblion Ysgol Gynradd Gymraeg Garth Olwg i greu trysor penigamp. Ben Dant joins the pupils of Ysgol Dyffryn Trannon, Trefeglwys to create a treasure.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2b4e18fe-1852-3742-a5ce-5d4220fae365/cover",
-          "start_time": "07:15",
-          "end_time": "07:25"
-        },
-        {
-          "show_name": "Twm Twrch",
-          "show_description": "Mae Mishmosh wedi mynd allan ar frys a gadael Twm Twrch a Dorti ar ôl yn y labordy clo drwy ddamwain! Mishmosh has gone out in a hurry and left Twm Twrch and Dorti locked in the lab! Oops!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0510424d-b612-4a24-a62d-71bd7c4197d8/cover",
-          "start_time": "07:25",
-          "end_time": "07:40"
-        },
-        {
-          "show_name": "Ne-wff-ion",
-          "show_description": "Tro hwn, mae Lloyd yn ymweld â chlwb sglefrfyrddio arbennig yn Abertawe, ac fe gawn ni ddysgu beth yw murlun. Lloyd visits a skateboarding club in Swansea and we learn what a mural is.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b4cf1ef0-cc08-4434-b90c-a7842448e4a6/cover",
-          "start_time": "07:40",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "Sam Tan",
-          "show_description": "Mae Meic a Norman yn cystadlu am gynulleidfa i'w sioeau. Mae pethe'n gwaethygu pan mae arwyddbost Meic yn cynnau ac yn anelu am lori danwydd enfawr. Mike and Norman compete for an audience.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d12b90aa-bea7-3e4a-b7c8-e46b1426c86b/cover",
-          "start_time": "08:00",
-          "end_time": "08:10"
-        },
-        {
-          "show_name": "Ahoi!",
-          "show_description": "All morladron bach Ysgol Y Fenni lwyddo i helpu Ben Dant a Cadi i drechu Capten Cnec a chipio'r ynys yn ôl? Can Ysgol Y Fenni succeed in helping Ben Dant and Cadi defeat Capten Cnec?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/91370926-78cb-4d53-980c-bf584eded36a/cover",
-          "start_time": "08:10",
-          "end_time": "08:25"
-        },
-        {
-          "show_name": "Twt",
-          "show_description": "Mae heddiw'n ddiwrnod arbennig iawn, 'Diwrnod y Baneri. Today's a special day; it's Flag Day. Will Twt get his flag ready in time or will he have to miss the parade?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7dd2ed02-4689-4ad6-b813-9a85159a269a/cover",
-          "start_time": "08:25",
-          "end_time": "08:40"
-        },
-        {
-          "show_name": "Ein Byd Bach...",
-          "show_description": "Dysgwn am y pethau hynaf ar ein planed - y Ddaear ei hun, coed, adeiladau a henebion fel Cor y Cewri, cestyll gwahanol ac offerynnau hen fel y Sither Tsieineaidd. We learn about Dinosaurs.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ff0c3419-7d72-3d0b-beb6-ef943c44d6da/cover",
-          "start_time": "08:40",
-          "end_time": "08:50"
-        },
-        {
-          "show_name": "Awyr Iach",
-          "show_description": "Heddiw, bydd Huw yn cwrdd a theulu sy'n mwynhau dringo, a bydd rhai o ddisgyblion Ysgol Bro Teyrnon yn gwneud ioga. Today: Meleri will be cycling with Elis on the pump track, plus more.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/86dc3c48-a3bb-36f6-963f-45d63ea3e9e8/cover",
-          "start_time": "08:50",
-          "end_time": "09:05"
-        },
-        {
-          "show_name": "Olobobs",
-          "show_description": "Wrth drio 'nôl balwn, mae Gwenllian Gwallt yn dod o hyd i ystafell newydd yn y Goeden sy'n troi'n falwn awyr! Gwenllian Gwallt finds a new room in the Tree which becomes a hot air balloon!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7c8b9d90-928d-4968-86a7-440283b62e38/cover",
-          "start_time": "09:05",
-          "end_time": "09:10"
-        },
-        {
-          "show_name": "Og y Draenog Hapus",
-          "show_description": "Mae Og y Draenog Hapus yn deffro gyda bola swnllyd iawn bore ma - sy'n siwr o'i neud yn Og bach anhapus iawn. A rumbly tummy does not a happy Og make.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c24a8e34-402b-4456-8431-6bf2338b5ba4/cover",
-          "start_time": "09:10",
-          "end_time": "09:20"
-        },
-        {
-          "show_name": "Dreigiau Cadi",
-          "show_description": "Pan na fydd baneri newydd ar gyfer y rheilffordd yn cyrraedd, a all y dreigiau achub y dydd? When new flags for the railway don't arrive, can the dragons to save the day?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/393e26e2-403b-3636-8777-c439b5187361/cover",
-          "start_time": "09:20",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Pablo",
-          "show_description": "Mae gan Pablo ei ffordd ei hun o weld y byd. Mae'n rhaid iddo stopio'r Llowciwr Oglau rhag llyncu popeth! Pablo and friends stop The Smell Gobbler eating all the smells in the house.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/864d4c43-7fd2-4bc4-935f-b39679cef5ea/cover",
-          "start_time": "09:30",
-          "end_time": "09:40"
-        },
-        {
-          "show_name": "Parc Glan Gwil",
-          "show_description": "Mae'r criw'n mynd i bysgota ond does gan Glynwen ddim gwialen. Mae Misha yn dangos iddi nad oes angen yr offer gorau i ddal y sgodyn mwya. The crew go fishing but Glynwen Glanhau has no rod!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0acefaf0-6dad-4361-8e5c-5f76e190456a/cover",
-          "start_time": "09:40",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Blociau Lliw",
-          "show_description": "Mae Glas cwl iawn yn ymddangos yng Ngwlad y Lliwiau. Dysga am y lliw glas. Cool Blue arrives in Colourland. Learn about the colour blue.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8da0a55e-513d-3e77-9aab-deb2c294c221/cover",
-          "start_time": "10:00",
-          "end_time": "10:10"
-        },
-        {
-          "show_name": "Tomos a'i Ffrindau",
-          "show_description": "Mae Diesel yn gwneud sylw am sut nad yw Tomos bellach yw'r injan orau un. Diesel makes a comment about Tomos not being number one anymore.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e6be1aa5-b346-3ab6-b559-0c69c9f0d2c2/cover",
-          "start_time": "10:10",
-          "end_time": "10:20"
-        },
-        {
-          "show_name": "Dreigiau Cadi",
-          "show_description": "Yn yr iard ym Mhendre, mae Cadi'n sylweddoli ei bod wedi colli bollt bwysig. Mae angen ei ffeindio! In the Pendre yard, Cadi realises that she has lost an important bolt. She must find it!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a71f2e2d-75e6-4b6f-84cb-e5f4d4c20841/cover",
-          "start_time": "10:20",
-          "end_time": "10:35"
-        },
-        {
-          "show_name": "Digbi Draig",
-          "show_description": "Mae prinder dwr ym Mhen Cyll. Mae Digbi a'i ffrindiau'n ceisio dysgu pam. There's a water-shortage in Pen Cyll. Digbi and his friends go in search of the reason.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/084ed424-2048-427f-be62-5b98836c224a/cover",
-          "start_time": "10:35",
-          "end_time": "10:45"
-        },
-        {
-          "show_name": "Help Llaw",
-          "show_description": "Harri gets a call from Lisa and her father - their welding machine has broken and Harri goes to help. Mae Harri'n cael galwad gan Lisa a'i thad gan fod y peiriant weldio wedi torri.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6c74f95a-4582-449b-b2e7-f3250e96d953/cover",
-          "start_time": "10:45",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "Egin Bach",
-          "show_description": "Mae Nano'n ceisio dod o hyd i bry lludw swil, ac mae Septo'n teimlo'n rhwystredig gan y dail yn cwympo. Nano is on the hunt for a shy woodlouse, and Zepto gets frustrated by falling leaves.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5a41d12d-e1ee-47e6-bfbe-6a199c58b858/cover",
-          "start_time": "11:00",
-          "end_time": "11:05"
-        },
-        {
-          "show_name": "Blero'n Mynd i Ocido",
-          "show_description": "A Fydd Blero'n llwyddo i reoli'r crynu yn fol er mwyn perfformio fflip driphlyg yn y syrcas? Can Blero conquer his tummy flutters so he can perform a triple flip at the Ocido circus?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6b13fe73-c996-325a-8406-32f33c0828b1/cover",
-          "start_time": "11:05",
-          "end_time": "11:20"
-        },
-        {
-          "show_name": "Annibendod",
-          "show_description": "Mae tad Anni yn gofyn i Anni a Cai i lanhau wedi'r storm fawr ac ma'r ddau'n troi tasg diflas i un llawn hwyl! Anni's father asks Anni and Cai to help with the cleanup after the great storm.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0494849a-b75f-4872-84c0-8464e344c22b/cover",
-          "start_time": "11:20",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Blwi",
-          "show_description": "Mae Bingo wrth ei bodd yn chwarae gyda'i thad, ond weithiau mae e'n anghofio ei bod hi'n iau na'i chwaer. Bingo loves being silly with her Dad, but sometimes he forgets that she's so young.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5d9c5c72-f772-4914-8d96-c25a154b53c9/cover",
-          "start_time": "11:30",
-          "end_time": "11:40"
-        },
-        {
-          "show_name": "Deian a Loli",
-          "show_description": "Mae Deian a Loli wedi diflasu mynd o gwmpas Oriel, ac felly'n rhewi eu rhieni ac yn mynd i chwilio am gaffi. Deian and Loli freeze their parents and go looking for a cafe and some havoc!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d9e384e4-7862-4be5-9702-b45d445fa7c7/cover",
-          "start_time": "11:40",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Newyddion S4C",
-          "show_description": "Newyddion S4C a'r Tywydd. S4C News and Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5eec1200-fb07-45e6-a21f-a8af03aa935c/cover",
-          "start_time": "12:00",
-          "end_time": "12:05"
-        },
-        {
-          "show_name": "Richard Holt: Yr Academi Felys",
-          "show_description": "Mae triawd o'r pobyddion yn mynd ar helfa drysor cyn mynd ati i greu cacen newydd yn yr Academi. Three of the bakers go on a treasure hunt for fruit and herbs, before creating new cakes.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/06a23caa-3c1b-4b28-8b56-740bb5b47d6f/cover",
-          "start_time": "12:05",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "Heno",
-          "show_description": "Byddwn ni'n siarad gyda chwaraewr pêl-droed, Lili Jones, a chawn ni sgwrs gyda Rhys Meirion. We chat with Lili Jones, and Rhodri Owen has a look at a £4.5 million house in Pembrokeshire.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/02d0b145-11b1-4204-80cf-d4c0b9f7b989/cover",
-          "start_time": "12:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Y Byd ar Bedwar",
-          "show_description": "Wedi ennill un frwydr enwog, mae Llangyndeyrn yn wynebu brwydr arall - i gadw ei ysgol ar agor. Having won one famous battle, Llangyndeyrn is facing another - to keep its school open.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d6845d82-bff0-44ae-8953-d77575a6b8de/cover",
-          "start_time": "13:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Y Deis",
-          "show_description": "Gêm gwis. Yn cystadlu heno mae timau o Gonwy/Y Felinheli, Pen-y-bont ar Ogwr/Ciliau Aeron ac Abertawe. A quiz show that combines knowledge, strategy and a little bit of luck.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d8eb8e5f-b4cd-4996-92c0-9fbbcc60408a/cover",
-          "start_time": "13:30",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Newyddion S4C",
-          "show_description": "Newyddion S4C a'r Tywydd. S4C News and Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a7d98c91-dc45-4f01-b715-0f419f11dc1c/cover",
-          "start_time": "14:00",
-          "end_time": "14:05"
-        },
-        {
-          "show_name": "New: Prynhawn Da",
-          "show_description": "Bomber Jackets bydd yn cael sylw Huw Fash yn y gornel Ffasiwn. Byddwn yn sgwrsio gyda'r actor Elwyn Williams. Huw Fash will be looking at the Bomber jacket and there'll be a fitness session.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e8baf7d3-023c-49e4-8685-4194dccaeaa3/cover",
-          "start_time": "14:05",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Newyddion S4C",
-          "show_description": "Newyddion S4C a'r Tywydd. S4C News and Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/94fc97d0-56e7-4f38-8c65-25402f03a098/cover",
-          "start_time": "15:00",
-          "end_time": "15:05"
-        },
-        {
-          "show_name": "Noson Lawen",
-          "show_description": "Trystan Ellis-Morris sy'n dathlu Cân i Gymru gyda pherfformiadau gan rai o sêr amlycaf Cymru. A celebration of Cân i Gymru with performances from some of Wales's biggest stars.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e2911de2-dc0a-45e2-9803-af6ced8df948/cover",
-          "start_time": "15:05",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Blwi",
-          "show_description": "Mae Dad yn mynnu aros pum munud arall am fwyd pryd ar glud ond mae Blwi a Bingo yn aflonydd iawn. Dad insists on waiting five more mins for a takeaway but Blwi and Bingo become restless.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f3f798e8-66ca-4ab9-a420-844ddc178683/cover",
-          "start_time": "16:00",
-          "end_time": "16:10"
-        },
-        {
-          "show_name": "Crawc a'i Ffrindiau",
-          "show_description": "Mae dwr yn diferu o'r to gan dorri ar draws cyngerdd ffidil Crawc. Crawc tries to fix a roof which starts leaking mid-violin performance and discovers the leaks give him a musical bonus.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ba91f7ef-9f1a-38af-a7aa-c60e1049165b/cover",
-          "start_time": "16:10",
-          "end_time": "16:25"
-        },
-        {
-          "show_name": "Dreigiau Cadi",
-          "show_description": "Mae peintiwr tirwedd adnabyddus wedi dewis y dyffryn a'r rheilffordd fel pwnc ar gyfer ei gwaith nesaf, ac mae angen help mawr gan y dreigiau! This time, the dragons help a renowned painter!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/71f9cc8b-90e6-45bc-8568-380c0dc328b8/cover",
-          "start_time": "16:25",
-          "end_time": "16:35"
-        },
-        {
-          "show_name": "Egin Bach",
-          "show_description": "Mae Atto'n trio helpu Mili i ddod o hyd i'w hedyn blodyn yr haul,ac mae Septo a Mili'n trio edrych ar ôl babi egin.  Atto tries to help Milli find her Sunflower seed, so they can plant it.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/09e8dfdd-1828-4e01-bf08-dc3c9a890d05/cover",
-          "start_time": "16:35",
-          "end_time": "16:40"
-        },
-        {
-          "show_name": "Kim a Cêt a Twrch",
-          "show_description": "Mae Kim a Cêt yn chwilio am Twrch gyda'u ffrind newydd Mwydyn. Kim and Cêt are looking for Twrch with their new friend Mwydyn.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/664a821b-e847-4848-b765-c3f7604fd252/cover",
-          "start_time": "16:40",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Prys a'r Pryfed",
-          "show_description": "Mae Prys yn yfed sudd bin ac yn teimlo'n dda - o ganlyniad, mae'n ceisio ei hyrwyddo i eraill fel elicsir ar gyfer iechyd da. Prys tries to promote bin juice as an elixir for good health.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9884a37c-85d9-4c2e-b32a-f73d7970eaaf/cover",
-          "start_time": "17:00",
-          "end_time": "17:10"
-        },
-        {
-          "show_name": "Chwarter Call",
-          "show_description": "Ymunwch â Cadi, Luke, Jed a Miriam yn y gyfres gomedi Chwarter Call Digonedd o hwyl a chwerthin gyda Cofi'r Gath, Seren Sassy a Toni Tiwns! A new comedy series.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/baed8d33-36fc-3d4a-b794-0b26dd117020/cover",
-          "start_time": "17:10",
-          "end_time": "17:25"
-        },
-        {
-          "show_name": "Cath-Od",
-          "show_description": "Mae Crinc yn darganfod ei dwll mwydyn cyntaf erioed, ac mae Macs ofn ci newydd o'r enw Anton. Crinc discovers his first wormhole! Macs is afraid of a new dog called Anton.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/813703e9-067a-4e3b-b058-9866bd85ec34/cover",
-          "start_time": "17:25",
-          "end_time": "17:35"
-        },
-        {
-          "show_name": "EPIG",
-          "show_description": "Cyfle i weld be' sy'n digwydd ym myd y campau anturus. Tro ma, mae Lauren ac Aled yng nghystadleuaeth sgïo yng Nghaerdydd. This time Lauren and Aled are in a skiing competition in Cardiff.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f7ff274f-b6c8-4f67-98b2-e01ef8756e3e/cover",
-          "start_time": "17:35",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Stiwdio 24/7",
-          "show_description": "Y tro yma bydd Gruff Rhys  yn perfformio dwy gân o'i albym newydd \"Dim Probs\", ac fe fydd Sage Todz yn y stiwdio. We hear two songs  from Gruff Rhys from his new album \"Dim Probs\".",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4b19e654-bea1-43d8-a3d0-39a8a143381d/cover",
-          "start_time": "18:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "Ciao! Colleen ag Owain",
-          "show_description": "Wedi cyrraedd Llyn Como, yn yr Eidal mae'r ddau'n defnyddio'r fferi leol i deithio o amgylch yr ardal. Lake Como and the sweet Cannoli is an unforgettable stop in their Italian adventure.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cdc175db-9e6a-4d4e-922c-c67358d49696/cover",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "New: Heno",
-          "show_description": "Byddwn yn cael cwmni'r actores, Elain Llwyd, yn y stiwdio, a byddwn yn dathlu diwrnod iodelo UNESCO gydag Iodel Ieu. We'll be joined by Elain Llwyd, and we'll celebrate UNESCO Yodelling Day.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f02f44fe-adad-4882-94da-fdba0ebbcaff/cover",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Newyddion S4C",
-          "show_description": "Newyddion S4C a'r Tywydd. S4C News and Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/47eb09a3-ea6d-4714-9430-983199ce3a0a/cover",
-          "start_time": "19:30",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "New: Pobol y Cwm",
-          "show_description": "Mae ymddygiad Anita'n rhoi ei gofalwraig newydd mewn peryg ac mae Eileen yn tanseilio caredigrwydd Britt. Anita's behaviour puts her carer at risk and Eileen undermines Britt's kindness.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/15db5691-1c48-4dd7-a889-b4a6f0cdf8f1/cover",
-          "start_time": "20:00",
-          "end_time": "20:25"
-        },
-        {
-          "show_name": "New: Rownd a Rownd",
-          "show_description": "Mae Mair ac Ioan yn cael y wefr o weld eu babi am y tro cyntaf, tra bod Sophie yn cael sioc. Mair and Ioan are thrilled to see their baby for the first time, while Sophie receives a shock.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b708d88c-b4e2-46b7-87ac-f2e12783f85b/cover",
-          "start_time": "20:25",
-          "end_time": "20:55"
-        },
-        {
-          "show_name": "Newyddion S4C",
-          "show_description": "Newyddion S4C a'r Tywydd. S4C News and Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/64750e3d-007c-4a18-96e9-4eafc103cfd4/cover",
-          "start_time": "20:55",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "New: Jonathan",
-          "show_description": "Ymunwch â Jonathan, Nigel, Sarra a Lloyd wrth iddyn nhw groesawu eu gwesteion, James Williams a Kiri Pritchard-Mclean i'r soffa.  Join Jonathan and the team along with their studio guests.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c696eb5b-cfcb-41b8-ace7-fdf3683c9656/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Amour & Mynydd",
-          "show_description": "Mae na sypreis yn cyrraedd y Chalet i gynhyrfu'r dyfroedd, ac mae gan Elin gyhoeddiad annisgwyl i'r criw.  A 'special delivery' arrives at the chalet that's sure to stir things up!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f37856e4-40d8-47ad-9c06-bde511e9dad7/cover",
-          "start_time": "22:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Cynefin",
-          "show_description": "Yn rhaglen ola'r gyfres bydd Heledd, Iestyn a Siôn yn crwydro Bro Tegid. The squire who founded the world's first sheepdog trials and a motorbike racer feature in a visit to Bro Tegid.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ea57af28-e49c-4738-b934-fb683661cdec/cover",
-          "start_time": "23:00",
-          "end_time": "00:05"
-        }
-      ]
-    },
-    {
       "date": "27 February 2026",
       "programmes": [
         {
@@ -519,13 +94,13 @@
           "show_description": "Does dim awydd cysgu ar Haul heddiw, sy'n peri problemau i drigolion arall y nen. What will happen when Sun refuses to go to sleep?",
           "show_logo": "https://images.metadata.sky.com/pd-image/acb62cd4-3ef6-411e-b831-e0be3523b90f/cover",
           "start_time": "08:00",
-          "end_time": "08:15"
+          "end_time": "08:10"
         },
         {
           "show_name": "Digbi Draig",
           "show_description": "Mae'n Hirddydd Haf ac mae Digbi a Cochyn eisiau codi'n gynnar i weld y dydd yn gwawrio. It's the Summer Solstice and Digbi and Cochyn want to be up to see the sun come up.",
           "show_logo": "https://images.metadata.sky.com/pd-image/066569de-26c9-4fdb-9887-68ad6eb62f81/cover",
-          "start_time": "08:15",
+          "start_time": "08:10",
           "end_time": "08:25"
         },
         {
@@ -824,7 +399,7 @@
         },
         {
           "show_name": "Jonathan",
-          "show_description": "Ymunwch â Jonathan, Nigel, Sarra a Lloyd wrth iddyn nhw groesawu eu gwesteion, James Williams a Kiri Pritchard-Mclean i'r soffa.  Join Jonathan and the team along with their studio guests.",
+          "show_description": "Ymunwch â Jonathan, Nigel, Sarra a Lloyd wrth iddyn nhw groesawu eu gwesteion, James Williams a Kiri Pritchard-Mclean i'r soffa. Join Jonathan and the team along with their studio guests.",
           "show_logo": "https://images.metadata.sky.com/pd-image/8645de0f-c060-4503-a095-04cbf46e6d1f/cover",
           "start_time": "22:40",
           "end_time": "23:45"
@@ -834,6 +409,207 @@
           "show_description": "..programmes start at 6.00am",
           "show_logo": "",
           "start_time": "23:45",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "28 February 2026",
+      "programmes": [
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Home Shopping.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "..programmes start at 6.00am",
+          "show_description": "..programmes start at 6.00am",
+          "show_logo": "",
+          "start_time": "03:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Joni Jet",
+          "show_description": "Mae Cwstenin Cranc yn torri mewn i'r amgueddfa i ddwyn delw dychrynllyd, yr un noson â gwylnos yr ysgol yno. Cwstenin Cranc breaks into the museum to steal a terrifying statue,",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4f76bb72-d553-3c80-9c30-7820db30b95b/cover",
+          "start_time": "06:00",
+          "end_time": "06:15"
+        },
+        {
+          "show_name": "Annibendod",
+          "show_description": "Mae Gari'n poeni bod llygoden yn yr ysgol ond yn methu ei ddal, ac mae Miss Enfys wedi drysu ei diwrnodau. Gary's worried there's a mouse in the school but he can't catch it!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4d1248d0-d624-4f4b-87bd-db5b190b0348/cover",
+          "start_time": "06:15",
+          "end_time": "06:25"
+        },
+        {
+          "show_name": "Pablo",
+          "show_description": "Mae gan Pablo ei ffordd ei hun o weld y byd. Mae'n rhaid iddo stopio'r Llowciwr Oglau rhag llyncu popeth! Pablo and friends stop The Smell Gobbler eating all the smells in the house.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/864d4c43-7fd2-4bc4-935f-b39679cef5ea/cover",
+          "start_time": "06:25",
+          "end_time": "06:35"
+        },
+        {
+          "show_name": "Kim a Cai a Cranc",
+          "show_description": "Mae Cranc yn sylweddoli nad yw nyth pigog Gwylan yn gartre' cyfforddus o gwbl! Cranc realises that Gwylan's spiky nest isn't a comfortable home!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/375832d7-9ea8-48a4-8677-5f67a7868cde/cover",
+          "start_time": "06:35",
+          "end_time": "06:50"
+        },
+        {
+          "show_name": "Odo",
+          "show_description": "Mae Odo a Dwdl wedi adeiladu den cudd ac yn penderfynu ar gnoc gyfrinachol i agor y drws. Ond mae problem! Odo and Doodle build a secret den and decide on a special knock to enter the den!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b1509227-7e58-453d-8d88-0d67f17a6e0b/cover",
+          "start_time": "06:50",
+          "end_time": "06:55"
+        },
+        {
+          "show_name": "Caban Banana Gareth",
+          "show_description": "Mae Gareth yr Orangutan yn teithio ysgolion Cymru yn trafod pynciau difyr. Tro ma, Amser Gwely yw'r pwnc trafod. This week Bedtime is the topic of discussion as Gareth chats to schoolkids.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4ceac048-b177-4c0b-9ca5-530d7aad733b/cover",
+          "start_time": "06:55",
+          "end_time": "07:05"
+        },
+        {
+          "show_name": "Twm Twrch",
+          "show_description": "Mae Twm Twrch a'i fam yn edrych ymlaen i fynd a'u dyfais i'r gystadleuaeth wyddonol - ond yn anffodus mae 'na ddamwain! There's a device, a Science Competition, and an accidental breakage!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e98c1364-a829-45f3-9d79-c8a859044394/cover",
+          "start_time": "07:05",
+          "end_time": "07:15"
+        },
+        {
+          "show_name": "Byd Tad-cu",
+          "show_description": "Heddiw, mae Owen yn gofyn 'Pam bod llysiau yn dda i ti?'. Wrth gwrs, mae gan Tad-cu ateb doniol am rhandir hudol! In today's programme, Owen asks 'Why are vegetables good for you?'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/629e3fe0-c6f7-46e2-8ead-38f8323f3368/cover",
+          "start_time": "07:15",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "Crawc a'i Ffrindiau",
+          "show_description": "Pan ma Crawc yn darganfod ei fod yn perthyn i'r teulu brenhinol mae ei ymddygiad yn mynd ar nerfau pawb. Crawc finds he's related to royalty, but his airs and graces offend his friends.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/59fa8b78-24b7-37be-93f3-a5863b291322/cover",
+          "start_time": "07:30",
+          "end_time": "07:40"
+        },
+        {
+          "show_name": "Waw! - Deunyddiau",
+          "show_description": "Ymunwch â Awi a chriw Waw i ddarganfod a rhyfeddu at bob math o ddeunyddiau rhyfeddol. Join Awi and the 'Waw' crew to discover and marvel at all sorts of amazing materials.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/208854e3-37fd-4a4a-ad39-a22ae2413b06/cover",
+          "start_time": "07:40",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "New: Stwnsh Sadwrn Byw",
+          "show_description": "Jack, Lloyd, Jed a Cadi sy' yn y stiwdio, gyda llond lle o gemau, LOL-ian ac ambell pei Stwnsh!  Jack, Lloyd, Jed and Cadi are in the studio with games and the odd Stwnsh pie!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/86d4df7a-2b9d-4afd-b8a4-66d1b54dd882/cover",
+          "start_time": "08:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Dreigiau Cadi",
+          "show_description": "Mae'r Dreigiau yn ailgylchu hen ddillad i addurno'r orsaf ar gyfer priodas. The Dragons recycle old clothes to decorate the station for a wedding.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b22762a8-f41a-3b03-89d9-aafd0723c09c/cover",
+          "start_time": "10:00",
+          "end_time": "10:15"
+        },
+        {
+          "show_name": "Am Dro!",
+          "show_description": "Awn ar deithiau bendigedig ar arfordir Bae Ceredigion, Pen Llyn, Pontypridd, a Mynydd y Cribarthy yng Nghwm Tawe. We explore Cardigan Bay, Llyn Peninsula, Pontypridd and the Swansea Valley.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/44e3d27e-3f05-49dc-bb0d-a8f6bfa38850/cover",
+          "start_time": "10:15",
+          "end_time": "11:15"
+        },
+        {
+          "show_name": "Dim Byd i Wisgo",
+          "show_description": "Andria sy'n cael sylw Cadi ac Owain heddiw - actores o Abertawe sy'n chwilio am wisg addas ar gyfer mynd i theatr y West End yn Llundain. This time, we need an outfit fit for the West End!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ff6e6dbb-e594-4d83-a54f-a2e097d96bc6/cover",
+          "start_time": "11:15",
+          "end_time": "11:45"
+        },
+        {
+          "show_name": "Ffermio",
+          "show_description": "Awydd ffarmwr i addysgu plant am amaethyddiaeth a Phrosiect lleihau hunanladdiadau. We hear about from the farm to the school and a Collaboration between a distillery and a farmer.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0685ad60-cdac-46c5-a70e-bd243f16d060/cover",
+          "start_time": "11:45",
+          "end_time": "12:15"
+        },
+        {
+          "show_name": "Busnes Bwyd",
+          "show_description": "Mae'r cystadleuwyr sy'n weddill yn teithio i Gonwy am dasg marchnata a chyfryngau cymdeithasol. Contestants work as teams to create a social media advert for the Bodnant Welsh Food centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2126ff5d-e168-44fb-9d12-72d208bb5de1/cover",
+          "start_time": "12:15",
+          "end_time": "13:15"
+        },
+        {
+          "show_name": "Iolo: Natur Bregus Cymru",
+          "show_description": "Yn ystod oes pan mae bywyd gwyllt o dan fygythiad difrifol, edrycha Iolo ar gyflwr natur Cymru. During an age in which wildlife is under threat, Iolo looks at the state of Wales' nature.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/df47c571-ea12-4f3c-97b1-15b7e0801861/cover",
+          "start_time": "13:15",
+          "end_time": "14:15"
+        },
+        {
+          "show_name": "Taith Bywyd",
+          "show_description": "Owain Williams sy'n trefnu taith sbeshal i'r hyfforddwr pêl-droed Osian Roberts, i ail-fyw adegau pwysig ei fywyd. Owain Williams organises a special trip for football coach Osian Roberts.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/88e5368b-21d5-3b65-bcda-ff933abd4f0c/cover",
+          "start_time": "14:15",
+          "end_time": "15:15"
+        },
+        {
+          "show_name": "Prosiect Pum Mil",
+          "show_description": "Mae'r criw yn ateb her i godi eisteddle ar gae pêldroed Bontnewydd i gofio'n annwyl am gyn-chwaraewr. The crew erect a building on Bontnewydd's football field to remember a former player.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b8b69c36-3628-45a9-ac18-15ca7c839ec5/cover",
+          "start_time": "15:15",
+          "end_time": "16:10"
+        },
+        {
+          "show_name": "Sgwrs dan y Lloer: Daf James",
+          "show_description": "Elin Fflur yn sgwrsio dan olau'r lloer gyda'r dramodydd a'r awdur, Daf James. Elin Fflur chatting under the moonlight with the playwright and author, Daf James.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/867cabe6-47e9-44a1-8d46-c5e39f4285fb/cover",
+          "start_time": "16:10",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Sgorio - Y Seintiau Newydd v Y Barri",
+          "show_description": "Gêm fyw o rownd derfynol Cwpan Nathaniel MG. Y Seintiau Newydd yn erbyn Y Barri. C/G 17.25.   Live football of the Nathaniel MG Cup final. The New Saints v Barry Town. K/O 17:30.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/be80b4d2-5105-41d2-abda-471f44b29c8a/cover",
+          "start_time": "17:00",
+          "end_time": "19:45"
+        },
+        {
+          "show_name": "Newyddion a Chwaraeon",
+          "show_description": "Newyddion a chwaraeon y penwythnos. Weekend news and sport.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/46f1324b-00df-4e22-802e-4fc186582598/cover",
+          "start_time": "19:45",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "New: Cân i Gymru",
+          "show_description": "Trystan Ellis Morris a Elin Fflur fydd yn cyflwyno prif gystadleuaeth cyfansoddi'r flwyddyn yn fyw o Sir Fôn. Eight songs are vying to be crowned the winner and take home £5000.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b3462330-935d-4807-9d65-9da73193ff91/cover",
+          "start_time": "20:00",
+          "end_time": "22:20"
+        },
+        {
+          "show_name": "Amour & Mynydd",
+          "show_description": "Cyn gadael yr Alpau, mae gan y criw un penderfyniad mawr i'w wneud.  Thoughts turn towards life after Amour & Mynydd, but before packing their bags, there's one last decision to make.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0f383ba8-9991-47ae-a792-63c23f4c3c05/cover",
+          "start_time": "22:20",
+          "end_time": "23:15"
+        },
+        {
+          "show_name": "Amour & Mynydd",
+          "show_description": "Yws Gwynedd sy'n ymuno gyda Mari Beard a Meilir Rhys Williams i drafod a dadansoddi dwy bennod olaf cyfres newydd Amour & Mynydd. Yws Gwynedd joins Mari Beard and Meilir Rhys Williams.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e590312f-4a3e-47ae-b82c-6b6e8f931334/cover",
+          "start_time": "23:15",
+          "end_time": "23:50"
+        },
+        {
+          "show_name": "..programmes start at 6.00am",
+          "show_description": "..programmes start at 6.00am",
+          "show_logo": "",
+          "start_time": "23:50",
           "end_time": "00:00"
         }
       ]

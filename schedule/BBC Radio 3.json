@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
   "schedule": [
     {
-      "date": "26 February 2026",
-      "programmes": [
-        {
-          "show_name": "Through the Night",
-          "show_description": "Philip Glass's Concerto for saxophone quartet and orchestra, alongside Bernstein and Stravinsky as well as Joan Pérez-Villegas's Fantasy for Ravel's 150th Birthday.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Essential Classics",
-          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Classical Live",
-          "show_description": "Elizabeth Alker introduces an afternoon of specially made recordings including Sibelius' Symphony No. 2 from the BBC Philharmonic Orchestra and music from R3 New Generation Artists.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Composer of the Week: Amy Beach",
-          "show_description": "4/5. Donald Macleod explores Amy Beach's experiences at the MacDowell Colony, a remarkable artists' retreat in the New Hampshire woods.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "In Tune",
-          "show_description": "Cambridge Handel Opera Company singers perform live, and Jeremy Cooper on his latest book.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Classical Mixtape",
-          "show_description": "Take time out with a 30-minute soundscape of classical music.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Radio 3 in Concert",
-          "show_description": "The BBC Singers and BBC Concert Orchestra conducted by Sofi Jeannin in a programme of music by Howells, Sir James MacMillan, Dame Judith Weir, Caroline Shaw and Rautavaara.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "The Essay: Full Moon on...",
-          "show_description": "...Progress Street - series 2. Dr Rommi Smith examines the music and contributions of five leading Black female musicians, to civil rights and social change.",
-          "show_logo": "",
-          "start_time": "21:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Night Tracks",
-          "show_description": "Sara Mohr-Pietsch presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "'Round Midnight",
-          "show_description": "Tonight we hear the fourth and final 4/4 record choice from Soweto's guest this week, pianist Aaron Parks.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "27 February 2026",
       "programmes": [
         {
@@ -131,7 +49,7 @@
         },
         {
           "show_name": "Classical Mixtape",
-          "show_description": "Take time out with a 30-minute soundscape of classical music.",
+          "show_description": "Take time out with a 30-minute soundscape of classical music from Ravel, Liszt, Rimsky-Korsakov and Cecilia McDowall.",
           "show_logo": "",
           "start_time": "19:00",
           "end_time": "19:30"
@@ -159,9 +77,98 @@
         },
         {
           "show_name": "'Round Midnight",
-          "show_description": "Saxophonist Soweto Kinch picks jazz from all eras, with a focus on new British artists.",
+          "show_description": "Soweto is joined by the ever-explorative jazz bassist Dave Holland to reflect on his career and collaborations with jazz greats like Miles Davis, Chick Corea and Herbie Hancock.",
           "show_logo": "",
           "start_time": "23:30",
+          "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "28 February 2026",
+      "programmes": [
+        {
+          "show_name": "Through the Night",
+          "show_description": "Robin Holloway's new piano quartet receives its first London outing in this concert from Wigmore Hall. It's followed by Brahms' rich and ever-changing 1st Piano Quartet.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "Hannah French presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Saturday Morning",
+          "show_description": "Tom Service with the perfect classical soundtrack and an all-star morning of guests with pianist Vikingur Olafsson and composer Anna Meredith.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Earlier... with Jools Holland",
+          "show_description": "Jools is joined by the singer, songwriter and pianist Jon Regen.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Music Matters: Turning the Page",
+          "show_description": "Violinist Tasmin Little talks to soprano Lesley Garrett and John Sherba from the Kronos Quartet about finding new meaning after a performance career.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Record Review",
+          "show_description": "Andrew McGregor with the best new classical releases, joined by guest reviewers Suzi Digby and Laura Tunbridge.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Sound Of Cinema",
+          "show_description": "Join Edith Bowman for an immersive exploration of the finest music in film- joined this week by Academy Award-winning composer Daniel Blumberg.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "This Classical Life",
+          "show_description": "Jess Gillam meets the trumpet player Imogen Whitehead for a listening party with music by Copland, Barber, Vivaldi and Beyonce.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Opera on 3",
+          "show_description": "Bryn Terfel returns to the Royal Ballet and Opera to sing the troubled Tsar in Mussorgsky's original seven scene version of his opera. Mark Wigglesworth conducts.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "20:40"
+        },
+        {
+          "show_name": "City of Floating Sounds",
+          "show_description": "Ellie Slorach conducts the BBC Concert Orchestra at the Royal Festival Hall, London in Huang Ruo's immersive urban soundscape blending Chinese and western music.",
+          "show_logo": "",
+          "start_time": "20:40",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "Music Planet",
+          "show_description": "Kathryn Tickell curates a selection of roots-based music from across the globe, including fresh Afro-diasporic grooves from London-based, Ethio-jazz-inspired duo Zena.",
+          "show_logo": "",
+          "start_time": "21:30",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "New Music Show",
+          "show_description": "Tom Service presents a new work by Robert Laidlow, co-commissioned by BBC Radio 3 for the BBC Philharmonic Orchestra.",
+          "show_logo": "",
+          "start_time": "22:30",
           "end_time": "00:30"
         }
       ]

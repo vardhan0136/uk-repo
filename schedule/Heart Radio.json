@@ -3,67 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Heart.png",
   "schedule": [
     {
-      "date": "26 February 2026",
-      "programmes": [
-        {
-          "show_name": "Guy Howard",
-          "show_description": "If you're up late, working or heading home, Guy's got the best feel good music. Send a message to Guy on your Alexa, just say... \"Alexa, send a comment to Heart\".",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "Rob Howard",
-          "show_description": "Rob Howard starts your morning with the best feel good music and chat. Send a message to Rob on your Alexa, just say... \"Alexa, send a comment to Heart\".",
-          "show_logo": "",
-          "start_time": "04:00",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Heart Breakfast",
-          "show_description": "Join Jamie and Amanda for the UK's best Breakfast Show packed with feel good moments and chances to win! Wake up with Heart on your Alexa, just say... \"Alexa, play Heart\".",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Pandora Christie",
-          "show_description": "Pandora has the best feel good music, and chances to win on our brilliant big-money games! Send a message to Pandora on your Alexa, just say... \"Alexa, send a comment to Heart\".",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Matt Wilkinson",
-          "show_description": "Matt has the best feel good music, and chances to win on our brilliant big-money games! Send a message to Matt on your Alexa, just say... \"Alexa, send a comment to Heart\".",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "JK and Kelly Brook",
-          "show_description": "JK and Kelly Brook get you home with the best feel good music and chat every Monday to Friday. Text 82122 or ask your Alexa to \"Send a message to Heart\".",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Dev Griffin",
-          "show_description": "Join Dev for the best music, chances to win and more! Send a message to Dev on your Alexa, just say... \"Alexa, send a comment to Heart\".",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Ben Atkinson",
-          "show_description": "Turn up the Feel Good with Ben Atkinson to end the day right. Send a message to Ben on your Alexa, just say... \"Alexa, send a comment to Heart\"!",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "27 February 2026",
       "programmes": [
         {
@@ -111,6 +50,60 @@
         {
           "show_name": "Club Classics",
           "show_description": "Join Toby for four hours of the biggest Club Classics NON-STOP. Get in touch on 82122, or send a message to Toby on your Alexa, just say... \"Alexa, send a comment to Heart\"",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Rezzy Ghadjar",
+          "show_description": "Rezzy keeps the party going all the way through until 1am! Send a message to Rezzy on your Alexa, just say... \"Alexa, send a comment to Heart\".",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "28 February 2026",
+      "programmes": [
+        {
+          "show_name": "Seb Bailey",
+          "show_description": "Seb Bailey keeps you company through the night, with music to turn up the feel good. Just ask your Alexa to \"Play Heart\".",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Rob Howard",
+          "show_description": "Rob Howard starts your Saturday and Sunday mornings with the best feel good music and chat. Send a message to Rob on your Alexa, just say... \"Alexa, send a comment to Heart\".",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Mark & Olly",
+          "show_description": "Mark and Olly have great feel good music and fun to start your Saturday! Send a message on your Alexa, just say... \"Alexa, send a comment to Heart\".",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Dev Griffin",
+          "show_description": "Join Dev for the best music, chances to win and more! Send a message to Dev on your Alexa, just say... \"Alexa, send a comment to Heart\".",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Ben Atkinson",
+          "show_description": "Whether you're heading out or staying in, Ben has the best songs for Saturday afternoon. Send a message to Ben on Alexa, just say... \"Alexa, send a comment to Heart\".",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Club Classics",
+          "show_description": "Pandora has four hours of the biggest Club Classics NON-STOP! Get in touch on 82122, or send a message to Pandora on Alexa, just say... \"Alexa, send a comment to Heart\"",
           "show_logo": "",
           "start_time": "19:00",
           "end_time": "23:00"

@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-5-Live.png",
   "schedule": [
     {
-      "date": "26 February 2026",
-      "programmes": [
-        {
-          "show_name": "Dotun Adebayo",
-          "show_description": "Dotun Adebayo with your calls and discussion through the night. Call 08085 909693 (calls are free from mobiles and landlines). Text 85058 (charged at your standard message rate).",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "Wake Up to Money",
-          "show_description": "Sean Farrington looks into the prospect of robotaxis coming to the streets of London.",
-          "show_logo": "",
-          "start_time": "05:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "5 Live Breakfast",
-          "show_description": "Rachel Burden and Rick Edwards present with unique stories from across the UK, explaining details behind the headlines, and the biggest news and sport.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Nicky Campbell",
-          "show_description": "Nicky Campbell takes your calls on the day's talking points, hearing views and experiences from across the UK. Call 08085 909693 (calls are free from mobiles and landlines).",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "Adrian Chiles",
-          "show_description": "Adrian Chiles with original journalism and surprising news stories. Join the conversation, text 85058 (charged at your standard message rate).",
-          "show_logo": "",
-          "start_time": "11:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Matt Chorley",
-          "show_description": "Matt Chorley brings you big political guests, the key news of the day, and your views on the issues that matter to you. Text 85058 (charged at your standard message rate).",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "5 Live Drive",
-          "show_description": "A round-up of the day's top news and sport with Clare McDonnell and Calum Leslie. Plus interviews with people at the centre of the stories, and regular travel updates.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "5 Live Sport",
-          "show_description": "Eleanor Oldroyd presents the day's sports news plus a look ahead to tomorrow's T20 Super 8 match between England and New Zealand.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "5 Live Sport",
-          "show_description": "Eleanor Oldroyd and guests look at the rise of bare knuckle boxing.",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "5 Live Sport",
-          "show_description": "Steve Crossman is joined by Julien Laurens and Guillem Balagué to discuss all things European football.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Tony Livesey",
-          "show_description": "Johnny I'Anson sits in with late night conversation, the stories that matter to you, and in-depth interviews. Join the conversation.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "27 February 2026",
       "programmes": [
         {
@@ -96,7 +14,7 @@
         },
         {
           "show_name": "Wake Up to Money",
-          "show_description": "News and insight from the business world. Download the podcast via the BBC Sounds app.",
+          "show_description": "Will Bain gets the latest from the Gorton and Denton by-election and hears about the build-up to the first ever BRIT Awards to be held in Manchester.",
           "show_logo": "",
           "start_time": "05:00",
           "end_time": "06:00"
@@ -152,7 +70,7 @@
         },
         {
           "show_name": "5 Live Sport",
-          "show_description": "John Murray, Ian Dennis & Ali Bruce-Ball lift the lid on life as 5 Live commentators.",
+          "show_description": "John Murray, Ian Dennis & Ali Bruce-Ball talk football, travel & language. There's news on how to pronounce Taty Castellanos & hear from the voice of the 'corpsing classifieds'.",
           "show_logo": "",
           "start_time": "21:00",
           "end_time": "22:00"
@@ -163,6 +81,95 @@
           "show_logo": "",
           "start_time": "22:00",
           "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "28 February 2026",
+      "programmes": [
+        {
+          "show_name": "Laura McGhie",
+          "show_description": "Laura McGhie with your calls and features through the night. Call 08085 909693 (calls are free from mobiles and landlines). Text 85058 (charged at your standard message rate).",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "5 Live Boxing with Steve Bunce",
+          "show_description": "Discussion, analysis and the latest news from big fight nights and the world of boxing with Steve Bunce.",
+          "show_logo": "",
+          "start_time": "05:00",
+          "end_time": "05:30"
+        },
+        {
+          "show_name": "Football Daily",
+          "show_description": "Aaron Paul, Jobi McAnuff & Tommy Smith discuss the top stories from the EFL. Hear from Kim Hellberg as Middlesbrough drop points again in the Championship title race.",
+          "show_logo": "",
+          "start_time": "05:30",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Saturday Breakfast",
+          "show_description": "The big news and sports stories, weather, plus previews of the weekend's sport with Eleanor Oldroyd and Jeanette Kwakye. Text: 85058 (charged at your standard message rate).",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Patrick Kielty",
+          "show_description": "Join Paddy, his listeners and great guests for the ultimate feel good start to the weekend.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "Fighting Talk",
+          "show_description": "Rick Edwards presents a hilarious look at the world of sport where guests compete with their sporting punditry.",
+          "show_logo": "",
+          "start_time": "11:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "5 Live Sport",
+          "show_description": "Mark Chapman is joined by Alan Shearer, James McFadden, Rob Green and Statman Dave to build up to today's sporting action. Plus updates of Bournemouth v Sunderland.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Premier League Football",
+          "show_description": "Live Premier League commentary of Liverpool v West Ham United with updates from across today's 3pm matches in the Premier League, EFL and the Scottish Premiership.",
+          "show_logo": "",
+          "start_time": "15:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Sports Report",
+          "show_description": "Reports, results and reaction to the day's big sports stories.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "Premier League Football",
+          "show_description": "Live football commentary of Leeds United v Manchester City in the Premier League.",
+          "show_logo": "",
+          "start_time": "17:30",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "606",
+          "show_description": "Your football calls with Aaron Paul and Chris Sutton. Phone 08085 909693 free from mobiles and landlines. Text 85058 at your standard message rate.",
+          "show_logo": "",
+          "start_time": "19:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Stephen Nolan",
+          "show_description": "The day's main news stories, topical debate and interviews. Call 08085 909693 (calls are free from mobiles and landlines). Email: nolan@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "00:00"
         }
       ]
     }

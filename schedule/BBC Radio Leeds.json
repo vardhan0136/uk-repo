@@ -3,67 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Leeds.png",
   "schedule": [
     {
-      "date": "26 February 2026",
-      "programmes": [
-        {
-          "show_name": "Weekday overnights with BBC...",
-          "show_description": "...Radio 5 Live. Local BBC Radio joins BBC Radio 5 Live through the night on a weekday.",
-          "show_logo": "http://img.freeviewplay.net/e4db4431f28f77b8f720b9f8e5c1d2e53?w=800",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Rima Ahmed",
-          "show_description": "Waking you up each weekday morning, it's Rima Ahmed.",
-          "show_logo": "http://img.freeviewplay.net/efe0e21bf2b2fb7639a552bf4044b2eef?w=800",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Gayle Lofthouse",
-          "show_description": "West Yorkshire stories to make you smile, mid-morning updates and the music you love.",
-          "show_logo": "http://img.freeviewplay.net/ee958bd0e7bd89087f5cd36a64bfad2cd?w=800",
-          "start_time": "10:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Toby Foster",
-          "show_description": "The day's local and national news, as well as great music and quizzes with Sam.",
-          "show_logo": "http://img.freeviewplay.net/e0ae457ef87c5a95a0cf0ee28df46e800?w=800",
-          "start_time": "14:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "West Yorkshire Sport Daily",
-          "show_description": "Topical sports issues of the day.",
-          "show_logo": "http://img.freeviewplay.net/ee87333564c85f29b7454ead54a9d9509?w=800",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Upload with Hannah...",
-          "show_description": "...Sackville-Bryant. Original comedy, podcasts, poetry, fiction and more on BBC Upload. Upload your work for a chance to get on the BBC.",
-          "show_logo": "http://img.freeviewplay.net/ef9abc8bafd6c289b24e6086af14b4671?w=800",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "BBC Introducing - Leeds &...",
-          "show_description": "...Sheffield. Emily Pilbeam and Christian Carlisle share the best under-the-radar local musical talent from South and West Yorkshire.",
-          "show_logo": "http://img.freeviewplay.net/e6837cd3ec18ed01e88d048f2a399cf0d?w=800",
-          "start_time": "20:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The Late Show",
-          "show_description": "Becky Want with late-night conversation, amazing stories and the soundtrack to your night.",
-          "show_logo": "http://img.freeviewplay.net/efd65265b511daa476ef72564c81e71c0?w=800",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "27 February 2026",
       "programmes": [
         {
@@ -106,6 +45,81 @@
           "show_description": "Super League coverage of Castleford Tigers v Huddersfield Giants with commentary from James Deighton & Barry Eaton live from OneBore Stadium (8pm ko).",
           "show_logo": "http://img.freeviewplay.net/e08d751c1ed8808652a9f6ed24f60bdb2?w=800",
           "start_time": "19:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Late Night Jo",
+          "show_description": "Jo Good with late-night conversation, amazing stories and the soundtrack to your night.",
+          "show_logo": "http://img.freeviewplay.net/ebccb55fa5a5016e8794730c01535ad5a?w=800",
+          "start_time": "22:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "28 February 2026",
+      "programmes": [
+        {
+          "show_name": "Weekend overnights with BBC...",
+          "show_description": "...Radio 5 Live. Local BBC Radio joins BBC Radio 5 Live through the night on a weekend.",
+          "show_logo": "http://img.freeviewplay.net/ecf9fd0caeb6fb0c32a8c9c02274e26e4?w=800",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Kat Cowan",
+          "show_description": "Kat kicks off your weekend off with stories and laughs, music and conversation. Includes The Yorkshire Kitchen at 9am.",
+          "show_logo": "http://img.freeviewplay.net/e6c57454d52667afd4f6562af7596a83d?w=800",
+          "start_time": "06:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Colson Smith",
+          "show_description": "The latest on big events, great stories and all the music you love.",
+          "show_logo": "http://img.freeviewplay.net/ed16f54caa23e001c8a9fa67a40a9d642?w=800",
+          "start_time": "10:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "West Yorkshire Sport: Pre-match",
+          "show_description": "All the build-up and interviews ahead of today's matches featuring West Yorkshire teams.",
+          "show_logo": "http://img.freeviewplay.net/e424f253bcc8b5b8f11e2b8ad6e6b533a?w=800",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "West Yorkshire Sport: Commentary",
+          "show_description": "Coverage of Reading v Bradford City and Wigan Athletic v Huddersfield Town. NOT online.",
+          "show_logo": "http://img.freeviewplay.net/e3f2752b98d4940570a66bfde8589f4f6?w=800",
+          "start_time": "15:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "West Yorkshire Sport: Pre-match",
+          "show_description": "All the build-up and interviews ahead of today's matches featuring West Yorkshire teams.",
+          "show_logo": "http://img.freeviewplay.net/e424f253bcc8b5b8f11e2b8ad6e6b533a?w=800",
+          "start_time": "17:00",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "West Yorkshire Sport: Commentary",
+          "show_description": "Coverage of Leeds United v Manchester City in the Premier League. Kick-off at 5.30pm. NOT online.",
+          "show_logo": "http://img.freeviewplay.net/e3f2752b98d4940570a66bfde8589f4f6?w=800",
+          "start_time": "17:30",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "West Yorkshire Sport: Post-match",
+          "show_description": "Have your say. Text 81333 starting with WYS. Email westyorkshiresport@bbc.co.uk.",
+          "show_logo": "http://img.freeviewplay.net/e03c0ce0f89f9318aa799eb6b597fa801?w=800",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "BBC Introducing - Leeds &...",
+          "show_description": "...Sheffield. Emily Pilbeam shares the best under-the-radar local musical talent from South and West Yorkshire.",
+          "show_logo": "http://img.freeviewplay.net/e6837cd3ec18ed01e88d048f2a399cf0d?w=800",
+          "start_time": "20:00",
           "end_time": "22:00"
         },
         {
