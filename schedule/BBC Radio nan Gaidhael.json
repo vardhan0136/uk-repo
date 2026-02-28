@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-nan-Gaidheal.png",
   "schedule": [
     {
-      "date": "27 February 2026",
-      "programmes": [
-        {
-          "show_name": "Aithris na Maidne",
-          "show_description": "Naidheachdan ionadail, nàiseanta is eadar-nàiseanta gach madainn. Local, national and international news each morning.",
-          "show_logo": "",
-          "start_time": "07:30",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Naoi gu Deich",
-          "show_description": "Còmhradh, deasbad, cultar agus cur-seachadan. Conversation, discussion, culture and lifestyle.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "A' Mire ri Mòir",
-          "show_description": "Tha i beachdail, tha i beòthail agus tha i feitheamh ribh le taghadh ciùil. Morag MacDonald presents her great choice of traditional Gaelic music.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Feasgar an-diugh",
-          "show_description": "Naidheachdan, còmhradh, spòrs, ceòl agus fealla-dhà le Niall Iain.  News, chat, sport, music and entertainment with Niall Iain.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Caithream Ciùil",
-          "show_description": "Ceòl Gàidhealach 's Ceilteach agus fiosrachadh air na tha dol agaibhse gach feasgar. Gaelic and Celtic music and a round-up of what's on. Post-d - dethadol@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "13:30",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Mo Chuairt Chiùil",
-          "show_description": "Cluinnidh sinn mu na pìosan ciùil a tha air buaidh a thoirt air Alasdair MacMhuirich. We will hear the music that has influenced this week's guest, Alasdair Currie.",
-          "show_logo": "",
-          "start_time": "15:30",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Aithris an Fheasgair",
-          "show_description": "Naidheachdan nàiseanta is ionadail o Dhiluain gu Dihaoine. National and local news from Monday to Friday.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "Rogha is Tagha",
-          "show_description": "Taghadh à prògraman na seachdain air a thoirt thugaibh le Anna Nic na Ceardaich. A selection from the week's programmes with Anne Sinclair.",
-          "show_logo": "",
-          "start_time": "17:30",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Na Dùrachdan",
-          "show_description": "Ceòl, òrain agus beannachdan còmhla ri Art MacCarmaig. Music, song and fun with your requests. 08000 967050.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Mac'ille Mhìcheil",
-          "show_description": "Cuiridh Iain Mac'illeMhìcheil is Catrìona NicFhionghuinn an deireadh seachdain air a chasan. Chat and music with John Carmichael and guest to get your weekend off to a great start.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Naoi gu Deich",
-          "show_description": "Còmhradh, deasbad, cultar agus cur-seachadan. Conversation, discussion, culture and lifestyle.",
-          "show_logo": "",
-          "start_time": "23:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "28 February 2026",
       "programmes": [
         {
@@ -128,6 +46,123 @@
           "show_logo": "",
           "start_time": "13:00",
           "end_time": "09:00"
+        }
+      ]
+    },
+    {
+      "date": "1 March 2026",
+      "programmes": [
+        {
+          "show_name": "Dèanamaid Adhradh",
+          "show_description": "Seirbheis còmhla ris an Urr Coinneach Dòmhnallach, an Eaglais Shaor Leantainneach. Gaelic service with Rev Kenneth MacDonald, retired Free Church Continuing Minister.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Seinneamaid a Chliù",
+          "show_description": "Taghadh de laoidhean is sailm a chaidh a chruinneachadh airson Bliadhna nan Òran. A selection of hymns and psalms selected from the Bliadhna nan Òran / Year of Gaelic Song project.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Rogha is Tagha",
+          "show_description": "Taghadh à prògraman na seachdain air a thoirt thugaibh le Anna Nic na Ceardaich. A selection from the week's programmes with Anne Sinclair.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "10:30"
+        },
+        {
+          "show_name": "Crùnluath",
+          "show_description": "Eòghann MacEunraig le taghadh de cheòl na pìoba. Ewen Henderson presents a selection of pipe music.",
+          "show_logo": "",
+          "start_time": "10:30",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Tiompan",
+          "show_description": "Cluinnear ceòl bho Ali Levack, Lusa agus Mumford & Sons san taghadh aig Mairead NicIllinnein. Mairead MacLennan's playlist includes music from Ali Levack, Lusa and Mumford & Sons.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "SpeakGaelic",
+          "show_description": "Podcast do luchd-ionnsachaidh ceangailte ris an t-sreath SpeakGaelic air BBC ALBA. Weekly podcast for Gaelic learners, accompanying the BBC ALBA series SpeakGaelic.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "An Litir Bheag",
+          "show_description": "Litir Bheag na seachdain sa le Ruairidh MacIlleathain. Litir àireamh 1085. This week's short letter for Gàidhlig learners.",
+          "show_logo": "",
+          "start_time": "13:30",
+          "end_time": "13:35"
+        },
+        {
+          "show_name": "SpeakGaelic Extra",
+          "show_description": "Podcast do luchd-ionnsachaidh na Gàidhlig ceangailte ris an t-sreath SpeakGaelic air BBC ALBA. Weekly podcast for Gaelic learners, accompanying the BBC ALBA series SpeakGaelic.",
+          "show_logo": "",
+          "start_time": "13:35",
+          "end_time": "13:55"
+        },
+        {
+          "show_name": "Litir do Luchd-ionnsachaidh",
+          "show_description": "Litir do Luchd-ionnsachaidh le Ruairidh MacIlleathain. Litir àireamh 1389. Roddy Maclean reads this week's letter for Gàidhlig learners.",
+          "show_logo": "",
+          "start_time": "13:55",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Fonn",
+          "show_description": "Prògram de cheòl Ceilteach ùr à Alba is Èirinn.  New Celtic music from Scotland and Ireland.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Dèanamaid Adhradh",
+          "show_description": "Seirbheis còmhla ris an Urr Coinneach Dòmhnallach, an Eaglais Shaor Leantainneach. Gaelic service with Rev Kenneth MacDonald, retired Free Church Continuing Minister.",
+          "show_logo": "",
+          "start_time": "15:00",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "Fàilte air a' Bhaile",
+          "show_description": "Prògram a tasglann Fàilte air a' Bhaile. Thadhal Mòrag Dhòmhnallach air an t-Iochdar ann an 1986. Fàilte air a Bhaile in  Iochdar, South Uist, from the BBC archive.",
+          "show_logo": "",
+          "start_time": "15:30",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Mar Radio Alba",
+          "show_description": "Tha BBC Radio nan Gaidheal mar BBC Radio Alba. BBC Radio nan Gaidheal joins BBC Radio Scotland.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Dèanamaid Adhradh Tasglann",
+          "show_description": "Comhla ri Iain Moireach, nach maireann, Èildear ann an Eaglais Shaor Dowanvale, Glaschu 2012. Gaelic service conducted by John Murray, Elder in Dowanvale Free Church, Glasgow 2012.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "Rogha is Tagha",
+          "show_description": "Taghadh à prògraman na seachdain air a thoirt thugaibh le Anna Nic na Ceardaich. A selection from the week's programmes with Anne Sinclair.",
+          "show_logo": "",
+          "start_time": "21:30",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Mar Radio Alba",
+          "show_description": "Tha BBC Radio nan Gaidheal mar BBC Radio Alba. BBC Radio nan Gaidheal joins BBC Radio Scotland.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "07:30"
         }
       ]
     }

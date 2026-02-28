@@ -3,473 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/tg-4-ie.png",
   "schedule": [
     {
-      "date": "27 February 2026",
-      "programmes": [
-        {
-          "show_name": "Hotel Cocaine",
-          "show_description": "Cuireann Roman i leith Nestor gurb é a bhí taobh thiar d'fheallmharú Landon. (Roman accuses Nestor of having been behind the assassination of Congressman Landon.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4debbc09-fe95-4f62-bb69-8471b5fab583/cover",
-          "start_time": "00:05",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "Dáil Éireann",
-          "show_description": "Craoladh ar imeachtaí na maidine de riar na hoibre i nDáil Éireann. (Coverage of today's proceedings in Dáil Éireann.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/df977f4f-9df7-4a35-a36c-ec4809c94b8c/cover",
-          "start_time": "01:00",
-          "end_time": "01:45"
-        },
-        {
-          "show_name": "Abair Amhrán",
-          "show_description": "Ceiliúradh ar amhráin a bhíodh againn ag éirí aníos. (Series which celebrates and takes a fresh look at the songs of our schooldays.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/80995265-b485-4b24-b9fb-b736a1a8bfd2/cover",
-          "start_time": "01:45",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "Nuacht TG4",
-          "show_description": "Mórimeachtaí an lae ó Aonad Nuachta TG4. (The day's main news stories from a regional, national and international perspective.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c913609a-670a-4357-a424-b3f2793ff65c/cover",
-          "start_time": "02:00",
-          "end_time": "02:30"
-        },
-        {
-          "show_name": "Seal le Dáithí",
-          "show_description": "Is é an siúlóir Jamie Costin a bheidh ag caitheamh seal le Dáithí Ó Sé ar an gclár. (Dáithí Ó Sé will be chatting with race walker Jamie Costin on the show.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/67866e8e-0412-4969-9f49-6d6d10c1a89c/cover",
-          "start_time": "02:30",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Laochra Gael",
-          "show_description": "Is é an t-iománaí as Aontroim Neil McManus a bheidh faoi chaibidil sa gclár seo. (This programme focuses on Antrim hurler Neil McManus.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dabeb652-1acd-4b9f-a229-d6913f9b6878/cover",
-          "start_time": "03:00",
-          "end_time": "03:55"
-        },
-        {
-          "show_name": "Réalta agus Gaolta",
-          "show_description": "Is 'Clár speisialta Wildcard' a bheidh ann ar an seó tallainne seo anocht! (Tonight it's the Wildcard Special!)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/21fbe083-cefc-4d14-a254-677ee244f8aa/cover",
-          "start_time": "03:55",
-          "end_time": "04:50"
-        },
-        {
-          "show_name": "France 24",
-          "show_description": "Cainéal nuachta 24 uair an chloig na Fraince atá i France 24. (FRANCE 24 is France's 24 hour international news channel.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b416f186-4581-4308-96b7-13e686994dd2/cover",
-          "start_time": "04:50",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Cúla4",
-          "show_description": "Níl aon easpa cláracha do dhaoine óga ar Cúla4 - bí ag spraoi agus ag foghlaim in éineacht linn. (Younger audiences will be spoilt for choice with Cúla4 - watch, play and learn.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/583807aa-70ea-4133-a86d-b20a8abb1cd0/cover",
-          "start_time": "06:00",
-          "end_time": "06:02"
-        },
-        {
-          "show_name": "Bréidín & Clúmh",
-          "show_description": "Is beag foighne a bhíonn ag Clúmh nuair a bhíonn ocras air! (A hungry Fluff is a persistent Fluff!)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cdd13877-2530-3d6b-ba3c-45b6a5b4009c/cover",
-          "start_time": "06:02",
-          "end_time": "06:08"
-        },
-        {
-          "show_name": "CoComelon It's Cody Time",
-          "show_description": "Tá sé in am againn fear sneachta a thógáil! (Let's build a snow friend in CoComelon Lane!)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e0615488-0ffe-4b83-b65a-3b0c0522ad4c/cover",
-          "start_time": "06:08",
-          "end_time": "06:11"
-        },
-        {
-          "show_name": "CoComelon JJ's Animal",
-          "show_description": "Tá sé in am torthaí a chur! (It's time to grow grow grow your fruit!)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/79ca2073-4b75-3eed-9ca0-39a056481628/cover",
-          "start_time": "06:11",
-          "end_time": "06:14"
-        },
-        {
-          "show_name": "Dora",
-          "show_description": "Tasipeáineann Dora ceolbhosca don chúpla agus tagann anam sa damhsóir atá istigh ann! (Dora shows the twins a music box with a dancer that comes to life!)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5a1cb1c1-382b-379f-85c9-67e196f5d085/cover",
-          "start_time": "06:14",
-          "end_time": "06:37"
-        },
-        {
-          "show_name": "Elmo Anseo",
-          "show_description": "Ag foghlaim faoi chruthanna a beidh Elmo inniu. (Elmo is learning all about shapes today.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6950497e-bb82-3929-8768-af1f1532677a/cover",
-          "start_time": "06:37",
-          "end_time": "06:44"
-        },
-        {
-          "show_name": "Pip & Posy",
-          "show_description": "Éiríonn Pip as ag péinteáil mar nach maith leis féin an pictiúr atá déanta aige. (When Pip and Posy's duckling painting goes wrong, Pip wants to give up.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1b338511-1fa5-45eb-8e30-13ad3e71f94c/cover",
-          "start_time": "06:44",
-          "end_time": "06:54"
-        },
-        {
-          "show_name": "Olobob Top",
-          "show_description": "Cumann na hOlobobanna cluiche liathróide nua ach níl siad ar aon intinn faoi na rialacha! (The Olobobs invent a new ball game, but can't agree on the rules.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/058e7f6d-53d5-4cc3-9355-ffc72e6fabc8/cover",
-          "start_time": "06:54",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "PJ Masks",
-          "show_description": "Féachann Cailín Luna le haird Catboy a dhíriú ar nithe eile. Meas tú an éireoidh léi? (Luna Girl tries to distract the PJ's with legends of Catability.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/77a56400-74d2-4a9d-9167-c4770ad2a4be/cover",
-          "start_time": "07:00",
-          "end_time": "07:12"
-        },
-        {
-          "show_name": "Wussywat",
-          "show_description": "Foghlaimíonn Wussywat go bhfuil sé go deas a bheith ag spraoi in éineacht le do chuid cairde. (Wussywat discovers playing with her friends can be fun.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2722a8bc-37e4-47e2-80e9-a0394fadc2f5/cover",
-          "start_time": "07:12",
-          "end_time": "07:17"
-        },
-        {
-          "show_name": "Clifford",
-          "show_description": "Tá gach uile dhuine ar an mbaile ar bís na sméara a phiocadh agus milseog bhlasta a réiteach. (Everyone in town is excited to pick the berries and prepare a delicious dessert.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/12fe072f-e477-448c-b1d5-560f116dc40d/cover",
-          "start_time": "07:17",
-          "end_time": "07:30"
-        },
-        {
-          "show_name": "Woozle & Pip",
-          "show_description": "Féachann Pip le leigheas a fháil ar an tinneas atá ar Woozle. (Pip decides to cure a poorly Woozle.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bc929b77-4e88-3a74-a3e0-9c95663457bb/cover",
-          "start_time": "07:30",
-          "end_time": "07:35"
-        },
-        {
-          "show_name": "Vegesaurs",
-          "show_description": "Téann Gingers agus na Piseanna-Rex Óga amú ar an mbealach abhaile. (While leading the baby Pea-Rexes home, Ginger gets lost.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/87473650-612a-397a-9d2d-8075f0b7f51d/cover",
-          "start_time": "07:35",
-          "end_time": "07:40"
-        },
-        {
-          "show_name": "Dialann Alice",
-          "show_description": "Ní maith le Alice go bhfuil rudaí athraithe tigh Emile. (Alice is upset that some things are different in Emile's house.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5d7f69d0-adc8-47d5-96ad-25c8d1623a9a/cover",
-          "start_time": "07:40",
-          "end_time": "07:44"
-        },
-        {
-          "show_name": "Dialann Alice",
-          "show_description": "Tugann Alice aire do dhragún óg. (Alice looks after a baby dragon.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/704266e5-78ff-4ca1-a762-28874b0b7044/cover",
-          "start_time": "07:44",
-          "end_time": "07:48"
-        },
-        {
-          "show_name": "Dialann Alice",
-          "show_description": "Tá cluiche nua ag Alice le bata, druma agus liathroid. (Alice creates a new game, with a bat, a drum and a ball.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/079e9187-809a-4b9d-bc9e-b33dde94149d/cover",
-          "start_time": "07:48",
-          "end_time": "07:52"
-        },
-        {
-          "show_name": "Scoil na Sceire",
-          "show_description": "Tagann na Neacha Beaga ar chleite aisteach agus tá siad ag iarraidh a fháil amach cá as a dtáinig sé. (The Reefies find a mysterious feather and head off to find the owner.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f4beed8e-6e22-47fc-8029-cbfd3310bd6a/cover",
-          "start_time": "07:52",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "Cúla4",
-          "show_description": "Níl aon easpa cláracha do dhaoine óga ar Cúla4 - bí ag spraoi agus ag foghlaim in éineacht linn. (Younger audiences will be spoilt for choice with Cúla4 - watch, play and learn.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e190c5d9-12d6-4bf0-8058-4be4739f2079/cover",
-          "start_time": "08:00",
-          "end_time": "08:02"
-        },
-        {
-          "show_name": "Charlie agus Lola",
-          "show_description": "Ní maith le Lola nuair a bhíonn daoine eile ag iarraidh cúnamh a thabhairt di caisleán gainimh a dhéanamh. (Lola is annoyed when other people try to help build her sandcastle.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f66031ec-c6bf-43a6-9820-d693546e61b8/cover",
-          "start_time": "08:02",
-          "end_time": "08:15"
-        },
-        {
-          "show_name": "Petronix Defenders",
-          "show_description": "Tá Tim ar bís le carabú óg a thabhairt abhaile agus níl sé ag tabhairt aon aird ar a bhfuil timpeall air. (Tim gets overly excited to reunite a caribou calf with its herd.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a80e66d6-11cd-4610-8974-3cf98569e763/cover",
-          "start_time": "08:15",
-          "end_time": "08:27"
-        },
-        {
-          "show_name": "Pat an Madra",
-          "show_description": "Cath na róbat a bheidh idir Lola agus Victor inniu. (Lola and Victor have a big robot battle.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/71b3e577-b306-4e42-af72-b0d20e0982e3/cover",
-          "start_time": "08:27",
-          "end_time": "08:35"
-        },
-        {
-          "show_name": "Angelo Rules",
-          "show_description": "Socraíonn Angelo cairde eile a dhéanamh in áit Sherwood agus Lola atá imithe ar saoire. (When Sherwood and Lola go on holidays, Angelo decides to replace them.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6b21eadb-94cc-3d5b-b988-81f0a24b21ed/cover",
-          "start_time": "08:35",
-          "end_time": "08:46"
-        },
-        {
-          "show_name": "Dónall Dána",
-          "show_description": "Tá Dónall ag iarraidh go mbeidh Ga páirteach i gcomórtas in aghaidh púdail. (Henry gets Fang involved in a competition against a poodle.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9c398b41-b335-4aaf-8731-3626f3db37cc/cover",
-          "start_time": "08:46",
-          "end_time": "08:58"
-        },
-        {
-          "show_name": "Cúla4",
-          "show_description": "Níl aon easpa cláracha do dhaoine óga ar Cúla4 - bí ag spraoi agus ag foghlaim in éineacht linn. (Younger audiences will be spoilt for choice with Cúla4 - watch, play and learn.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/299557b1-e69e-4a05-9ec2-2ab576c6a8a2/cover",
-          "start_time": "08:58",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Super Simple Amhráin",
-          "show_description": "Amhrán spraíúil faoi bheith sásta a bheidh againn inniu. (A fun song about being happy!)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e850879f-1c3c-44b0-b438-00a213b2de83/cover",
-          "start_time": "09:00",
-          "end_time": "09:03"
-        },
-        {
-          "show_name": "Blocuimhreacha",
-          "show_description": "Beidh an-spraoi ag na Blocuimhreacha ag dul i bhfolach inniu! (The number friends take turns hiding behind each other in a song and dance all about bigger and smaller.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e9914f45-20c3-4ebd-9058-9bb4ec501397/cover",
-          "start_time": "09:03",
-          "end_time": "09:08"
-        },
-        {
-          "show_name": "Blocdhathanna",
-          "show_description": "Téann na dathanna ar fad ar thuras atá eagraithe ag Dearg. (All the colours go on an exciting tour with Red.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4012fe37-0f05-3e9f-a56c-70bb55c0b1e6/cover",
-          "start_time": "09:08",
-          "end_time": "09:13"
-        },
-        {
-          "show_name": "Na Blociontais",
-          "show_description": "Tá ár gcairde ag iarraidh breathnú ar scannán, ach an mbeidh Gabh agus Stop in ann é a chur ar siúl? (It's film night, but how can Go and Stop get the movie to start?)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1726794e-1b21-4cc3-8dab-b9e299ad26c0/cover",
-          "start_time": "09:13",
-          "end_time": "09:18"
-        },
-        {
-          "show_name": "Seal le Timmy",
-          "show_description": "Tá Timmy faoi phuiteach ach níl sé ag iarraidh folcadh a ghlacadh. (Muddy Timmy is determined not to have a bath.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0a3cf8f2-1537-45b3-a1a4-6a02bc3b0110/cover",
-          "start_time": "09:18",
-          "end_time": "09:23"
-        },
-        {
-          "show_name": "Lá Le Mamó nó Daideo",
-          "show_description": "Tá Feilimí leis an lá a chaitheamh in éineacht lena Dhaideo Lorcán inniu. (Feilimí is going to spend the day with Daideo today.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fc61c379-36f0-402b-a4ff-7ce7acae42ed/cover",
-          "start_time": "09:23",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Pip & Posy",
-          "show_description": "Nuair a chailleann Posy eitleog Phip, cumann sí scéal gur goideadh uaithi í. (When Posy loses Pip's kite, she makes up a story about a big girl taking it.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ba1c1f50-aed1-4f9c-967f-5e50747c3df3/cover",
-          "start_time": "09:30",
-          "end_time": "09:37"
-        },
-        {
-          "show_name": "Béiríní is a Leabhair",
-          "show_description": "Faigheann Art amach nach raibh i nGruagach Gránna na gCrann ach dhá iora rua ag súgradh. (Art discovers that LoggieLooBoo is just two squirrels playing in a hollow log.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f0d6709a-8f21-4280-a707-813cc4340c65/cover",
-          "start_time": "09:37",
-          "end_time": "09:48"
-        },
-        {
-          "show_name": "Béiríní is a Leabhair",
-          "show_description": "Na haidiachtaí sealbhacha: 'mo', 'do' agus 'ár' a bheidh le foghlaim ag na Béiríní inniu. (The Bears learn about possession: 'mine', 'yours' and 'ours'.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/757e4bac-c223-411b-936e-379ac4c5ad65/cover",
-          "start_time": "09:48",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Pikwik Pack",
-          "show_description": "Inniu Lá an Cheoil ag Post Pikwik ach níl Tibor an-tógtha le ceol Shípéir. (It's Music Day at the Pikwik Post, but Sípéir's horn doesn't sound like music to Tibor's ears.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e396a82c-7834-45b3-bc83-786531bb58d5/cover",
-          "start_time": "10:00",
-          "end_time": "10:24"
-        },
-        {
-          "show_name": "Nuair a Bheidh Mé Mór",
-          "show_description": "Samhlaíonn Muireann a saol ina ceoltóir nuair a bheidh sí mór. (Muireann imagines her life as a musician when she grows up, with the help of the Job Fairy.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bb4f9237-9322-4631-9859-0b0bc1acb595/cover",
-          "start_time": "10:24",
-          "end_time": "10:36"
-        },
-        {
-          "show_name": "Zou",
-          "show_description": "Rachaidh Zou agus Daideo ag tóraíocht thoirtís nia Bhean Uí Zolli inniu. (Zou and Grandpa search for Mrs Zolli's nephew's tortoise today.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a2352c04-c3d8-441c-900b-2c5e6e0ac61d/cover",
-          "start_time": "10:36",
-          "end_time": "10:48"
-        },
-        {
-          "show_name": "Dee Dee",
-          "show_description": "Is bleachtaire í Mewmew inniu. (Mewmew is a detective today and is looking for a mystery to solve.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/70ccc882-34ec-4890-a893-cde68f7b2cd0/cover",
-          "start_time": "10:48",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "Ainmhithe Craiceáilte",
-          "show_description": "Inniu beidh madra agus liathróid phreabach aige agus éinín ag breathnú ar an teilifís.  (Today we have a dog getting a bouncy ball surprise & a bird changes the channel.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d2a8d62f-611c-453d-98aa-eace4bc2039b/cover",
-          "start_time": "11:00",
-          "end_time": "11:25"
-        },
-        {
-          "show_name": "Comhrá",
-          "show_description": "Eoin Ó Niaidh a bheidh ag comhrá le Máirtín an tseachtain seo. (Eoin Ó Niaidh is this week's guest.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dffb1452-96ba-48c1-9e48-6c841dfa4a5f/cover",
-          "start_time": "11:25",
-          "end_time": "11:55"
-        },
-        {
-          "show_name": "The Golden Girls",
-          "show_description": "Tá amhras ar Dorothy faoin altra postúil a d'fhostaigh sí chun aire a thabhairt do Sophia. (Dorothy has reservations about an opinionated nurse she hires to care for Sophia.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c2a33851-9694-4e5a-b001-d044fcfdacc8/cover",
-          "start_time": "11:55",
-          "end_time": "12:25"
-        },
-        {
-          "show_name": "The Golden Girls",
-          "show_description": "Faigheann Blanche amach go bhfuil an iomarca tionóntaí aici. (Blanche discovers she has exceeded the legal number of tenants she is allowed.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9ac2727f-3ba6-4923-94a7-5bbcec749034/cover",
-          "start_time": "12:25",
-          "end_time": "12:50"
-        },
-        {
-          "show_name": "Abair Amhrán",
-          "show_description": "Ceiliúradh ar amhráin a bhíodh againn ag éirí aníos. (A look back at songs we knew growing up.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5ecd0bff-f46e-314b-96de-cf9c293b3179/cover",
-          "start_time": "12:50",
-          "end_time": "13:20"
-        },
-        {
-          "show_name": "Murder, She Wrote",
-          "show_description": "Fiosraíonn Jessica an cás nuair a chúisítear banaltra óg i ndúnmharú beirt othar a bhí faoina cúram. (Jessica investigates when a young nurse is accused of murdering two patients.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9b508b80-4608-4504-81bc-279fd7e3ea08/cover",
-          "start_time": "13:20",
-          "end_time": "14:15"
-        },
-        {
-          "show_name": "Naíonra",
-          "show_description": "Is minic a bhíonn páistí faiteach agus faoi bhrú nuair thosaíonn siad sa naíonra. (The start of the Naíonra year brings a mix of nerves and tears.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3c83647d-b8ec-344a-a3ad-f3c1fa1f8460/cover",
-          "start_time": "14:15",
-          "end_time": "15:15"
-        },
-        {
-          "show_name": "Taste of Australia with Hayden Quinn",
-          "show_description": "Téann Hayden ar chrús ar Abhainn Tweed sula réitíonn sé béile breá le portáin. (Hayden goes on a cruise on the Tweed River before creating a tasty salt-baked crab dish!)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b1c7b1fb-1f22-47ed-8af0-79c71baed022/cover",
-          "start_time": "15:15",
-          "end_time": "15:45"
-        },
-        {
-          "show_name": "Viva Ceol Tíre",
-          "show_description": "Físeáin cheoil le Matt Leavy, Pamela Gilmartin, Derek Ryan, T.R. Dallas, Chantelle Padden agus David James. (This week features Matt Leavy, Pamela Gilmartin & more.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d0aca73b-bc81-4682-a361-fae655696119/cover",
-          "start_time": "15:45",
-          "end_time": "16:15"
-        },
-        {
-          "show_name": "Escape from the City",
-          "show_description": "Tá Lara tinn den truailliú in Sydney agus tá sí ag iarraidh bogadh go Byron Bay lena beirt iníon. (Lara is searching for a house in Byron Bay for herself and her two daughters.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1440e63e-7726-4e69-bc51-9ca2f4b7588c/cover",
-          "start_time": "16:15",
-          "end_time": "17:22"
-        },
-        {
-          "show_name": "An Aimsir Láithreach",
-          "show_description": "Aimsir réigiúnach agus náisiúnta. (National and regional weather.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3ff7f264-d017-49d0-91f7-3a797f4c6367/cover",
-          "start_time": "17:22",
-          "end_time": "17:25"
-        },
-        {
-          "show_name": "Cheers",
-          "show_description": "Ní insíonn Diane do Sam go bhfuil sí ag dul amach le haghaidh dinnéir leis an bhfear a bhí geallta léi. (Diane doesn't tell Sam that she is going out to dinner with her ex-fiancé.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5f320dea-5993-4150-88e0-581e527b1520/cover",
-          "start_time": "17:25",
-          "end_time": "17:50"
-        },
-        {
-          "show_name": "Nuacht Cúla4",
-          "show_description": "Clár nuachta do dhaoine óga ina gclúdaítear scéalta áitiúla, náisiúnta agus idirnáisiúnta. (News programme for young people covering local, national and international news.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c78b4794-e9ec-4964-9179-cd121524bb6f/cover",
-          "start_time": "17:50",
-          "end_time": "17:55"
-        },
-        {
-          "show_name": "Anfa",
-          "show_description": "Scoil Phádraig Naofa i gCo. na Gaillimhe a bheidh ag tabhairt faoin scamall draíochta inniu. (St. Patrick's Primary School from Co. Galway take on the magical cloud today.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/65aa5cf3-3657-3fc2-ab71-df7f84b60e96/cover",
-          "start_time": "17:55",
-          "end_time": "18:27"
-        },
-        {
-          "show_name": "An Aimsir Láithreach",
-          "show_description": "Aimsir réigiúnach agus náisiúnta. (National and regional weather.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9268a996-798d-4060-b991-0900f4c12417/cover",
-          "start_time": "18:27",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "Nuacht TG4",
-          "show_description": "Mórimeachtaí an lae ó Aonad Nuachta TG4. (The day's main news stories from a regional, national and international perspective.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fa47767b-c64f-47a9-857c-18a402362f84/cover",
-          "start_time": "18:30",
-          "end_time": "18:55"
-        },
-        {
-          "show_name": "Rugbaí Beo",
-          "show_description": "Craoaldh beo ar an gcluiche idir Caerdydd agus Cúige Laighean sa gCraobh Aontaithe Rugbaí. (Live coverage of Cardiff v Leinster in the United Rugby Championship.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f9c0024e-153a-4126-83e4-863202cf5e52/cover",
-          "start_time": "18:55",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Síle Seoige: An Saol Mar Atá",
-          "show_description": "Tugann Síle Seoige léargas ar chúrsaí bulaíochta sa gclár seo. (Síle Seoige tries to understand the dark world of bullying.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/655e6bbe-7166-470b-84db-70ee3fbb0bf5/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "An Western: Cheyenne Social Club",
-          "show_description": "Tá náire ar bhuachaill bó nuair a fhaigheann sé amach gur teach striapachais é an gnólacht rathúil atá aige. (A cowboy finds that the successful business he has inherited is a house of prostitution.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d7d87dbd-ba56-4fec-928e-739bc7e3f4eb/cover",
-          "start_time": "22:00",
-          "end_time": "23:53"
-        },
-        {
-          "show_name": "An Aimsir Láithreach",
-          "show_description": "Aimsir réigiúnach agus náisiúnta. (National and regional weather.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9268a996-798d-4060-b991-0900f4c12417/cover",
-          "start_time": "23:53",
-          "end_time": "23:55"
-        },
-        {
-          "show_name": "Glór Tíre",
-          "show_description": "Fágfar slán le triúr d'iomaitheoirí Glór Tíre 2026 anocht. Caith do vóta ar Aip Ghlór Tíre. (The first elimination show of Glór Tíre 2026. Cast your votes on the Glór Tíre App.)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9f44534c-d8c2-4231-8ab1-b2d5e30e8170/cover",
-          "start_time": "23:55",
-          "end_time": "00:55"
-        }
-      ]
-    },
-    {
       "date": "28 February 2026",
       "programmes": [
         {
@@ -786,6 +319,361 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/0526279b-aad6-4ac5-8cea-181c974bc302/cover",
           "start_time": "23:30",
           "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "1 March 2026",
+      "programmes": [
+        {
+          "show_name": "The Eclipse",
+          "show_description": "Táthar ag géarú ar na hiarrachtaí teacht ar Nour ach ní mar a shíltear a bhítear. (The search for Nour intensifies. Luca's seemingly idyllic romance with Nour had its dark side.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1d95492a-cde9-4ccc-9e36-53d963fbc70e/cover",
+          "start_time": "00:30",
+          "end_time": "01:25"
+        },
+        {
+          "show_name": "Flosc",
+          "show_description": "Sraith cheoil á cur i láthair ag Cormac de Barra atá bunaithe ar ghlúin óg ceoltóirí. (A music series presented by Cormac de Barra based on a new generation of musicians.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b3823330-7e98-4840-a86f-d0931a2a68ff/cover",
+          "start_time": "01:25",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "Nuacht TG4",
+          "show_description": "Mórimeachtaí an lae ó Aonad Nuachta TG4. (The day's main news stories from a regional, national and international perspective.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2474ab30-1d04-4c44-bf2a-fe906ecfa198/cover",
+          "start_time": "02:00",
+          "end_time": "02:15"
+        },
+        {
+          "show_name": "Abair Amhrán",
+          "show_description": "Ceiliúradh ar amhráin a bhíodh againn ag éirí aníos. (A look back at songs we knew growing up.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5ecd0bff-f46e-314b-96de-cf9c293b3179/cover",
+          "start_time": "02:15",
+          "end_time": "02:45"
+        },
+        {
+          "show_name": "Go Gasta",
+          "show_description": "An tseachtain seo: Ráth Maoláin V An Trá Bhán. (This week: Rathmullan V Whitestrand.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3087c8f5-201d-4fb7-b7df-0ca13d00ffe7/cover",
+          "start_time": "02:45",
+          "end_time": "03:40"
+        },
+        {
+          "show_name": "Wwoofáil",
+          "show_description": "Tabharfaidh an bheirt Wwoofálaithe, Mairéad agus Conall, a n-aghaidh ar fhíonghort i dTuaisceart na hIodáile. (The Wwoofers Mairéad and Conall visit a vineyard in Northern Italy.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b21fb9ab-3560-4644-8838-0b7d2f1b692d/cover",
+          "start_time": "03:40",
+          "end_time": "04:05"
+        },
+        {
+          "show_name": "Téacs Taistil",
+          "show_description": "Is go Stócólm sa tSualainn a thabharfaidh na cairde aghaidh sa gclár deiridh den tsraith. (In the final episode of the series, our three buddies head to Stockholm in Sweden.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/80927b26-c4ec-32db-a8dc-1798382ce9ca/cover",
+          "start_time": "04:05",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "France 24",
+          "show_description": "Cainéal nuachta 24 uair an chloig na Fraince atá i France 24. (FRANCE 24 is France's 24 hour international news channel.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/62b7ec74-0f3d-408b-af50-95f41f11d80c/cover",
+          "start_time": "05:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Cúla4",
+          "show_description": "Níl aon easpa cláracha do dhaoine óga ar Cúla4 - bí ag spraoi agus ag foghlaim in éineacht linn. (Younger audiences will be spoilt for choice with Cúla4 - watch, play and learn.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/02a3a31a-bcce-4ed8-b2f1-74c7a1ab6cff/cover",
+          "start_time": "06:00",
+          "end_time": "06:02"
+        },
+        {
+          "show_name": "Saol Faoi Shráid",
+          "show_description": "Cloiseann Ribín & Glibín an scéal faoin mBradán Feasa den chéad uair. (Ribín & Glibín hear the story of the Salmon of Knowledge for the first time.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/057b51b1-64dc-4cba-aea6-b5d09fe0d69b/cover",
+          "start_time": "06:02",
+          "end_time": "06:14"
+        },
+        {
+          "show_name": "Garáiste Gecko",
+          "show_description": "Teastaíonn inneall nua do Dylan an Dumpaire. /Caithfidh Gecko agus na Meicneoirí cuidiú le Santaí. (Dylan the Dumper needs a new engine. / Gecko and the Mechanics must help Santy.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/661f9965-41e5-4ac8-ad51-1c29863bece1/cover",
+          "start_time": "06:14",
+          "end_time": "06:20"
+        },
+        {
+          "show_name": "Bíp Bíp Cory Carson",
+          "show_description": "Tugann Cory agus Chrissy cúnamh do Bhreandán an Bhruscair agus é i mbun oibre. (Cory and Chrissy help Gary Garbage with his workload.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/387e75a9-8804-396d-9065-83e08d8ffdaf/cover",
+          "start_time": "06:20",
+          "end_time": "06:28"
+        },
+        {
+          "show_name": "Balloon Barnyard",
+          "show_description": "Tá damhsa le bheith sa scioból ag Pip & ag Streak ach níl Fraidy in ann damhsa. (Pip and Streak are organising a dance in the barn, but Fraidy doesn't know how to dance.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/eeb056e4-034b-4dfd-8bfa-5586cb0ac75e/cover",
+          "start_time": "06:28",
+          "end_time": "06:35"
+        },
+        {
+          "show_name": "Mecha Builders",
+          "show_description": "Tá ábhar sláthach greamaitheach ag sceitheadh ar fud an bhaile! (Pretty Big City finds itself in a sticky situation when the factory starts spewing super sticky slime everywhere!)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b7a6a721-6367-3d8c-a9d5-d88609dcaf0f/cover",
+          "start_time": "06:35",
+          "end_time": "06:48"
+        },
+        {
+          "show_name": "Mecha Builders",
+          "show_description": "Tagann an Maor Nat ar mhapa taisce ach níl sé in ann é a léamh. (Ranger Nat takes a hike through Treetop Woods. He stumbles upon a treasure map but he doesn't know how to read it.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f25f0234-d690-3a64-ab0f-8378b05bfb50/cover",
+          "start_time": "06:48",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "PJ Masks",
+          "show_description": "Faigheann na Leamhain agus na Ninjalinos an ceann is fearr ar Chailín Luna agus ar an Ninja Oíche. (Luna Girl and Night Ninja explain that their sidekicks turned against them.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/291f5201-6a8e-400e-be4d-8618d5f708f2/cover",
+          "start_time": "07:00",
+          "end_time": "07:12"
+        },
+        {
+          "show_name": "Finny an Siorc",
+          "show_description": "Tá Finny agus na Gasóga eile ag iarraidh cabhrú leis an bpobal ach is mó fadhbanna a chruthaíonn siad ná tada eile. (Finny and the Fish Scouts set out to help the community.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/922ae5cc-fd65-4ff3-817d-a62e058a7221/cover",
+          "start_time": "07:12",
+          "end_time": "07:24"
+        },
+        {
+          "show_name": "Igam Ogam",
+          "show_description": "Ba mhaith le Igam Ogam go mbeadh a cuid cairde ar fad salach. (Igam Ogam tries to get her playmates dirty.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fdb6ee26-1db9-379c-a892-f0df56e7c46f/cover",
+          "start_time": "07:24",
+          "end_time": "07:34"
+        },
+        {
+          "show_name": "Baile Beag Draíochtúil Pinocchio",
+          "show_description": "Téann Sionnán sa seans nuair a chuireann sé muinín sa Mac Tíre Crosta. (Sionnán takes a risk when he puts his trust in the Big Bad Wolf.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/77f60533-606e-4de2-970e-c4b231e90863/cover",
+          "start_time": "07:34",
+          "end_time": "07:46"
+        },
+        {
+          "show_name": "Baile Beag Draíochtúil Pinocchio",
+          "show_description": "Téann Pinocchio thar fóir is é ag iarraidh a chruthú do Betulla gur cara maith é. (Pinocchio goes overboard when trying to prove to Betulla that he is a good friend.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/24857061-76c4-4f6e-9745-0d8862554fe8/cover",
+          "start_time": "07:46",
+          "end_time": "07:58"
+        },
+        {
+          "show_name": "Cúla4",
+          "show_description": "Níl aon easpa cláracha do dhaoine óga ar Cúla4 - bí ag spraoi agus ag foghlaim in éineacht linn. (Younger audiences will be spoilt for choice with Cúla4 - watch, play and learn.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/023b9782-0c0f-4eef-a6f7-565b5a703717/cover",
+          "start_time": "07:58",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Charlie agus Lola",
+          "show_description": "Deir Marv gur madra dána é Sioscadh, ach tá a fhios ag Lola nach bhfuil sé sin fíor. (Marv says Sizzles is a naughty dog, but Lola knows that isn't true.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a41b9463-a5a8-4fbb-9680-75aaae4b880a/cover",
+          "start_time": "08:00",
+          "end_time": "08:12"
+        },
+        {
+          "show_name": "Charlie agus Lola",
+          "show_description": "Tugann Lola faoin rothaíocht in éineacht le Charlie. (Lola learns to cycle with Charlie.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e05b5fc0-4ce3-486a-b720-56a25c2b26e0/cover",
+          "start_time": "08:12",
+          "end_time": "08:24"
+        },
+        {
+          "show_name": "Charlie agus Lola",
+          "show_description": "Díolann Lola agus Lotta rud éigin de chuid Charlie fad a bhíonn siad ag spraoi. (Lola and Lotta are playing shop, but they sell something belonging to Charlie.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4ed998fc-c212-40b8-8bbc-465280bf69d1/cover",
+          "start_time": "08:24",
+          "end_time": "08:35"
+        },
+        {
+          "show_name": "Charlie agus Lola",
+          "show_description": "Tá Charlie agus Marv ag obair ar thionscadal scoile le chéile. (Charlie and Marv have to create an invention for a school project.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6f399f28-05f6-423f-be38-b9db579548ed/cover",
+          "start_time": "08:35",
+          "end_time": "08:47"
+        },
+        {
+          "show_name": "Charlie agus Lola",
+          "show_description": "Ní maith le Lola nuair a bhíonn daoine eile ag iarraidh cúnamh a thabhairt di caisleán gainimh a dhéanamh. (Lola is annoyed when other people try to help build her sandcastle.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f66031ec-c6bf-43a6-9820-d693546e61b8/cover",
+          "start_time": "08:47",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Zak Jinks",
+          "show_description": "Beidh neart spraoi ag Zak agus a chuid cairde ag an ionad campála. (Zak and his friends have loads of fun at the campsite.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e01b0374-85a6-4db7-ab10-41de523cbc95/cover",
+          "start_time": "09:00",
+          "end_time": "09:13"
+        },
+        {
+          "show_name": "Zak Jinks",
+          "show_description": "Tugann Saoirse Bundailín, an coinín bréige, abhaile ón scoil. (Saskia brings the pretend bunny, Plumpton home from school.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c73a9487-4251-4225-a1a7-557eedeeefd7/cover",
+          "start_time": "09:13",
+          "end_time": "09:27"
+        },
+        {
+          "show_name": "That's Joey",
+          "show_description": "Nuair a aimsíonn Joey mapa de thaisce a chuir a athair i bhfolach nuair a bhí sé óg, téann sé ag cuardach! (Joey finds a map for treasure his father hid as a child.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/aec8bef0-20e6-4944-b82b-e7f336999a42/cover",
+          "start_time": "09:27",
+          "end_time": "09:38"
+        },
+        {
+          "show_name": "That's Joey",
+          "show_description": "Tugann Olive a dialann ar scoil trí thimpiste. (Olive realises she brought her diary to school by mistake.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/60ea95ee-5378-4906-bfb4-6f40a424301a/cover",
+          "start_time": "09:38",
+          "end_time": "09:49"
+        },
+        {
+          "show_name": "That's Joey",
+          "show_description": "Éiríonn comharsa béal dorais an-chrosta le Joey agus le Yassine. (Joey and Yassine set out to help Joey's neighbour Billy relax.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/83f22013-7451-4f0a-b5d0-9350c2172df2/cover",
+          "start_time": "09:49",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "M'Ainm Mo Scéal",
+          "show_description": "Beidh Cara ag fáil amach faoi chairdeas i nGort an Choirce. (Cara finds out about friendship in Gort an Choirce.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/062a974b-74e0-4fda-aee5-d9d2cb8f7dcd/cover",
+          "start_time": "10:00",
+          "end_time": "10:15"
+        },
+        {
+          "show_name": "Timpeall na Tíre",
+          "show_description": "Achoimre ar chuid de mhórscéalta na seachtaine mar a craoladh ar Nuacht TG4. (Some of the stories from this week's regional news as seen on Nuacht TG4.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6889db6f-a08c-42f8-8634-7bb83e66ad67/cover",
+          "start_time": "10:15",
+          "end_time": "10:45"
+        },
+        {
+          "show_name": "The Golden Girls",
+          "show_description": "Tá amhras ar Dorothy faoin altra postúil a d'fhostaigh sí chun aire a thabhairt do Sophia. (Dorothy has reservations about an opinionated nurse she hires to care for Sophia.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c2a33851-9694-4e5a-b001-d044fcfdacc8/cover",
+          "start_time": "10:45",
+          "end_time": "11:15"
+        },
+        {
+          "show_name": "The Golden Girls",
+          "show_description": "Faigheann Blanche amach go bhfuil an iomarca tionóntaí aici. (Blanche discovers she has exceeded the legal number of tenants she is allowed.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9ac2727f-3ba6-4923-94a7-5bbcec749034/cover",
+          "start_time": "11:15",
+          "end_time": "11:45"
+        },
+        {
+          "show_name": "Contractors",
+          "show_description": "Tá an ghrian ag taitneamh agus tá na conraitheoirí gnóthach ag baint an fhómhair agus ag déanamh sadhlais. (The contractors are busy harvesting and making silage.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3767a897-9974-4225-a0a0-094acf0e9ba9/cover",
+          "start_time": "11:45",
+          "end_time": "12:42"
+        },
+        {
+          "show_name": "An Aimsir Láithreach",
+          "show_description": "Aimsir réigiúnach agus náisiúnta. (National and regional weather.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7454bb79-9665-4c44-87b0-2298fb038749/cover",
+          "start_time": "12:42",
+          "end_time": "12:45"
+        },
+        {
+          "show_name": "GAA Beo",
+          "show_description": "Craoladh beo ar chluiche i mbabhta 5 de Shraith Peile Allianz Roinn 1.  (Live coverage of a match in round 5 of the Allianz Football League Division 1.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e22548f9-74e9-4cfa-89c2-86f0d0dedb46/cover",
+          "start_time": "12:45",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "GAA Beo",
+          "show_description": "Craoladh beo ar an gcluiche idir Cill Chainnigh agus Corcaigh i mbabhta 5 de Shraith Iomána Allianz. (Live coverage of Kilkenny v Cork in round 5 of the Allianz Hurling League.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d8c8efcf-e7bc-4f82-a349-cd655c44296c/cover",
+          "start_time": "15:00",
+          "end_time": "17:20"
+        },
+        {
+          "show_name": "GAA Beo",
+          "show_description": "Craoladh iarbheo ó chluiche i Sraith Allianz. (Deferred coverage from the Allianz League.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2ce10b5b-66ab-4690-b476-76f6304059a6/cover",
+          "start_time": "17:20",
+          "end_time": "18:57"
+        },
+        {
+          "show_name": "An Aimsir Láithreach",
+          "show_description": "Aimsir réigiúnach agus náisiúnta. (National and regional weather.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a13230f8-ebca-4113-a295-d81e0a2fd60d/cover",
+          "start_time": "18:57",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Nuacht TG4",
+          "show_description": "Mórimeachtaí an lae ó Aonad Nuachta TG4. (The day's main news stories from a regional, national and international perspective.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/484efc83-57b5-434a-a8a9-6ace0b5c0c1f/cover",
+          "start_time": "19:00",
+          "end_time": "19:15"
+        },
+        {
+          "show_name": "Abair Amhrán",
+          "show_description": "Ceiliúradh ar amhráin a bhíodh againn ag éirí aníos. (Series which celebrates and takes a fresh look at the songs of our schooldays.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/dd20aa4a-2d34-4308-8bf8-e15d56a61ac7/cover",
+          "start_time": "19:15",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Réalta agus Gaolta",
+          "show_description": "Tá babhta ceannais Réalta agus Gaolta buailte linn! Á chur i láthair ag Síomha Ní Ruairc. (It's the final of Réalta agus Gaolta! Presented by Síomha Ní Ruairc.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/26a3e15d-a668-462e-a107-cf980e3f9091/cover",
+          "start_time": "19:30",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Ollchlár Ros na Rún",
+          "show_description": "Ní mó ná sásta atá Michelle le Cam ná le Vince mar gheall ar an méid a tharla le Dean. (Michelle is still displeased with Cam and Vince because of the mess with Dean.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0c03083c-a648-419e-9fd6-fcad9113e320/cover",
+          "start_time": "20:30",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "Scoil Samhraidh Joe Mooney",
+          "show_description": "Sraith ceoil thraidisiúnta nua ó Scoil Samhraidh Joe Mooney i nDroim Seanbhó. (This new traditional music series comes from the Joe Mooney Summer School in Drumshanbo.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/36ead0a9-d5b9-4e4c-87f1-a4ae461d17fb/cover",
+          "start_time": "21:30",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Geantraí",
+          "show_description": "Tugann Pauline Scanlon cuairt ar theach tábhairne The Parrswood i Manchain sa gclár seo. (Pauline Scanlon visits The Parrswood in Manchester to hear a wealth of music.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6cb46a70-02b6-4bfd-b3a0-e065abed7b35/cover",
+          "start_time": "22:30",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Seal le Dáithí",
+          "show_description": "Is é an siúlóir Jamie Costin a bheidh ag caitheamh seal le Dáithí Ó Sé ar an gclár. (Dáithí Ó Sé will be chatting with race walker Jamie Costin on the show.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/67866e8e-0412-4969-9f49-6d6d10c1a89c/cover",
+          "start_time": "23:00",
+          "end_time": "23:33"
+        },
+        {
+          "show_name": "An Aimsir Láithreach",
+          "show_description": "Aimsir réigiúnach agus náisiúnta. (National and regional weather.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a13230f8-ebca-4113-a295-d81e0a2fd60d/cover",
+          "start_time": "23:33",
+          "end_time": "23:35"
+        },
+        {
+          "show_name": "Cork Folk Festival",
+          "show_description": "Sraith cheoil ó cheann de na féilte ceoil is fearr sa tír. (Cork Folk Festival is a music series coming from the heart of Cork City.)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9e085dfe-b186-3efe-9936-b595cf62a97a/cover",
+          "start_time": "23:35",
+          "end_time": "00:35"
         }
       ]
     }

@@ -3,60 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-5-Sports-Extra.png",
   "schedule": [
     {
-      "date": "27 February 2026",
-      "programmes": [
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "03:30"
-        },
-        {
-          "show_name": "International Cricket",
-          "show_description": "Live ball-by-ball cricket commentary from ABC in Australia of Australia Women v India Women in the 2nd ODI at the Bellerive Oval in Hobart.",
-          "show_logo": "",
-          "start_time": "03:30",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "11:30",
-          "end_time": "13:15"
-        },
-        {
-          "show_name": "Test Match Special",
-          "show_description": "Live ball-by-ball cricket commentary of England v New Zealand in the ICC Men's T20 World Cup at the R.Premadasa Stadium in Colombo.",
-          "show_logo": "",
-          "start_time": "13:15",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "17:30",
-          "end_time": "19:05"
-        },
-        {
-          "show_name": "Rugby League",
-          "show_description": "Live rugby league commentary from BBC Radio Leeds of Castleford Tigers v Huddersfield Giants in the Super League.",
-          "show_logo": "",
-          "start_time": "19:05",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "28 February 2026",
       "programmes": [
         {
@@ -114,6 +60,53 @@
           "show_logo": "",
           "start_time": "23:45",
           "end_time": "02:00"
+        }
+      ]
+    },
+    {
+      "date": "1 March 2026",
+      "programmes": [
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "02:00",
+          "end_time": "03:30"
+        },
+        {
+          "show_name": "International Cricket",
+          "show_description": "Live ball-by-ball cricket commentary from ABC in Australia of Australia Women v India Women in the 3rd ODI at the Bellerive Oval in Hobart.",
+          "show_logo": "",
+          "start_time": "03:30",
+          "end_time": "09:15"
+        },
+        {
+          "show_name": "Test Match Special",
+          "show_description": "Live ball-by-ball cricket commentary of Zimbabwe v South Africa in the ICC Men's T20 World Cup at the Arun Jaitley Stadium in Delhi.",
+          "show_logo": "",
+          "start_time": "09:15",
+          "end_time": "13:15"
+        },
+        {
+          "show_name": "Test Match Special",
+          "show_description": "Live ball-by-ball cricket commentary of India v West Indies in the ICC Men's T20 World Cup at Eden Gardens in Kolkata. Full match commentary is available on Sports Extra 3.",
+          "show_logo": "",
+          "start_time": "13:15",
+          "end_time": "13:55"
+        },
+        {
+          "show_name": "Premier League Football",
+          "show_description": "Live football commentary of Fulham v Tottenham Hotspur in the Premier League.",
+          "show_logo": "",
+          "start_time": "13:55",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "00:00"
         }
       ]
     }

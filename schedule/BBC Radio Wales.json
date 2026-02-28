@@ -3,116 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Wales.png",
   "schedule": [
     {
-      "date": "27 February 2026",
-      "programmes": [
-        {
-          "show_name": "Relax with Radio Wales",
-          "show_description": "Relax, unwind and chill out with an hour of classic and contemporary tunes.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "As BBC Radio 5 Live",
-          "show_description": "See programme schedules for BBC Radio 5 Live.",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Radio Wales News Update",
-          "show_description": "The latest news and weather for Wales and a look ahead to this morning's Radio Wales Breakfast.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "06:05"
-        },
-        {
-          "show_name": "Wake Up with Radio Wales",
-          "show_description": "A lively mix of music to start the day. Perfect for your pod!",
-          "show_logo": "",
-          "start_time": "06:05",
-          "end_time": "06:31"
-        },
-        {
-          "show_name": "Walescast",
-          "show_description": "Weekly dive into Welsh politics with Felicity Evans and James Williams.",
-          "show_logo": "",
-          "start_time": "06:31",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Radio Wales Breakfast",
-          "show_description": "Everything you need to know as you wake up.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Lucy Owen",
-          "show_description": "Lucy brightens your morning with great music and entertainment. Call 03700 100 110 Text 81012 or message via X @bbcradiowales.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "The Phone In",
-          "show_description": "Be part of the nation's conversation.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Eleri Siôn",
-          "show_description": "Celebrity guests, the latest blockbuster film reviews, and we play The Name Game! Call or WhatsApp 03700 100 110 Text 81012.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Radio Wales Drive",
-          "show_description": "Everything you need to know as you head home.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "The Aberystwyth Book Club",
-          "show_description": "A group of enthusiastic book club members review their latest read.",
-          "show_logo": "",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Elin Fflur's 70s Playlist",
-          "show_description": "Elin Fflur is all about iconic 70s basslines this week with the power mix, along with great songs from the decades and Eleri Llwyd's Welsh Language track.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Elin Fflur's 80s Playlist",
-          "show_description": "Elin Fflur's 80s long player is a George Michael hit, plus classics from the 1980s at 8. And we hear from Hefin Huw's Twll Triongl.",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Elin Fflur's 90s Playlist",
-          "show_description": "Elin Fflur takes a deep dive into Whitney Houston's iconic, I Will Always Love you. Get your weekend started with Elin's 90s bangers Welsh anthems.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Friday Night H",
-          "show_description": "H from Steps takes you into the weekend with great music and chat.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "28 February 2026",
       "programmes": [
         {
@@ -152,7 +42,7 @@
         },
         {
           "show_name": "Radio Wales Sport",
-          "show_description": "Live commentary, guests and analysis. Your home for Welsh sport.",
+          "show_description": "Join Ian Hunt for an afternoon of Welsh sport.",
           "show_logo": "",
           "start_time": "14:00",
           "end_time": "17:15"
@@ -173,10 +63,127 @@
         },
         {
           "show_name": "BBC Introducing with Adam Walton",
-          "show_description": "The best in new Welsh music, exclusive sessions, interviews and demos.",
+          "show_description": "Adam catches up with Rich Thair, plays the best in new Welsh music, and archive from Viv Albertine.",
           "show_logo": "",
           "start_time": "21:00",
           "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "1 March 2026",
+      "programmes": [
+        {
+          "show_name": "Relax with Radio Wales",
+          "show_description": "Relax, unwind and chill out with an hour of classic and contemporary tunes.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "See programme schedules for BBC Radio 5 Live.",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "The Aberystwyth Book Club",
+          "show_description": "The Aberystwyth Book Club discuss The Eleventh Hour by Salman Rushdie. These five works of fiction explore what it means to approach the eleventh hour of life.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Bone Setters of Ynys Môn",
+          "show_description": "The story of how a mysterious shipwreck off the wild coast of Ynys Môn in the mid 1730s led to the birth of a dynasty and a new field of medicine that spread around the world.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Country Focus",
+          "show_description": "Daffodils for St David's Day from Pembrokeshire, and how artificial intelligence is supporting farm vets and helping protect curlew in rural Wales.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "07:33"
+        },
+        {
+          "show_name": "Celebration",
+          "show_description": "A special service of Choral Mattins to celebrate St David's Day from St Davids Cathedral.",
+          "show_logo": "",
+          "start_time": "07:33",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Sunday Supplement",
+          "show_description": "Vaughan Roderick with Political news, discussions and analysis, plus a review of the Sunday papers.",
+          "show_logo": "",
+          "start_time": "08:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "All Things Considered",
+          "show_description": "As part of the BBC's AI Unpacked Week, Azim Ahmed and a panel of guests unpack whether Artificial Intelligence belongs in our mosques, churches and temples.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "09:33"
+        },
+        {
+          "show_name": "Owen Money's Solid Gold Sunday",
+          "show_description": "A second dose of Owen Money for the weekend. It's nonstop music all the way, with classics from the 60s, 70s and 80s, plus your dedications!",
+          "show_logo": "",
+          "start_time": "09:33",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Robin Morgan",
+          "show_description": "Robin brings you the best in music and guests for your Sunday afternoon. Call 03700 100 110 Text 81012 or message us via X @bbcradiowales.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Lynn Bowles",
+          "show_description": "Music, entertainment and great guests for your Sunday afternoon.",
+          "show_logo": "",
+          "start_time": "15:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Roy Noble",
+          "show_description": "Roys chats with Beverly Humphries about the Festival of Female Voices and talks to St. Davids Cathedral librarian Mari James about St. David.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "After the Cameras",
+          "show_description": "Catrin Nye looks at the effects of tragedy on humans and on a community. Contains some scenes which some viewers may find upsetting.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:29"
+        },
+        {
+          "show_name": "Celebration",
+          "show_description": "A special service of Choral Mattins to celebrate St David's Day from St Davids Cathedral.",
+          "show_logo": "",
+          "start_time": "19:29",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Celtic Heartbeat",
+          "show_description": "Frank Hennessy presents the best in folk, roots and acoustic music from the Celtic countries and beyond.",
+          "show_logo": "",
+          "start_time": "20:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Beverley's World of Music",
+          "show_description": "The finest musical melodies, exquisite performances from stage and screen, and orchestral and choral works from Wales and the world. There's no need to book your seat, just listen and relax.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "01:00"
         }
       ]
     }

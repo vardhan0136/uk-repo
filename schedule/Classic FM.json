@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Classic-FM.png",
   "schedule": [
     {
-      "date": "27 February 2026",
-      "programmes": [
-        {
-          "show_name": "Bill Overton",
-          "show_description": "Bill Overton keeps you company all through the night with beautiful music for the early hours.",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "Early Breakfast with Lucy Coward",
-          "show_description": "Join Lucy for the ideal selection of music if you rise first thing in the morning.",
-          "show_logo": "",
-          "start_time": "04:00",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Tim Lihoreau",
-          "show_description": "Tim has the perfect classical music to get you up in the morning, with all the news and travel updates you need to know for the day ahead, plus the Hall of Fame Hour at 9am.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Hall of Fame",
-          "show_description": "Tim brings you an hour of the biggest classical hits from the Classic FM Hall of Fame - the annual Top 300 chart voted for by you.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Alexander Armstrong",
-          "show_description": "Alexander Armstrong presents three hours of the best classical music including a track from his Album of the Week.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Classic FM Requests",
-          "show_description": "Join Anne-Marie Minhall for an hour of your requests, followed by two more hours of the very best classical music.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Anne-Marie Minhall",
-          "show_description": "Anne-Marie Minhall presents her own selection of classical music favourites, including the Hall of Fame 3 at 3 - three pieces of music from the Classic FM Hall of Fame chart.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Margherita Taylor",
-          "show_description": "Join Margherita as she plays the best music to take you into the evening, including a film favourite at 4.30pm and a recording by her Star in the Spotlight at 6pm.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Movies",
-          "show_description": "Jonathan Ross, award-winning presenter and film critic, presents the greatest music from the silver screen.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Dawn O'Porter",
-          "show_description": "Throughout February, Dawn dives into classical music's greatest love stories, sharing iconic pieces that capture every swoon, spark and heartfelt moment along the way.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Calm Classics with Myleene Klass",
-          "show_description": "Myleene presents her selection of calming classical music to help you wind down at the end of the day.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "28 February 2026",
       "programmes": [
         {
@@ -153,6 +71,74 @@
         {
           "show_name": "Calm Classics with Myleene Klass",
           "show_description": "Myleene presents her selection of calming classical music to help you wind down at the end of the day.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "1 March 2026",
+      "programmes": [
+        {
+          "show_name": "Katie Breathwick",
+          "show_description": "Katie Breathwick has the perfect blend of night-time music to keep you company through the early hours.",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Sam Pittis",
+          "show_description": "Sam presents three hours of start-the-day music, along with plenty of information about what's in store on Classic FM this weekend.",
+          "show_logo": "",
+          "start_time": "04:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Tim Lihoreau",
+          "show_description": "Tim presents Classic FM Breakfast at the weekend, with three hours of brilliant classical music including the Hall of Fame Hour at 9am.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Hall of Fame",
+          "show_description": "Tim brings you an hour of the biggest classical hits from the Classic FM Hall of Fame - the annual Top 300 chart voted for by you.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Aled Jones",
+          "show_description": "Aled invites you to join him for three hours of the best classical music, with an unmissable morning of old favourites and new discoveries.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "John Brunning",
+          "show_description": "John Brunning provides the perfect Sunday afternoon soundtrack, with the finest music from best-loved favourites to new discoveries.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Stephen Mangan",
+          "show_description": "Actor, comedian and presenter Stephen Mangan is the host of Sunday afternoons on Classic FM, sharing three hours of his favourite classical music including the weekly Game Changer.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Relaxing Evenings with Zeb Soanes",
+          "show_description": "Zeb Soanes eases you into the evening with a relaxing soundtrack of all-time favourites and contemporary classics.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Calm Classics with Ritula Shah",
+          "show_description": "Ritula Shah provides the perfect soothing soundtrack to help you wind down at the end of the day.",
           "show_logo": "",
           "start_time": "22:00",
           "end_time": "01:00"

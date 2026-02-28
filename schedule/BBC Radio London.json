@@ -3,60 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-London.png",
   "schedule": [
     {
-      "date": "27 February 2026",
-      "programmes": [
-        {
-          "show_name": "Weekday overnights with BBC Radio 5 Live",
-          "show_description": "Local BBC Radio joins BBC Radio 5 Live through the night on a weekday.",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Riz Lateef",
-          "show_description": "Have your say on the day's news with Riz.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Robert Elms",
-          "show_description": "Everything you need to know about London from architecture to accents and great music.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Jumoke Fashola",
-          "show_description": "London's news, sport and travel with your views on the big issues.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Total Sport London",
-          "show_description": "The latest news and updates from fans, teams and competitors across the capital.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Jacqueline Shepherd",
-          "show_description": "Great music, good vibes and stories from our African and Caribbean communities.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Late Night Jo",
-          "show_description": "Jo Good with late-night conversation, amazing stories and the soundtrack to your night.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "28 February 2026",
       "programmes": [
         {
@@ -125,6 +71,53 @@
         {
           "show_name": "Late Night Jo",
           "show_description": "Jo Good with late-night conversation, amazing stories and the soundtrack to your night.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "1 March 2026",
+      "programmes": [
+        {
+          "show_name": "Weekend overnights with BBC Radio 5 Live",
+          "show_description": "Local BBC Radio joins BBC Radio 5 Live through the night on a weekend.",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Inspirit with Jumoké Fashola",
+          "show_description": "Debating the week's big religious, moral and ethical issues.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Robert Elms",
+          "show_description": "Everything you need to know about London from architecture to accents and great music.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "The Make a Difference Show",
+          "show_description": "Gaby Roslin talks to some amazing people making a difference where we live.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Dotun Adebayo",
+          "show_description": "Dotun Adebayo brings you the best of community programming from across England.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "The Late Show",
+          "show_description": "Asma Younus with late-night conversation, stories and the soundtrack to your night.",
           "show_logo": "",
           "start_time": "22:00",
           "end_time": "01:00"

@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
   "schedule": [
     {
-      "date": "27 February 2026",
-      "programmes": [
-        {
-          "show_name": "Through the Night",
-          "show_description": "Barbara Hannigan conducts the Lausanne Chamber Orchestra, and pianist Bertrand Chamayou joins for Henry Cowell's Irish Suite.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Essential Classics",
-          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Classical Live",
-          "show_description": "Elizabeth Alker introduces an afternoon of specially made recordings including a performance of Respighi's Roman Festivals performed by the Luxembourg Philharmonic Orchestra.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Composer of the Week: Amy Beach",
-          "show_description": "5/5. Donald Macleod explores the 1930s when, now in her sixties, Amy Beach moves to Manhattan.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "In Tune",
-          "show_description": "Live music from pianist Élisabeth Pion.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Classical Mixtape",
-          "show_description": "Take time out with a 30-minute soundscape of classical music from Ravel, Liszt, Rimsky-Korsakov and Cecilia McDowall.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Friday Night is Music Night",
-          "show_description": "Bronwen Lewis is the special guest singer and presenter in Cardiff with the BBC National Orchestra of Wales, conducted by Grant Llewellyn.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "The Essay: Full Moon on...",
-          "show_description": "...Progress Street - series 2. Dr Rommi Smith examines the music and contributions of five leading Black female musicians, to civil rights and social change.",
-          "show_logo": "",
-          "start_time": "21:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Late Junction",
-          "show_description": "Verity Sharp presents an improvised collaborative studio meeting between British experimentalist Ecka Mordecai and Bhutanese guitarist Tashi Dorji.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "'Round Midnight",
-          "show_description": "Soweto is joined by the ever-explorative jazz bassist Dave Holland to reflect on his career and collaborations with jazz greats like Miles Davis, Chick Corea and Herbie Hancock.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "28 February 2026",
       "programmes": [
         {
@@ -169,6 +87,116 @@
           "show_description": "Tom Service presents a new work by Robert Laidlow, co-commissioned by BBC Radio 3 for the BBC Philharmonic Orchestra.",
           "show_logo": "",
           "start_time": "22:30",
+          "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "1 March 2026",
+      "programmes": [
+        {
+          "show_name": "Through the Night",
+          "show_description": "Celebrating Chopin's birthday and Polish musical culture. Penny Gore presents.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "Mark Forrest presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Sunday Morning",
+          "show_description": "Join Sarah Walker for a colourful Sunday mix, from Swedish folk celebrations to Spanish-inspired orchestral brilliance and music that hints at the first signs of spring.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Private Passions",
+          "show_description": "Michael Berkeley's guest is Peter Hamlyn, the founder and president of the Brain and Spine Foundation, after working as a neurosurgeon for 40 years.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Music Map",
+          "show_description": "Sara Mohr-Pietsch collects the musical gems that connect to the overture La Gazza Ladra, including Handel's thundering drums and The Unthanks' folkloric magpie.",
+          "show_logo": "",
+          "start_time": "13:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Choral Evensong",
+          "show_description": "From the University of Exeter Mary Harris Memorial Chapel, with music by Malcolm, Pärt, Lukaszewski and Bach.",
+          "show_logo": "",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Jazz Record Requests",
+          "show_description": "Join Alyn for a musical journey across the globe featuring artists from Ethiopia, Japan, America, the UK and more.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "The Early Music Show",
+          "show_description": "Hannah French visits St Paul's Cathedral in London to explore the legacy of composer John Blow, who became master of the choristers at the newly consecrated cathedral in 1687.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Words and Music",
+          "show_description": "Fictional robots and poetic automata alongside music created by and played by machines. With readings from Annette Badland and Daniel Millar.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "19:15"
+        },
+        {
+          "show_name": "Sunday Feature: Bartok and Us",
+          "show_description": "The comedian, actor and keen amateur musician Nick Mohammed reports on the first British encounters with the music of Hungarian Bela Bartok and how our attitudes changed over time.",
+          "show_logo": "",
+          "start_time": "19:15",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Dvorak String Quintet Op.97",
+          "show_description": "The Building a Library recommended recording from yesterday's Record Review.",
+          "show_logo": "",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "20th Century Radicals",
+          "show_description": "Kate Molleson and Gillian Moore shine new light on the 'modern' music of the 20th century. This week, Gillian explores the music of the Dutch radical Louis Andriessen.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Compline",
+          "show_description": "A service of night prayer from the Church of Our Most Holy Redeemer, Clerkenwell, London. With words and music for the end of the day, including works by Otero and Willan.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Night Tracks",
+          "show_description": "Hannah Peel presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
+          "show_logo": "",
+          "start_time": "22:30",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "Unclassified",
+          "show_description": "Elizabeth Alker with a late-night journey through new music from today's most exciting genre-defying artists. Including tracks by Colin Stetson, Michiko Ogawa and Rakel.",
+          "show_logo": "",
+          "start_time": "23:30",
           "end_time": "00:30"
         }
       ]

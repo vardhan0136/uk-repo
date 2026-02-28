@@ -3,60 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Tees.png",
   "schedule": [
     {
-      "date": "27 February 2026",
-      "programmes": [
-        {
-          "show_name": "Weekday overnights with BBC...",
-          "show_description": "...Radio 5 Live. Local BBC Radio joins BBC Radio 5 Live through the night on a weekday.",
-          "show_logo": "http://img.freeviewplay.net/e6f725f0ada802839aa11e16c10d7c1f0?w=800",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Amy Oakden",
-          "show_description": "Trusted local news and sport, information and advice, and great music.",
-          "show_logo": "http://img.freeviewplay.net/e9f7547a07dbf2eba844879b0899bf1e1?w=800",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Gary Philipson",
-          "show_description": "Gary Philipson brings you great music, information and advice, and mid-morning updates.",
-          "show_logo": "http://img.freeviewplay.net/e6d996dce2236721568c229a5889a105c?w=800",
-          "start_time": "10:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Scott Makin",
-          "show_description": "Scott brings you trusted news and sport, music and fun, and afternoon conversation.",
-          "show_logo": "http://img.freeviewplay.net/e7bd322821a50401c5089c4da4140be12?w=800",
-          "start_time": "14:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "BBC Radio Tees Sport",
-          "show_description": "The latest on Middlesbrough and Hartlepool United and sports news from across the region.",
-          "show_logo": "http://img.freeviewplay.net/e4997e7b7573234d1f4a5792bac7c16f2?w=800",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Rachel Teate",
-          "show_description": "Rachel's here with great music and conversation to get your weekend started.",
-          "show_logo": "http://img.freeviewplay.net/e3d206fb268c032ffa776abddadae8708?w=800",
-          "start_time": "19:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Late Night Jo",
-          "show_description": "Jo Good with late-night conversation, amazing stories and the soundtrack to your night.",
-          "show_logo": "http://img.freeviewplay.net/ee1d6e973a1a9f4549ed4eb68477366f8?w=800",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "28 February 2026",
       "programmes": [
         {
@@ -105,6 +51,53 @@
           "show_name": "Late Night Jo",
           "show_description": "Jo Good with late-night conversation, amazing stories and the soundtrack to your night.",
           "show_logo": "http://img.freeviewplay.net/ee1d6e973a1a9f4549ed4eb68477366f8?w=800",
+          "start_time": "22:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "1 March 2026",
+      "programmes": [
+        {
+          "show_name": "Weekend overnights with BBC...",
+          "show_description": "...Radio 5 Live. Local BBC Radio joins BBC Radio 5 Live through the night on a weekend.",
+          "show_logo": "http://img.freeviewplay.net/ec9bc0f9d5dddb0f2204096ec7ad49ec4?w=800",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Gilly Hope",
+          "show_description": "Gilly brings you Sunday morning music, conversation and faith discussion. Includes Garden Mania at 9am.",
+          "show_logo": "http://img.freeviewplay.net/ebfc77dc81cb984c826e1e3fce26d7c9a?w=800",
+          "start_time": "06:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Kelly Scott",
+          "show_description": "Kelly brings you great music and conversation for your mid-morning.",
+          "show_logo": "http://img.freeviewplay.net/e676bbac5bdba660be5e4945d645ce6cf?w=800",
+          "start_time": "10:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "The Make a Difference Show",
+          "show_description": "Gaby Roslin talks to some amazing people making a difference where we live.",
+          "show_logo": "http://img.freeviewplay.net/e9e86a4155d3b6648fcdac2c27cc9060b?w=800",
+          "start_time": "14:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Dotun Adebayo",
+          "show_description": "Dotun Adebayo brings you the best of community programming from across England.",
+          "show_logo": "http://img.freeviewplay.net/e591a2f1e722c765b39101c2065fa7d30?w=800",
+          "start_time": "18:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "The Late Show",
+          "show_description": "Asma Younus with late-night conversation, stories and the soundtrack to your night.",
+          "show_logo": "http://img.freeviewplay.net/e788ed99d4fb5b3513befcb07630ed88c?w=800",
           "start_time": "22:00",
           "end_time": "01:00"
         }

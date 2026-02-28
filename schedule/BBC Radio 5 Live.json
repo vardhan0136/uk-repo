@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-5-Live.png",
   "schedule": [
     {
-      "date": "27 February 2026",
-      "programmes": [
-        {
-          "show_name": "Laura McGhie",
-          "show_description": "Laura McGhie with your calls and features through the night. Call 08085 909693 (calls are free from mobiles and landlines). Text 85058 (charged at your standard message rate).",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "Wake Up to Money",
-          "show_description": "Will Bain gets the latest from the Gorton and Denton by-election and hears about the build-up to the first ever BRIT Awards to be held in Manchester.",
-          "show_logo": "",
-          "start_time": "05:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "5 Live Breakfast",
-          "show_description": "Steffan Powell and Rima Ahmed with unique stories from across the UK, explaining details behind the headlines, and the biggest news and sport.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Nicky Campbell",
-          "show_description": "Nicky Campbell takes your calls on the day's talking points, hearing views and experiences from across the UK. Call 08085 909693 (calls are free from mobiles and landlines).",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "Chiles on Friday",
-          "show_description": "Adrian Chiles gets you set for the weekend with a good-humoured look at the latest news, sport and entertainment. Text 85058 (charged at your standard message rate).",
-          "show_logo": "",
-          "start_time": "11:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Elis James and John Robins",
-          "show_description": "Elis has Barrel of Eggs'ed it. Or more accurately, Isy has. But for a show that holds content on the highest pedestal possible, this can only be seen as a good thing.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Matt Chorley",
-          "show_description": "Matt Chorley brings you big political guests, the key news of the day, and your views on the issues that matter to you. Text 85058 (charged at your standard message rate).",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "5 Live Drive",
-          "show_description": "A round-up of the day's top news and sport with Clare McDonnell and Chris Warburton. Plus interviews with people at the centre of the stories, and regular travel updates.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "5 Live Sport",
-          "show_description": "Darren Fletcher is joined by Michael Brown, Paul Robinson and Nigel Reo-Coker to look ahead to this weekend's Premier League action. Plus updates from Wolves v Aston Villa.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "5 Live Sport",
-          "show_description": "John Murray, Ian Dennis & Ali Bruce-Ball talk football, travel & language. There's news on how to pronounce Taty Castellanos & hear from the voice of the 'corpsing classifieds'.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Stephen Nolan",
-          "show_description": "The day's main news stories, topical debate and interviews. Call 08085 909693 (calls are free from mobiles and landlines). Email: nolan@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "28 February 2026",
       "programmes": [
         {
@@ -117,14 +35,14 @@
         },
         {
           "show_name": "Patrick Kielty",
-          "show_description": "Join Paddy, his listeners and great guests for the ultimate feel good start to the weekend.",
+          "show_description": "Paddy is joined by Sara Pascoe and Will Buxton. GeeJay will be in the '5 Live Lounge' performing your favourite football chants.",
           "show_logo": "",
           "start_time": "09:00",
           "end_time": "11:00"
         },
         {
           "show_name": "Fighting Talk",
-          "show_description": "Rick Edwards presents a hilarious look at the world of sport where guests compete with their sporting punditry.",
+          "show_description": "Apollo, Guvna B, Jo Caulfield and Thom Gibbs join the fight for punditry points whilst discussing the world of sport with Rick Edwards.",
           "show_logo": "",
           "start_time": "11:00",
           "end_time": "12:00"
@@ -162,6 +80,130 @@
           "show_description": "Your football calls with Aaron Paul and Chris Sutton. Phone 08085 909693 free from mobiles and landlines. Text 85058 at your standard message rate.",
           "show_logo": "",
           "start_time": "19:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Stephen Nolan",
+          "show_description": "The day's main news stories, topical debate and interviews. Call 08085 909693 (calls are free from mobiles and landlines). Email: nolan@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "1 March 2026",
+      "programmes": [
+        {
+          "show_name": "F1: Back at Base - A New Era",
+          "show_description": "The Cadillac car build begins. Kimi Antonelli and Ollie Bearman get ready for 2026.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "00:30"
+        },
+        {
+          "show_name": "F1: Back at Base - A New Era",
+          "show_description": "The Cadillac and Mercedes 2026 F1 cars hit the track as Ollie Bearman dreams big at Haas.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "Laura McGhie",
+          "show_description": "Edward Adoo sits in with your calls through the night. Call 08085 909693 (calls are free from mobiles and landlines). Text 85058 (charged at your standard message rate).",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "Newscast",
+          "show_description": "Adam Fleming and friends discuss the week's biggest stories, with highlights taken from the podcast this week.",
+          "show_logo": "",
+          "start_time": "05:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "The Martin Lewis Podcast",
+          "show_description": "Martin Lewis answers your financial questions, offering valuable money-saving tips.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "06:55"
+        },
+        {
+          "show_name": "Voice of the UK",
+          "show_description": "Food waste: a load of rubbish? Nicky Campbell asks listeners how they feel about new plans to deal with food waste.",
+          "show_logo": "",
+          "start_time": "06:55",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Sunday Breakfast",
+          "show_description": "The big news and sports stories, weather, plus previews of the weekend's sport with Jeanette Kwakye and Steffan Powell. Text: 85058 (charged at your standard message rate).",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Colin Murray",
+          "show_description": "Colin sets up your day of sport and beyond with a Sunday morning mix of special guests, special conversations and special radio.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "11:45"
+        },
+        {
+          "show_name": "5 Live Sport",
+          "show_description": "Steve Crossman builds up to today's sporting action starting with Rangers v Celtic.",
+          "show_logo": "",
+          "start_time": "11:45",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Scottish Premiership Football",
+          "show_description": "Live football commentary of Rangers v Celtic in the Scottish Premiership. Commentary from BBC Radio Scotland.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Premier League Football",
+          "show_description": "Live football commentary of Manchester United v Crystal Palace in the Premier League plus updates from today's other 2pm games.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "5 Live Sport",
+          "show_description": "Live build-up to Arsenal v Chelsea in the Premier League.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "Premier League Football",
+          "show_description": "Live football commentary of Arsenal v Chelsea in the Premier League.",
+          "show_logo": "",
+          "start_time": "16:30",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "606",
+          "show_description": "Your football calls with Robbie Savage and Chris Sutton. Phone 08085 909693 free from mobiles and landlines. Text 85058 at your standard message rate.",
+          "show_logo": "",
+          "start_time": "18:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "The Wayne Rooney Show - Episode 52",
+          "show_description": "Wayne Rooney revisits some defining Champions League away nights, remembers meeting Diego Maradona at a Chinese restaurant and names a club he regrets not playing for.",
+          "show_logo": "",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Premier League Review",
+          "show_description": "The Football Daily team review the weekend's Premier League action.",
+          "show_logo": "",
+          "start_time": "20:30",
           "end_time": "21:00"
         },
         {

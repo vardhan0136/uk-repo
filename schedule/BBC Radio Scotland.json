@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Scotland.png",
   "schedule": [
     {
-      "date": "27 February 2026",
-      "programmes": [
-        {
-          "show_name": "Scotcast",
-          "show_description": "Laura Miller speaks to two reporters who covered the case from its very beginning in February 2024 to find out what went wrong, and why.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "00:30"
-        },
-        {
-          "show_name": "As BBC Radio 5 Live",
-          "show_description": "Joining Radio 5 Live.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Radio Scotland Breakfast",
-          "show_description": "News from across Scotland and the world, plus sport, weather, entertainment and big name interviews.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Mornings",
-          "show_description": "Stephen Jardine gets to the heart of the stories making the news.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Lunchtime Live",
-          "show_description": "News updates from Scotland and beyond, plus all your lunchtime sport, travel and weather.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Breaking the News",
-          "show_description": "Des Clarke hosts Scotland's award-winning satirical news quiz.",
-          "show_logo": "",
-          "start_time": "13:30",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Afternoons",
-          "show_description": "Nicola Meighan brings you feelgood music and chat with celebrity guests.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Drivetime",
-          "show_description": "Breaking down the day's talking points with comment and opinion, plus sport, travel and weather.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Grant Stott's Vinyl Collective",
-          "show_description": "Tanita Tikaram shares a favourite vinyl album, Grant counts down the top 10 albums this week in 1988 and there's a Fatboy Slim double in Side 2.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "BBC Introducing in Scotland",
-          "show_description": "Phoebe and Steph have pulled together some of the artists recently featured on the show: a multi-genre mix of the best music being made in Scotland, including a Brit Award winner!",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Up Late",
-          "show_description": "The best company to end the day, with lively chat and some of your favourite tunes.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "28 February 2026",
       "programmes": [
         {
@@ -127,13 +45,27 @@
           "show_description": "Open All Mics keeps you up to date with all the goals and big moments across the country on another big Saturday in Scottish football.",
           "show_logo": "",
           "start_time": "14:00",
-          "end_time": "17:30"
+          "end_time": "14:55"
+        },
+        {
+          "show_name": "Sportsound",
+          "show_description": "Full commentary from Tynecastle as league leaders Hearts aim to move further ahead at the top of the Scottish Premiership.",
+          "show_logo": "",
+          "start_time": "14:55",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Sportsound",
+          "show_description": "Open All Mics keeps you up to date with all the goals and big moments across the country on another big Saturday in Scottish football.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "18:00"
         },
         {
           "show_name": "Sportsound",
           "show_description": "Michael Stewart and Tom English debate the big talking points following Saturday's action as the fans join in.",
           "show_logo": "",
-          "start_time": "17:30",
+          "start_time": "18:00",
           "end_time": "19:00"
         },
         {
@@ -156,6 +88,88 @@
           "show_logo": "",
           "start_time": "22:00",
           "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "1 March 2026",
+      "programmes": [
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "Joining Radio 5 Live.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Scotcast",
+          "show_description": "Natalie Higgins presents highlights from the BBC's Scottish news podcast.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "New Every Sunday",
+          "show_description": "An act of worship with the Reverend David Coleman, environmental chaplain with Eco-Congregation Scotland.",
+          "show_logo": "",
+          "start_time": "07:30",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Sunday Morning",
+          "show_description": "Zara's This Spiritual Life guest this week is the actor and comedian, Rosie O'Donnell.",
+          "show_logo": "",
+          "start_time": "08:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "The Sunday Show",
+          "show_description": "News, discussion and interviews from politics and beyond.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "Sportsound",
+          "show_description": "All the action live from Ibrox, where Rangers host Celtic in the Scottish Premiership, with both teams looking to make up ground in the race for the title.",
+          "show_logo": "",
+          "start_time": "11:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Off the Ball",
+          "show_description": "The most petty and ill-informed football show on radio.",
+          "show_logo": "",
+          "start_time": "15:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Your Requests with Gary Innes",
+          "show_description": "Join Gary as he shares your special messages and dedications and plays your favourite Scottish music requests.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Classical Now",
+          "show_description": "Jamie has the BBC Scottish Symphony Orchestra in concert & news about a very special collaboration this month featuring Edinburgh Royal Choral Union & Brussels Choral Society.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Roddy Hart's Mix Tape",
+          "show_description": "Roddy Hart plays handpicked tracks from Scotland and beyond. Featuring Dougie Payne, bass player from multi-platinum Scottish indie band Travis.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "Joining Radio 5 Live.",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "06:00"
         }
       ]
     }

@@ -3,67 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/LBC-News.png",
   "schedule": [
     {
-      "date": "27 February 2026",
-      "programmes": [
-        {
-          "show_name": "Non-stop News",
-          "show_description": "Where the news never stops. The latest from LBC News reporters across the UK and around the world.",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Chris Golds",
-          "show_description": "Chris Golds has live coverage of the result of the Gorton and Denton Parliamentary by-election.",
-          "show_logo": "",
-          "start_time": "03:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Vanessa Baffoe",
-          "show_description": "Where the news never stops. Vanessa Baffoe updates you on the top stories at breakfast.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Steve Holden",
-          "show_description": "Where the news never stops. Steve Holden has the latest from LBC News reporters across the UK and around the world.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Jim Diamond",
-          "show_description": "Where the news never stops. Jim Diamond has the latest developments.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "David Harper",
-          "show_description": "Where the news never stops. David Harper has the latest updates from LBC News reporters across the UK and around the world.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Pip Tomson",
-          "show_description": "Where the news never stops. Pip Tomson has the latest from LBC News reporters across the UK and around the world.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Jonathan Ray",
-          "show_description": "Where the news never stops. Jonathan Ray brings you the latest from LBC News reporters across the UK and around the world.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "28 February 2026",
       "programmes": [
         {
@@ -76,6 +15,53 @@
         {
           "show_name": "David Harper",
           "show_description": "Where the news never stops. David Harper has the latest updates from LBC News reporters across the UK and around the world.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "Andrew Peach",
+          "show_description": "Where the news never stops. Andrew Peach has the latest from LBC News reporters across the UK and around the world.",
+          "show_logo": "",
+          "start_time": "11:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Pip Tomson",
+          "show_description": "Where the news never stops. Pip Tomson has the latest from LBC News reporters across the UK and around the world.",
+          "show_logo": "",
+          "start_time": "15:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Jonathan Ray",
+          "show_description": "Where the news never stops. Jonathan Ray brings you the latest from LBC News reporters across the UK and around the world.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Non-stop News",
+          "show_description": "Where the news never stops. The latest from LBC News reporters across the UK and around the world.",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "05:00"
+        }
+      ]
+    },
+    {
+      "date": "1 March 2026",
+      "programmes": [
+        {
+          "show_name": "Non-stop News",
+          "show_description": "Where the news never stops. The latest from LBC News reporters across the UK and around the world.",
+          "show_logo": "",
+          "start_time": "05:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Sandy Warr",
+          "show_description": "Where the news never stops. Sandy Warr has the latest updates from LBC News reporters across the UK and around the world.",
           "show_logo": "",
           "start_time": "07:00",
           "end_time": "11:00"

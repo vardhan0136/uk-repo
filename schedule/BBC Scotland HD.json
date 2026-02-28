@@ -3,88 +3,6 @@
   "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png",
   "schedule": [
     {
-      "date": "27 February 2026",
-      "programmes": [
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Reporting Scotland: News at Seven",
-          "show_description": "More from the day's top stories and communities across Scotland.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5a8512de-2f71-4a5d-b4d3-6f1056f93d4a/cover",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Jules and Greg's Wild Swim",
-          "show_description": "1/5. Jules and Greg kick off in the crystal-clear waters of St Abbs, snorkelling the south east coast, before taking on the waves at Coldingham Bay.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4d212e70-09eb-4455-b447-859904dc54b4/cover",
-          "start_time": "19:30",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "My Epic Camel Adventure with Gordon Buchanan",
-          "show_description": "Gordon Buchanan takes an epic camel ride across Mongolia's harsh Gobi Desert.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/25f66373-589d-4485-bb0e-e38c45763ca0/cover",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Being Stanley Baxter",
-          "show_description": "TV and panto star Stanley Baxter had big success but an even bigger secret. With access to close family and friends, personal archive and recordings, we reveal his true story.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a6989ce9-7acf-474a-89bd-9b22a1e238f2/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Still Game",
-          "show_description": "Sitcom. Jack and Victor become dogsitters, and Winston's jealousy sparks some serious pet one-upmanship. Isa prepares for the Craiglang Community Bake Off. Contains adult humour.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4a3f991a-3601-4a1e-abd9-0957c0871136/cover",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "Two Doors Down",
-          "show_description": "2/6. Sitcom. The neighbours are woken in the night by a car alarm. After meeting Eric in the street, Colin and Christine invite themselves round. Contains some strong language.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fe40c0ba-57f0-482f-bd73-c9cc7e026bd0/cover",
-          "start_time": "22:30",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Scotland's Big Night Out",
-          "show_description": "Stand-up comedian and presenter Iain Stirling explores the history of Saturday nights out across Scotland since the 1950s.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4ffe032c-edea-4242-b15c-05c9e690d56d/cover",
-          "start_time": "23:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "28 February 2026",
       "programmes": [
         {
@@ -161,6 +79,95 @@
           "show_name": "Chewin' the Fat",
           "show_description": "Some of the best bits from the comedy sketch show. Contains adult humour.",
           "show_logo": "https://images.metadata.sky.com/pd-image/629bacc5-f3f6-4eac-8293-6b3dd02c19fe/cover",
+          "start_time": "23:30",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "1 March 2026",
+      "programmes": [
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Reporting Scotland: News at Seven",
+          "show_description": "All the weekend national, UK-wide and international news on Sunday evening at 7.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/af785892-bbf7-4d42-bf2f-2d93123df6f2/cover",
+          "start_time": "19:00",
+          "end_time": "19:15"
+        },
+        {
+          "show_name": "Sportscene: Premiership Highlights",
+          "show_description": "Extended highlights of Rangers v Celtic as two of the Scottish Premiership heavyweights go head-to-head.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/66fca2f7-323a-433c-b96c-c47909b4c858/cover",
+          "start_time": "19:15",
+          "end_time": "20:15"
+        },
+        {
+          "show_name": "The Repair Shop on the Road",
+          "show_description": "Will and Dom learn how a devastating fire put a 5,000-year-old craft in jeopardy. Meanwhile, Chris Shaw repairs a Gaelic pipe music book, and Dom has the chance to make his own sporran.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3fed6bee-8757-4fd3-918c-aa8f8afd5e05/cover",
+          "start_time": "20:15",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Paramedics on Scene",
+          "show_description": "3/10. Paramedics help a woman who has been thrown off a horse near Dunbar. Meanwhile, the air ambulance brings a child with appendicitis from Campbeltown to Glasgow.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/781e250b-6f57-4a95-9f28-69d43b452c76/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Still Game",
+          "show_description": "Sitcom. Jack and Victor become dogsitters, and Winston's jealousy sparks some serious pet one-upmanship. Isa prepares for the Craiglang Community Bake Off. Contains adult humour.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4a3f991a-3601-4a1e-abd9-0957c0871136/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Scot Squad",
+          "show_description": "1/5. Scotland's favourite force are back battling bams and busting scams. The Chief deals with speculation he might quit his tartan patch to become head of the London Met.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/eeb1e4c4-415c-4702-9a7b-fa50b6159081/cover",
+          "start_time": "22:30",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Situationships with Sophie and Christine",
+          "show_description": "2/8. Christine opens up to Sophie about dating with autism. Contains some strong language and adult humour.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4455cee1-d117-4bbc-bc23-479c593bf191/cover",
+          "start_time": "23:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "The Sunday Show",
+          "show_description": "Gary Robertson brings you all the main issues from the world of politics and beyond. Big interviews, discussion and analysis of the stories that matter to Scotland.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/eed0de46-e253-41d6-8759-1a4a6d422ba7/cover",
           "start_time": "23:30",
           "end_time": "00:00"
         }

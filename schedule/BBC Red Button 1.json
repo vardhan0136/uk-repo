@@ -3,74 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-red-button-uk.png",
   "schedule": [
     {
-      "date": "27 February 2026",
-      "programmes": [
-        {
-          "show_name": "Winterwatch: Winter Encounters",
-          "show_description": "Enjoy the very best of the season in a natural escape that lets nature do the talking.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2e0cef27-b39f-4367-a47f-de4658605081/cover",
-          "start_time": "05:15",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Winterwatch",
-          "show_description": "Enjoy the very best of the season in a natural escape that lets nature do the talking.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2e0cef27-b39f-4367-a47f-de4658605081/cover",
-          "start_time": "06:00",
-          "end_time": "06:10"
-        },
-        {
-          "show_name": "Radio 2's Piano Room 2026: What a Week - Week 1",
-          "show_description": "Catch up on the artists performing in the first week of Radio 2's Piano Room Month 2026.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a18eceab-fe1d-4c6a-9cc2-75bfc0a9cd5e/cover",
-          "start_time": "06:10",
-          "end_time": "09:10"
-        },
-        {
-          "show_name": "The Story So Far: The Best of, Part 4",
-          "show_description": "The best of Ali Plumb's Story So Far programmes. Part 4.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7b5e9534-9179-4315-974f-a55bf6ed8f78/cover",
-          "start_time": "09:10",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Welsh Open Snooker",
-          "show_description": "Day five coverage from the Welsh Open.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9f3219fe-4893-4ed8-ab0b-b09b52a3a1fa/cover",
-          "start_time": "12:00",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "The Story So Far: The Best of, Part 4",
-          "show_description": "The best of Ali Plumb's Story So Far programmes. Part 4.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7b5e9534-9179-4315-974f-a55bf6ed8f78/cover",
-          "start_time": "16:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Welsh Open Snooker",
-          "show_description": "Day five coverage from the Welsh Open.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/23b8dbeb-2490-48ca-8391-f78ab646f1dc/cover",
-          "start_time": "19:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The Story So Far: The Best of, Part 4",
-          "show_description": "The best of Ali Plumb's Story So Far programmes. Part 4.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7b5e9534-9179-4315-974f-a55bf6ed8f78/cover",
-          "start_time": "22:00",
-          "end_time": "23:15"
-        },
-        {
-          "show_name": "Winterwatch: Winter Encounters",
-          "show_description": "Enjoy the very best of the season in a natural escape that lets nature do the talking.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2e0cef27-b39f-4367-a47f-de4658605081/cover",
-          "start_time": "23:15",
-          "end_time": "05:15"
-        }
-      ]
-    },
-    {
       "date": "28 February 2026",
       "programmes": [
         {
@@ -142,6 +74,81 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/2e0cef27-b39f-4367-a47f-de4658605081/cover",
           "start_time": "23:00",
           "end_time": "05:00"
+        }
+      ]
+    },
+    {
+      "date": "1 March 2026",
+      "programmes": [
+        {
+          "show_name": "Winterwatch: Winter Encounters",
+          "show_description": "Enjoy the very best of the season in a natural escape that lets nature do the talking.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2e0cef27-b39f-4367-a47f-de4658605081/cover",
+          "start_time": "05:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Radio 2's Piano Room 2026: What a Week - Week 2",
+          "show_description": "Catch up on the artists performing in the second week of Radio 2's Piano Room Month 2026.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/10ca6742-2bc9-4dfd-b800-c58a7ce899dd/cover",
+          "start_time": "06:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Netball Super League - London...",
+          "show_description": "...Mavericks v Nottingham Forest. Netball.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ece799eb-a949-4c4c-94c0-91138870317d/cover",
+          "start_time": "09:00",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "Winterwatch: Winter Encounters",
+          "show_description": "Enjoy the very best of the season in a natural escape that lets nature do the talking.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2e0cef27-b39f-4367-a47f-de4658605081/cover",
+          "start_time": "11:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Welsh Open Snooker",
+          "show_description": "Coverage of the final of the 2026 Welsh Open.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fb40fa36-e5b9-4a08-9fa2-b7f9500ccf10/cover",
+          "start_time": "13:00",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "The Story So Far: The Best of, Part 4",
+          "show_description": "The best of Ali Plumb's Story So Far programmes. Part 4.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7b5e9534-9179-4315-974f-a55bf6ed8f78/cover",
+          "start_time": "16:30",
+          "end_time": "17:45"
+        },
+        {
+          "show_name": "Winterwatch: Winter Encounters",
+          "show_description": "Enjoy the very best of the season in a natural escape that lets nature do the talking.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2e0cef27-b39f-4367-a47f-de4658605081/cover",
+          "start_time": "17:45",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Welsh Open Snooker",
+          "show_description": "The conclusion of the final of the 2026 Welsh Open.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b170597a-624f-4453-8e8d-d520bb2d5fb4/cover",
+          "start_time": "19:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "The Story So Far: The Best of, Part 4",
+          "show_description": "The best of Ali Plumb's Story So Far programmes. Part 4.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7b5e9534-9179-4315-974f-a55bf6ed8f78/cover",
+          "start_time": "22:00",
+          "end_time": "23:15"
+        },
+        {
+          "show_name": "Winterwatch: Winter Encounters",
+          "show_description": "Enjoy the very best of the season in a natural escape that lets nature do the talking.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2e0cef27-b39f-4367-a47f-de4658605081/cover",
+          "start_time": "23:15",
+          "end_time": "05:15"
         }
       ]
     }
