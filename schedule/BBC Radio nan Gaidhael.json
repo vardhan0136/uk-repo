@@ -3,53 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-nan-Gaidheal.png",
   "schedule": [
     {
-      "date": "28 February 2026",
-      "programmes": [
-        {
-          "show_name": "Mar Radio Alba",
-          "show_description": "Tha BBC Radio nan Gaidheal mar BBC Radio Alba. BBC Radio nan Gaidheal joins BBC Radio Scotland.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Spòrs na Seachdain",
-          "show_description": "Spòrs ionadail, nàiseanta agus bho air feadh an t-saoghail còmhla ri Iain Moireasdan. Local, national and international sport presented by John Morrison.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Fàilt' air an Dùthaich",
-          "show_description": "Cluinnear òrain bho Ashley McBryde, Jimmy Buffett, Gretchen Peters agus Zach Top. A selection of country music old and new.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "Tiompan",
-          "show_description": "Cluinnear ceòl bho Ali Levack, Lusa agus Mumford & Sons san taghadh aig Mairead NicIllinnein. Mairead MacLennan's playlist includes music from Ali Levack, Lusa and Mumford & Sons.",
-          "show_logo": "",
-          "start_time": "11:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "An t-Òranaiche",
-          "show_description": "Cruinneachadh de dh'òrain bho sheinneadairean cliùiteach na Gàidhlig à tasglann BBC Radio nan Gàidheal. A selection of songs from BBC Radio nan Gàidheal's archive.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Mar Radio Alba",
-          "show_description": "Tha BBC Radio nan Gaidheal mar BBC Radio Alba. BBC Radio nan Gaidheal joins BBC Radio Scotland.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "09:00"
-        }
-      ]
-    },
-    {
       "date": "1 March 2026",
       "programmes": [
         {
@@ -162,6 +115,102 @@
           "show_description": "Tha BBC Radio nan Gaidheal mar BBC Radio Alba. BBC Radio nan Gaidheal joins BBC Radio Scotland.",
           "show_logo": "",
           "start_time": "22:00",
+          "end_time": "07:30"
+        }
+      ]
+    },
+    {
+      "date": "2 March 2026",
+      "programmes": [
+        {
+          "show_name": "Aithris na Maidne",
+          "show_description": "Naidheachdan ionadail, nàiseanta is eadar-nàiseanta gach madainn. Local, national and international news each morning.",
+          "show_logo": "",
+          "start_time": "07:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Naoi gu Deich",
+          "show_description": "Còmhradh, deasbad, cultar agus cur-seachadan. Conversation, discussion, culture and lifestyle.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "A' Mìre ri Mairead",
+          "show_description": "Tha Mairead NicIllinnein a' feitheamh ribh le taghadh ciùil traidiseanta Gàidhlig. Mairead MacLennan presents a great choice of traditional Gaelic music.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Feasgar an-diugh",
+          "show_description": "Naidheachdan, còmhradh, spòrs, ceòl agus fealla-dhà. News, chat, sport, music and entertainment.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Caithream Ciùil",
+          "show_description": "Ceòl Gàidhealach 's Ceilteach agus fiosrachadh air na tha dol agaibhse gach feasgar. Gaelic and Celtic music and a round-up of what's on. Post-d - dethadol@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "13:30",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "Fàilte air a' Bhaile",
+          "show_description": "Prògram a tasglann Fàilte air a' Bhaile. Thadhail Aonghas Dòmhnallach air Aiginis san Rubha ann an 1985. Fàilte air a Bhaile in Aiginish, Point in1985 from the BBC archive.",
+          "show_logo": "",
+          "start_time": "15:30",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Fàilt' air an Dùthaich",
+          "show_description": "Cluinnear òrain bho Vince Gill, Josh Turner, Don Williams agus Kane Brown. A selection of country music old and new.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Aithris an Fheasgair",
+          "show_description": "Naidheachdan nàiseanta is ionadail o Dhiluain gu Dihaoine. National and local news from Monday to Friday.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "Siubhal gu Seachd le Pluto",
+          "show_description": "Ceòl, fealla-dhà agus sùil air spòrs ionadail, nàiseanta agus eadar-nàiseanta. Music and entertainment with Derek Pluto Murray along with his Musical Links. Tweet @DerekPluto.",
+          "show_logo": "",
+          "start_time": "17:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Cruinn",
+          "show_description": "Ceòl, amaideas 's na beachdan agaibh air cuspairean a' là airson ur cuir ann a sunnd airson na seachdain. Music, opinion and general nonsense to get your week off to a good start.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Feasgar an-diugh",
+          "show_description": "Naidheachdan, còmhradh, spòrs, ceòl agus fealla-dhà. News, chat, sport, music and entertainment.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "22:25"
+        },
+        {
+          "show_name": "Naoi gu Deich",
+          "show_description": "Còmhradh, deasbad, cultar agus cur-seachadan. Conversation, discussion, culture and lifestyle.",
+          "show_logo": "",
+          "start_time": "22:25",
+          "end_time": "23:25"
+        },
+        {
+          "show_name": "Mar Radio Alba",
+          "show_description": "Tha BBC Radio nan Gaidheal mar BBC Radio Alba. BBC Radio nan Gaidheal joins BBC Radio Scotland.",
+          "show_logo": "",
+          "start_time": "23:25",
           "end_time": "07:30"
         }
       ]

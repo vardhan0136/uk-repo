@@ -3,207 +3,6 @@
   "channel_logo": "/public/DMAX/dmax.webp",
   "schedule": [
     {
-      "date": "28 February 2026",
-      "programmes": [
-        {
-          "show_name": "Naked and Afraid XL",
-          "show_description": "The Final Fight. After a shock exit, the remaining survivalists face a brutal two-day water extraction journey. Electric eels, anaconda and caiman all pose threats in this finale. S2, Ep8",
-          "show_logo": "/public/DMAX/naked-and-afraid-xl.webp",
-          "start_time": "00:00",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "Naked And Afraid",
-          "show_description": "Eye Of The Storm. A wild child and retired sergeant are stranded in the Belize jungle after a catastrophic hurricane that threatens their entire challenge. How will they get on? S3, Ep2",
-          "show_logo": "/public/DMAX/naked-and-afraid.webp",
-          "start_time": "01:00",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Teleshopping.",
-          "show_logo": "/public/DMAX/teleshopping.webp",
-          "start_time": "02:00",
-          "end_time": "02:30"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Teleshopping.",
-          "show_logo": "/public/DMAX/teleshopping.webp",
-          "start_time": "02:30",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Teleshopping.",
-          "show_logo": "/public/DMAX/teleshopping.webp",
-          "start_time": "03:00",
-          "end_time": "03:30"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Teleshopping.",
-          "show_logo": "/public/DMAX/teleshopping.webp",
-          "start_time": "03:30",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Teleshopping.",
-          "show_logo": "/public/DMAX/teleshopping.webp",
-          "start_time": "04:00",
-          "end_time": "04:30"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Teleshopping.",
-          "show_logo": "/public/DMAX/teleshopping.webp",
-          "start_time": "04:30",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "Salvage Dawgs",
-          "show_description": "Taylor Family Farm. The team heads to Yorktown to pick through an old farm and former Native American settlement. Mike and Tay handle the heavy lifting outside to save a steel boat. S9, Ep12",
-          "show_logo": "/public/DMAX/salvage-dawgs.webp",
-          "start_time": "05:00",
-          "end_time": "05:30"
-        },
-        {
-          "show_name": "Salvage Dawgs",
-          "show_description": "Marine Salvage. Mike and Robert head to Florida and get lessons in diving and safety so they can salvage under water. They recover old ship parts from the bottom of the ocean. S9, Ep13",
-          "show_logo": "/public/DMAX/salvage-dawgs.webp",
-          "start_time": "05:30",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Deadliest Catch",
-          "show_description": "Russian Roulette. Cornelia co-captains, Josh and Casey, risk a 500-mile trek north to the Russian line. Meanwhile, captain Keith struggles with a broken boat and a broken heart. S15, Ep10",
-          "show_logo": "/public/DMAX/deadliest-catch.webp",
-          "start_time": "06:00",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Deadliest Catch",
-          "show_description": "Curse Of The Russian Line. The winter season strikes the fleet with brutal Storm Elsa. And, Josh and Casey haul their all-time biggest pots, starting a gold rush to the Russian Line. S15, Ep11",
-          "show_logo": "/public/DMAX/deadliest-catch.webp",
-          "start_time": "07:00",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "Deadliest Catch",
-          "show_description": "Hell Hath No Fury. The wrath of Arctic storm Elsa hits the Cornelia hardest as a breakaway pot thrashes Josh and Casey's crew. And, the icy blasts threaten to capsize the Wizard. S15, Ep12",
-          "show_logo": "/public/DMAX/deadliest-catch.webp",
-          "start_time": "08:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Deadliest Catch",
-          "show_description": "Sixty Foot Monster. As arctic superstorm Elsa intensifies, a rare forecast warns of huge waves. Trapped in the crab-rich northern grounds, one boat faces a 60-foot monster. S15, Ep13",
-          "show_logo": "/public/DMAX/deadliest-catch.webp",
-          "start_time": "09:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Outback Opal Hunters",
-          "show_description": "Bad Luck. The Opal Whispers are forced to leave behind a rich opal seam in a mine on the verge of collapse. The Cheals are cut off from their mine by crippling floods. S6, Ep5",
-          "show_logo": "/public/DMAX/outback-opal-hunters.webp",
-          "start_time": "10:00",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "Outback Opal Hunters",
-          "show_description": "Start Again From The Beginning. Gale force winds threaten the Digi Diggers' dreams of an eco-mine. The Bushmen discover dangerous old workings while clearing out their new mine. S6, Ep6",
-          "show_logo": "/public/DMAX/outback-opal-hunters.webp",
-          "start_time": "11:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Outback Opal Hunters",
-          "show_description": "Hit Or Miss. The Mooka Boys may lose a potential investor due to their little mining progress. Disaster strikes for the Opal Whisperers when Sofia's hoist fails. S6, Ep7",
-          "show_logo": "/public/DMAX/outback-opal-hunters.webp",
-          "start_time": "12:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Outback Crystal Hunters",
-          "show_description": "Thrill Of The Hunt. Pete and Kyle take the biggest gamble of their season, hunting valuable Tourmaline crystals. Hugh and Jarrin tackle the world's only Stitchtite quarry. S1, Ep6",
-          "show_logo": "/public/DMAX/outback-crystal-hunters.webp",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Outback Crystal Hunters",
-          "show_description": "Deadly Crocs - Dangerous Air. The Rockhounds hunt a rainforest river system by crocodile-infested waters. Plus, Jarrin and Hugh confront low oxygen levels and crumbling mine walls. S1, Ep7",
-          "show_logo": "/public/DMAX/outback-crystal-hunters.webp",
-          "start_time": "14:00",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Outback Crystal Hunters",
-          "show_description": "Crystal Climax. In the final week of the season, Patrick gets an offer for their million-dollar Amethyst cluster while his team race to unearth $200,000 of crystals. S1, Ep8",
-          "show_logo": "/public/DMAX/outback-crystal-hunters.webp",
-          "start_time": "15:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Aussie Gold Hunters",
-          "show_description": "The Gold Gypsies could be sitting on a fortune but must decide whether to take a huge gamble. A water shortage halts Shane and Russell's operations. S5, Ep10",
-          "show_logo": "/public/DMAX/aussie-gold-hunters.webp",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Aussie Gold Hunters",
-          "show_description": "The Goldtimers hire a 7-tonne loader to end their gold drought. The Dust Devils risk running out of water. Marcus vanishes while clifftop detecting. S5, Ep11",
-          "show_logo": "/public/DMAX/aussie-gold-hunters.webp",
-          "start_time": "17:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Aussie Gold Hunters",
-          "show_description": "The Poseidon Crew hunts for bush gold. The Gold Gypsies face a tough decision. The Victoria Diggers' perseverance could finally pay off. S5, Ep12",
-          "show_logo": "/public/DMAX/aussie-gold-hunters.webp",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Hoarding: Buried Alive",
-          "show_description": "Is That A Goat? Donny has been to jail twice because of his hoard. And while Joyce sees comfort in her doll collection, everyone else sees a creepy obsession. S3, Ep6",
-          "show_logo": "/public/DMAX/hoarding-buried-alive.webp",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Hoarding: Buried Alive",
-          "show_description": "Tiny Monsters. Sherry's hoard has broken up her marriage. Now, authorities are threatening to take away her children and condemn her home. Can she break her bad habits? S3, Ep10",
-          "show_logo": "/public/DMAX/hoarding-buried-alive.webp",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Paranormal Caught On Camera",
-          "show_description": "Mischievous Duende. Paranormal investigators capture a shadow figure in a haunted Nevada prison. A tiny elfin creature makes a toddler uneasy in Argentina. S6, Ep6",
-          "show_logo": "/public/DMAX/paranormal-caught-on-camera.webp",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "New: Ghost Adventures",
-          "show_description": "Lost Souls Of Kingman. The crew investigate an Arizona high school plagued by troubling paranormal experiences. Is this linked to an abandoned cemetery buried beneath the building? S20, Ep15",
-          "show_logo": "/public/DMAX/new-ghost-adventures.webp",
-          "start_time": "22:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "New: Ghost Adventures",
-          "show_description": "Old Bullion Plaza School. The crew unlock the dark secrets entombed in the walls of an old school. During the investigation, they capture some of their best evidence in years. S20, Ep16",
-          "show_logo": "/public/DMAX/new-ghost-adventures.webp",
-          "start_time": "23:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "1 March 2026",
       "programmes": [
         {
@@ -427,6 +226,200 @@
           "show_name": "Expedition X",
           "show_description": "The Van Meter Monster. Horrified locals in Iowa are reporting sightings of a giant winged creature - the same mysterious beast that terrorized the town of Van Meter 100 years ago. S3, Ep2",
           "show_logo": "/public/DMAX/expedition-x.webp",
+          "start_time": "23:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "2 March 2026",
+      "programmes": [
+        {
+          "show_name": "Expedition X",
+          "show_description": "Ghost Fort Of The Civil War. Phil and Jess gain unprecedented access to investigate ghostly voices and apparitions in Fort Morgan, a massive Civil War stronghold. S3, Ep3",
+          "show_logo": "/public/DMAX/expedition-x.webp",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "Expedition X",
+          "show_description": "Civil War Ghosts In The Bay. Jess and Phil dive deeper into the tragic history of Fort Morgan. Amy Bruni and Adam Berry join them for the investigation. S3, Ep4",
+          "show_logo": "/public/DMAX/expedition-x.webp",
+          "start_time": "01:00",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Teleshopping.",
+          "show_logo": "/public/DMAX/teleshopping.webp",
+          "start_time": "02:00",
+          "end_time": "02:30"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Teleshopping.",
+          "show_logo": "/public/DMAX/teleshopping.webp",
+          "start_time": "02:30",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Teleshopping.",
+          "show_logo": "/public/DMAX/teleshopping.webp",
+          "start_time": "03:00",
+          "end_time": "03:30"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Teleshopping.",
+          "show_logo": "/public/DMAX/teleshopping.webp",
+          "start_time": "03:30",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Teleshopping.",
+          "show_logo": "/public/DMAX/teleshopping.webp",
+          "start_time": "04:00",
+          "end_time": "04:30"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Teleshopping.",
+          "show_logo": "/public/DMAX/teleshopping.webp",
+          "start_time": "04:30",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "Baggage Battles",
+          "show_description": "Blast from the Past. The Baggage Battlers head to the Boston Estates Auction to gamble on historical items, but is a document announcing George Washington's death the real thing? S2, Ep3",
+          "show_logo": "/public/DMAX/baggage-battles.webp",
+          "start_time": "05:00",
+          "end_time": "05:30"
+        },
+        {
+          "show_name": "Baggage Battles",
+          "show_description": "Man on Fire. The Baggage Battlers head to Greensboro, which is a major hub for imported and exported goods. But will they unearth any valuable items in the lot at Quality Salvage? S2, Ep1",
+          "show_logo": "/public/DMAX/baggage-battles.webp",
+          "start_time": "05:30",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Gold Divers",
+          "show_description": "Winds Of Misfortune - Part 1. A series of questionable calls by Kris brings the Mistress to her breaking point. Mr. Gold takes a huge gamble by mining Cooper Gulch. S11, Ep5",
+          "show_logo": "/public/DMAX/gold-divers.webp",
+          "start_time": "06:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Gold Divers",
+          "show_description": "Winds Of Misfortune - Part 2. A series of questionable calls by Kris brings the Mistress to her breaking point. Mr. Gold takes a huge gamble by mining Cooper Gulch. S11, Ep6",
+          "show_logo": "/public/DMAX/gold-divers.webp",
+          "start_time": "07:00",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Aussie Gold Hunters: Mine SOS",
+          "show_description": "The Bates. Paul Mackie and his expert team must haul a crew of first-time gold miners out of an epic three-year gold drought before their operation and family legacy ends in ruin. S1, Ep1",
+          "show_logo": "/public/DMAX/aussie-gold-hunters-mine-sos.webp",
+          "start_time": "08:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "The Snake Catcher",
+          "show_description": "Blue Tongues And Hairy Legs. First, Julia deals with a large python hanging in a treetop. Next, the team catch a red-bellied black snake trapped in an air conditioning box. S1, Ep4",
+          "show_logo": "/public/DMAX/the-snake-catcher.webp",
+          "start_time": "09:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Deadliest Catch",
+          "show_description": "A Slap In The Face Or A Kick In The Butt. Mid-season and frozen crabs, frozen gear and a frozen harbour chill the hearts of the crew. Plus, the Northwestern battles a deadly storm. S5, Ep12",
+          "show_logo": "/public/DMAX/deadliest-catch.webp",
+          "start_time": "10:00",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "Deadliest Catch",
+          "show_description": "Ends Of The Earth. When the fleet gets word of great fishing by the ice pack, the chase is on. But will hellish hours and missing pots push these men over the edge? S5, Ep13",
+          "show_logo": "/public/DMAX/deadliest-catch.webp",
+          "start_time": "11:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Treasure Quest: Snake Island",
+          "show_description": "Treasure Of The Trinity. Treasure hunters search for clues to a vast fortune they believe is hidden on Brazil's 'Snake Island.' But team tensions could derail the expedition. S1, Ep1",
+          "show_logo": "/public/DMAX/treasure-quest-snake-island.webp",
+          "start_time": "12:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Expedition Unknown",
+          "show_description": "Temple Of Doom. Josh Gates goes to the Cambodian jungle to explore the lost city of the Khmer Empire. He seeks a mystical relic believed to hold the power to incinerate enemies. S1, Ep1",
+          "show_logo": "/public/DMAX/expedition-unknown.webp",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Expedition Unknown",
+          "show_description": "The Legend of Jesse James. Josh travels across the American Midwest in search of Jesse James' legendary loot. He rappels off a cliff on Wichita Mountain and follows treasure hunters. S1, Ep2",
+          "show_logo": "/public/DMAX/expedition-unknown.webp",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Alaska: Homestead Rescue",
+          "show_description": "Homestead Of Horrors. There's a nightmare in North Carolina. A couple's ramshackle cabin has exposed wires in the shower livestock decimated by predators. Can the Raneys help? S1, Ep11",
+          "show_logo": "/public/DMAX/alaska-homestead-rescue.webp",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Alaska: Homestead Rescue",
+          "show_description": "Grizzly Bait. Arctic temperatures and a hungry grizzly wreak havoc on a struggling homestead. The Raneys take action with big builds - but tragedy strikes. S1, Ep12",
+          "show_logo": "/public/DMAX/alaska-homestead-rescue.webp",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Outback Opal Hunters",
+          "show_description": "Race Against Time. The Rookies battle busted hoses and finally hit treasure. Meanwhile, at their wash plant, the Cooke Brothers race to beat the worst drought in a decade. S2, Ep9",
+          "show_logo": "/public/DMAX/outback-opal-hunters.webp",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Outback Opal Hunters",
+          "show_description": "Desperate Times, Desperate Measures. Justin and Becky risk their lives underground. Plus, opal hunting legend Col Duff is back, hunting long forgotten treasure. S2, Ep10",
+          "show_logo": "/public/DMAX/outback-opal-hunters.webp",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Deadliest Catch",
+          "show_description": "We Have Not Yet Begun to Fight. As the polar ice descends, The Saga is in danger of sinking, Jake must act fast to save his crew, and Josh gambles big-time by heading towards danger. S11, Ep18",
+          "show_logo": "/public/DMAX/deadliest-catch.webp",
+          "start_time": "19:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Body Bizarre",
+          "show_description": "My Face Is Killing Me. A Romanian boy's face grows too fast, slowly choking him to death, and doctors try a possible treatment. Plus, a child was born with an extra arm on his back. S5, Ep3",
+          "show_logo": "/public/DMAX/body-bizarre.webp",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Body Bizarre",
+          "show_description": "Limbless Little Girl. An English girl whose limbs had to be amputated when she was born is fitted for prosthetics. A Polish man is the world's first recipient of a donor hand. S5, Ep4",
+          "show_logo": "/public/DMAX/body-bizarre.webp",
+          "start_time": "22:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Aussie Gold Hunters",
+          "show_description": "An angry confrontation could see Marcus, Linden and Dale thrown off their lease. Impurities in their gold force the Dust Devils to take a big gamble. S6, Ep16",
+          "show_logo": "/public/DMAX/aussie-gold-hunters.webp",
           "start_time": "23:00",
           "end_time": "00:00"
         }

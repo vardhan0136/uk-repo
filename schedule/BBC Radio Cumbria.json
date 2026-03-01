@@ -3,60 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cumbria.png",
   "schedule": [
     {
-      "date": "28 February 2026",
-      "programmes": [
-        {
-          "show_name": "As Radio 5 Live",
-          "show_description": "A simulcast with the BBC's news and sport network Radio 5 Live",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Ian Brannan",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Hayley Kay",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "BBC Radio Cumbria Sport",
-          "show_description": "In-depth conversation with some of the biggest names in Cumbrian sport",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Upload",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "BBC Introducing",
-          "show_description": "Unsigned, undiscovered and under the radar music",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Jo Good",
-          "show_description": "Music and chat",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "1 March 2026",
       "programmes": [
         {
@@ -92,6 +38,60 @@
           "show_description": "Community reports from around the country",
           "show_logo": "",
           "start_time": "18:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "The Late Show",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "2 March 2026",
+      "programmes": [
+        {
+          "show_name": "As Radio 5 Live",
+          "show_description": "A simulcast with the BBC's news and sport network Radio 5 Live",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Mike Zeller",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Stephanie Finnon",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Nishma Hindocha",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Total Sport",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "JoJo Hatfield",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "19:00",
           "end_time": "22:00"
         },
         {

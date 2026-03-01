@@ -3,60 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BFBS-Radio.png",
   "schedule": [
     {
-      "date": "28 February 2026",
-      "programmes": [
-        {
-          "show_name": "BFBS Beats",
-          "show_description": "Get your weekend well and truly underway with a playlist that is guaranteed to get you dancing!",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Ops Breakfast",
-          "show_description": "Good morning from Ops! E-mail: ops@bfbs.com",
-          "show_logo": "",
-          "start_time": "03:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Saturday Breakfast",
-          "show_description": "Music, sport, and entertainment to get you ready for the weekend.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Saturday Morning",
-          "show_description": "Music, sport and entertainment bringing together the Forces communities overseas and in the UK.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Saturday Sport",
-          "show_description": "The Saturday Show with music, sport, interaction and chat.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "The BRIT Awards",
-          "show_description": "Live updates from the BRITs.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "BFBS Beats",
-          "show_description": "Get your weekend well and truly underway with a playlist that is guaranteed to get you dancing!",
-          "show_logo": "",
-          "start_time": "23:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "1 March 2026",
       "programmes": [
         {
@@ -113,6 +59,81 @@
           "show_description": "Playing the best new rock and indie music, plus some absolute classics to blow the ears and the mind!",
           "show_logo": "",
           "start_time": "22:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "2 March 2026",
+      "programmes": [
+        {
+          "show_name": "BFBS Edge",
+          "show_description": "Playing the best new rock and indie music, plus some absolute classics to blow the ears and the mind!",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "Tim Humphries",
+          "show_description": "Back-to-back hits, fresh new music, and everything else in-between non-stop!",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Ops Breakfast",
+          "show_description": "Good morning from Ops! E-mail: ops@bfbs.com",
+          "show_logo": "",
+          "start_time": "03:00",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "UK Breakfast with Kam & Danni",
+          "show_description": "Waking you up the best way with chances to win, celebrity guests, great chat and fresh music to start your day!",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Rewind with Kam & Danni",
+          "show_description": "Waking you up the best way with chances to win, celebrity guests, great chat and fresh music to start your day!",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Totally Connected",
+          "show_description": "Keeping you connected across the Forces world. E-mail: connected@bfbs.com",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "UK Afternoons",
+          "show_description": "Join us for fresh music, great chat, the latest Forces stories, fantastic guests and more!",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "UK Drivetime",
+          "show_description": "Where it all happens - we bring you news from the Forces world, celebrity guests, the latest trends and great music! Email: messages@bfbs.com",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "UK Evening Show",
+          "show_description": "Bringing you the hottest new music and the latest stories from around the Forces world.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Nicky Smith",
+          "show_description": "Nicky presents music, sport and entertainment bringing together the Forces communities overseas and in the UK.",
+          "show_logo": "",
+          "start_time": "23:00",
           "end_time": "00:00"
         }
       ]

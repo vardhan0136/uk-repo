@@ -3,81 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cymru-2.png",
   "schedule": [
     {
-      "date": "28 February 2026",
-      "programmes": [
-        {
-          "show_name": "Gweler BBC Radio 2",
-          "show_description": "Mae Radio Cymru 2 yn ymuno â BBC Radio 2 dros nos. Radio Cymru joins BBC Radio 2 overnight.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "05:30"
-        },
-        {
-          "show_name": "Richard Rees",
-          "show_description": "Lleisiau o'r Gorffennol, Cân Geltaidd a'r caneuon Cymraeg gorau o'r 1960au hyd heddiw. A selection of the best Welsh language music, from the 1960s to the present day.",
-          "show_logo": "",
-          "start_time": "05:30",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Sioe Frecwast",
-          "show_description": "Miwsig gorau'r bore gydag Alun Williams. Music and entertainment breakfast show with Alun Williams.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Tudur Owen",
-          "show_description": "Lot o fwydro, 'chydig o sylwedd, dim swmp. Music and laughs for Saturday morning.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "Shelley a Rhydian",
-          "show_description": "Cerddoriaeth ac adloniant gyda Shelley Rees a Rhydian Bowen Phillips. Music and entertainment with Shelley Rees and Rhydian Bowen Phillips.",
-          "show_logo": "",
-          "start_time": "11:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Dewis",
-          "show_description": "Tiwns, tiwns, tiwns wedi eu dewis gan enwogion Cymru. Top tunes only by Welsh household names.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Parti'r Penwythnos",
-          "show_description": "Tiwns trwy'r dydd, trwy'r penwythnos. Spend the weekend with Radio Cymru 2.",
-          "show_logo": "",
-          "start_time": "15:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Nôl i'r 90au",
-          "show_description": "Taith nôl i ddegawd y Spice Girls, Eden, Big Leaves ac Oasis! Take a trip back to the Nineties.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "Marc Griffiths",
-          "show_description": "Cymysgedd o'r hen a'r newydd i ddiddanu ar nos Sadwrn, gan gynnwys llwyth o geisiadau. Music old and new, including plenty of Saturday night requests.",
-          "show_logo": "",
-          "start_time": "17:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Ffion Emyr",
-          "show_description": "Tair awr o gerddoriaeth a chwmnïaeth yng nghwmni Ffion Emyr. Three hours of music and companionship with Ffion Emyr.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "1 March 2026",
       "programmes": [
         {
@@ -148,6 +73,67 @@
           "show_description": "Cerddoriaeth a sgwrsio i gloi'r penwythnos. Music and chat to bring the weekend to a close.",
           "show_logo": "",
           "start_time": "21:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "2 March 2026",
+      "programmes": [
+        {
+          "show_name": "Gweler BBC Radio 2",
+          "show_description": "Mae Radio Cymru 2 yn ymuno â BBC Radio 2 dros nos. Radio Cymru joins BBC Radio 2 overnight.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Sioe Frecwast",
+          "show_description": "Cerddoriaeth ac adloniant gyda Rhydian Bowen Phillips. Music and entertainment breakfast show with Rhydian Bowen Phillips.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Lisa Gwilym",
+          "show_description": "Lisa Gwilym yn chwarae eich hoff fiwsig. Lisa Gwilym plays your favourite music.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Ifan Jones Evans",
+          "show_description": "Digon o gerddoriaeth, chwerthin a sgwrsio, yn ogystal â chystadleuaeth neu ddwy. Music and chat, plus a competition or two.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Traciau Radio Cymru 2",
+          "show_description": "Tiwns trwy'r dydd yn parhau ar Radio Cymru 2. More tunes on Radio Cymru 2.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Rhys Mwyn",
+          "show_description": "Flwyddyn ers colli Geraint Jarman, cyfle i ddathlu ei gyfraniad i ddiwylliant Cymru. A year since Geraint Jarman's passing, a chance to celebrate his life and work.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Caryl",
+          "show_description": "Cerddoriaeth a hwyl gyda'r hwyr gyda Caryl Parry Jones. Music and fun with Caryl Parry Jones.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Y Clwb PJs",
+          "show_description": "Ymunwch â Caryl i ymlacio wrth wrando ar gerddoriaeth hudolus cyn cysgu. Unwind with Caryl while listening to soothing music before sleeping.",
+          "show_logo": "",
+          "start_time": "23:00",
           "end_time": "00:00"
         }
       ]

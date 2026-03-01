@@ -3,60 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cornwall.png",
   "schedule": [
     {
-      "date": "28 February 2026",
-      "programmes": [
-        {
-          "show_name": "As Radio 5 Live",
-          "show_description": "A simulcast with the BBC's news and sport network Radio 5 Live",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Mel Osborne",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "James Dundon",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Sport",
-          "show_description": "Coverage of the day's local sport action",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Upload",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "BBC Introducing",
-          "show_description": "Unsigned, undiscovered and under the radar music",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Jo Good",
-          "show_description": "Music and chat",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "1 March 2026",
       "programmes": [
         {
@@ -90,6 +36,53 @@
         {
           "show_name": "Dotun Adebayo",
           "show_description": "Community reports from around the country",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "The Late Show",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "2 March 2026",
+      "programmes": [
+        {
+          "show_name": "As Radio 5 Live",
+          "show_description": "A simulcast with the BBC's news and sport network Radio 5 Live",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "James Churchfield",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Julie Skentelbery",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "David White",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Anoushka Williams",
+          "show_description": "",
           "show_logo": "",
           "start_time": "18:00",
           "end_time": "22:00"

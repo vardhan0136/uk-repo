@@ -3,697 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Euronews.png",
   "schedule": [
     {
-      "date": "28 February 2026",
-      "programmes": [
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/510ed8a0-e3d9-4ff1-8e7c-fd537691ee78/cover",
-          "start_time": "00:00",
-          "end_time": "00:15"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0d6e1434-ed6f-4566-8cc7-bb913cf16019/cover",
-          "start_time": "00:15",
-          "end_time": "00:30"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d57a7465-d2b7-4fbd-b091-8b405a9ed588/cover",
-          "start_time": "00:30",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "Global Week-End",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d2a2ae0f-fea5-454e-81b4-57d914fc1828/cover",
-          "start_time": "01:00",
-          "end_time": "01:15"
-        },
-        {
-          "show_name": "Global Week-End",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cc231a68-811d-43f2-8773-315debe13c58/cover",
-          "start_time": "01:15",
-          "end_time": "01:30"
-        },
-        {
-          "show_name": "Global Week-End",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/66ba0ebd-410d-4df4-94dd-e27bb970ac18/cover",
-          "start_time": "01:30",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "Global Week-End",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2f4ccb92-b39a-49eb-b5fc-0a3ee8cc1652/cover",
-          "start_time": "02:00",
-          "end_time": "02:15"
-        },
-        {
-          "show_name": "Global Week-End",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d12568d6-77a5-448f-ba65-ed49a033bab4/cover",
-          "start_time": "02:15",
-          "end_time": "02:30"
-        },
-        {
-          "show_name": "Global Week-End",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1043de6e-9207-473a-91b2-358a5b992087/cover",
-          "start_time": "02:30",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Global Week-End",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/083b4ad3-ce26-40b8-bf9d-35eedd5f7847/cover",
-          "start_time": "03:00",
-          "end_time": "03:15"
-        },
-        {
-          "show_name": "Global Week-End",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f5e96846-230a-41b9-9b84-ec61b1a24cd0/cover",
-          "start_time": "03:15",
-          "end_time": "03:30"
-        },
-        {
-          "show_name": "Global Week-End",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/763e557e-ec3f-456c-ac74-def4b454f6de/cover",
-          "start_time": "03:30",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "Global Week-End",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9f7fcaaa-c92e-47bb-b8eb-bbd6309ba225/cover",
-          "start_time": "04:00",
-          "end_time": "04:14"
-        },
-        {
-          "show_name": "Global Week-End",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/13b92c38-e6f8-4746-b860-7970a843d1db/cover",
-          "start_time": "04:14",
-          "end_time": "04:30"
-        },
-        {
-          "show_name": "Global Week-End",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/22457b48-c1fe-447e-b79f-2ea8b5a41927/cover",
-          "start_time": "04:30",
-          "end_time": "04:46"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c9582e4b-a808-4297-b0af-a76bee48453f/cover",
-          "start_time": "04:46",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "Global Week-End",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6ba34481-9b13-457f-9aa7-2c0af5a9b7cb/cover",
-          "start_time": "05:00",
-          "end_time": "05:15"
-        },
-        {
-          "show_name": "Global Week-End",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6fe7dd1c-d177-4673-8f89-8a4fec4d80e1/cover",
-          "start_time": "05:15",
-          "end_time": "05:30"
-        },
-        {
-          "show_name": "Global Week-End",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/21e221d8-50be-4c2f-ba3a-2a13b7cfca05/cover",
-          "start_time": "05:30",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4133d378-89a7-4713-ba73-90e26f277707/cover",
-          "start_time": "06:00",
-          "end_time": "06:15"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f6bf9e27-fae8-4b39-9265-05c80940e884/cover",
-          "start_time": "06:15",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1cec2933-b7d6-4ff2-a5f6-4dd334c883c8/cover",
-          "start_time": "06:30",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c5b67427-6762-45a1-8548-1d781e6f186f/cover",
-          "start_time": "07:00",
-          "end_time": "07:05"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ad48a747-59ac-4205-b203-30eb8b7df243/cover",
-          "start_time": "07:05",
-          "end_time": "07:29"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/64d89c14-22ea-41d5-a8ca-3ffb81bf5a8f/cover",
-          "start_time": "07:29",
-          "end_time": "07:34"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2b9b1bbc-2ba4-480d-90d3-77e8eab10f62/cover",
-          "start_time": "07:34",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0e28ce4f-505c-4ae0-a893-b3d5bf25fa0d/cover",
-          "start_time": "08:00",
-          "end_time": "08:05"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/15e04983-abce-4eaf-bb27-b31e6d826834/cover",
-          "start_time": "08:05",
-          "end_time": "08:30"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d94e804b-af88-48fc-9820-82fd92556f91/cover",
-          "start_time": "08:30",
-          "end_time": "08:38"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4ec23cfe-0ca6-41f4-a89c-66954ea3d42d/cover",
-          "start_time": "08:38",
-          "end_time": "08:48"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cbbcaaba-f02b-426e-a51b-42a92522f1ae/cover",
-          "start_time": "08:48",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b53e7957-c205-4637-9c58-a8e2818e87b1/cover",
-          "start_time": "09:00",
-          "end_time": "09:05"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3d588b20-4cff-4ba9-bf22-546cb75fbd34/cover",
-          "start_time": "09:05",
-          "end_time": "09:29"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4065b9bf-da56-4d9d-8b40-17c3d434c509/cover",
-          "start_time": "09:29",
-          "end_time": "09:34"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/96d7e6e6-b89f-43b0-b8ee-09d1c3c802cb/cover",
-          "start_time": "09:34",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ea3705b8-a504-449b-9eae-4c0dccde1045/cover",
-          "start_time": "10:00",
-          "end_time": "10:05"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/55ac0bb9-b336-456f-89d8-f5523c7e4170/cover",
-          "start_time": "10:05",
-          "end_time": "10:30"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2343da9a-ae82-4874-a56a-b36dd2aeb4f1/cover",
-          "start_time": "10:30",
-          "end_time": "10:38"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ba805782-0067-4edd-b965-5f8a5298be70/cover",
-          "start_time": "10:38",
-          "end_time": "10:48"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8d912ef6-67f8-4bcf-b1f7-bc317f3464fa/cover",
-          "start_time": "10:48",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3035fbb4-19db-4189-93ec-e06429aa9fed/cover",
-          "start_time": "11:00",
-          "end_time": "11:05"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/75c79a0c-e821-47ed-8ee7-b21df719c24e/cover",
-          "start_time": "11:05",
-          "end_time": "11:29"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2f49c713-61af-4425-bc69-6f46b267d772/cover",
-          "start_time": "11:29",
-          "end_time": "11:34"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/74db2093-ff6a-4f81-ab5d-12c297587bcd/cover",
-          "start_time": "11:34",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/45bba6b8-d2b8-4261-9949-28f0c1b2f659/cover",
-          "start_time": "12:00",
-          "end_time": "12:05"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cf8a4e65-0139-471b-aa07-66f7d97ec0be/cover",
-          "start_time": "12:05",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/55585ea3-7d61-4aed-b0c0-856a7e7f88cb/cover",
-          "start_time": "12:30",
-          "end_time": "12:38"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6091fb61-aad6-486b-9f89-c7a2d665beaf/cover",
-          "start_time": "12:38",
-          "end_time": "12:48"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/10c2e74d-b7eb-44a4-a530-59c4c3a089d1/cover",
-          "start_time": "12:48",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2f921aaa-16c1-47ac-8623-d4680f83bc76/cover",
-          "start_time": "13:00",
-          "end_time": "13:05"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e86584fb-3601-45fa-8fca-c3747897d621/cover",
-          "start_time": "13:05",
-          "end_time": "13:29"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5298cec3-14a1-4eb0-8e70-af79c3bf17d8/cover",
-          "start_time": "13:29",
-          "end_time": "13:34"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b2b1a55a-3cdf-485a-8128-bd4e634e80e4/cover",
-          "start_time": "13:34",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a8c84cc2-96f8-4b22-a0ba-0583e8f2ab5e/cover",
-          "start_time": "14:00",
-          "end_time": "14:05"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dcc03490-72d5-4df5-906e-cc4f8591f60d/cover",
-          "start_time": "14:05",
-          "end_time": "14:30"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8b092f9e-a167-4313-afe3-3fa6d133c7ee/cover",
-          "start_time": "14:30",
-          "end_time": "14:38"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f8ad7e54-ff62-4099-8125-ec264f200fd0/cover",
-          "start_time": "14:38",
-          "end_time": "14:48"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2142b268-04c4-42ea-890c-b19c7526dfda/cover",
-          "start_time": "14:48",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/30a9f827-2b63-41f7-9f7b-cbf7ed10de77/cover",
-          "start_time": "15:00",
-          "end_time": "15:05"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dd49e6fa-2b3a-47ed-8648-27f29a305019/cover",
-          "start_time": "15:05",
-          "end_time": "15:29"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/75d6ed07-3ebb-48fc-9341-20693ff634a2/cover",
-          "start_time": "15:29",
-          "end_time": "15:34"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1c39bd7a-f80f-40eb-808d-706e81a54065/cover",
-          "start_time": "15:34",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0f0a854a-e5e6-4e8d-886b-601cb157b727/cover",
-          "start_time": "16:00",
-          "end_time": "16:05"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/31ca4ddf-31bf-433f-b1b7-6b65baf36b6b/cover",
-          "start_time": "16:05",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/43874a4a-3715-40f4-b398-63303170cdd7/cover",
-          "start_time": "16:30",
-          "end_time": "16:38"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2fbf3244-c6cb-4eb6-90a3-cb4cd29f8c54/cover",
-          "start_time": "16:38",
-          "end_time": "16:48"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ad2989f2-093d-4518-ba5d-3b432e4cd219/cover",
-          "start_time": "16:48",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b26f2ed7-2b04-4c29-9bb9-c7757856bfba/cover",
-          "start_time": "17:00",
-          "end_time": "17:05"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8513faa2-9a68-43c4-a5eb-ae2e25db2f4f/cover",
-          "start_time": "17:05",
-          "end_time": "17:29"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a5165488-2d60-4e42-a1d7-44d64234939b/cover",
-          "start_time": "17:29",
-          "end_time": "17:34"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a0bbdab6-2224-4f7a-b9f5-e3b5fcfb401b/cover",
-          "start_time": "17:34",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a5325f83-0d9d-4c24-9b5b-efd1cb893801/cover",
-          "start_time": "18:00",
-          "end_time": "18:05"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/54c53efe-1fa2-4050-add0-ef8c964a1328/cover",
-          "start_time": "18:05",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/19682082-fcf9-423a-9e6d-ac1382067788/cover",
-          "start_time": "18:30",
-          "end_time": "18:38"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/51aa3ce9-0891-4b73-a5f8-93f564dfab5e/cover",
-          "start_time": "18:38",
-          "end_time": "18:48"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/958b3e05-e9d2-4110-9ed2-6d5f64d86b06/cover",
-          "start_time": "18:48",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/30e2471d-2995-4b70-84c9-47e6592258f3/cover",
-          "start_time": "19:00",
-          "end_time": "19:05"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1354d154-aaca-48e7-b97d-4d67822982ca/cover",
-          "start_time": "19:05",
-          "end_time": "19:29"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/87e776e9-68fc-49c0-a7e2-12454e8cbef4/cover",
-          "start_time": "19:29",
-          "end_time": "19:34"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5b45cd03-9277-4c42-bd0a-5812f01b0200/cover",
-          "start_time": "19:34",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/426377d7-87e0-4f57-a9f1-3fbfa801997e/cover",
-          "start_time": "20:00",
-          "end_time": "20:05"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f32a11bb-e0f3-4eb8-bd89-a81937d22181/cover",
-          "start_time": "20:05",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/807adc06-2151-4307-bd76-b81f3ca39768/cover",
-          "start_time": "20:30",
-          "end_time": "20:38"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/94825e88-5c12-4d02-86f2-f5e02d20b62b/cover",
-          "start_time": "20:38",
-          "end_time": "20:48"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/41f72ad0-dac3-439a-8319-845bfcc151d0/cover",
-          "start_time": "20:48",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/871f90fc-ac45-4a31-a07e-61a76dfb35ca/cover",
-          "start_time": "21:00",
-          "end_time": "21:05"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/072d2327-b80e-4df7-a37f-9ef1442e2820/cover",
-          "start_time": "21:05",
-          "end_time": "21:29"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/702dc3b3-38dc-4019-9923-d4567f681529/cover",
-          "start_time": "21:29",
-          "end_time": "21:34"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3a08f86f-13e9-4c60-9916-b2e7be012e83/cover",
-          "start_time": "21:34",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c95f77fe-165a-4c75-b0a5-3dcbdaac736a/cover",
-          "start_time": "22:00",
-          "end_time": "22:05"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/73be25b4-1e15-441e-be72-8ae381c8f28f/cover",
-          "start_time": "22:05",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7642242c-c8a9-407f-980e-43ae4cb9d0bd/cover",
-          "start_time": "22:30",
-          "end_time": "22:38"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/66e16f32-a220-400e-b9db-e3633ca44373/cover",
-          "start_time": "22:38",
-          "end_time": "22:48"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5ad6114c-3095-429b-890f-042529150d73/cover",
-          "start_time": "22:48",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/65aaf725-6abd-42dd-b23c-38723b657020/cover",
-          "start_time": "23:00",
-          "end_time": "23:05"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8442bdcd-bd39-4f86-a118-c6b8b6afcccb/cover",
-          "start_time": "23:05",
-          "end_time": "23:29"
-        },
-        {
-          "show_name": "5 Minutes",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c2a842c1-bd21-4dd1-a135-222d82dc24ec/cover",
-          "start_time": "23:29",
-          "end_time": "23:34"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dc201168-f313-4f85-8b03-7479ca082948/cover",
-          "start_time": "23:34",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "1 March 2026",
       "programmes": [
         {
@@ -1457,6 +766,480 @@
           "show_description": "The leading news stories of the moment.",
           "show_logo": "https://images.metadata.sky.com/pd-image/822ee406-4017-4f99-a13e-cef6055fd77b/cover",
           "start_time": "23:48",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "2 March 2026",
+      "programmes": [
+        {
+          "show_name": "5 Minutes",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/28aaed1e-cbb6-4aec-a739-21d71d1b6b44/cover",
+          "start_time": "00:00",
+          "end_time": "00:05"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9f19e40b-d6b2-4e5f-8be8-59a137644ed6/cover",
+          "start_time": "00:05",
+          "end_time": "00:29"
+        },
+        {
+          "show_name": "5 Minutes",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c8cf1f6b-8074-4375-8c56-497c9c5296d0/cover",
+          "start_time": "00:29",
+          "end_time": "00:34"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c0cfbe4a-7b85-4f6c-b741-99b9a3bade6e/cover",
+          "start_time": "00:34",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5699f4ff-3adf-47e7-9c84-f00d5129737c/cover",
+          "start_time": "01:00",
+          "end_time": "01:29"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2ab99222-5cb8-4a51-8a11-aa88def96af2/cover",
+          "start_time": "01:29",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b35bc42f-8b70-4ae1-ab94-d007b2eb7fc3/cover",
+          "start_time": "02:00",
+          "end_time": "02:30"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/27007d78-619a-4b5d-8698-88066bded745/cover",
+          "start_time": "02:30",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0a0cc5cb-63be-4a62-a38e-eb721c7dcab9/cover",
+          "start_time": "03:00",
+          "end_time": "03:29"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/727191a4-afa9-4ce9-a062-3547154b8064/cover",
+          "start_time": "03:29",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3d4e87ed-7f88-4f32-8c5b-eb56dd1586af/cover",
+          "start_time": "04:00",
+          "end_time": "04:30"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2e14d324-30b2-476a-abfb-9f05dda2361f/cover",
+          "start_time": "04:30",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/30e69462-07f3-479e-914f-0089e8ee1efa/cover",
+          "start_time": "05:00",
+          "end_time": "05:29"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e4948ec5-d0b8-4f99-aeb7-bf375a77b4f0/cover",
+          "start_time": "05:29",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7545c300-a256-48b3-8983-44ddc829b668/cover",
+          "start_time": "06:00",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c6bf7527-5f1a-4075-a6b5-b5aea5336b66/cover",
+          "start_time": "06:30",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Wake Up Europe",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/06e711a9-9b60-49d7-adbd-c1e976e1ae56/cover",
+          "start_time": "07:00",
+          "end_time": "07:14"
+        },
+        {
+          "show_name": "Wake Up Europe",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/33d452d4-cf88-404b-be27-0fee102c3128/cover",
+          "start_time": "07:14",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "Wake Up Europe",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/62515754-ad2f-4d24-847d-aa6d05dcc7da/cover",
+          "start_time": "07:30",
+          "end_time": "07:46"
+        },
+        {
+          "show_name": "Wake Up Europe",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fb015af0-0dcb-424e-bde9-4c4c6d347687/cover",
+          "start_time": "07:46",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Wake Up Europe",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0d21edd7-72a6-4f5b-b087-4d6a95eb38cb/cover",
+          "start_time": "08:00",
+          "end_time": "08:15"
+        },
+        {
+          "show_name": "Wake Up Europe",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/581a39f4-804c-4748-bbaf-65eaa7cc428d/cover",
+          "start_time": "08:15",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "Wake Up Europe",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3193b784-ccec-4479-8887-2b8b255e48e4/cover",
+          "start_time": "08:30",
+          "end_time": "08:45"
+        },
+        {
+          "show_name": "Wake Up Europe",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8093332d-012f-423d-b203-3e9e79b355f9/cover",
+          "start_time": "08:45",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5a09bb6f-883c-4f9b-843e-823fd3cb7ffa/cover",
+          "start_time": "09:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Wake Up Europe",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2cd5b77f-85fb-44eb-b826-c1ec1a954839/cover",
+          "start_time": "09:30",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/257ac4b7-2e89-44a6-8f30-fd06cb684a17/cover",
+          "start_time": "10:00",
+          "end_time": "10:16"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/50e6a49d-0387-4710-b6ca-a783c3f3b694/cover",
+          "start_time": "10:16",
+          "end_time": "10:30"
+        },
+        {
+          "show_name": "Wake Up Europe",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0734c7e0-835e-4330-9737-6978d949f842/cover",
+          "start_time": "10:30",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/12b02ad3-0379-429f-97b1-b28f1c0d130f/cover",
+          "start_time": "11:00",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/73574630-913d-4d4c-b255-bd975c399944/cover",
+          "start_time": "11:30",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bf8319dd-9d38-42c6-9daa-b2f39d6195fd/cover",
+          "start_time": "12:00",
+          "end_time": "12:30"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bce352fd-6e60-4144-9f31-c4439d6449d2/cover",
+          "start_time": "12:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a58f31f7-800c-48d0-b34f-c77a5b273096/cover",
+          "start_time": "13:00",
+          "end_time": "13:15"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/97090606-75c2-43a8-a82b-f3e7b762e450/cover",
+          "start_time": "13:15",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/46a914ca-c54d-470f-8ca9-d6b05509c001/cover",
+          "start_time": "13:30",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d5109f08-b20c-41e6-bb98-f80f41928189/cover",
+          "start_time": "14:00",
+          "end_time": "14:15"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f7d8fb91-ad44-4ff7-870c-0176fb3cdc5c/cover",
+          "start_time": "14:15",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5aa95681-1861-448e-b675-5338ea07526c/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a5582d88-bb52-4c7b-babd-eff999831622/cover",
+          "start_time": "15:00",
+          "end_time": "15:15"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/832da8bd-6ae4-4925-b5ff-f92abdd9201a/cover",
+          "start_time": "15:15",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6af67b34-23ba-4781-b270-f28d849f1975/cover",
+          "start_time": "15:30",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b357ada2-69bf-4e16-b92f-fcd172af417a/cover",
+          "start_time": "16:00",
+          "end_time": "16:15"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/867cb300-ccbe-4021-98fc-0b427f2bac30/cover",
+          "start_time": "16:15",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b0d49e5e-36ad-49ec-b659-50bffab0d1e1/cover",
+          "start_time": "16:30",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/790fea53-53d5-4307-840f-52f0035ae4a1/cover",
+          "start_time": "17:00",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f1252860-9af3-451c-9755-ccd854a307b7/cover",
+          "start_time": "17:30",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f40ae770-c345-4a2f-bb69-e650ef6e4c8d/cover",
+          "start_time": "18:00",
+          "end_time": "18:15"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/be649fc5-d41b-4626-8a54-740b5c681e6c/cover",
+          "start_time": "18:15",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8327383b-cfd3-4af7-878b-2dd1cfd75c52/cover",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8fbd3340-8087-4331-95f9-817094c4b0a4/cover",
+          "start_time": "19:00",
+          "end_time": "19:15"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5436dd50-1142-42c3-897e-1f729b3d691d/cover",
+          "start_time": "19:15",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3b0784d8-e40e-408e-9020-1954bdf17e30/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2eee7318-514e-405c-9905-fc7862d9cf54/cover",
+          "start_time": "20:00",
+          "end_time": "20:15"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4e068195-b401-4ed1-b178-10c453bf7359/cover",
+          "start_time": "20:15",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/82dff80c-6a13-4797-902c-40db78092832/cover",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0506c970-ddf9-4296-8157-f4e4f8dfad79/cover",
+          "start_time": "21:00",
+          "end_time": "21:15"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b0df3fe5-64e9-432c-b505-9f517ff95999/cover",
+          "start_time": "21:15",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ed571f27-eac7-4155-84e7-59ec4697de43/cover",
+          "start_time": "21:30",
+          "end_time": "21:45"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/23d27570-0f3a-47de-be2f-25bcaab9fc36/cover",
+          "start_time": "21:45",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d48e1d7c-850f-4456-a0b6-b70de59ca795/cover",
+          "start_time": "22:00",
+          "end_time": "22:15"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fd1c522b-5ca0-4fd5-a828-416d906da03b/cover",
+          "start_time": "22:15",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e47468c0-c98f-4dc9-bf99-e5239508db64/cover",
+          "start_time": "22:30",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cc7a7f21-eed4-448b-b0cd-696678c50ca3/cover",
+          "start_time": "23:00",
+          "end_time": "23:15"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f8bd2396-f1b7-4672-9233-8c3982bcfdfb/cover",
+          "start_time": "23:15",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9a24234d-082f-4e5f-88b8-67722df3c7cc/cover",
+          "start_time": "23:30",
+          "end_time": "23:46"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d6bdf21d-48f0-47ac-93a8-baa294649f82/cover",
+          "start_time": "23:46",
           "end_time": "00:00"
         }
       ]

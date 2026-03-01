@@ -3,67 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-5-Sports-Extra.png",
   "schedule": [
     {
-      "date": "28 February 2026",
-      "programmes": [
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "13:15"
-        },
-        {
-          "show_name": "Test Match Special",
-          "show_description": "Live ball-by-ball cricket commentary of Sri Lanka v Pakistan in the ICC Men's T20 World Cup at the Pallekele International Cricket Stadium in Kandy.",
-          "show_logo": "",
-          "start_time": "13:15",
-          "end_time": "14:55"
-        },
-        {
-          "show_name": "Premier League Football",
-          "show_description": "Live football commentary of Newcastle United v Everton in the Premier League.",
-          "show_logo": "",
-          "start_time": "14:55",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "17:25"
-        },
-        {
-          "show_name": "Rugby League",
-          "show_description": "Live rugby league commentary from BBC Radio Merseyside of Warrington Wolves v Wakefield Trinity in the Super League.",
-          "show_logo": "",
-          "start_time": "17:25",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "23:45"
-        },
-        {
-          "show_name": "Rugby League",
-          "show_description": "Live rugby league commentary from BBC Radio Humberside of Hull Kingston Rovers v Leeds Rhinos at the Allegiant Stadium in Las Vegas.",
-          "show_logo": "",
-          "start_time": "23:45",
-          "end_time": "02:00"
-        }
-      ]
-    },
-    {
       "date": "1 March 2026",
       "programmes": [
         {
@@ -102,10 +41,50 @@
           "end_time": "16:00"
         },
         {
+          "show_name": "Test Match Special",
+          "show_description": "Live ball-by-ball cricket commentary of India v West Indies in the ICC Men's T20 World Cup at Eden Gardens in Kolkata. Full match commentary is available on Sports Extra 3.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:30"
+        },
+        {
           "show_name": "This Is Sports Extra",
           "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
           "show_logo": "",
-          "start_time": "16:00",
+          "start_time": "17:30",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "2 March 2026",
+      "programmes": [
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "18:00",
           "end_time": "00:00"
         }
       ]
