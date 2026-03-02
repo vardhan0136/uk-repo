@@ -3,81 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cymru-2.png",
   "schedule": [
     {
-      "date": "1 March 2026",
-      "programmes": [
-        {
-          "show_name": "Gweler BBC Radio 2",
-          "show_description": "Mae Radio Cymru 2 yn ymuno â BBC Radio 2 dros nos. Radio Cymru joins BBC Radio 2 overnight.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "05:30"
-        },
-        {
-          "show_name": "Linda Griffiths",
-          "show_description": "Rhai o hoff ganeuon gwladgarol Linda Griffiths, yr hen a'r newydd, ar Ddydd G?yl Dewi. Linda Griffiths celebrates Saint David's Day with a mix of Welsh music - old, rare and new.",
-          "show_logo": "",
-          "start_time": "05:30",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Sioe Frecwast",
-          "show_description": "Cerddoriaeth ac adloniant gyda Mirain Iwerydd. Music and entertainment breakfast show with Mirain Iwerydd.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Traciau Radio Cymru 2",
-          "show_description": "Tiwns trwy'r dydd yn parhau ar Radio Cymru 2. More tunes on Radio Cymru 2.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Traciau Radio Cymru 2",
-          "show_description": "Tiwns trwy'r dydd yn parhau ar Radio Cymru 2. More tunes on Radio Cymru 2.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Traciau Radio Cymru 2",
-          "show_description": "Tiwns trwy'r dydd yn parhau ar Radio Cymru 2. More tunes on Radio Cymru 2.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Traciau Radio Cymru 2",
-          "show_description": "Tiwns trwy'r dydd yn parhau ar Radio Cymru 2. More tunes on Radio Cymru 2.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Dewis",
-          "show_description": "Tiwns, tiwns, tiwns wedi eu dewis gan enwogion Cymru. Top tunes only by Welsh household names.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Parti'r Penwythnos",
-          "show_description": "Tiwns trwy'r dydd, trwy'r penwythnos. Spend the weekend with Radio Cymru 2.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "John ac Alun",
-          "show_description": "Cerddoriaeth a sgwrsio i gloi'r penwythnos. Music and chat to bring the weekend to a close.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "2 March 2026",
       "programmes": [
         {
@@ -118,6 +43,67 @@
         {
           "show_name": "Rhys Mwyn",
           "show_description": "Flwyddyn ers colli Geraint Jarman, cyfle i ddathlu ei gyfraniad i ddiwylliant Cymru. A year since Geraint Jarman's passing, a chance to celebrate his life and work.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Caryl",
+          "show_description": "Cerddoriaeth a hwyl gyda'r hwyr gyda Caryl Parry Jones. Music and fun with Caryl Parry Jones.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Y Clwb PJs",
+          "show_description": "Ymunwch â Caryl i ymlacio wrth wrando ar gerddoriaeth hudolus cyn cysgu. Unwind with Caryl while listening to soothing music before sleeping.",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "3 March 2026",
+      "programmes": [
+        {
+          "show_name": "Gweler BBC Radio 2",
+          "show_description": "Mae Radio Cymru 2 yn ymuno â BBC Radio 2 dros nos. Radio Cymru joins BBC Radio 2 overnight.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Sioe Frecwast",
+          "show_description": "Cerddoriaeth ac adloniant gyda Rhydian Bowen Phillips. Music and entertainment breakfast show with Rhydian Bowen Phillips.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Lisa Gwilym",
+          "show_description": "Lisa Gwilym yn chwarae eich hoff fiwsig. Lisa Gwilym plays your favourite music.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Ifan Jones Evans",
+          "show_description": "Digon o gerddoriaeth, chwerthin a sgwrsio, yn ogystal â chystadleuaeth neu ddwy. Music and chat, plus a competition or two.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Traciau Radio Cymru 2",
+          "show_description": "Tiwns trwy'r dydd yn parhau ar Radio Cymru 2. More tunes on Radio Cymru 2.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Georgia Ruth",
+          "show_description": "Dewis eclectig o gerddoriaeth o gasgliad Georgia Ruth, yn cynnwys cerddoriaeth ryngwladol, byd a thraciau Cymraeg arbrofol. An eclectic selection of music.",
           "show_logo": "",
           "start_time": "19:00",
           "end_time": "21:00"

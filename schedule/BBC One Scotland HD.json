@@ -3,228 +3,27 @@
   "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
   "schedule": [
     {
-      "date": "1 March 2026",
-      "programmes": [
-        {
-          "show_name": "Leah Williamson: The Football Interview",
-          "show_description": "Kelly Somers in conversation with Leah Williamson.   Followed by Weather for the Week Ahead.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2c7ff335-bca0-4083-a9e9-a9d6159f4fcd/cover",
-          "start_time": "01:05",
-          "end_time": "01:25"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "Joining the BBC's rolling news channel for a night of news, with hourly bulletins.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/482fa92c-bdde-4cb3-8f55-e89001931a0c/cover",
-          "start_time": "01:25",
-          "end_time": "02:40"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b8a3735d-1347-4de0-83fd-fec4c8e2e9dc/cover",
-          "start_time": "02:40",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b00cf57d-939d-4177-8d80-e12d581381da/cover",
-          "start_time": "06:00",
-          "end_time": "07:40"
-        },
-        {
-          "show_name": "Match of the Day",
-          "show_description": "Gabby Logan presents highlights of six games, including Leeds v Manchester City, Liverpool v West Ham, Newcastle v Everton and Burnley v Brentford.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c9dd18d3-718e-4819-8f34-ab6072bae6f1/cover",
-          "start_time": "07:40",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Sunday with Laura Kuenssberg",
-          "show_description": "Laura Kuenssberg talks to defence secretary John Healey, shadow foreign secretary Priti Patel and Green Party leader Zack Polanski.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6204a8ab-5ba6-4e1a-8013-643fc4da2640/cover",
-          "start_time": "09:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "The Sunday Show",
-          "show_description": "Gary Robertson brings you all the main issues from the world of politics and beyond. Big interviews, discussion and analysis of the stories that matter to Scotland.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/eed0de46-e253-41d6-8759-1a4a6d422ba7/cover",
-          "start_time": "10:00",
-          "end_time": "10:30"
-        },
-        {
-          "show_name": "Sunday Morning Live",
-          "show_description": "23/24. More than 20 Labour MPs have urged the government to reform the student loan system in England. Is university worth it? With Sean Fletcher and Holly Hamilton.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3099d39d-5e56-4a90-aac4-ee892767966a/cover",
-          "start_time": "10:30",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Celebration Kitchen: Purim",
-          "show_description": "Host Matt Tebbutt is guided by Rob Rinder through the joyous traditions of the Jewish festival of Purim, with the help of a delicious menu from three fabulous chefs.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/12b36348-b6e7-4986-8bd6-4c29c5f82954/cover",
-          "start_time": "11:30",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "Bargain Hunt",
-          "show_description": "Christina Trevanion presents today's episode of Bargain Hunt from Uttoxeter Racecourse.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c02e5e03-b422-3b6e-b6f8-29109bb4177f/cover",
-          "start_time": "12:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1658849f-230b-48b7-b1c7-607215d527ab/cover",
-          "start_time": "13:00",
-          "end_time": "13:10"
-        },
-        {
-          "show_name": "Weather for the Week Ahead",
-          "show_description": "Detailed weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/565cdfbd-6072-4cbf-bd3e-e86affe7775e/cover",
-          "start_time": "13:10",
-          "end_time": "13:15"
-        },
-        {
-          "show_name": "Songs of Praise: Land of Song",
-          "show_description": "Aled Jones is in Penarth, south Wales, to celebrate the nation's rich hymn-singing heritage on St David's Day. With rousing Welsh hymns from St Augustine's Church, Penarth.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/67fdaee2-0a14-4f33-8bab-1d11025f1020/cover",
-          "start_time": "13:15",
-          "end_time": "13:50"
-        },
-        {
-          "show_name": "Lifeline",
-          "show_description": "Nina Wadia presents an appeal on behalf of Breakthrough T1D.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f520313d-aca0-4bab-aa88-5926ae7b6b96/cover",
-          "start_time": "13:50",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Escape to the Country",
-          "show_description": "30/55. In between marvelling at the majestic countryside on offer in east Devon, Nicki Chapman goes house-hunting with a couple of Londoners who are itching to escape to the countryside.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8d699d55-332a-4a09-a3d2-51cfc22a2cff/cover",
-          "start_time": "14:00",
-          "end_time": "14:35"
-        },
-        {
-          "show_name": "Gladiators",
-          "show_description": "7/11. Gladiators ready! Bradley and Barney Walsh welcome back four more Contenders for the ultimate contest against the Gladiators as they compete for a place in the semi-finals.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3a726538-eb09-4096-bf7c-fe058d932d4d/cover",
-          "start_time": "14:35",
-          "end_time": "15:35"
-        },
-        {
-          "show_name": "Spider-Man 2",
-          "show_description": "Peter Parker's superhero powers fail just as New York faces the threat of Doc Ock. [2004]",
-          "show_logo": "https://images.metadata.sky.com/pd-image/31156b85-20b0-4c7e-b828-c52d4b4c6f7d/cover",
-          "start_time": "15:35",
-          "end_time": "17:35"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/07aaf805-7610-4d11-a50a-0168ae57c73b/cover",
-          "start_time": "17:35",
-          "end_time": "17:50"
-        },
-        {
-          "show_name": "Reporting Scotland",
-          "show_description": "The latest news and weather from BBC News Scotland.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5acfd75d-3a32-423b-b58f-c35007a1c78b/cover",
-          "start_time": "17:50",
-          "end_time": "17:55"
-        },
-        {
-          "show_name": "Weather",
-          "show_description": "The latest weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/62335eb3-279e-4a78-b081-7a2f0927b6dc/cover",
-          "start_time": "17:55",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Countryfile",
-          "show_description": "With the new salmon-fishing season about to open on the River Tweed, Sammi Kinghorn and Matt Baker follow the final preparations before the first cast of the year.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b3b51f4d-ee57-45d1-a8ba-b22308e85d99/cover",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Antiques Roadshow",
-          "show_description": "The roadshow returns to Cromford Mills in Derbyshire, where treasures include a collection of rare football shirts, a brooch found in a sock drawer and a quirky bird clock.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c676b944-7c32-36c5-9e8d-7263f3122fe0/cover",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Call the Midwife",
-          "show_description": "7/8. A cohort of junior doctors join the midwives on their district rounds, including Timothy Turner, while Violet turns her hand to midwifery.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/df3df77e-e0e2-4fcd-b484-b6648e10a5d7/cover",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Lord of the Flies",
-          "show_description": "4/4. Ralph jumps into action when violence escalates, then realises with horror that it is his turn to be hunted. Contains some violence and upsetting scenes.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/40a1588b-da5f-4c02-a176-1883e126de75/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "BBC News and Weather",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e49d6752-373d-47d1-b58f-7987e2d40633/cover",
-          "start_time": "22:00",
-          "end_time": "22:25"
-        },
-        {
-          "show_name": "Reporting Scotland",
-          "show_description": "The latest news and weather from BBC News Scotland.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3ecfcd80-d578-49fa-971b-ddd94cfe7350/cover",
-          "start_time": "22:25",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "Match of the Day",
-          "show_description": "Kelly Cates presents highlights of the day's four Premier League games: Arsenal v Chelsea, Brighton v Nottingham Forest, Fulham v Tottenham and Manchester United v Crystal Palace.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/218ee940-9a71-4179-8ae8-7e5d57df066e/cover",
-          "start_time": "22:30",
-          "end_time": "23:45"
-        },
-        {
-          "show_name": "Sportscene: Premiership Highlights",
-          "show_description": "Extended highlights of Rangers v Celtic as two of the Scottish Premiership heavyweights go head-to-head.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/66fca2f7-323a-433c-b96c-c47909b4c858/cover",
-          "start_time": "23:45",
-          "end_time": "00:45"
-        }
-      ]
-    },
-    {
       "date": "2 March 2026",
       "programmes": [
         {
           "show_name": "The Graham Norton Show",
           "show_description": "First of two compilations of highlights from the recent series, featuring a host of stars. Contains some strong language.",
           "show_logo": "https://images.metadata.sky.com/pd-image/03124e6e-2d35-438b-ac0a-4856082ecacc/cover",
-          "start_time": "00:45",
-          "end_time": "01:30"
+          "start_time": "00:50",
+          "end_time": "01:35"
         },
         {
           "show_name": "Weather for the Week Ahead",
           "show_description": "Detailed weather forecast.",
           "show_logo": "https://images.metadata.sky.com/pd-image/0a70a29a-3e84-4bf0-82ed-6082d87f24b0/cover",
-          "start_time": "01:30",
-          "end_time": "01:35"
+          "start_time": "01:35",
+          "end_time": "01:40"
         },
         {
           "show_name": "BBC News",
           "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
           "show_logo": "https://images.metadata.sky.com/pd-image/3cfe0ba0-7d3f-4419-b00b-692e06910a0d/cover",
-          "start_time": "01:35",
+          "start_time": "01:40",
           "end_time": "06:00"
         },
         {
@@ -387,6 +186,193 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/308c2b28-6708-4235-99a5-dc2cb82503f1/cover",
           "start_time": "23:10",
           "end_time": "00:15"
+        }
+      ]
+    },
+    {
+      "date": "3 March 2026",
+      "programmes": [
+        {
+          "show_name": "Scotcast",
+          "show_description": "Conversation about Scotland's biggest news stories, hosted by Martin Geissler.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1672051e-9c51-4585-a1b9-05080ca37d68/cover",
+          "start_time": "00:15",
+          "end_time": "00:45"
+        },
+        {
+          "show_name": "King of Thieves",
+          "show_description": "Drama based on the infamous 2015 Hatton Garden safe deposit robbery. Contains very strong language. [2018]",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b8b3de6a-145d-4dca-ace6-28658712649d/cover",
+          "start_time": "00:45",
+          "end_time": "02:25"
+        },
+        {
+          "show_name": "Weather for the Week Ahead",
+          "show_description": "Detailed weather forecast.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/807bdc18-16f6-4627-af5c-9e8f2da461c4/cover",
+          "start_time": "02:25",
+          "end_time": "02:30"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d45720dd-93f4-4f6d-8e02-b9658a2d65af/cover",
+          "start_time": "02:30",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cd37bfa1-c393-48d8-868f-016454419be3/cover",
+          "start_time": "06:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Morning Live",
+          "show_description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6de1668a-6b9b-472a-bb59-9be92e95b426/cover",
+          "start_time": "09:30",
+          "end_time": "10:45"
+        },
+        {
+          "show_name": "Crimewatch Live",
+          "show_description": "2/15. Does a shoe print left at a murder scene hold the key to solving a tragic cold case? And how a grandmother used her family to distribute almost a ton of cocaine.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6e3b5de5-8301-424c-a207-4f91cf797560/cover",
+          "start_time": "10:45",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Homes Under the Hammer",
+          "show_description": "24/80. Martin and Martel tour three properties - in Cornwall, County Durham and south Wales - and meet the owners who plan to give them a new lease of life.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/864e52f5-6849-364f-b58b-ff71b9f3693e/cover",
+          "start_time": "11:30",
+          "end_time": "12:15"
+        },
+        {
+          "show_name": "Bargain Hunt",
+          "show_description": "Natasha Raskin Sharp visits Cheltenham Racecourse, where the teams have expert help from Danny Sebastian and Caroline Hawley. Natasha takes a look at the Cheltenham Gold Cup.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cc857226-6899-41e3-ae82-c725e8155f20/cover",
+          "start_time": "12:15",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "BBC News at One including Reporting Scotland",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a5d994f7-ea2f-4c96-a82f-49e956278601/cover",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Bear Grylls - Wild Reckoning",
+          "show_description": "Julie and Jason were happily married for 27 years. But Julie's experience of going through menopause nearly tore them apart. Can time in the wild help get their spark back?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/50cd3f33-1055-42ce-9891-3fc30bf4f1dd/cover",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "Marcus Wareing Simply Provence",
+          "show_description": "14/15. Marcus has a VIP coming for dinner, and he wants to impress. He intends to build the meal around one simple local ingredient that's surprisingly grown just down the road, red rice.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3e084cc0-99fb-33e9-8c19-d64174e5fa16/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Escape to the Country",
+          "show_description": "32/50. Nicki Chapman is in the West Country, helping three generations from the West Midlands make a Devon escape. She also tries her hand at weaving with a local textile designer.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cef2f7a4-da5a-4de0-9304-ee6cf3fbf7e0/cover",
+          "start_time": "15:00",
+          "end_time": "15:45"
+        },
+        {
+          "show_name": "Clean It, Fix It",
+          "show_description": "12/20. Mark Wright, Tommy Walsh and Maxine Dwyer help Amanda and Dan transform their home to suit both work and family life.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7c325d24-54b4-4bdf-92bd-f91a7bd4187f/cover",
+          "start_time": "15:45",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "Celebrity Antiques Road Trip",
+          "show_description": "2/5. From the road trip archives, music legends Peter Andre, Martin Kemp and Sinitta swap the studio for the saleroom, vying to be top of the pops. But who will get the number one spot?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fd61da1b-2991-4cd1-a16d-e725d502edac/cover",
+          "start_time": "16:30",
+          "end_time": "17:15"
+        },
+        {
+          "show_name": "Pointless",
+          "show_description": "52/55. The quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/11dd24b0-049a-4ea5-9489-9317de318ceb/cover",
+          "start_time": "17:15",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7b0fd6bc-b06a-4103-a201-69849c0749fc/cover",
+          "start_time": "18:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "Reporting Scotland",
+          "show_description": "The latest news and weather from BBC News Scotland. Presented by Laura Miller.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1d809fca-5568-4739-b701-959da391917a/cover",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "River City",
+          "show_description": "Tyler's business pitch to Harry doesn't go as planned, leading him to let his frustrations out on an unwitting Drew. Meanwhile, Roisin's stress increases as Tommy's patience wears thin.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d8e7796e-f327-4cc0-8135-7265395c28d9/cover",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "EastEnders",
+          "show_description": "Ravi is conflicted over his loyalties, Max takes action on Linda's behalf, and Howie is determined to make a difference.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/45b23325-4c37-454f-8d4d-5025ac06b95c/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "MasterChef: The Professionals",
+          "show_description": "10/21. 2018 finalist Matthew Ryle sets the competing chefs skills tests inspired by French classic cookery, highlighting just what you can achieve with red mullet and roasted poussin.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f1a92903-8ca5-4ff8-96b8-a4e645bdf89b/cover",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Silent Witness",
+          "show_description": "10/10. As the Bowman team continue to navigate smoke and mirrors, another victim is discovered. Contains some strong language, some violence and some upsetting scenes.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3f060f6b-c3dd-4534-aaef-dab70b156042/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "BBC News and Weather",
+          "show_description": "The latest national and international news, with reports from BBC correspondents worldwide.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2ca5f063-e71e-4c15-a00f-54b62f8b24e5/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Reporting Scotland",
+          "show_description": "The latest news and weather from BBC News Scotland.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/db9069b9-1b80-4306-980c-94999bf52b46/cover",
+          "start_time": "22:30",
+          "end_time": "22:40"
+        },
+        {
+          "show_name": "Ben Youngs Investigates: How Safe Is Rugby?",
+          "show_description": "Rugby's Ben Youngs asks if there is a link between concussion and long-term brain health. Contains some strong language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c4a5f41d-ac44-41e0-ab04-2db8c8fc378b/cover",
+          "start_time": "22:40",
+          "end_time": "23:40"
+        },
+        {
+          "show_name": "Scotcast",
+          "show_description": "Conversation about Scotland's biggest news stories, hosted by Martin Geissler.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1a9ee33d-5f35-4089-82ac-97501847dfa9/cover",
+          "start_time": "23:40",
+          "end_time": "00:10"
         }
       ]
     }

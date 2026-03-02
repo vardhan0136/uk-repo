@@ -3,179 +3,20 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
   "schedule": [
     {
-      "date": "1 March 2026",
-      "programmes": [
-        {
-          "show_name": "Shop on TV",
-          "show_description": "Teleshopping.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/357faa4b-0404-4bbd-b9fd-3124b441c355/cover",
-          "start_time": "01:15",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Devil in Disguise: John Wayne Gacy",
-          "show_description": "Billy and Dale: US drama based on real events. A blizzard hits Chicago as Kozenczak finds Gacy's survivors, and Billy Carroll introduces Dale Landingin to prostitution.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c4ee4fc2-01ec-4f52-a658-ff3ebfa599f1/cover",
-          "start_time": "03:00",
-          "end_time": "03:55"
-        },
-        {
-          "show_name": "Unwind with ITV",
-          "show_description": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/70329145-7c37-488c-8472-8ff7b5cc1589/cover",
-          "start_time": "03:55",
-          "end_time": "05:05"
-        },
-        {
-          "show_name": "M&S: Dress the Nation",
-          "show_description": "Guest expert Lily Cole joins hosts Vernon Kay and AJ Odudu as the remaining amateur designers compete for a dream mentorship with high street giant M&S in the semi-final.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bd66f663-af9e-49f4-a7a9-e195773839e0/cover",
-          "start_time": "05:05",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "James Martin's Saturday Morning",
-          "show_description": "James welcomes Katie Piper and ITV Racing's Megan Nicholls to his Hampshire home while also tucking into delicious recipes from chefs Lorna McNee and Michael Caines.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7256abdf-cb1e-467a-ac07-ebdd4e84b0d4/cover",
-          "start_time": "06:00",
-          "end_time": "08:25"
-        },
-        {
-          "show_name": "New: Jimmy and Shivi's Farmhouse Breakfast",
-          "show_description": "Brenda Edwards: Jimmy and Shivi are joined by presenter and singer Brenda Edwards for some homemade mango body butter as we learn how to make a potting bench.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7d2f79cc-92b9-4109-9faf-d498f30d7116/cover",
-          "start_time": "08:25",
-          "end_time": "09:25"
-        },
-        {
-          "show_name": "ITV News",
-          "show_description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4b80adb6-a6c8-4458-90eb-2a66e2263cc7/cover",
-          "start_time": "09:25",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "New: Love Your Weekend with Alan Titchmarsh",
-          "show_description": "Joining Alan at Manor Farm are Hannah Waddingham, Dame Mary Berry, and Michael Praed to provide the chat as we shine a light on the tradition of horse logging.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/abf9c0e7-4fda-445f-9473-c298c65b0fac/cover",
-          "start_time": "09:30",
-          "end_time": "11:25"
-        },
-        {
-          "show_name": "New: Fletchers' Family Farm",
-          "show_description": "Documentary series. Liz and Kelvin thrill the kids when they decide to reintroduce pigs to the family farm, and Liz's new range of blankets inspires plans for a farmers' market.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3b7c8540-eadc-4e2d-ad58-94f2684e22ae/cover",
-          "start_time": "11:25",
-          "end_time": "12:25"
-        },
-        {
-          "show_name": "ITV News",
-          "show_description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b475fb17-d905-4838-981b-03bdf08a4fbb/cover",
-          "start_time": "12:25",
-          "end_time": "12:35"
-        },
-        {
-          "show_name": "New: Julia Bradbury's Wonders of the Frozen South",
-          "show_description": "Antarctica: Documentary series. Julia Bradbury explores Antarctica's stunning landscapes and encounters penguins, seals and whales during an emotional journey.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6ec06fe7-424d-4430-90ed-e262e651f6e5/cover",
-          "start_time": "12:35",
-          "end_time": "13:40"
-        },
-        {
-          "show_name": "Ainsley's Taste of the Bahamas",
-          "show_description": "Flavours of Nassau: Ainsley Harriott cooks grouper Nassau-style, has a lesson in 'conch-servation', and heads into his beach kitchen to make rum punch chicken wings.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1b23d3b9-aa87-4891-aa8c-8fedeb4c3c9d/cover",
-          "start_time": "13:40",
-          "end_time": "14:10"
-        },
-        {
-          "show_name": "Britain's Got Talent",
-          "show_description": "The search for the most spectacular entertainers to hit these shores continues in Blackpool as more hopefuls are welcomed by award-winning hosts Ant & Dec and face the judges.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/21f89389-0e89-40ea-af39-e268859ef73a/cover",
-          "start_time": "14:10",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Raiders of the Lost Ark",
-          "show_description": "Classic multi-Oscar-winning action-adventure film starring Harrison Ford and Karen Allen, 1981. An American archaeologist is tasked with finding the legendary Ark of the Covenant.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fac8e380-484b-4420-b80f-a6dd89cbffa2/cover",
-          "start_time": "15:30",
-          "end_time": "17:40"
-        },
-        {
-          "show_name": "The Chase Celebrity Special",
-          "show_description": "Bradley Walsh hosts as David James, Lucrezia Millarini, Myles Stephenson and Joe Sugg take on the challenge in the hope of winning thousands of pounds for their chosen charities.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1550a156-eb71-340a-87d7-e7125e2d78b0/cover",
-          "start_time": "17:40",
-          "end_time": "18:35"
-        },
-        {
-          "show_name": "ITV Evening News",
-          "show_description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/22832f2d-469e-434c-93f8-8a5cbdce275f/cover",
-          "start_time": "18:35",
-          "end_time": "18:45"
-        },
-        {
-          "show_name": "ITV News Cymru Wales",
-          "show_description": "A round-up of all the latest news and weather from across Wales.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/00ff03d3-1ed6-46c0-b409-7939abec7655/cover",
-          "start_time": "18:45",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "New: The Floor",
-          "show_description": "Rob Brydon hosts a nail-biting semi-final of the game show as the last 17 players fight for a place in the grand finale and a shot at 50,000 pounds.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4aff0ea6-836a-4d4e-afa4-597a13930d3e/cover",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "New: Who Wants to Be a...",
-          "show_description": "...Millionaire? Six new contestants have the chance to win one million pounds - all they must do is answer 15 questions correctly, so find out if anyone can top the ladder.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3370ee8d-9771-42d4-a383-6f954131fe5f/cover",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "New: The Lady",
-          "show_description": "Drama based on real events. When cracks start to appear in Jane and Tommy's whirlwind relationship, a make-or-break holiday in the south of France leads to disaster.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9df485d8-2953-4e96-8d9e-4a1ce8d70a38/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "ITV News",
-          "show_description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ed7c478f-4389-4afd-bdd8-6cc69de7d8a6/cover",
-          "start_time": "22:00",
-          "end_time": "22:25"
-        },
-        {
-          "show_name": "Bad Boys",
-          "show_description": "Fast-paced action crime comedy film starring Will Smith and Martin Lawrence, 1995. Things get complicated when two police partners assume each other's identity during a case.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/311b9af8-ae54-416b-b179-d1148fd7a79a/cover",
-          "start_time": "22:25",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "2 March 2026",
       "programmes": [
         {
           "show_name": "Shop on TV",
           "show_description": "Teleshopping.",
           "show_logo": "https://images.metadata.sky.com/pd-image/e28fd65a-146d-462d-92ff-c7610beb753f/cover",
-          "start_time": "00:30",
-          "end_time": "03:05"
+          "start_time": "00:35",
+          "end_time": "03:10"
         },
         {
           "show_name": "The Real Unforgotten",
           "show_description": "Part one of a two-part series. When detectives reinvestigate the unsolved murder of Carol Morgan in the storeroom of her corner shop in 1981, they identify two potential suspects.",
           "show_logo": "https://images.metadata.sky.com/pd-image/fd0b9401-ea46-4cc1-8daa-3184ec78f876/cover",
-          "start_time": "03:05",
+          "start_time": "03:10",
           "end_time": "04:10"
         },
         {
@@ -331,6 +172,179 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/3370ee8d-9771-42d4-a383-6f954131fe5f/cover",
           "start_time": "23:45",
           "end_time": "00:40"
+        }
+      ]
+    },
+    {
+      "date": "3 March 2026",
+      "programmes": [
+        {
+          "show_name": "Shop on TV",
+          "show_description": "Teleshopping.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/22d449c2-eb4f-4e08-8e73-97666f85cf23/cover",
+          "start_time": "00:40",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Shark! Celebrity Infested Waters",
+          "show_description": "Dougie has a shocking shark encounter in a shipwreck a week before the tiger shark dive, and there is a storm at sea while the team are diving with Caribbean reef sharks.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fc1a453e-8bbe-4662-8ec1-8fb78cfe17ae/cover",
+          "start_time": "03:00",
+          "end_time": "03:50"
+        },
+        {
+          "show_name": "Unwind with ITV",
+          "show_description": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6a663a24-9e54-42e4-b380-ba15c3bc8707/cover",
+          "start_time": "03:50",
+          "end_time": "05:05"
+        },
+        {
+          "show_name": "Alan Titchmarsh's Gardening Club",
+          "show_description": "Alan and his expert team return with a visit to one of the world's largest indoor rainforests, a houseplant masterclass, and a visit to an inner-city green oasis.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1e0bf33f-e6b6-4a80-93f0-36f7ad76b0db/cover",
+          "start_time": "05:05",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Good Morning Britain",
+          "show_description": "News, current affairs and lively debate.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6f76f590-9af8-455c-be4b-682959e2fb97/cover",
+          "start_time": "06:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Lorraine",
+          "show_description": "Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a2ea18ce-26c8-4b98-b53e-ea7e192d411a/cover",
+          "start_time": "09:30",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "This Morning",
+          "show_description": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c65cb26a-7439-4d28-b079-b9b35dec4413/cover",
+          "start_time": "10:00",
+          "end_time": "12:30"
+        },
+        {
+          "show_name": "Loose Women",
+          "show_description": "Join the Loose Women panellists as they interview celebrity guests and discuss the day's most topical issues, from current affairs to celebrity gossip and the latest showbiz news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2e4eb9da-a074-4f7f-a599-61a18716f376/cover",
+          "start_time": "12:30",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "ITV Lunchtime News",
+          "show_description": "The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e0d9b358-bbd7-41b3-a98f-a5104c14aca8/cover",
+          "start_time": "13:30",
+          "end_time": "13:55"
+        },
+        {
+          "show_name": "ITV News Cymru Wales",
+          "show_description": "A round-up of all the latest news and weather from across Wales.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3adcb4fd-e4c6-4fe6-a195-38898d24095a/cover",
+          "start_time": "13:55",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Lingo",
+          "show_description": "The fast-paced game of words hosted by Adil Ray - crossing words with the reigning Lingo champions are Tina and her husband Kwame and married couple Jo and Mike.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e5210aae-7cd0-47ea-a455-ec74f628c2cd/cover",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "New: Riddiculous",
+          "show_description": "Ranvir Singh hosts the rapid-fire quiz as contestants Terry and Steph, Mica and Khazz, and Christian and Oliver take on Riddlemaster Henry Lewis in a bid to solve his riddles.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7da2dbd9-16a3-40ba-9b38-523dd64d36cf/cover",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "New: Tipping Point",
+          "show_description": "Ben Shephard hosts the quiz show in which three players take on an extraordinary machine in the hope of winning a cash jackpot.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/32d3ce61-a857-4a0e-accd-c09475d2dbf3/cover",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "New: The Chase",
+          "show_description": "Bradley Walsh hosts the show where thousands of pounds are at stake as Elliot from Stockport, Steve from Nuneaton, Lisa from Hatfield and Susan from Berwickshire take on a Chaser.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/577ba117-1d67-4921-9236-963ca6603e2b/cover",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "ITV News Wales at 6",
+          "show_description": "A round-up of all the latest news and weather from across Wales.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/63401e64-2059-40d2-838b-540203138b1a/cover",
+          "start_time": "18:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "ITV Evening News",
+          "show_description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b969e048-2dac-4516-87a4-47d57411fa98/cover",
+          "start_time": "18:30",
+          "end_time": "19:15"
+        },
+        {
+          "show_name": "New: The Martin Lewis Money Show Live",
+          "show_description": "Martin tackles difficult financial conversations often avoided - including wills and lasting power of attorney - as he answers questions with a panel of specialists.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0a3ffedc-1d28-4b61-8438-dc79d647b63b/cover",
+          "start_time": "19:15",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Emmerdale",
+          "show_description": "Sarah betrays Jacob's trust, Jai and Kerry are enjoying working together, and will the truth about Laurel's fall be revealed?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/93fbb603-5b9e-4610-a72d-b0c175db96c2/cover",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Coronation Street",
+          "show_description": "Sally clocks Carl's latest bid to swindle Debbie, Tracy realises that Steve is in the dark, George is questioned over the fraud allegation, and Connie's presence upsets Number Six.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/82d75f82-b719-4d19-bc68-5528c1f783a5/cover",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "New: The Summit",
+          "show_description": "Reality series hosted by Ben Shephard. Trust becomes an issue when some chocolate goes missing, and a terrifying crossing over a deep chasm sees the group confront their fears.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d9ae9020-52b3-488a-b346-141c64dfbb86/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "ITV News at Ten",
+          "show_description": "ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/055081c1-6514-4a12-bc22-624ca415f7bf/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "ITV News Cymru Wales",
+          "show_description": "A round-up of all the latest news and weather from across Wales.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9d8e4998-8e00-42c1-ae22-4ed6d422e996/cover",
+          "start_time": "22:30",
+          "end_time": "22:45"
+        },
+        {
+          "show_name": "New: Sharp End",
+          "show_description": "A political discussion programme exploring the latest goings-on in Wales.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e1094103-ac15-488b-b180-f37331d4fb88/cover",
+          "start_time": "22:45",
+          "end_time": "23:45"
+        },
+        {
+          "show_name": "The Floor",
+          "show_description": "Rob Brydon hosts the high-stakes and fast-paced game show where 81 contestants battle it out over tense trivia duels to try to conquer The Floor and win 50,000 pounds.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/202e9f04-a62d-4e1e-9068-47df27d3885a/cover",
+          "start_time": "23:45",
+          "end_time": "00:35"
         }
       ]
     }

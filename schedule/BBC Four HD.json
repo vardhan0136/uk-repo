@@ -3,123 +3,6 @@
   "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png",
   "schedule": [
     {
-      "date": "1 March 2026",
-      "programmes": [
-        {
-          "show_name": "Yes, Prime Minister",
-          "show_description": "8/8. Classic sitcom. MPs have been complaining about their phones being tapped. Jim Hacker naturally denies this, only to be told by Sir Humphrey that it is in fact true.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/928a07ff-b508-4595-810f-b60d90ea0f3b/cover",
-          "start_time": "00:05",
-          "end_time": "00:35"
-        },
-        {
-          "show_name": "Keeping Up Appearances",
-          "show_description": "2/6. Sitcom. Hyacinth has asked the new vicar to tea, and - in her usual meticulous way - she has organised the event down to the last sugar lump. Events take a sudden turn.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/583d8c76-2399-4139-bfcc-1fb85db95691/cover",
-          "start_time": "00:35",
-          "end_time": "01:05"
-        },
-        {
-          "show_name": "Gareth Edwards's Great Welsh Adventure",
-          "show_description": "3/5. It's a scorcher as Gareth Edwards and wife Maureen get to the seaside resort of Llandudno.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a4be6f9e-9ace-478d-92ad-50381c03b874/cover",
-          "start_time": "01:05",
-          "end_time": "01:35"
-        },
-        {
-          "show_name": "The Good Old Days",
-          "show_description": "Leonard Sachs presents the old-time music hall show from the City Varieties Music Hall. With Ken Dodd, Lyn Kennington, the Jan Hunt Panto and performers from the Players' Theatre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/626ff502-0d80-4136-b25e-f51cfda41574/cover",
-          "start_time": "01:35",
-          "end_time": "02:20"
-        },
-        {
-          "show_name": "Hetty Wainthropp Investigates",
-          "show_description": "3/6. The mayor of Titterslow wants Hetty to find his daughter, but there must be no publicity and no police.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c15bbf8c-6a02-4eb7-8619-1a95c278bea0/cover",
-          "start_time": "02:20",
-          "end_time": "03:10"
-        },
-        {
-          "show_name": "This is BBC Four",
-          "show_description": "Programmes start at 7.00pm.",
-          "show_logo": "",
-          "start_time": "03:10",
-          "end_time": "05:30"
-        },
-        {
-          "show_name": "..programmes start at 7.00pm",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "05:30",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "..programmes start at 7.00pm",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "11:30",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "..programmes start at 7.00pm",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "17:30",
-          "end_time": "18:58"
-        },
-        {
-          "show_name": "This is BBC Four",
-          "show_description": "Programmes start at 7.00pm.",
-          "show_logo": "",
-          "start_time": "18:58",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Travels with Pevsner",
-          "show_description": "1/6. Dan Cruickshank looks at the architecture of Norfolk with the help of Nikolaus Pevsner's architectural guide.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b14eda16-ba87-4ebe-b486-0ba5081c9d2d/cover",
-          "start_time": "19:00",
-          "end_time": "19:50"
-        },
-        {
-          "show_name": "Britain's Wild Places: Shearwater Island",
-          "show_description": "How thousands of strange nocturnal birds make their home on the island of Bardsey in north Wales, and an exploration of the history of the island itself.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/90f3241c-cb7f-4c98-89c9-4c3513282206/cover",
-          "start_time": "19:50",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Eurovision Classical Concerts: Helsinki",
-          "show_description": "Celebrating great music making across Europe, a special concert marking Finnish Independence Day from Helsinki, also featuring music by Saariaho and Klami.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b40c8dde-210b-4461-9e62-552fa9622470/cover",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "British History's Biggest Fibs with Lucy Worsley",
-          "show_description": "3/3. Lucy explores how British history is a concoction of fibs. She debunks the fibs that surround the 'jewel in the crown' of the British Empire - India.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/915b6b41-1ced-4307-9327-b30260d1ba06/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Making of Lord of the Flies",
-          "show_description": "Monsoon weather, remote locations and raw performances feed this hypnotic adaptation. Contains some scenes which some viewers may find upsetting.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cb84dd32-fc61-4e63-abc9-db1ccea75ae3/cover",
-          "start_time": "22:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Ibsen: The Lady from the Sea (1953)",
-          "show_description": "A lighthouse-keeper's daughter is trapped in her marriage and longs for the sea. From 1953.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/157aa024-286a-4085-b20a-7967ad0c86ff/cover",
-          "start_time": "23:00",
-          "end_time": "00:40"
-        }
-      ]
-    },
-    {
       "date": "2 March 2026",
       "programmes": [
         {
@@ -218,6 +101,123 @@
           "show_description": "Horizon explores the artificial intelligence required to replace human drivers and explores the implications of a driverless world. First broadcast in 2017.",
           "show_logo": "https://images.metadata.sky.com/pd-image/98b388ea-1e41-49f2-bca9-1866048b5c99/cover",
           "start_time": "23:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "3 March 2026",
+      "programmes": [
+        {
+          "show_name": "Romancing the Stone: The Golden...",
+          "show_description": "...Ages of British Sculpture. 3/3. Alastair Sooke looks at the 20th century's mixture of innovation, scandal and creativity. Contains some strong language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ea3f5115-9560-4a9e-b533-a9c9ba3ff4fb/cover",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "Face the Music",
+          "show_description": "Joseph Cooper invites viewers to match their musical wits against guests Joyce Grenfell, Robin Ray and Richard Baker. With guest musician Alfredo Campoli.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a8646d43-7b01-4287-ba9a-291795c097f4/cover",
+          "start_time": "01:00",
+          "end_time": "01:30"
+        },
+        {
+          "show_name": "Seven Worlds, One Planet",
+          "show_description": "1/7. Antarctica - the coldest, windiest, most hostile continent. Only the toughest can survive here. But the ocean here is warming and with that comes an uncertain future.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f578974c-36d5-42ce-b3ce-a80bb653846e/cover",
+          "start_time": "01:30",
+          "end_time": "02:30"
+        },
+        {
+          "show_name": "Raiders of the Lost Past with Janina Ramirez",
+          "show_description": "2/3. A lost thousand-year-old ship transforms the fierce reputation of the Vikings.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3643b575-d512-40bf-8a53-db81d1533b56/cover",
+          "start_time": "02:30",
+          "end_time": "03:30"
+        },
+        {
+          "show_name": "This is BBC Four",
+          "show_description": "Programmes start at 7.00pm.",
+          "show_logo": "",
+          "start_time": "03:30",
+          "end_time": "05:30"
+        },
+        {
+          "show_name": "..programmes start at 7.00pm",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "05:30",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "..programmes start at 7.00pm",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "11:30",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "..programmes start at 7.00pm",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "17:30",
+          "end_time": "18:58"
+        },
+        {
+          "show_name": "This is BBC Four",
+          "show_description": "Programmes start at 7.00pm.",
+          "show_logo": "",
+          "start_time": "18:58",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Canals: The Making of a Nation",
+          "show_description": "4/6. How the process of building Britain's canals resulted in furthering geological knowledge, as surveyor William Smith created the first geological map of England and Wales.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/efaf91a1-9ffe-4729-b314-df91bcbac289/cover",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Weatherman Walking: Dylan's Walks",
+          "show_description": "1/2. Derek Brockway walks in Dylan Thomas's footsteps around Swansea before heading to the Llansteffan Peninsula and the Three Rivers estuary.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/210fd5eb-6c84-3c62-a11c-9a5625e379ad/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Keeping Up Appearances",
+          "show_description": "3/6. Sitcom about a snobbish housewife. Hyacinth is looking forward to visiting her favourite stately home, but the trip goes wrong when her family become involved.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2a053228-9aad-4d0d-9b0e-394c39f33b33/cover",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Sorry!",
+          "show_description": "1/6. Sitcom about a middle-aged man who lives with his parents. Timothy meets a girl at his amateur dramatics society and wants to go on a riverboat shuffle with her.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e5191aeb-7930-4814-8039-458bd874e193/cover",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Simon Schama Remembers... A History of Britain",
+          "show_description": "Simon Schama looks back on his ambitious series A History of Britain, a journey through 5,000 years of life in the British Isles.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fcab8733-39a8-4348-bcd7-33a8bda0972f/cover",
+          "start_time": "21:00",
+          "end_time": "21:20"
+        },
+        {
+          "show_name": "A History of Britain by Simon Schama",
+          "show_description": "1/7. Simon Schama begins his history of Britain at the miraculously preserved Stone Age cottages of Skara Brae in Orkney and then moves on to the world of Anglo-Saxon England.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/af596972-c892-4d38-a278-fb1b0c7e58f2/cover",
+          "start_time": "21:20",
+          "end_time": "22:20"
+        },
+        {
+          "show_name": "Red Light to Limelight - Storyville",
+          "show_description": "A group of sex workers in Kolkata reclaim their narrative through film-making. Contains some strong language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/de360687-31a9-4e63-a8ec-62de16914f70/cover",
+          "start_time": "22:20",
           "end_time": "00:00"
         }
       ]
