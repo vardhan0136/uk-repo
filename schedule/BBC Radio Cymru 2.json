@@ -3,67 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cymru-2.png",
   "schedule": [
     {
-      "date": "2 March 2026",
-      "programmes": [
-        {
-          "show_name": "Gweler BBC Radio 2",
-          "show_description": "Mae Radio Cymru 2 yn ymuno â BBC Radio 2 dros nos. Radio Cymru joins BBC Radio 2 overnight.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Sioe Frecwast",
-          "show_description": "Cerddoriaeth ac adloniant gyda Rhydian Bowen Phillips. Music and entertainment breakfast show with Rhydian Bowen Phillips.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Lisa Gwilym",
-          "show_description": "Lisa Gwilym yn chwarae eich hoff fiwsig. Lisa Gwilym plays your favourite music.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Ifan Jones Evans",
-          "show_description": "Digon o gerddoriaeth, chwerthin a sgwrsio, yn ogystal â chystadleuaeth neu ddwy. Music and chat, plus a competition or two.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Traciau Radio Cymru 2",
-          "show_description": "Tiwns trwy'r dydd yn parhau ar Radio Cymru 2. More tunes on Radio Cymru 2.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Rhys Mwyn",
-          "show_description": "Flwyddyn ers colli Geraint Jarman, cyfle i ddathlu ei gyfraniad i ddiwylliant Cymru. A year since Geraint Jarman's passing, a chance to celebrate his life and work.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Caryl",
-          "show_description": "Cerddoriaeth a hwyl gyda'r hwyr gyda Caryl Parry Jones. Music and fun with Caryl Parry Jones.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Y Clwb PJs",
-          "show_description": "Ymunwch â Caryl i ymlacio wrth wrando ar gerddoriaeth hudolus cyn cysgu. Unwind with Caryl while listening to soothing music before sleeping.",
-          "show_logo": "",
-          "start_time": "23:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "3 March 2026",
       "programmes": [
         {
@@ -75,14 +14,14 @@
         },
         {
           "show_name": "Sioe Frecwast",
-          "show_description": "Cerddoriaeth ac adloniant gyda Rhydian Bowen Phillips. Music and entertainment breakfast show with Rhydian Bowen Phillips.",
+          "show_description": "Y wobr FWYAF eto, cyfle i ennill 2 bâr o docynnau i weld Lewis Capaldi a Katy Perry yng Nghaerdydd. Gwrandewch am y gair coll!",
           "show_logo": "",
           "start_time": "07:00",
           "end_time": "10:00"
         },
         {
           "show_name": "Lisa Gwilym",
-          "show_description": "Lisa Gwilym yn chwarae eich hoff fiwsig. Lisa Gwilym plays your favourite music.",
+          "show_description": "Y wobr FWYAF eto, cyfle i ennill 2 bâr o docynnau i weld Lewis Capaldi a Katy Perry yng Nghaerdydd. Gwrandewch am y gair coll!",
           "show_logo": "",
           "start_time": "10:00",
           "end_time": "14:00"
@@ -106,6 +45,81 @@
           "show_description": "Dewis eclectig o gerddoriaeth o gasgliad Georgia Ruth, yn cynnwys cerddoriaeth ryngwladol, byd a thraciau Cymraeg arbrofol. An eclectic selection of music.",
           "show_logo": "",
           "start_time": "19:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Caryl",
+          "show_description": "Sioned Mai Davies-Grimshaw  yn ymuno i sôn am ei gwaith fel gofalwr anifeiliaid ym mharc bywyd gwyllt Peak Wildlife Park. Music and fun with Caryl Parry Jones.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Y Clwb PJs",
+          "show_description": "Ymunwch â Caryl i ymlacio wrth wrando ar gerddoriaeth hudolus cyn cysgu. Unwind with Caryl while listening to soothing music before sleeping.",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "4 March 2026",
+      "programmes": [
+        {
+          "show_name": "Gweler BBC Radio 2",
+          "show_description": "Mae Radio Cymru 2 yn ymuno â BBC Radio 2 dros nos. Radio Cymru joins BBC Radio 2 overnight.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Sioe Frecwast",
+          "show_description": "Y wobr FWYAF eto, cyfle i ennill 2 bâr o docynnau i weld Lewis Capaldi a Katy Perry yng Nghaerdydd. Gwrandewch am y gair coll!",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Lisa Gwilym",
+          "show_description": "Y wobr FWYAF eto, cyfle i ennill 2 bâr o docynnau i weld Lewis Capaldi a Katy Perry yng Nghaerdydd. Gwrandewch am y gair coll!",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Rhestr Chwarae Lisa: Eto",
+          "show_description": "18/21. Rhestr chwarae llawn anthemau sy'n haeddu cael eu chware eto, ac eto, ac eto... A playlist of anthems that deserve to be played again, and again, and again....",
+          "show_logo": "",
+          "start_time": "13:30",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Ifan Jones Evans",
+          "show_description": "Digon o gerddoriaeth, chwerthin a sgwrsio, yn ogystal â chystadleuaeth neu ddwy. Music and chat, plus a competition or two.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Traciau Radio Cymru 2",
+          "show_description": "Tiwns trwy'r dydd yn parhau ar Radio Cymru 2. More tunes on Radio Cymru 2.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Mirain Iwerydd",
+          "show_description": "Cerddoriaeth newydd Cymru. New Welsh music.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Rhestr Chwarae Mirain",
+          "show_description": "Rhestr chwarae wedi'i churadu gan Mirain Iwerydd. A playlist curated by Mirain Iwerydd.",
+          "show_logo": "",
+          "start_time": "20:30",
           "end_time": "21:00"
         },
         {

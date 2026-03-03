@@ -3,158 +3,41 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-parliament-uk.png",
   "schedule": [
     {
-      "date": "2 March 2026",
-      "programmes": [
-        {
-          "show_name": "Commissioners Questions",
-          "show_description": "Coverage of Commissioners Questions in the House of Commons, on Thursday 26 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ebd0dcd3-42fb-4d23-922c-1120baa3faf2/cover",
-          "start_time": "00:15",
-          "end_time": "00:35"
-        },
-        {
-          "show_name": "Scotland Office Questions",
-          "show_description": "Coverage of questions in the House of Commons to Douglas Alexander, the Scottish secretary, and his team of ministers on Wednesday 25 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fd8f6938-3a60-496e-b0e3-7cccffc15a7b/cover",
-          "start_time": "00:35",
-          "end_time": "01:05"
-        },
-        {
-          "show_name": "Health and Social Care Questions",
-          "show_description": "Coverage of questions in the House of Commons to Wes Streeting, the health and social care secretary, and his team of ministers on Tuesday 24 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c6f8d61a-9db5-4514-b9e1-12ab3f7a1ff4/cover",
-          "start_time": "01:05",
-          "end_time": "02:10"
-        },
-        {
-          "show_name": "Housing, Communities and Local Government Questions",
-          "show_description": "Coverage of questions to Steve Reed on Monday 23 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e5fcdf83-495f-47ff-83fc-39043738fbad/cover",
-          "start_time": "02:10",
-          "end_time": "03:20"
-        },
-        {
-          "show_name": "Prime Minister's Questions",
-          "show_description": "Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 25 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6c8dae1e-8ea9-46a6-9e95-86c82d6a2fb2/cover",
-          "start_time": "03:20",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "Scottish First Minister's Questions",
-          "show_description": "Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 26 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/29d2acee-ef8d-476a-937e-6afc18ed9438/cover",
-          "start_time": "04:00",
-          "end_time": "04:55"
-        },
-        {
-          "show_name": "Welsh First Minister's Questions",
-          "show_description": "Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 24 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/509b2f8c-8529-4fe0-b349-e5a6e74ad75f/cover",
-          "start_time": "04:55",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Westminster Hall",
-          "show_description": "Proceedings in Westminster Hall, including debates on Eating Disorders Awareness Week 2026 and the impact of VAT on independent faith schools, from Thursday 26 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3145ae50-933f-47f9-929d-f40ac46576d0/cover",
-          "start_time": "06:00",
-          "end_time": "08:05"
-        },
-        {
-          "show_name": "Government Support for Bereaved Children",
-          "show_description": "Coverage of the debate in the House of Commons on government support for bereaved children, from Thursday 26 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4abc274d-f5e0-42f5-8683-c5b020601d5b/cover",
-          "start_time": "08:05",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Northern Ireland Assembly - Economy Questions",
-          "show_description": "Questions in the Northern Ireland Assembly to the economy minister, Caoimhe Archibald, on Monday 23 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/91136d23-77ca-494d-9428-17371e9b5548/cover",
-          "start_time": "09:00",
-          "end_time": "09:45"
-        },
-        {
-          "show_name": "Welsh First Minister's Questions",
-          "show_description": "Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 24 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/509b2f8c-8529-4fe0-b349-e5a6e74ad75f/cover",
-          "start_time": "09:45",
-          "end_time": "10:45"
-        },
-        {
-          "show_name": "Scottish First Minister's Questions",
-          "show_description": "Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 26 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/29d2acee-ef8d-476a-937e-6afc18ed9438/cover",
-          "start_time": "10:45",
-          "end_time": "11:40"
-        },
-        {
-          "show_name": "Prime Minister's Questions",
-          "show_description": "Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 25 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6c8dae1e-8ea9-46a6-9e95-86c82d6a2fb2/cover",
-          "start_time": "11:40",
-          "end_time": "12:20"
-        },
-        {
-          "show_name": "Treasury Committee with the Bank of England",
-          "show_description": "Coverage of the Treasury Committee session on the Bank of England monetary policy reports.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/24affa74-9dd0-44a6-bf4d-22b3a697be09/cover",
-          "start_time": "12:20",
-          "end_time": "13:45"
-        },
-        {
-          "show_name": "Ten Minute Rule Bill - Chalk Streams",
-          "show_description": "Coverage of the introduction to the House of Commons of a Bill on making the UK's chalk streams into a Unesco World Heritage site, from Wednesday 25 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/39d45eef-77b6-4a62-86d9-531c7050eb06/cover",
-          "start_time": "13:45",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Live Northern Ireland Assembly...",
-          "show_description": "...- Executive Office Questions. Questions in Stormont to the Northern Ireland executive, with the deputy first minister Emma Little-Pengelly, on Monday 2 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/64d64766-d3ad-4166-a871-b070b985c876/cover",
-          "start_time": "14:00",
-          "end_time": "14:30"
-        },
-        {
-          "show_name": "Live Education Questions",
-          "show_description": "Coverage of questions in the House of Commons to Bridget Phillipson, the education secretary, and her team of ministers on Monday 2 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/57d9dc94-e5e1-42d7-bc4b-0aac6ff616b1/cover",
-          "start_time": "14:30",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Live House of Commons",
-          "show_description": "Coverage of proceedings in the House of Commons including the second reading of the Representation of the People Bill, which would lower the voting age to 16, on Monday 2 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f65b8496-d7f0-431f-9281-ebaba17b7214/cover",
-          "start_time": "15:30",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "Northern Ireland Assembly -...",
-          "show_description": "...Executive Office Questions. Questions in Stormont to the Northern Ireland executive, with the deputy first minister Emma Little-Pengelly, on Monday 2 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/982c6f34-92df-4147-a35e-de9e708a485b/cover",
-          "start_time": "22:30",
-          "end_time": "23:15"
-        },
-        {
-          "show_name": "Lords Questions",
-          "show_description": "Questions in the Lords covering the child poverty strategy, forest-risk commodities, the UK's streaming and cinema sector, and more, on Monday 2 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3867253b-9b04-4413-81a2-892e5b63e32d/cover",
-          "start_time": "23:15",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "3 March 2026",
       "programmes": [
         {
-          "show_name": "House of Lords",
-          "show_description": "Business in the House of Lords including the second day of debate on the report stage of the Crime and Policing Bill, on Monday 2 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/abaac8e7-c321-417f-8e10-079b7561e39d/cover",
-          "start_time": "00:00",
+          "show_name": "House of Lords - Crime and Policing Bill, Part 1",
+          "show_description": "Coverage of the second day of debate in the House of Lords on the report stage of the Crime and Policing Bill, on Monday 2 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ab9e3515-8296-4e34-a053-a6a0caaf9ea3/cover",
+          "start_time": "00:15",
+          "end_time": "02:10"
+        },
+        {
+          "show_name": "House of Lords - Crime and Policing Bill, Part 2",
+          "show_description": "Coverage of the second day of debate in the House of Lords on the report stage of the Crime and Policing Bill, on Monday 2 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4434018d-b39d-40c8-8b88-cc379717b8f6/cover",
+          "start_time": "02:10",
+          "end_time": "04:10"
+        },
+        {
+          "show_name": "House of Lords - Crime and Policing Bill, Part 3",
+          "show_description": "Coverage of the second day of debate in the House of Lords on the report stage of the Crime and Policing Bill, on Monday 2 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/62606209-0e8c-4542-9adf-be8b6caf1bf8/cover",
+          "start_time": "04:10",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "House of Lords - Middle East Statement",
+          "show_description": "Coverage of the statement in the House of Lords by the leader of the House, Baroness Smith of Basildon, on the situation in the Middle East, on Monday 2 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4f667049-18bc-4e89-8a08-4450c9ca9446/cover",
+          "start_time": "06:00",
+          "end_time": "06:50"
+        },
+        {
+          "show_name": "This is BBC Parliament",
+          "show_description": "The top political and parliamentary stories from BBC News.",
+          "show_logo": "",
+          "start_time": "06:50",
           "end_time": "07:00"
         },
         {
@@ -162,20 +45,27 @@
           "show_description": "Coverage of questions in the House of Commons to Bridget Phillipson, the education secretary, and her team of ministers on Monday 2 March.",
           "show_logo": "https://images.metadata.sky.com/pd-image/57d9dc94-e5e1-42d7-bc4b-0aac6ff616b1/cover",
           "start_time": "07:00",
-          "end_time": "08:00"
+          "end_time": "07:55"
         },
         {
-          "show_name": "House of Commons",
-          "show_description": "Highlights of proceedings in the House of Commons from Monday 2 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/03e2f9e8-9c42-4c33-9423-8292fcbc2cca/cover",
-          "start_time": "08:00",
-          "end_time": "09:30"
+          "show_name": "Ten Minute Rule Bill on...",
+          "show_description": "...Labelling of Kosher and Halal Meat. Coverage of the introduction in the House of Commons of a ten minute rule bill on the labelling of halal and kosher meat, on Tuesday 24 February.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/473dba15-f271-450f-bae7-482d087d1f59/cover",
+          "start_time": "07:55",
+          "end_time": "08:05"
         },
         {
-          "show_name": "Live Public Administration...",
-          "show_description": "...Committee on the Work of the Cabinet Office. The Public Administration and Constitutional Affairs committee on the Cabinet Office.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f46994cc-0289-4c55-ba7b-007b5228fd46/cover",
-          "start_time": "09:30",
+          "show_name": "Treasury Committee on the...",
+          "show_description": "...Office for Budget Responsibility. The Treasury committee on the last 15 years of the Office for Budget Responsibility (OBR).",
+          "show_logo": "https://images.metadata.sky.com/pd-image/eebe27f5-20cc-460f-a70b-d22a6ad12fcb/cover",
+          "start_time": "08:05",
+          "end_time": "09:45"
+        },
+        {
+          "show_name": "Business and Trade Committee on...",
+          "show_description": "...the Competition and Markets Authority. The Business and Trade select committee hearing on the Competition and Markets Authority.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/284d2867-ab1d-4764-9986-b6a92659a8e1/cover",
+          "start_time": "09:45",
           "end_time": "11:30"
         },
         {
@@ -188,7 +78,7 @@
         {
           "show_name": "Live House of Commons",
           "show_description": "Coverage of the day's proceedings in the House of Commons including the Spring statement by the chancellor of the exchequer on the UK's finances, on Tuesday 3 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b726c66a-1a5e-460e-97bf-dc5600ccfbdc/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/114b728e-9a8a-4107-a668-10e27e5fb34b/cover",
           "start_time": "12:30",
           "end_time": "19:30"
         },
@@ -216,8 +106,83 @@
         {
           "show_name": "House of Lords",
           "show_description": "Business in the House of Lords including the second day of debate on the report stage of the Tobacco and Vapes Bill, on Tuesday 3 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fc98ee0c-f0ec-4669-81a3-785cd3e18ef1/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5e72ba00-31c7-46e1-b877-8ce43c747ef7/cover",
           "start_time": "23:35",
+          "end_time": "07:00"
+        }
+      ]
+    },
+    {
+      "date": "4 March 2026",
+      "programmes": [
+        {
+          "show_name": "Foreign, Commonwealth and...",
+          "show_description": "...Development Office Questions. Coverage of questions in the House of Commons to Yvette Cooper, the foreign secretary, and her team of ministers on Tuesday 3 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f5b0b611-beb9-4bcf-9890-c38579562645/cover",
+          "start_time": "07:00",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "House of Commons",
+          "show_description": "Highlights of proceedings in the House of Commons from Tuesday 3 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/114b728e-9a8a-4107-a668-10e27e5fb34b/cover",
+          "start_time": "08:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Live Northern Ireland Affairs...",
+          "show_description": "...Committee with Hilary Benn. The Northern Ireland Affairs committee with the Northern Ireland Secretary, Hilary Benn.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ff9daae1-5404-46e3-9707-2ecb17e9225e/cover",
+          "start_time": "09:30",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Live Wales Office Questions",
+          "show_description": "Coverage of questions in the House of Commons to Jo Stevens, the Welsh secretary, and her team of ministers on Wednesday 4 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/79d592ec-8840-4c74-9312-2eff2525ed29/cover",
+          "start_time": "11:30",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Live Prime Minister's Questions",
+          "show_description": "Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 4 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/854df080-d555-4d0e-b077-ba498e5bfe5c/cover",
+          "start_time": "12:00",
+          "end_time": "12:35"
+        },
+        {
+          "show_name": "Live House of Commons",
+          "show_description": "Coverage of proceedings in the House of Commons including the estimates day debates on the spending of the Foreign, Commonwealth and Development Office.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4ecf1f88-0eca-40dd-bc66-6dd3f2bf9a87/cover",
+          "start_time": "12:35",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Live House of Lords",
+          "show_description": "Coverage of proceedings in the House of Lords including the third day of debate on the report stage of the Crime and Policing Bill, on Wednesday 4 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6dbcf55a-d4f4-4725-978c-e74b77469c81/cover",
+          "start_time": "19:30",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Prime Minister's Questions",
+          "show_description": "Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 4 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/854df080-d555-4d0e-b077-ba498e5bfe5c/cover",
+          "start_time": "22:00",
+          "end_time": "22:35"
+        },
+        {
+          "show_name": "Lords Questions",
+          "show_description": "Questions in the Lords covering local government reorganisation in England, the appointment of a Maternity Commissioner, and on democracy in Taiwan, on Wednesday 4 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/607863b3-3fc9-488d-85dc-f59f7ebc8dc5/cover",
+          "start_time": "22:35",
+          "end_time": "23:20"
+        },
+        {
+          "show_name": "House of Lords",
+          "show_description": "Business in the House of Lords including the third day of debate on the report stage of the Crime and Policing Bill, on Wednesday 4 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8558db64-feba-4ecf-8091-74f6d5c406d1/cover",
+          "start_time": "23:20",
           "end_time": "07:00"
         }
       ]

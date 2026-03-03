@@ -3,186 +3,13 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
   "schedule": [
     {
-      "date": "2 March 2026",
-      "programmes": [
-        {
-          "show_name": "Shop on TV",
-          "show_description": "Teleshopping.",
-          "show_logo": "https://img.freeviewplay.tv/e4c949fcf2f9fae0f27a8604a27903097?w=800",
-          "start_time": "00:35",
-          "end_time": "03:10"
-        },
-        {
-          "show_name": "The Real Unforgotten",
-          "show_description": "Part one of a two-part series. When detectives reinvestigate the unsolved murder of Carol Morgan in the storeroom of her corner shop in 1981, they identify two potential suspects.",
-          "show_logo": "https://img.freeviewplay.tv/pf40e6eee43af5a0b2d32474ee4b91656?w=800",
-          "start_time": "03:10",
-          "end_time": "04:10"
-        },
-        {
-          "show_name": "Unwind with ITV",
-          "show_description": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
-          "show_logo": "https://img.freeviewplay.tv/eb76aae0fa59031fd8c8c229b09c6564d?w=800",
-          "start_time": "04:10",
-          "end_time": "05:05"
-        },
-        {
-          "show_name": "Fletchers' Family Farm",
-          "show_description": "Documentary series. Liz and Kelvin thrill the kids when they decide to reintroduce pigs to the family farm, and Liz’s new range of blankets inspires plans for a farmers' market.",
-          "show_logo": "https://img.freeviewplay.tv/p399cc7b5d7f92bd7b021774607ab87f1?w=800",
-          "start_time": "05:05",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Good Morning Britain",
-          "show_description": "News, current affairs and lively debate.",
-          "show_logo": "https://img.freeviewplay.tv/e264540363c648c092c509326541c652e?w=800",
-          "start_time": "06:00",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Lorraine",
-          "show_description": "Strictly star Johannes Radebe's in the studio alongside award-winning actor Michael Sheen, and Ross has all the reactions to the Actor Awards.",
-          "show_logo": "https://img.freeviewplay.tv/ee75a43e9fb9d9207589285a849260334?w=800",
-          "start_time": "09:30",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "This Morning",
-          "show_description": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
-          "show_logo": "https://img.freeviewplay.tv/e17818ffc14c9ece78d4c530b108ee5a3?w=800",
-          "start_time": "10:00",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "Loose Women",
-          "show_description": "Join the Loose Women panellists as they interview celebrity guests and discuss the day's most topical issues, from current affairs to celebrity gossip and the latest showbiz news.",
-          "show_logo": "https://img.freeviewplay.tv/ee948d4adaa9cf159bd7e2bf1612951a7?w=800",
-          "start_time": "12:30",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "ITV Lunchtime News",
-          "show_description": "The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.",
-          "show_logo": "https://img.freeviewplay.tv/ebb82c6c7db68031738a51bf4538392a2?w=800",
-          "start_time": "13:30",
-          "end_time": "13:55"
-        },
-        {
-          "show_name": "ITV News Granada Reports",
-          "show_description": "The latest news and weather from around the North West.",
-          "show_logo": "https://img.freeviewplay.tv/eefe829faa3e70a66ccf63a46d07b5b2a?w=800",
-          "start_time": "13:55",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Lingo",
-          "show_description": "The fast-paced game of words hosted by Adil Ray - fighting it out this time are sisters Moina and Shazia, Ashleigh and her dad Brent, and couple Ian and Laura.",
-          "show_logo": "https://img.freeviewplay.tv/pe264eefdebac739fd514ee65fcefa031?w=800",
-          "start_time": "14:00",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Riddiculous",
-          "show_description": "Ranvir Singh hosts the rapid-fire quiz as contestants Randip and Harps, Rebecca and Ethan, and Miren and Jane take on Riddlemaster Henry Lewis in a bid to solve his riddles.",
-          "show_logo": "https://img.freeviewplay.tv/pec8e9ba75317a5972bfd04906ad25807?w=800",
-          "start_time": "15:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Tipping Point",
-          "show_description": "Ben Shephard hosts the quiz show in which three players take on an extraordinary machine in the hope of winning a cash jackpot.",
-          "show_logo": "https://img.freeviewplay.tv/p65b90ffda30cab416409a3cf2c4add21?w=800",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "The Chase",
-          "show_description": "Bradley Walsh hosts and is behind Lucy from Nottingham, Chris from County Durham, Linda from Twickenham and Tom from Bedfordshire all the way as they try to beat one of the country's finest quiz brains and take thousands of pounds home.",
-          "show_logo": "https://img.freeviewplay.tv/p29b32e27f3e5cfcdb73c12b7d00492bd?w=800",
-          "start_time": "17:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "ITV News Granada Reports",
-          "show_description": "The latest news and weather from around the North West.",
-          "show_logo": "https://img.freeviewplay.tv/eefe829faa3e70a66ccf63a46d07b5b2a?w=800",
-          "start_time": "18:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "ITV Evening News",
-          "show_description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
-          "show_logo": "https://img.freeviewplay.tv/ea1a22c5813968c823f357452a75c132e?w=800",
-          "start_time": "18:30",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "New: Fletchers' Family Farm",
-          "show_description": "Documentary series. There is an emotional rollercoaster as the family release their pet lamb Aga in with the rest of the flock and a couple of older lambs leave for market.",
-          "show_logo": "https://img.freeviewplay.tv/ec87112482a974bc500ea2e63d2f61dd7?w=800",
-          "start_time": "19:30",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Emmerdale",
-          "show_description": "Bear is in further trouble, Cain feels at the end of his tether, and Arthur is fearful.",
-          "show_logo": "https://img.freeviewplay.tv/p8efdc3650813ad083c26990ee3ccaf7b?w=800",
-          "start_time": "20:00",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "Coronation Street",
-          "show_description": "Cassie shelves her plan when news of Jim’s death reaches Steve, Carla and Lisa are left holding the baby, Bernie quizzes Kit about Mal’s attack, and the reviews are in for George.",
-          "show_logo": "https://img.freeviewplay.tv/pdea641fcfe45adbc0fa2fe2975136783?w=800",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "The Lady",
-          "show_description": "Jane's fairytale falls apart as she faces a shocking murder trial.",
-          "show_logo": "https://img.freeviewplay.tv/p6b96940c06d8d2ee4faaf9512e405494?w=800",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "ITV News at Ten",
-          "show_description": "ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.",
-          "show_logo": "https://img.freeviewplay.tv/eb25792ee8b588005bb6494c2d7ffb446?w=800",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "ITV News Granada Reports",
-          "show_description": "The latest news and weather from around the North West.",
-          "show_logo": "https://img.freeviewplay.tv/eefe829faa3e70a66ccf63a46d07b5b2a?w=800",
-          "start_time": "22:30",
-          "end_time": "22:45"
-        },
-        {
-          "show_name": "Cold Case Forensics",
-          "show_description": "The murder of Stephen Lawrence remained unsolved until world-leading forensic scientist Dr Angela Gallop and her team looked again at the evidence.",
-          "show_logo": "https://img.freeviewplay.tv/pf954d076d5690f0f4044fe8dfaf52954?w=800",
-          "start_time": "22:45",
-          "end_time": "23:45"
-        },
-        {
-          "show_name": "Who Wants to Be a Millionaire?",
-          "show_description": "Six new contestants have the chance to win one million pounds - all they must do is answer 15 questions correctly, so find out if anyone can top the ladder and win a million.",
-          "show_logo": "https://img.freeviewplay.tv/p571bd8843f898c0c435ce4de016b5610?w=800",
-          "start_time": "23:45",
-          "end_time": "00:40"
-        }
-      ]
-    },
-    {
       "date": "3 March 2026",
       "programmes": [
         {
           "show_name": "Shop on TV",
           "show_description": "Teleshopping.",
           "show_logo": "https://img.freeviewplay.tv/e4c949fcf2f9fae0f27a8604a27903097?w=800",
-          "start_time": "00:40",
+          "start_time": "00:50",
           "end_time": "03:00"
         },
         {
@@ -215,7 +42,7 @@
         },
         {
           "show_name": "Lorraine",
-          "show_description": "Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.",
+          "show_description": "Martin Clunes talks about his latest movie role alongside an all-star British cast, and Dr Amir has health advice as soap star Adam Thomas opens up about his arthritis.",
           "show_logo": "https://img.freeviewplay.tv/ee75a43e9fb9d9207589285a849260334?w=800",
           "start_time": "09:30",
           "end_time": "10:00"
@@ -338,6 +165,179 @@
           "show_logo": "https://img.freeviewplay.tv/p136b74fc96933a1c4c9fe6c68553bf56?w=800",
           "start_time": "22:45",
           "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "4 March 2026",
+      "programmes": [
+        {
+          "show_name": "Shop on TV",
+          "show_description": "Teleshopping.",
+          "show_logo": "https://img.freeviewplay.tv/e4c949fcf2f9fae0f27a8604a27903097?w=800",
+          "start_time": "01:00",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Dermot O'Leary's Taste of Ireland",
+          "show_description": "Dermot heads to Cork, a port city renowned for its food and produce, to visit its English Market and try the truly Corkonian dish of tripe and drisheen.",
+          "show_logo": "https://img.freeviewplay.tv/p8d5e197423d464ab844e8205cacea4e7?w=800",
+          "start_time": "03:00",
+          "end_time": "03:50"
+        },
+        {
+          "show_name": "Unwind with ITV",
+          "show_description": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+          "show_logo": "https://img.freeviewplay.tv/eb76aae0fa59031fd8c8c229b09c6564d?w=800",
+          "start_time": "03:50",
+          "end_time": "05:05"
+        },
+        {
+          "show_name": "Jeremy Pang’s Hong Kong Kitchen",
+          "show_description": "Jeremy invites good friend and TV personality Tom Skinner to Hong Kong as they tuck into iconic breakfasts, sweet treats, and a good old cup of tea.",
+          "show_logo": "https://img.freeviewplay.tv/p4c62baea2d8756c32eccb1b1385c31b3?w=800",
+          "start_time": "05:05",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Good Morning Britain",
+          "show_description": "News, current affairs and lively debate.",
+          "show_logo": "https://img.freeviewplay.tv/e264540363c648c092c509326541c652e?w=800",
+          "start_time": "06:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Lorraine",
+          "show_description": "Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.",
+          "show_logo": "https://img.freeviewplay.tv/ee75a43e9fb9d9207589285a849260334?w=800",
+          "start_time": "09:30",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "This Morning",
+          "show_description": "Sharon Marshall's back with the latest soap gossip, Phil Vickery reports from the British Pie Awards, and actress Eve Myles tells Ben and Cat about her latest gripping ITV drama.",
+          "show_logo": "https://img.freeviewplay.tv/e17818ffc14c9ece78d4c530b108ee5a3?w=800",
+          "start_time": "10:00",
+          "end_time": "12:30"
+        },
+        {
+          "show_name": "Loose Women",
+          "show_description": "Join the Loose Women panellists as they interview celebrity guests and discuss the day's most topical issues, from current affairs to celebrity gossip and the latest showbiz news.",
+          "show_logo": "https://img.freeviewplay.tv/ee948d4adaa9cf159bd7e2bf1612951a7?w=800",
+          "start_time": "12:30",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "ITV Lunchtime News",
+          "show_description": "The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.",
+          "show_logo": "https://img.freeviewplay.tv/ebb82c6c7db68031738a51bf4538392a2?w=800",
+          "start_time": "13:30",
+          "end_time": "13:55"
+        },
+        {
+          "show_name": "ITV News Granada Reports",
+          "show_description": "The latest news and weather from around the North West.",
+          "show_logo": "https://img.freeviewplay.tv/eefe829faa3e70a66ccf63a46d07b5b2a?w=800",
+          "start_time": "13:55",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Lingo",
+          "show_description": "A fast-paced game of words hosted by Adil Ray - trying to Lingo all the way alongside the reigning Lingo champions are housemates Joe and Markyeta and best friends Tahnee and Chay.",
+          "show_logo": "https://img.freeviewplay.tv/pcb07995cc917c34944f2bcb412614c82?w=800",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Riddiculous",
+          "show_description": "Ranvir Singh hosts the rapid and ruthless quiz as contestants Nicole and Ste, Aaron and Nick, and Emily and Brittney take on Riddlemaster Henry Lewis in a bid to solve his riddles.",
+          "show_logo": "https://img.freeviewplay.tv/pa03b4f3f0808cfc21af424364813acad?w=800",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Tipping Point",
+          "show_description": "Ben Shephard hosts the quiz show in which three players take on an extraordinary machine in the hope of winning a cash jackpot.",
+          "show_logo": "https://img.freeviewplay.tv/p82386232c4eea74a587ef2e4ef3a115e?w=800",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "The Chase",
+          "show_description": "Bradley Walsh asks the questions as all that stands between James originally from Lincoln, Steph from Wigan, Jared from London, Bobby from Cornwall and thousands of pounds is the not-so-small matter of one of the country's finest quiz brains.",
+          "show_logo": "https://img.freeviewplay.tv/p2e7f978a4cba1a60d030245b774b65fd?w=800",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "ITV News Granada Reports",
+          "show_description": "The latest news and weather from around the North West.",
+          "show_logo": "https://img.freeviewplay.tv/eefe829faa3e70a66ccf63a46d07b5b2a?w=800",
+          "start_time": "18:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "ITV Evening News",
+          "show_description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
+          "show_logo": "https://img.freeviewplay.tv/ea1a22c5813968c823f357452a75c132e?w=800",
+          "start_time": "18:30",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Celebrity Lingo",
+          "show_description": "Adil Ray hosts the game of words as Coronation Street stars Lucy Fallon, Julia Goulding, Jack P Shepherd and Colson Smith go head-to-head in a battle to win big money for charity.",
+          "show_logo": "https://img.freeviewplay.tv/p3e86808eff2de417aaa0bf1c6160d533?w=800",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Emmerdale",
+          "show_description": "Sarah calls Cain a coward, Gabby is suspicious, and Kerry taunts Jai publicly.",
+          "show_logo": "https://img.freeviewplay.tv/pb5a544b101e2f2203332a5580ad556b3?w=800",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Coronation Street",
+          "show_description": "David and Shona face a fraught wait as Harper undergoes surgery, Lou gives Sally an update on Debbie, and Lisa wonders if Carla is warming to Connie.",
+          "show_logo": "https://img.freeviewplay.tv/p328b4233a46a38bc898a945c586f4028?w=800",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "New: The Stolen Girl",
+          "show_description": "Thrilling drama series. Elisa and Fred are in limbo - as the police speculate that an organised criminal gang might be involved, a mysterious prisoner collects news clippings.",
+          "show_logo": "https://img.freeviewplay.tv/e87baf1683a77591048d84ef36d872a93?w=800",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "ITV News at Ten",
+          "show_description": "ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.",
+          "show_logo": "https://img.freeviewplay.tv/eb25792ee8b588005bb6494c2d7ffb446?w=800",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "ITV News Granada Reports",
+          "show_description": "The latest news and weather from around the North West.",
+          "show_logo": "https://img.freeviewplay.tv/eefe829faa3e70a66ccf63a46d07b5b2a?w=800",
+          "start_time": "22:30",
+          "end_time": "22:45"
+        },
+        {
+          "show_name": "New: Peston",
+          "show_description": "Join Robert Peston for a late-night political magazine show featuring big interviews with the country's leading politicians, topical guests, and the best political gossip.",
+          "show_logo": "https://img.freeviewplay.tv/e4f5240ce434b9b4717b535ad32a82899?w=800",
+          "start_time": "22:45",
+          "end_time": "23:40"
+        },
+        {
+          "show_name": "Heathrow: Britain's Busiest Airport",
+          "show_description": "It's 2020 and time for a lockdown - Heathrow keeps on flying, but with only one runway and two terminals open, its depleted staff fight to keep business going.",
+          "show_logo": "https://img.freeviewplay.tv/p6e416e659481ea64b8462387b0225593?w=800",
+          "start_time": "23:40",
+          "end_time": "00:05"
         }
       ]
     }
