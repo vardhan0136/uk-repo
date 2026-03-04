@@ -3,179 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-plus-uk.png",
   "schedule": [
     {
-      "date": "3 March 2026",
-      "programmes": [
-        {
-          "show_name": "FYI Daily",
-          "show_description": "Latest news from the world of entertainment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9b2bac33-38d9-4021-84e0-d5207736822e/cover",
-          "start_time": "00:30",
-          "end_time": "00:35"
-        },
-        {
-          "show_name": "The World's End",
-          "show_description": "Sci-fi comedy film starring Simon Pegg and Nick Frost, 2013. Five friends recreate an epic pub crawl from 20 years earlier, but not everything about their hometown is as it seems.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e044203c-dcc6-4125-9e9f-87579627bb0f/cover",
-          "start_time": "00:35",
-          "end_time": "01:35"
-        },
-        {
-          "show_name": "Lost",
-          "show_description": "Raised by Another: American drama following the survivors of a plane crash. Flashbacks reveal Claire's backstory as she has a horribly realistic nightmare about her new baby.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a6487705-f172-4bbd-8980-d9f36a235ea3/cover",
-          "start_time": "01:35",
-          "end_time": "02:25"
-        },
-        {
-          "show_name": "Minder",
-          "show_description": "Back in Good Old England: Comedy-drama series. Terry's pleasure at seeing 'Oily' Wragg again is cut short by the appearance of some less friendly faces from the past.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/91d88b96-81b5-4b62-bfb1-4143b17bcd54/cover",
-          "start_time": "02:25",
-          "end_time": "03:25"
-        },
-        {
-          "show_name": "Unwind with ITV",
-          "show_description": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b95b0b8f-cd52-470e-970a-7f5a6d868f1e/cover",
-          "start_time": "03:25",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Shopping from home.",
-          "show_logo": "",
-          "start_time": "04:00",
-          "end_time": "04:30"
-        },
-        {
-          "show_name": "Motorsport Mundial",
-          "show_description": "This programme brings you up to date with the latest action from the world of motorsport and features race coverage, insights, and behind-the-scenes footage from the best series.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/920e160b-6178-41e7-a650-5a8940d072a3/cover",
-          "start_time": "04:30",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Shopping from home.",
-          "show_logo": "",
-          "start_time": "05:00",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "The Best of the 80s",
-          "show_description": "A look back at the wide variety of sports covered by ITV during the 1980s - from football to wrestling and double decker bus racing to boxing - that includes many iconic moments.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c135c569-8038-455d-90db-260d51dcfb18/cover",
-          "start_time": "07:00",
-          "end_time": "07:15"
-        },
-        {
-          "show_name": "The Big Match Revisited",
-          "show_description": "Brian Moore introduces highlights from September 1977 featuring QPR v Manchester City, Crystal Palace v Sheffield United, and Wolverhampton Wanderers v West Bromwich Albion.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4107c732-39db-3798-9f2f-b4637867f6fb/cover",
-          "start_time": "07:15",
-          "end_time": "08:20"
-        },
-        {
-          "show_name": "The Big Match Revisited",
-          "show_description": "Brian Moore hosts action from the 1984/85 football season including Sunderland vs Queens Park Rangers, Brighton and Hove Albion vs Manchester City, and Dundee United vs St Mirren.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/90e4167b-8069-35c2-84ac-1e618d74f052/cover",
-          "start_time": "08:20",
-          "end_time": "09:25"
-        },
-        {
-          "show_name": "Magnum, P.I.",
-          "show_description": "Ms Jones: Classic US action drama series. The ever-chivalrous Thomas steps in to help a distraught civil servant search for her husband who has vanished in mysterious circumstances.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cdaafe2e-cb21-392b-9f77-2843e7a2e444/cover",
-          "start_time": "09:25",
-          "end_time": "10:30"
-        },
-        {
-          "show_name": "Kojak",
-          "show_description": "On the Edge: Classic US detective drama. An ageing detective with a troubled home life is obsessed with cracking a high-profile case, but Theo fears that his fixation will cost him.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bb7ef220-783a-32d3-bfdf-a8ce6d916d93/cover",
-          "start_time": "10:30",
-          "end_time": "11:35"
-        },
-        {
-          "show_name": "Boon",
-          "show_description": "Big Game Hunt: Classic drama starring Michael Elphick. Harry arranges for a secret society to hold a meeting at Woodcote Park, and Ken is asked to follow and watch a client's wife.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1b0a8b76-3d10-46cb-b423-caee89d55d7c/cover",
-          "start_time": "11:35",
-          "end_time": "12:45"
-        },
-        {
-          "show_name": "The Sweeney",
-          "show_description": "Tomorrow Man: Classic '70s police drama series. Regan is assigned to ensure the safe shipment of a gold bullion consignment threatened by the plans of a brilliant computer expert.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f78e35fb-68a6-40f1-84c4-065128e000e2/cover",
-          "start_time": "12:45",
-          "end_time": "13:50"
-        },
-        {
-          "show_name": "Dempsey and Makepeace",
-          "show_description": "Tequila Sunrise: Classic detective series. Extortion and blackmail lead to a man being murdered, an old friend of Makepeace's being badly injured, and Makepeace taking Dempsey home.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f05d7c1e-cd88-4cf5-988d-3010f6b528ef/cover",
-          "start_time": "13:50",
-          "end_time": "14:55"
-        },
-        {
-          "show_name": "Magnum, P.I.",
-          "show_description": "The Man from Marseilles: Classic US action drama series. Thomas teams up with a Frenchman who is claiming to be the world-famous detective profiled in Robin's latest book.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/03c5436c-f94a-356a-8a58-66cedb33af03/cover",
-          "start_time": "14:55",
-          "end_time": "15:55"
-        },
-        {
-          "show_name": "Kojak",
-          "show_description": "A Wind from Corsica: Classic US detective drama. A convict uses a medical experiment as a chance to escape to New York, but he does not realise that he is carrying a deadly virus.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/db2cd3c3-f961-3f0f-81eb-d39927bc8468/cover",
-          "start_time": "15:55",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Made in Britain",
-          "show_description": "Barbour Jackets and Fire Extinguishers: Discover how an innovative fire extinguisher is saving lives, then see the care and attention that goes into making a Barbour waxed jacket.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f4c81e39-ddc3-4a50-b70f-66c1a79483f1/cover",
-          "start_time": "17:00",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "European Qualifier: Ukraine v England",
-          "show_description": "Katie Shanahan presents coverage as England's Lionesses get their qualifying campaign for the FIFA Women's World Cup in Brazil in 2027 under way against Ukraine.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dfdfa4bc-681a-4995-8936-28ba9f793a14/cover",
-          "start_time": "17:30",
-          "end_time": "20:25"
-        },
-        {
-          "show_name": "River Monsters",
-          "show_description": "Russian Killer: Extreme fisherman Jeremy heads to Russia's remote Amur river to investigate the mysterious deaths of three men and their links to a reclusive freshwater giant.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0c908ed5-b6c0-4d5f-8f42-6aa9c11ca57b/cover",
-          "start_time": "20:25",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "New: More Than Machine",
-          "show_description": "Documentary series following members of the M-Sport World Rally Championship team as they face the trials and tribulations of competing in rally driving at the highest level.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/422fc21b-c223-4ae5-8321-a0adf9e7a6a9/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "New: Ice Road Truckers",
-          "show_description": "Killer Pass: Nail-biting documentary series. Heavy haul veterans Jack Jessee and Carey Hill make time for practical jokes while taking two multi-purpose storage tanks to Deadhorse.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/47bd4009-5b3c-4216-9a76-ab017e4031b6/cover",
-          "start_time": "22:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "All Elite Wrestling: Collision",
-          "show_description": "Hard-hitting action from AEW's newest show, featuring stars including Ricochet, Chris Jericho, Kris Statlander, Darby Allin and Claudio Castagnoli.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b82bfe47-3faf-4ed0-bdaa-55d8926ef7b3/cover",
-          "start_time": "23:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "4 March 2026",
       "programmes": [
         {
@@ -338,6 +165,186 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/ef4cb435-9529-4c77-8ce8-521dbaec8317/cover",
           "start_time": "23:00",
           "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "5 March 2026",
+      "programmes": [
+        {
+          "show_name": "FYI Daily",
+          "show_description": "Latest news from the world of entertainment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3b3474d1-2baa-436b-9c18-af9074a567e6/cover",
+          "start_time": "00:00",
+          "end_time": "00:05"
+        },
+        {
+          "show_name": "Live and Let Die",
+          "show_description": "Bond film starring Roger Moore and Jane Seymour, 1973. 007 is sent to New York to investigate a prime minister, a Harlem crime kingpin, and the death of three MI6 agents.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ef4cb435-9529-4c77-8ce8-521dbaec8317/cover",
+          "start_time": "00:05",
+          "end_time": "01:25"
+        },
+        {
+          "show_name": "All Elite Wrestling: Collision",
+          "show_description": "Hard-hitting action from AEW's newest show, featuring stars including Ricochet, Chris Jericho, Kris Statlander, Darby Allin and Claudio Castagnoli.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b82bfe47-3faf-4ed0-bdaa-55d8926ef7b3/cover",
+          "start_time": "01:25",
+          "end_time": "03:20"
+        },
+        {
+          "show_name": "Unwind with ITV",
+          "show_description": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a56afb5d-8a14-4048-a221-aceb681f57b9/cover",
+          "start_time": "03:20",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Shopping from home.",
+          "show_logo": "",
+          "start_time": "04:00",
+          "end_time": "04:30"
+        },
+        {
+          "show_name": "Motorsport Mundial",
+          "show_description": "This programme brings you up to date with the latest action from the world of motorsport and features race coverage, insights, and behind-the-scenes footage from the best series.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/920e160b-6178-41e7-a650-5a8940d072a3/cover",
+          "start_time": "04:30",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Shopping from home.",
+          "show_logo": "",
+          "start_time": "05:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "The Big Match Revisited",
+          "show_description": "Brian Moore hosts action from October 1977 and is joined by Alan Ball as Crystal Palace host Southampton, Leeds United take on Liverpool, and Wolverhampton Wanderers face West Ham.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5e59ffb1-fd53-30b3-aeee-cdd707cc05b7/cover",
+          "start_time": "07:00",
+          "end_time": "08:05"
+        },
+        {
+          "show_name": "The Big Match Revisited",
+          "show_description": "Brian Moore presents football highlights from October 1977 featuring a trip to Watford as they take on Newport County, Brighton v Crystal Palace, and Blackpool v Luton Town.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/030b9625-a908-3546-9638-e95d01f3d513/cover",
+          "start_time": "08:05",
+          "end_time": "09:10"
+        },
+        {
+          "show_name": "Magnum, P.I.",
+          "show_description": "Torah! Torah! Torah!: Classic US action drama series. Thomas probes the theft of a rare edition of the Jewish holy book the Torah and is aided by a policewoman chasing smugglers.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/862b084a-2abe-3717-a4fa-389f6a227f8a/cover",
+          "start_time": "09:10",
+          "end_time": "10:15"
+        },
+        {
+          "show_name": "Kojak",
+          "show_description": "Bad Dude: Classic US detective drama. A private detective sets himself up as a potential target for a hired killer and does not take kindly to Theo's attempts to rescue him.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0d18ebf1-dc58-3805-a45c-d31891792ed2/cover",
+          "start_time": "10:15",
+          "end_time": "11:20"
+        },
+        {
+          "show_name": "Boon",
+          "show_description": "All in a Day's Pork: Classic drama. While Ken is hired to find out who has been taking Dictaphone tapes from a meat company, he also uncovers a plot to import pornographic material.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9d719aaf-3d83-45d3-bc7c-68840811a467/cover",
+          "start_time": "11:20",
+          "end_time": "12:25"
+        },
+        {
+          "show_name": "The Sweeney",
+          "show_description": "Bad Apple: When a convicted criminal grasses up a group of CID officers involved in bribery, Regan and Carter go undercover to investigate the corruption charges against them.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ff54a81b-0f95-4b51-a773-b870d9c6f138/cover",
+          "start_time": "12:25",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Dempsey and Makepeace",
+          "show_description": "Set A Thief: Classic detective series. When a top model is murdered by a hit-and-run driver, Dempsey and Makepeace discover that she had connections at the highest levels.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/24a2449d-be16-4087-a273-972cef45f68b/cover",
+          "start_time": "13:30",
+          "end_time": "14:35"
+        },
+        {
+          "show_name": "Magnum, P.I.",
+          "show_description": "A Pretty Good Dancing Chicken: Classic US action drama series. Thomas searches for a vengeful escaped prisoner who knows the whereabouts of Carol's missing cousin Becky.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/46adbb46-8dbd-34ca-9056-1d3476fafaee/cover",
+          "start_time": "14:35",
+          "end_time": "15:40"
+        },
+        {
+          "show_name": "Kojak",
+          "show_description": "A Grave Too Soon: Classic US detective drama. When an undercover detective is murdered, the investigation leads Theo to a Mafia boss out to avenge the death of his own sons.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/802e763b-56b5-371d-9d1c-82af3b9bf8eb/cover",
+          "start_time": "15:40",
+          "end_time": "16:45"
+        },
+        {
+          "show_name": "Boon",
+          "show_description": "The Eyes of Texas: Classic drama. Ken spends the night with Rebecca before going looking for her missing husband - however, things do not go according to plan when the man is found.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b3c73aa1-4857-462b-892c-71c62c47e7d6/cover",
+          "start_time": "16:45",
+          "end_time": "17:50"
+        },
+        {
+          "show_name": "The Sweeney",
+          "show_description": "May: Classic '70s police series. Regan tries to help the son of an old friend when the boy is implicated in a brutal assault.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b86bd90a-5535-4190-a328-03018043f593/cover",
+          "start_time": "17:50",
+          "end_time": "18:55"
+        },
+        {
+          "show_name": "Minder",
+          "show_description": "Sorry Pal, Wrong Number: Drama series about a loveable rogue. Arthur's new gambling venture involves Terry taking on the prestigious task of guarding three public telephone boxes.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/526d0c91-9a9d-4eb5-9192-77803ac3999e/cover",
+          "start_time": "18:55",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Aussie Pickers",
+          "show_description": "Steptoe's Shed: Australian spin-off from the popular US documentary series. Lucas Callaghan and Adam McDonald head to Victoria to meet an auctioneer known to the locals as Steptoe.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a4184947-3638-49bc-93a9-99f408661b7c/cover",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Ice Road Truckers",
+          "show_description": "Turn and Burn: Nail-biting documentary series. Tim Freeman incurs a misfortune after becoming lead driver, and Hugh Rowland's enthusiasm for trucking leads to a brush with the law.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1996a7a4-8fd2-432d-9f0c-4b2da41cb286/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "River Monsters",
+          "show_description": "Congo Killer: Jeremy Wade travels to the Congo - one of the few rivers left on the planet that will still test a fisherman - while on the trail of a terrifying legend.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/98e766ec-bf83-47a3-88de-6796124456d1/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Creed III",
+          "show_description": "Boxing drama film sequel starring Michael B Jordan and Tessa Thompson, 2023. Adonis Creed faces more than just a fight when a childhood friend and former boxing prodigy resurfaces.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e7dc9438-a4b5-3488-9e03-0a1968e9bd5f/cover",
+          "start_time": "22:30",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "FYI Daily",
+          "show_description": "Latest news from the world of entertainment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/95488a98-9614-47f4-a69c-e3a0925642c0/cover",
+          "start_time": "23:30",
+          "end_time": "23:35"
+        },
+        {
+          "show_name": "Creed III",
+          "show_description": "Boxing drama film sequel starring Michael B Jordan and Tessa Thompson, 2023. Adonis Creed faces more than just a fight when a childhood friend and former boxing prodigy resurfaces.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e7dc9438-a4b5-3488-9e03-0a1968e9bd5f/cover",
+          "start_time": "23:35",
+          "end_time": "00:45"
         }
       ]
     }

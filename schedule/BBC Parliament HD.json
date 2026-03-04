@@ -3,130 +3,48 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-parliament-uk.png",
   "schedule": [
     {
-      "date": "3 March 2026",
-      "programmes": [
-        {
-          "show_name": "House of Lords - Crime and Policing Bill, Part 1",
-          "show_description": "Coverage of the second day of debate in the House of Lords on the report stage of the Crime and Policing Bill, on Monday 2 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ab9e3515-8296-4e34-a053-a6a0caaf9ea3/cover",
-          "start_time": "00:15",
-          "end_time": "02:10"
-        },
-        {
-          "show_name": "House of Lords - Crime and Policing Bill, Part 2",
-          "show_description": "Coverage of the second day of debate in the House of Lords on the report stage of the Crime and Policing Bill, on Monday 2 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4434018d-b39d-40c8-8b88-cc379717b8f6/cover",
-          "start_time": "02:10",
-          "end_time": "04:10"
-        },
-        {
-          "show_name": "House of Lords - Crime and Policing Bill, Part 3",
-          "show_description": "Coverage of the second day of debate in the House of Lords on the report stage of the Crime and Policing Bill, on Monday 2 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/62606209-0e8c-4542-9adf-be8b6caf1bf8/cover",
-          "start_time": "04:10",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "House of Lords - Middle East Statement",
-          "show_description": "Coverage of the statement in the House of Lords by the leader of the House, Baroness Smith of Basildon, on the situation in the Middle East, on Monday 2 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4f667049-18bc-4e89-8a08-4450c9ca9446/cover",
-          "start_time": "06:00",
-          "end_time": "06:50"
-        },
-        {
-          "show_name": "This is BBC Parliament",
-          "show_description": "The top political and parliamentary stories from BBC News.",
-          "show_logo": "",
-          "start_time": "06:50",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Education Questions",
-          "show_description": "Coverage of questions in the House of Commons to Bridget Phillipson, the education secretary, and her team of ministers on Monday 2 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/57d9dc94-e5e1-42d7-bc4b-0aac6ff616b1/cover",
-          "start_time": "07:00",
-          "end_time": "07:55"
-        },
-        {
-          "show_name": "Ten Minute Rule Bill on...",
-          "show_description": "...Labelling of Kosher and Halal Meat. Coverage of the introduction in the House of Commons of a ten minute rule bill on the labelling of halal and kosher meat, on Tuesday 24 February.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/473dba15-f271-450f-bae7-482d087d1f59/cover",
-          "start_time": "07:55",
-          "end_time": "08:05"
-        },
-        {
-          "show_name": "Treasury Committee on the...",
-          "show_description": "...Office for Budget Responsibility. The Treasury committee on the last 15 years of the Office for Budget Responsibility (OBR).",
-          "show_logo": "https://images.metadata.sky.com/pd-image/eebe27f5-20cc-460f-a70b-d22a6ad12fcb/cover",
-          "start_time": "08:05",
-          "end_time": "09:45"
-        },
-        {
-          "show_name": "Business and Trade Committee on...",
-          "show_description": "...the Competition and Markets Authority. The Business and Trade select committee hearing on the Competition and Markets Authority.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/284d2867-ab1d-4764-9986-b6a92659a8e1/cover",
-          "start_time": "09:45",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Live Foreign, Commonwealth and...",
-          "show_description": "...Development Office Questions. Coverage of questions in the House of Commons to Yvette Cooper, the foreign secretary, and her team of ministers on Tuesday 3 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f5b0b611-beb9-4bcf-9890-c38579562645/cover",
-          "start_time": "11:30",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "Live House of Commons",
-          "show_description": "Coverage of the day's proceedings in the House of Commons including the Spring statement by the chancellor of the exchequer on the UK's finances, on Tuesday 3 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/114b728e-9a8a-4107-a668-10e27e5fb34b/cover",
-          "start_time": "12:30",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Live House of Lords",
-          "show_description": "Coverage of proceedings in the House of Lords including the second day of debate on the report stage of the Tobacco and Vapes Bill, on Tuesday 3 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bf404d36-ebed-49e3-b717-a05c3cb01ba6/cover",
-          "start_time": "19:30",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Welsh First Minister's Questions",
-          "show_description": "Questions in the Welsh Parliament to Eluned Morgan, the first minister, on Tuesday 3 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c4076cff-ba94-487f-b912-957ad02c71e7/cover",
-          "start_time": "22:00",
-          "end_time": "22:50"
-        },
-        {
-          "show_name": "Lords Questions",
-          "show_description": "Questions in the Lords to government ministers covering Carbon Budget 6, the Defence Industrial Strategy 2025, and the competitiveness of British farming, on Tuesday 3 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3faee535-9d7e-418b-bdfe-a17de2f5ac86/cover",
-          "start_time": "22:50",
-          "end_time": "23:35"
-        },
-        {
-          "show_name": "House of Lords",
-          "show_description": "Business in the House of Lords including the second day of debate on the report stage of the Tobacco and Vapes Bill, on Tuesday 3 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5e72ba00-31c7-46e1-b877-8ce43c747ef7/cover",
-          "start_time": "23:35",
-          "end_time": "07:00"
-        }
-      ]
-    },
-    {
       "date": "4 March 2026",
       "programmes": [
+        {
+          "show_name": "House of Lords - Tobacco and Vapes Bill, Part 1",
+          "show_description": "Coverage of the second day of debate in the House of Lords on the report stage of the Tobacco and Vapes Bill, on Tuesday 3 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2946c302-d0e5-4b61-8c68-f4d849ec6c9c/cover",
+          "start_time": "00:20",
+          "end_time": "02:15"
+        },
+        {
+          "show_name": "House of Lords - Tobacco and Vapes Bill, Part 2",
+          "show_description": "Coverage of the second day of debate in the House of Lords on the report stage of the Tobacco and Vapes Bill, on Tuesday 3 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6892d342-b31d-4b0c-a4df-b03f4b173f61/cover",
+          "start_time": "02:15",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "House of Lords - Tobacco and Vapes Bill, Part 3",
+          "show_description": "Coverage of the second day of debate in the House of Lords on the report stage of the Tobacco and Vapes Bill, on Tuesday 3 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/342a96a1-34de-401e-b6a5-e0a8bde89cf5/cover",
+          "start_time": "04:00",
+          "end_time": "05:20"
+        },
+        {
+          "show_name": "Northern Ireland Assembly - Cross-Border Education",
+          "show_description": "Coverage of questions in Stormont to ministers in the Northern Ireland executive.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/18249dc3-08f3-4266-b702-a51e823dbc27/cover",
+          "start_time": "05:20",
+          "end_time": "06:20"
+        },
         {
           "show_name": "Foreign, Commonwealth and...",
           "show_description": "...Development Office Questions. Coverage of questions in the House of Commons to Yvette Cooper, the foreign secretary, and her team of ministers on Tuesday 3 March.",
           "show_logo": "https://images.metadata.sky.com/pd-image/f5b0b611-beb9-4bcf-9890-c38579562645/cover",
-          "start_time": "07:00",
-          "end_time": "08:00"
+          "start_time": "06:20",
+          "end_time": "07:20"
         },
         {
-          "show_name": "House of Commons",
-          "show_description": "Highlights of proceedings in the House of Commons from Tuesday 3 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/114b728e-9a8a-4107-a668-10e27e5fb34b/cover",
-          "start_time": "08:00",
+          "show_name": "Spring Statement",
+          "show_description": "Coverage of the Spring Statement by chancellor of the exchequer Rachel Reeves on the UK's finances, on Tuesday 3 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5f2ad68b-c0b5-403c-a1f4-2448f94f5343/cover",
+          "start_time": "07:20",
           "end_time": "09:30"
         },
         {
@@ -184,6 +102,74 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/8558db64-feba-4ecf-8091-74f6d5c406d1/cover",
           "start_time": "23:20",
           "end_time": "07:00"
+        }
+      ]
+    },
+    {
+      "date": "5 March 2026",
+      "programmes": [
+        {
+          "show_name": "Wales Office Questions",
+          "show_description": "Coverage of questions in the House of Commons to Jo Stevens, the Welsh secretary, and her team of ministers on Wednesday 4 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/79d592ec-8840-4c74-9312-2eff2525ed29/cover",
+          "start_time": "07:00",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "Prime Minister's Questions",
+          "show_description": "Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 4 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/854df080-d555-4d0e-b077-ba498e5bfe5c/cover",
+          "start_time": "07:30",
+          "end_time": "08:05"
+        },
+        {
+          "show_name": "House of Commons",
+          "show_description": "Highlights of proceedings in the House of Commons from Wednesday 4 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4ecf1f88-0eca-40dd-bc66-6dd3f2bf9a87/cover",
+          "start_time": "08:05",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Live Cabinet Office Questions",
+          "show_description": "Coverage of questions in the House of Commons to the cabinet office team of ministers, on Thursday 5 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cae1f602-1df7-47a0-b190-8f8bcaecfd05/cover",
+          "start_time": "09:30",
+          "end_time": "10:30"
+        },
+        {
+          "show_name": "Live Commons Business Questions",
+          "show_description": "Coverage of the announcement of future Commons business and questions to Alan Campbell, the leader of the Commons, on Thursday 5 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5ed5147b-5b9a-4028-8b93-372fcc3e2215/cover",
+          "start_time": "10:30",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Live House of Commons",
+          "show_description": "Coverage of the day's proceedings in the House of Commons including backbench business debates on the contributions of Commonwealth troops in the First World War.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5ed5147b-5b9a-4028-8b93-372fcc3e2215/cover",
+          "start_time": "11:30",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "Scottish First Minister's Questions",
+          "show_description": "Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 5 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/86670931-061f-48fd-a86c-5addb5574a78/cover",
+          "start_time": "17:30",
+          "end_time": "18:15"
+        },
+        {
+          "show_name": "Lords Questions",
+          "show_description": "Questions in the House of Lords covering 'forever chemicals', class inequality in the arts, and on the operation of the Access to Work fund, on Thursday 5 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3c4d9673-bf1f-4392-831e-e1d9690cb81c/cover",
+          "start_time": "18:15",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "House of Lords",
+          "show_description": "Business in the House of Lords including the third day of debate on the report stage of the Tobacco and Vapes Bill, on Thursday 5 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d1ada6fc-f06b-4b70-8d32-ea6f0c74196f/cover",
+          "start_time": "19:00",
+          "end_time": "02:15"
         }
       ]
     }

@@ -3,193 +3,20 @@
   "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
   "schedule": [
     {
-      "date": "3 March 2026",
-      "programmes": [
-        {
-          "show_name": "Weather for the Week Ahead",
-          "show_description": "Detailed weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a9b47fb8-1417-440f-b175-0bc6bb4cfd1b/cover",
-          "start_time": "01:30",
-          "end_time": "01:35"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bb1ed82e-2d10-4b53-848f-c355fcdfb672/cover",
-          "start_time": "01:35",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cd37bfa1-c393-48d8-868f-016454419be3/cover",
-          "start_time": "06:00",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Morning Live",
-          "show_description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6de1668a-6b9b-472a-bb59-9be92e95b426/cover",
-          "start_time": "09:30",
-          "end_time": "10:45"
-        },
-        {
-          "show_name": "Crimewatch Live",
-          "show_description": "2/15. Does a shoe print left at a murder scene hold the key to solving a tragic cold case? And how a grandmother used her family to distribute almost a ton of cocaine.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6e3b5de5-8301-424c-a207-4f91cf797560/cover",
-          "start_time": "10:45",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Homes Under the Hammer",
-          "show_description": "24/80. Martin and Martel tour three properties - in Cornwall, County Durham and south Wales - and meet the owners who plan to give them a new lease of life.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/864e52f5-6849-364f-b58b-ff71b9f3693e/cover",
-          "start_time": "11:30",
-          "end_time": "12:15"
-        },
-        {
-          "show_name": "Bargain Hunt",
-          "show_description": "Natasha Raskin Sharp visits Cheltenham Racecourse, where the teams have expert help from Danny Sebastian and Caroline Hawley. Natasha takes a look at the Cheltenham Gold Cup.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cc857226-6899-41e3-ae82-c725e8155f20/cover",
-          "start_time": "12:15",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "BBC News at One including BBC London News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4b205a6e-aa52-499b-b2be-d46e0180a0b6/cover",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Bear Grylls - Wild Reckoning",
-          "show_description": "Julie and Jason were happily married for 27 years. But Julie's experience of going through menopause nearly tore them apart. Can time in the wild help get their spark back?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/50cd3f33-1055-42ce-9891-3fc30bf4f1dd/cover",
-          "start_time": "14:00",
-          "end_time": "14:30"
-        },
-        {
-          "show_name": "Marcus Wareing Simply Provence",
-          "show_description": "14/15. Marcus has a VIP coming for dinner, and he wants to impress. He intends to build the meal around one simple local ingredient that's surprisingly grown just down the road, red rice.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3e084cc0-99fb-33e9-8c19-d64174e5fa16/cover",
-          "start_time": "14:30",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Escape to the Country",
-          "show_description": "32/50. Nicki Chapman is in the West Country, helping three generations from the West Midlands make a Devon escape. She also tries her hand at weaving with a local textile designer.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cef2f7a4-da5a-4de0-9304-ee6cf3fbf7e0/cover",
-          "start_time": "15:00",
-          "end_time": "15:45"
-        },
-        {
-          "show_name": "Clean It, Fix It",
-          "show_description": "12/20. Mark Wright, Tommy Walsh and Maxine Dwyer help Amanda and Dan transform their home to suit both work and family life.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7c325d24-54b4-4bdf-92bd-f91a7bd4187f/cover",
-          "start_time": "15:45",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "Celebrity Antiques Road Trip",
-          "show_description": "2/5. From the road trip archives, music legends Peter Andre, Martin Kemp and Sinitta swap the studio for the saleroom, vying to be top of the pops. But who will get the number one spot?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fd61da1b-2991-4cd1-a16d-e725d502edac/cover",
-          "start_time": "16:30",
-          "end_time": "17:15"
-        },
-        {
-          "show_name": "Pointless",
-          "show_description": "52/55. The quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/11dd24b0-049a-4ea5-9489-9317de318ceb/cover",
-          "start_time": "17:15",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fee182cf-ad49-4e5f-9092-2a2169f5beb4/cover",
-          "start_time": "18:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "BBC London News",
-          "show_description": "The latest news, sport and weather from London.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0ef3342c-a285-4947-8567-dcdc3851bedc/cover",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "The One Show",
-          "show_description": "Alex Jones and Lauren Laverne bring you the stories that matter from across the country.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7f310ad1-2f8c-465b-b1e6-8f531cd6677f/cover",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "EastEnders",
-          "show_description": "Ravi is conflicted over his loyalties, Max takes action on Linda's behalf, and Howie is determined to make a difference.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/45b23325-4c37-454f-8d4d-5025ac06b95c/cover",
-          "start_time": "19:30",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "MasterChef: The Professionals",
-          "show_description": "10/21. 2018 finalist Matthew Ryle sets the competing chefs skills tests inspired by French classic cookery, highlighting just what you can achieve with red mullet and roasted poussin.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f1a92903-8ca5-4ff8-96b8-a4e645bdf89b/cover",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Silent Witness",
-          "show_description": "10/10. As the Bowman team continue to navigate smoke and mirrors, another victim is discovered. Contains some strong language, some violence and some upsetting scenes.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3f060f6b-c3dd-4534-aaef-dab70b156042/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "BBC News and Weather",
-          "show_description": "The latest national and international news, with reports from BBC correspondents worldwide.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/78b97c62-0612-4f98-96f1-9e54d927622e/cover",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "BBC London News",
-          "show_description": "The latest news, sport and weather from London.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9833156b-5e08-4d74-9f57-063bd08d243c/cover",
-          "start_time": "22:30",
-          "end_time": "22:40"
-        },
-        {
-          "show_name": "Ben Youngs Investigates: How Safe Is Rugby?",
-          "show_description": "Rugby's Ben Youngs asks if there is a link between concussion and long-term brain health. Contains some strong language.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c4a5f41d-ac44-41e0-ab04-2db8c8fc378b/cover",
-          "start_time": "22:40",
-          "end_time": "23:40"
-        },
-        {
-          "show_name": "Would I Lie to You?",
-          "show_description": "9/12. Rob Brydon hosts the award-winning comedy panel show. Lee Mack and David Mitchell are joined by guest panellists David Morrissey, Holly Willoughby, John Kearns and Montell Douglas.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/431354d5-de86-43b5-90b9-04250bc1e10c/cover",
-          "start_time": "23:40",
-          "end_time": "00:10"
-        }
-      ]
-    },
-    {
       "date": "4 March 2026",
       "programmes": [
         {
           "show_name": "Weather for the Week Ahead",
           "show_description": "Detailed weather forecast.",
           "show_logo": "https://images.metadata.sky.com/pd-image/74a7ebdf-ea7e-43c7-a59d-b1a164e38a03/cover",
-          "start_time": "00:10",
-          "end_time": "00:15"
+          "start_time": "00:15",
+          "end_time": "00:20"
         },
         {
           "show_name": "BBC News",
           "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
           "show_logo": "https://images.metadata.sky.com/pd-image/92fe10ea-b04b-4fd7-bba6-7d9704fbe2e9/cover",
-          "start_time": "00:15",
+          "start_time": "00:20",
           "end_time": "06:00"
         },
         {
@@ -337,6 +164,186 @@
           "show_description": "Mark Chapman presents highlights of the midweek Premier League fixtures, including Brighton against Arsenal and Manchester City versus Nottingham Forest.",
           "show_logo": "https://images.metadata.sky.com/pd-image/83de10fd-a725-4960-918a-4c789ec77a00/cover",
           "start_time": "22:40",
+          "end_time": "00:10"
+        }
+      ]
+    },
+    {
+      "date": "5 March 2026",
+      "programmes": [
+        {
+          "show_name": "Kiss the Girls",
+          "show_description": "Cop and psychologist Dr Alex Cross investigates his niece's disappearance. Contains strong language, some sexual content and sexual violence. [1997]",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1e32f3df-ccdc-40a6-a44a-7c6ecfaf0eab/cover",
+          "start_time": "00:10",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "Weather for the Week Ahead",
+          "show_description": "Detailed weather forecast.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/53cc20d3-69e3-469a-9943-6e3cdf67fa5c/cover",
+          "start_time": "02:00",
+          "end_time": "02:05"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1c60ac8b-2a50-40d2-b597-f41cee62759e/cover",
+          "start_time": "02:05",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/44f4e15c-f06c-48c3-a26a-f2b96386a98d/cover",
+          "start_time": "06:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Morning Live",
+          "show_description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c301af2f-f19c-4ebb-9097-e07d278e8e6a/cover",
+          "start_time": "09:30",
+          "end_time": "10:45"
+        },
+        {
+          "show_name": "Crimewatch Live",
+          "show_description": "4/15. A heartfelt plea to find those who shot 16-year-old Amaan Shakoor in London in 2018.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a622475c-f481-45e1-9e68-f2cfa1678fa5/cover",
+          "start_time": "10:45",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Homes Under the Hammer",
+          "show_description": "27/80. A former pub in Stockport has Dion searching for any hidden leftover beer! And the layout of three flats in Cheshire has Martin lost for words.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/707478da-3ce4-3aa2-86b6-1744e3e048bb/cover",
+          "start_time": "11:30",
+          "end_time": "12:15"
+        },
+        {
+          "show_name": "Bargain Hunt",
+          "show_description": "While Caroline learns about a rare collection of pressed seaweed, the teams look for their own specimens to sell at auction alongside experts Ben Cooper and Kate Bliss.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/32544a8a-525c-32b4-9b86-d456e2be30fc/cover",
+          "start_time": "12:15",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "BBC News at One including BBC London News",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ee100575-727a-44c4-b199-79cb91181808/cover",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Bear Grylls - Wild Reckoning",
+          "show_description": "Married couple Steve and Jenny need to buy their first home together, but they can't agree on what they want. Will one convince the other, or can they compromise?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e46e1b86-8f5a-45bb-9fa1-b160b3182bed/cover",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "Celebrity Escape to the Country",
+          "show_description": "2/5. Jules Hudson helps Jenny 'The Vixen' Ryan and her partner Thom find a new countryside home in rural Lancashire, worthy of the UK's 'queen of the quiz'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/20c77826-c8e4-3ba0-9b28-8707c8d2303e/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Escape to the Country",
+          "show_description": "21/55. Today's couple are newly retired, newly engaged, and with the help of Briony May Williams, are now looking for a new home surrounded by North Yorkshire's spectacular countryside.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/617f0010-5458-4d21-b9ba-596a4927c724/cover",
+          "start_time": "15:00",
+          "end_time": "15:45"
+        },
+        {
+          "show_name": "Clean It, Fix It",
+          "show_description": "14/20. Mark Wright, Tommy Walsh and Maxine Dwyer help Catherine, a widow, tackle the unfinished DIY projects left behind by her late husband.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e980c7fe-b453-4b3a-a8c0-aea033a80b15/cover",
+          "start_time": "15:45",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "Celebrity Antiques Road Trip",
+          "show_description": "4/5. Sporting legends from past road trips, football pundit Chris Kamara, wheelchair basketball star Ade Adepitan and tennis ace Judy Murray have their eyes set on antiques glory.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b914d002-925b-47ee-aa6d-4d03fce5e652/cover",
+          "start_time": "16:30",
+          "end_time": "17:15"
+        },
+        {
+          "show_name": "Pointless",
+          "show_description": "54/55. The quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5e0594bb-77e9-4cec-9562-3a2b2185dab7/cover",
+          "start_time": "17:15",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/80f29dfb-304b-44fe-ae86-52f62a13a358/cover",
+          "start_time": "18:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "BBC London News",
+          "show_description": "The latest news, sport and weather from London.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/baeb50a2-c42f-495e-b323-fd59f584c1ee/cover",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "The One Show",
+          "show_description": "Alex Jones and Roman Kemp bring you the stories that matter from across the country.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/254aba17-6528-403f-b370-a0d7a1d2a721/cover",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "EastEnders",
+          "show_description": "Phil prepares for a big change. Lexi gives some sage advice.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8326e9e5-93c6-44c5-a1cd-dcee0a9ea124/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "New: Dragons' Den",
+          "show_description": "6/14. Guest Dragon and skincare supremo Susie Ma returns to the Den.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ec1d3b7c-9120-45de-b94e-98fcab8cab2a/cover",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "The Apprentice",
+          "show_description": "6/12. The candidates head to Egypt to put on corporate away days. Chaos ensues. Contains some strong language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1545a03d-0990-4517-bb6a-b50fa0aecb02/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "BBC News and Weather",
+          "show_description": "The latest national and international news, with reports from BBC correspondents worldwide.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d66f2913-c8dd-407b-88e9-930ff9fd1c03/cover",
+          "start_time": "22:00",
+          "end_time": "22:35"
+        },
+        {
+          "show_name": "BBC London News",
+          "show_description": "The latest news, sport and weather from London.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c0676f06-1b1c-4e8b-a7d7-b2d9a0b1f0cb/cover",
+          "start_time": "22:35",
+          "end_time": "22:40"
+        },
+        {
+          "show_name": "Question Time",
+          "show_description": "Fiona Bruce presents an hour of topical debate.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5f50b5fb-0048-487b-bb35-69d7cc19db00/cover",
+          "start_time": "22:40",
+          "end_time": "23:40"
+        },
+        {
+          "show_name": "Newscast",
+          "show_description": "Lighthearted discussion of the week's political events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/18aaccfe-cd8a-41cd-96c7-bdb00b865ae1/cover",
+          "start_time": "23:40",
           "end_time": "00:10"
         }
       ]
