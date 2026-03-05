@@ -3,95 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-6-Music.png",
   "schedule": [
     {
-      "date": "4 March 2026",
-      "programmes": [
-        {
-          "show_name": "6 Music's Indie Forever",
-          "show_description": "Celebrating Arctic Monkeys' Whatever People Say I Am... with Richard Hawley and Lava La Rue!",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "Mark Lamarr",
-          "show_description": "Three hours of musical curiosities from Mark Lamarr's record box including past sessions from Graham Coxon and Elvis Costello.",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "6 Music Live Hour",
-          "show_description": "Hope of the States play live in Bristol in 2003, and there's BBC sessions from Charlotte Adigery and Orquesta La Clave.",
-          "show_logo": "",
-          "start_time": "03:00",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "The 6 Music Playlist",
-          "show_description": "Want to hear the latest tracks 6 Music have added to their playlist? Then listen here!",
-          "show_logo": "",
-          "start_time": "04:00",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "Chris Hawkins",
-          "show_description": "Names in Songs returns. Can you hear your name in a well-known song?",
-          "show_logo": "",
-          "start_time": "05:00",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Nick Grimshaw",
-          "show_description": "Wonderful music to start your day, including the Cloudbusting mix to banish the grey skies.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Lauren Laverne",
-          "show_description": "Actor Cillian Murphy joins around new film, Peaky Blinders: The Immortal Man.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Craig Charles",
-          "show_description": "Craig celebrates your midweek wins for Wednesday, I'm In Love, and we hear another of your left-field music suggestions as we turn Left At The Lights.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Huw Stephens",
-          "show_description": "TOMORA, the new duo of AURORA and Tom Rowlands of The Chemical Brothers join Huw, and we get to know the band Ugly Ozo in this week's 'Huw Are You'.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "New Music Fix Daily",
-          "show_description": "Nathan chats to Birmingham's Tony Bontana about the making of his latest album, My Name. Tony Bontana is a rapper and producer who has put out 35 albums to date.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Riley & Coe",
-          "show_description": "Gideon Coe plays his music loves from every era and genre. Will include Honey, Hairbands, Ships and a Ship - come in and enjoy.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "6 Music Artist in Residence",
-          "show_description": "Kelly Lee Owens picks some of her Favourite Film Scores.",
-          "show_logo": "",
-          "start_time": "23:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "5 March 2026",
       "programmes": [
         {
@@ -173,7 +84,7 @@
         },
         {
           "show_name": "New Music Fix Daily",
-          "show_description": "Nathan Shepherd and Deb Grant hand-pick and share their latest new music obsessions.",
+          "show_description": "Start your weekend early with a guest mix from Shy One, a producer and DJ from London whose new album Mali is due out on 12th March via South London label Touching Bass.",
           "show_logo": "",
           "start_time": "19:00",
           "end_time": "21:00"
@@ -188,6 +99,116 @@
         {
           "show_name": "6 Music Artist in Residence",
           "show_description": "A deep dive into the mind of an artist.",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "6 March 2026",
+      "programmes": [
+        {
+          "show_name": "New Music Fix Playlist",
+          "show_description": "Get your fix of all the best new releases in one handy playlist.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "New Album Fix",
+          "show_description": "Matt Everitt previews the week's best brand new albums, as we hear from Joshua Idehen, Cobrah and Bonnie 'Prince' Billy.",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "6 Music Jukebox",
+          "show_description": "6 Music takes you through the early hours, playing back-to-back music.",
+          "show_logo": "",
+          "start_time": "02:00",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "6 Music's 90s Forever",
+          "show_description": "6 Music goes back to the 90s!",
+          "show_logo": "",
+          "start_time": "03:00",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "6 Music's 00s Forever",
+          "show_description": "6 Music goes back to the 00s!",
+          "show_logo": "",
+          "start_time": "04:00",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "The Remix with Chris Hawkins",
+          "show_description": "Chris celebrates International Women's Day with 30 minutes of remixed tracks from incredible women in music.",
+          "show_logo": "",
+          "start_time": "05:00",
+          "end_time": "05:30"
+        },
+        {
+          "show_name": "Chris Hawkins",
+          "show_description": "New music and the biggest Friday bangers with Chris Hawkins.",
+          "show_logo": "",
+          "start_time": "05:30",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Nick Grimshaw",
+          "show_description": "Rapper Denzel Curry chats to Nick about his new album and touring with Deftones.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Lauren Laverne",
+          "show_description": "Musician and spoken word performer Joshua Idehen joins around his debut album, I Know You're Hurting, Everyone is Hurting, Everyone is Trying, You Have Got to Try.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Craig Charles",
+          "show_description": "Craig spins some joyous tunes to get your weekend started, before giving YOU the chance to pick the last song of the show!",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Huw Stephens",
+          "show_description": "It's Friday, so Huw is out to prove that any song sounds better when it's played on 6 Music by Huw Stephens - so let us know what you want to hear.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "The People's Party with Femi Koleoso",
+          "show_description": "Ease from the end of your working week with joyful global selections. A place where people come together through their shared love of music.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "6 Music's Indie Forever",
+          "show_description": "Nothing but solid gold upbeat indie bangers; a throwback to the indie tunes you love with a sprinkling of the finest future hits.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "6 Music's Indie Forever",
+          "show_description": "Ladytron takeover the Indie Forever playlist playing their favourite indie hits!",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "The 6 Mix with Mary Anne Hobbs",
+          "show_description": "Mary Anne Hobbs with your weekly guest mix on 6 Music.",
           "show_logo": "",
           "start_time": "23:00",
           "end_time": "00:00"

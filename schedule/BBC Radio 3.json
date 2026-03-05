@@ -3,95 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
   "schedule": [
     {
-      "date": "4 March 2026",
-      "programmes": [
-        {
-          "show_name": "Through the Night",
-          "show_description": "Haydn's 'Sunrise' Quartet and Beethoven's 'Razumovsky' Op 59 no 1 Quartet performed by one of the world's most enduring quartets at the Barcelona String Quartet Biennale.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "Linton Stephens presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Essential Classics",
-          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Classical Live",
-          "show_description": "Al Ryan with exclusive recordings of music by Striggio and others plus another in the Wednesday series of concerts from the BBC Philharmonic Orchestra to take us into spring.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Choral Evensong",
-          "show_description": "Live from the Chapel of Sidney Sussex College, Cambridge, with music by Joanna Marsh.",
-          "show_logo": "",
-          "start_time": "15:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Composer of the Week: Sibelius",
-          "show_description": "3/5. Kate Molleson follows the creation of the Fourth Symphony by Sibelius amid much self-doubt - a work at least one biographer has termed as his Psychological Symphony.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "In Tune",
-          "show_description": "Petroc welcomes Her Ensemble  and author Eric McElroy to In Tune.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Classical Mixtape",
-          "show_description": "Take time out with a 30-minute soundscape of classical music.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Radio 3 in Concert",
-          "show_description": "Kahchun Wong conducts the Hallé Orchestra and Choirs at Bridgewater Hall in Manchester, in a programme of celestial music by Gustav Holst, Unsuk Chin and Colin Matthews.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "The Essay: You, Me and the Wireless",
-          "show_description": "Legendary broadcaster Gillian Reynolds shares her life and career in radio, spanning over 50 years. Today's essay looks at highlights in radio comedy.",
-          "show_logo": "",
-          "start_time": "21:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Night Tracks",
-          "show_description": "Hannah Peel presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "'Round Midnight",
-          "show_description": "Melissa Aldana has a third artist that she would like to give Flowers to.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "5 March 2026",
       "programmes": [
         {
@@ -167,6 +78,88 @@
         {
           "show_name": "'Round Midnight",
           "show_description": "Tonight, Melissa Aldana has one more bunch of flowers to give to a jazz artist that she appreciates.",
+          "show_logo": "",
+          "start_time": "23:30",
+          "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "6 March 2026",
+      "programmes": [
+        {
+          "show_name": "Through the Night",
+          "show_description": "Violinist Carolin Widmann and pianist Gabriele Carcano play sonatas by Schumann, Brahms and Fauré at the Pau Casals International Music Festival in Spain. Penny Gore presents.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "Linton Stephens presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Essential Classics",
+          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Classical Live",
+          "show_description": "Al Ryan reaches the climax of his week focused on performances of distinctive settings of the mass with Beethoven, and he also casts an eye on festive chamber music from Belfast.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Composer of the Week: Sibelius",
+          "show_description": "5/5. Kate Molleson follows Sibelius in the creation of his Sixth and Seventh Symphonies - and also the Eighth which the composer destroyed.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "In Tune",
+          "show_description": "Harpist Anne-Sophie Bertrand and rediscovered pieces by Ethel Yeats and Augusta Zuckermann, who was known by her pseudonym Mana-Zucca.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Classical Mixtape",
+          "show_description": "Take time out with a 30-minute soundscape of classical music with music from Saint-Saens, Mendelssohn, Mozart and Howard Shore.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Friday Night is Music Night",
+          "show_description": "The BBC National Orchestra of Wales, conductor Ian McMillan-Davidson, and three vocal stars celebrate the music of Ivor Novello on the 75th anniversary of his death.",
+          "show_logo": "",
+          "start_time": "19:30",
+          "end_time": "21:45"
+        },
+        {
+          "show_name": "The Essay: You, Me and the Wireless",
+          "show_description": "Legendary broadcaster Gillian Reynolds shares her life and career in radio, spanning over 50 years. Audio drama takes centre stage in this final essay.",
+          "show_logo": "",
+          "start_time": "21:45",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Late Junction",
+          "show_description": "Join Jennifer Lucy Allan for a celebration of the accordion's more experimental sides, from extended techniques to pedal manipulation.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "'Round Midnight",
+          "show_description": "Soweto presents concert highlights from vocalist, violinist, and friend of the show Alice Zawadzki, who blends different music traditions and jazz.",
           "show_logo": "",
           "start_time": "23:30",
           "end_time": "00:30"
