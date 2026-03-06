@@ -3,67 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Talksport.png",
   "schedule": [
     {
-      "date": "5 March 2026",
-      "programmes": [
-        {
-          "show_name": "Extra Time with Paul Ross",
-          "show_description": "The perfect excuse to stay up late. Call the show on 03717 22 33 44 (Calls charged at national rate) or text 81089 (50p + charges).",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "Early Sports Breakfast",
-          "show_description": "An early morning serving of the latest sports news for when you wake up.",
-          "show_logo": "",
-          "start_time": "05:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "talkSPORT Breakfast",
-          "show_description": "Join us as we bring you a breakfast buffet of sport. Call the show on 03717 22 33 44 (Calls charged at national rate) or text 81089 (50p + charges).",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "White & Jordan",
-          "show_description": "Breaking sports news, big name guests and opinionated debate on the day's top stories. Call the show on 03717 22 33 44 (Calls charged at national rate) or text 81089 (50p + charges).",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Kelly & Baker",
-          "show_description": "A serving of sports news, guests and a sideways look at the big stories of the day. Call the show on 03717 22 33 44 (Calls charged at national rate) or text 81089 (50p + charges).",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "talkSPORT Drive",
-          "show_description": "The best sporting debate on your way home. Call the show on 03717 22 33 44 (Calls charged at national rate) or text 81089 (50p + charges).",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Kick Off with Natalie Sawyer",
-          "show_description": "The best football discussion, including updates from Tottenham v Crystal Palace. Call the show on 03717 22 33 44 (Calls charged at national rate) or text 81089 (50p + charges).",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The Sports Bar",
-          "show_description": "Reaction, analysis and your chance to have your say on the day's sport. Call the show on 03717 22 33 44 (Calls charged at national rate) or text 81089 (50p + charges).",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "6 March 2026",
       "programmes": [
         {
@@ -121,6 +60,67 @@
           "show_logo": "",
           "start_time": "22:00",
           "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "7 March 2026",
+      "programmes": [
+        {
+          "show_name": "Extra Time with Ben Fletcher",
+          "show_description": "The perfect excuse to stay up late. Call the show on 03717 22 33 44 (Calls charged at national rate) or text 81089 (50p + charges).",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Weekend Sports Breakfast",
+          "show_description": "The definitive word on all the weekend's sports stories. Call the show on 03717 22 33 44 (Calls charged at national rate) or text 81089 (50p + charges).",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "The Warm Up",
+          "show_description": "The best build-up to today's sporting action with pre-match fun and games. Call the show on 03717 22 33 44 (Calls charged at national rate) or text 81089 (50p + charges).",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "FA Cup GameDay - Mansfield v Ars",
+          "show_description": "It's GameDay on talkSPORT and talkSPORT 2 as we become your go to destination for all the FA Cup action. Hull v Millwall is on talkSPORT 2.",
+          "show_logo": "",
+          "start_time": "11:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "GameDay Live",
+          "show_description": "Adrian Durham with the fastest goal service as he goes around the grounds in the Premier League and EFL.",
+          "show_logo": "",
+          "start_time": "14:30",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "FA Cup GameDay - Wrexham v Chelsea",
+          "show_description": "It's GameDay on talkSPORT and talkSPORT 2 as we become your go to destination for all the FA Cup action.",
+          "show_logo": "",
+          "start_time": "17:30",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "FA Cup GameDay",
+          "show_description": "It's GameDay on talkSPORT and talkSPORT 2 as we become your go to destination for all the FA Cup action.",
+          "show_logo": "",
+          "start_time": "19:30",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Sports Bar Weekender",
+          "show_description": "Reaction, analysis and your chance to have your say on the day's sport. Call the show on 03717 22 33 44 (Calls charged at national rate) or text 81089 (50p + charges).",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "00:00"
         }
       ]
     }

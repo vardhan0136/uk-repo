@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
   "schedule": [
     {
-      "date": "5 March 2026",
-      "programmes": [
-        {
-          "show_name": "Through the Night",
-          "show_description": "The National Symphony Orchestra, Ireland perform Mozart's Piano Concerto no 20, the Irish premiere of Cindy McTee's 'Timepiece' and Richard Strauss's 'Ein Heldenleben'.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "Linton Stephens presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Essential Classics",
-          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Classical Live",
-          "show_description": "Al Ryan introduces a concert recording from Munich of Charpentier's Marian mass and brings us highlights from the recent Belfast International Festival of Chamber Music.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Composer of the Week: Sibelius",
-          "show_description": "4/5. Kate Molleson delves into the iconic Fifth Symphony by Jean Sibelius - and its famed programmatic depiction of swans.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "In Tune",
-          "show_description": "Danny Driver plays live in the studio and Musical Director of the Bach Choir, David Hill.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Classical Mixtape",
-          "show_description": "Take time out with a 30-minute soundscape of classical music.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Radio 3 in Concert",
-          "show_description": "The BBC National Orchestra of Wales and Ryan Bancroft perform Hillborg's Exquisite Corpse, Shostakovich's 2nd Cello Concerto with Alban Gerhardt and Sibelius's Lemminkäinen Suite.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "The Essay: You, Me and the Wireless",
-          "show_description": "Legendary broadcaster Gillian Reynolds shares her life and career in radio, spanning over 50 years. The role of politics on air is her theme in this essay.",
-          "show_logo": "",
-          "start_time": "21:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Night Tracks",
-          "show_description": "Hannah Peel presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "'Round Midnight",
-          "show_description": "Tonight, Melissa Aldana has one more bunch of flowers to give to a jazz artist that she appreciates.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "6 March 2026",
       "programmes": [
         {
@@ -124,7 +42,7 @@
         },
         {
           "show_name": "In Tune",
-          "show_description": "Harpist Anne-Sophie Bertrand and rediscovered pieces by Ethel Yeats and Augusta Zuckermann, who was known by her pseudonym Mana-Zucca.",
+          "show_description": "Harpist Anne-Sophie Bertrand and the Kaleiddoscope Chamber Collective play rediscovered pieces by Ethel Yeats and Augusta Zuckermann.",
           "show_logo": "",
           "start_time": "17:00",
           "end_time": "19:00"
@@ -162,6 +80,88 @@
           "show_description": "Soweto presents concert highlights from vocalist, violinist, and friend of the show Alice Zawadzki, who blends different music traditions and jazz.",
           "show_logo": "",
           "start_time": "23:30",
+          "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "7 March 2026",
+      "programmes": [
+        {
+          "show_name": "Through the Night",
+          "show_description": "From the Baltic Sea Festival in Stockholm, La fonte musica performs Vespro della Beata Vergine. Penny Gore presents.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "Hannah French presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Saturday Morning",
+          "show_description": "Sara Mohr-Pietsch sits in for Tom Service, with the best classical music and guests to start your Saturday.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Earlier... with Jools Holland",
+          "show_description": "Jools is joined by the lyricist, songwriter and musician Richard Stilgoe.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Music Matters: Turning the Page",
+          "show_description": "Violinist Tasmin Little speaks to artists about leaving the world of performance behind. This week's focus is on the taboo of injury and the pressure of expectation for soloists.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Record Review",
+          "show_description": "Andrew McGregor picks the best new classical releases, joined by guests mezzo-soprano Kitty Whately & Mark Lowther, who recommends his favorite recording of Handel's Dixit Dominus.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Sound Of Cinema",
+          "show_description": "A celebration of exceptional movie music and film scores with Edith Bowman, who's joined by American composer and arranger Richard Niles for this week's Harmonising Hollywood.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "This Classical Life",
+          "show_description": "Jess Gillam swaps music choices with the violinist, singer and educator Lizzie Ball.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Opera on 3",
+          "show_description": "Another chance to hear Jonas Kaufmann singing the title role of Verdi's Otello from the Royal Opera House, conducted by Antonio Pappano. Recorded in 2017.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "Music Planet",
+          "show_description": "Lopa Kothari presents a special solo session with Palestinian nay virtuoso Faris Ishaq. Plus, a fresh selection of roots-based releases from across the world.",
+          "show_logo": "",
+          "start_time": "21:30",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "New Music Show",
+          "show_description": "Cutting edge music including the premiere of Shiva Feshareki's DIVINE FEMININE, a 360  soundscape of \"divine\" geometric spatialisation.",
+          "show_logo": "",
+          "start_time": "22:30",
           "end_time": "00:30"
         }
       ]

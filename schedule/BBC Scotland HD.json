@@ -3,95 +3,6 @@
   "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png",
   "schedule": [
     {
-      "date": "5 March 2026",
-      "programmes": [
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Reporting Scotland: News at Seven",
-          "show_description": "More from the day's top stories and communities across Scotland.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/da68f2ef-0e06-45cd-b3a2-653204f07c9d/cover",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "New: The Entertainment Mix",
-          "show_description": "13/16. Michelle McManus serves up big name interviews, features and the latest in entertainment and culture news from across Scotland.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/90d36329-339c-4c61-b121-deb93dcdfde4/cover",
-          "start_time": "19:30",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Scotland's Sacred Islands with Ben Fogle",
-          "show_description": "4/4. Ben Fogle discovers spiritual power and faith on the stunning Isle of Skye.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e2d95b79-7182-30f5-b7af-16e1972f511d/cover",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Greetings from Scotland",
-          "show_description": "1/2. Documentary taking a humorous look at the early days of tourism in Scotland, from the Speyside St Moritz to cultural Clydeside.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1467c74b-efab-4b48-b586-6bd2996c71a7/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "New: Situationships with Sophie and Christine",
-          "show_description": "3/8. Are Sophie and Christine any good at saying sorry? They find out what they consider a good apology, and what they are always having to apologise for!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/360c617f-f1cd-4cf3-8311-5cea72622595/cover",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "Martin Compston's Scottish Fling",
-          "show_description": "6/6. Martin and Phil end their tour of Scotland in the lowlands, before heading to Martin's hometown of Greenock for a heartfelt sign-off. Contains some strong language.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/95401f03-d87b-4b43-9488-0d4dde5177a4/cover",
-          "start_time": "22:30",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Scotcast",
-          "show_description": "Conversation about Scotland's biggest news stories, hosted by Martin Geissler.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0a469acd-bc81-4f0a-93bb-654d4012529b/cover",
-          "start_time": "23:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "Scot Squad",
-          "show_description": "1/5. Scotland's favourite force are back battling bams and busting scams. The Chief deals with speculation he might quit his tartan patch to become head of the London Met.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/eeb1e4c4-415c-4702-9a7b-fa50b6159081/cover",
-          "start_time": "23:30",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "6 March 2026",
       "programmes": [
         {
@@ -162,6 +73,88 @@
           "show_description": "Some of Scotland's favourite comedians remember Burns recitals, coach trips and country dancing.",
           "show_logo": "https://images.metadata.sky.com/pd-image/7b48b3d7-4274-4dc9-9184-f5d6ef55214e/cover",
           "start_time": "23:45",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "7 March 2026",
+      "programmes": [
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Reporting Scotland: News at Seven",
+          "show_description": "All your weekend national, UK-wide and international news on Saturday evening at 7.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d1fdbf77-56ed-43e3-97cc-5548de471428/cover",
+          "start_time": "19:00",
+          "end_time": "19:15"
+        },
+        {
+          "show_name": "This Farming Life",
+          "show_description": "2/12. Ally is hoping to make his mark at Dingwall Mart, Adam and Lucy are under huge pressure to make the big move earlier than expected, and winter storms cost the Glenn family dearly.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f782c720-8f8d-4185-8764-1265e1ce4124/cover",
+          "start_time": "19:15",
+          "end_time": "20:15"
+        },
+        {
+          "show_name": "Beechgrove Repotted",
+          "show_description": "Kirsty creates four practical, eco-friendly garden items from recycled materials.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/24ed87ca-a2dd-45d3-988b-6ce274ac960b/cover",
+          "start_time": "20:15",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Icons of Football",
+          "show_description": "2/6. How John Robertson twice conquered European football with Nottingham Forest.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fe0be3d7-2bad-338a-9e34-68f789f773b2/cover",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Caroline Walker: Women's Work",
+          "show_description": "Acclaimed Scottish artist Caroline Walker paints the invisible labour that shapes women's lives, from housework to caregiving to creative production.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/87b6ccce-726a-4b79-877e-7b69a7ec0fb6/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Greetings from Scotland",
+          "show_description": "2/2. A humorous look at the Scottish tourism industry through the years.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f6868cbb-9692-40f2-86c6-435db06af5cd/cover",
+          "start_time": "22:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Murder Case: The Hunt for Arlene Fraser's Killer",
+          "show_description": "2/2. A decades-long quest for justice as Arlene's family searches for the truth. Contains some scenes which some viewers may find upsetting.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1580edb2-8691-4ba6-af33-acaad83f6d00/cover",
+          "start_time": "23:00",
           "end_time": "00:00"
         }
       ]
