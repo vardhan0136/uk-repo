@@ -3,389 +3,6 @@
   "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",
   "schedule": [
     {
-      "date": "6 March 2026",
-      "programmes": [
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6211d28a-b65e-4b18-b52c-19433612c81e/cover",
-          "start_time": "00:00",
-          "end_time": "00:30"
-        },
-        {
-          "show_name": "Asia Insight",
-          "show_description": "An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/37f85173-11c9-496e-a0b7-9db8c157643a/cover",
-          "start_time": "00:30",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/10b73941-996a-42e5-ba8a-6bf4e7daea8b/cover",
-          "start_time": "01:00",
-          "end_time": "01:30"
-        },
-        {
-          "show_name": "Today's Close-Up",
-          "show_description": "Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f5115674-1f98-457c-9a71-bb4fe79e657c/cover",
-          "start_time": "01:30",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/606fc9d9-624e-4568-b48b-c12db7b54f64/cover",
-          "start_time": "02:00",
-          "end_time": "02:30"
-        },
-        {
-          "show_name": "Gunmachan",
-          "show_description": "Join Gunmachan and friends for playful adventures full of laughter and curiosity while exploring the charm of Gunma Prefecture's traditions, culture and specialities.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/878a6087-bcf7-4d50-b9d3-c1ac9290d518/cover",
-          "start_time": "02:30",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d4e96e6d-ddfd-40f2-95c6-df9f1facd832/cover",
-          "start_time": "03:00",
-          "end_time": "03:30"
-        },
-        {
-          "show_name": "Japan Railway Journal",
-          "show_description": "Today's theme: Bodies. As AI, digital and virtual spaces take over, thinking about physical bodies is more important than ever - explore the role of designs which are rooted in human physicality.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c9966ee4-0d62-4786-b7d7-7a6ca3f7cd94/cover",
-          "start_time": "03:30",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d7e6a68a-5631-458b-b2ab-006cbab2762b/cover",
-          "start_time": "04:00",
-          "end_time": "04:30"
-        },
-        {
-          "show_name": "Grand Sumo Preview",
-          "show_description": "Ahead of the latest Grand Sumo tournament, NHK World-Japan looks at the race for the championship among top wrestlers - we also focus on up-and-comers' secrets to winning and determination to excel.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/59cb7ccc-8a60-45b0-a915-5faca4023c9c/cover",
-          "start_time": "04:30",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3c1a3a97-d654-4ada-a062-ec30da73b712/cover",
-          "start_time": "05:00",
-          "end_time": "05:30"
-        },
-        {
-          "show_name": "Asia Insight",
-          "show_description": "An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/06f37774-d4ea-4280-a6ba-a14342e3a4e6/cover",
-          "start_time": "05:30",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Newsline Asia 24",
-          "show_description": "This daily news programme picks up the key news stories of the past 24 hours from Japan and around Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/50fc2f8f-defd-441c-9cd9-9fd9bd3de831/cover",
-          "start_time": "06:00",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Today's Close-Up",
-          "show_description": "Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/43d1efd8-d876-4013-832c-7f3d9cab42e0/cover",
-          "start_time": "06:30",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Newsline Asia 24",
-          "show_description": "This daily news programme picks up the key news stories of the past 24 hours from Japan and around Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/50bd8d61-6e98-4a94-ac7f-7fe89e234ec9/cover",
-          "start_time": "07:00",
-          "end_time": "07:30"
-        },
-        {
-          "show_name": "Gunmachan",
-          "show_description": "Join Gunmachan and friends for playful adventures full of laughter and curiosity while exploring the charm of Gunma Prefecture's traditions, culture and specialities.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fd6de1f8-4474-4584-b223-71d57d80be1a/cover",
-          "start_time": "07:30",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/db8138b8-d440-4ebc-8a79-7f920aea7fc9/cover",
-          "start_time": "08:00",
-          "end_time": "08:30"
-        },
-        {
-          "show_name": "Grand Sumo Preview",
-          "show_description": "Ahead of the latest Grand Sumo tournament, NHK World-Japan looks at the race for the championship among top wrestlers - we also focus on up-and-comers' secrets to winning and determination to excel.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/59cb7ccc-8a60-45b0-a915-5faca4023c9c/cover",
-          "start_time": "08:30",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ac14392b-47fb-46a4-aa4e-2973f4ed19e7/cover",
-          "start_time": "09:00",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Japan Railway Journal",
-          "show_description": "Today's theme: Bodies. As AI, digital and virtual spaces take over, thinking about physical bodies is more important than ever - explore the role of designs which are rooted in human physicality.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c9966ee4-0d62-4786-b7d7-7a6ca3f7cd94/cover",
-          "start_time": "09:30",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "NHK News 7",
-          "show_description": "An evening news bulletin that provides Japan's views on many domestic and international news events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ee43e015-9e38-4221-859c-a62f8af14672/cover",
-          "start_time": "10:00",
-          "end_time": "10:30"
-        },
-        {
-          "show_name": "Asia Insight",
-          "show_description": "An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5e633fbf-5147-497a-bed9-06136ff9d178/cover",
-          "start_time": "10:30",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "Newsroom Tokyo",
-          "show_description": "This programme gives you comprehensive coverage of events in Japan and Asia, explaining the day's developments and what is behind them.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8fa88377-2f51-463e-aa2f-b919cdfc89c9/cover",
-          "start_time": "11:00",
-          "end_time": "11:28"
-        },
-        {
-          "show_name": "Direct Talk",
-          "show_description": "Makihara Daizoh is drawing attention from around the world for crafting timepieces that embody a Japanese aesthetic - he talks about the appeal of analogue watchmaking in the digital age.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d6af5646-c79a-43f2-91b1-1e3992617ad5/cover",
-          "start_time": "11:28",
-          "end_time": "11:43"
-        },
-        {
-          "show_name": "Impacts: Climates Change the World",
-          "show_description": "The number of tornadoes is surging in the US, the world's hotspot - what is driving this rise? We meet scientists who are uncovering their mechanisms and using new technology to save lives.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f46f04e4-7c86-43be-a7ef-1db94472d6d7/cover",
-          "start_time": "11:43",
-          "end_time": "11:55"
-        },
-        {
-          "show_name": "Chatroom Japan",
-          "show_description": "Xu Quanyi sees it as his mission to promote the charm of Fukushima. Sharing his stories is how he counters the stigma Fukushima continues to suffer following the 2011 disaster.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4cad93a6-bb13-3ddf-86a5-031daaad8076/cover",
-          "start_time": "11:55",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Newsroom Tokyo",
-          "show_description": "This programme gives you comprehensive coverage of events in Japan and Asia, explaining the day's developments and what is behind them.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7e9e8b82-36ec-48b2-90dc-bb968510bfe2/cover",
-          "start_time": "12:00",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "Today's Close-Up",
-          "show_description": "Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6313d72e-79ee-41a4-a407-0c5823aec6fe/cover",
-          "start_time": "12:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/16b15110-13d9-4e43-b0c6-d0b906139d9d/cover",
-          "start_time": "13:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Gunmachan",
-          "show_description": "Join Gunmachan and friends for playful adventures full of laughter and curiosity while exploring the charm of Gunma Prefecture's traditions, culture and specialities.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1e8135ac-ef43-416f-a42c-5d1dbc08d361/cover",
-          "start_time": "13:30",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a0cf7c5a-3660-4532-bfe5-9aec1c4ba78a/cover",
-          "start_time": "14:00",
-          "end_time": "14:30"
-        },
-        {
-          "show_name": "Design X Stories",
-          "show_description": "Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d0997197-ce95-4165-8120-4c9e6c878b23/cover",
-          "start_time": "14:30",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/07770da1-9655-4bbd-a52b-1ecf537e5ed9/cover",
-          "start_time": "15:00",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Asia Insight",
-          "show_description": "An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9a622538-ed45-4455-b31e-15dbf83f25c0/cover",
-          "start_time": "15:30",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a37a7f37-345a-4337-bed3-fb24e289b3cd/cover",
-          "start_time": "16:00",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "Grand Sumo Preview",
-          "show_description": "Ahead of the latest Grand Sumo tournament, NHK World-Japan looks at the race for the championship among top wrestlers - we also focus on up-and-comers' secrets to winning and determination to excel.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/59cb7ccc-8a60-45b0-a915-5faca4023c9c/cover",
-          "start_time": "16:30",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/05219c7c-f995-46e9-a801-b03d6027679e/cover",
-          "start_time": "17:00",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "Today's Close-Up",
-          "show_description": "Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8e0f02a9-7fee-4464-a423-d3b9979549e4/cover",
-          "start_time": "17:30",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Newsroom Tokyo",
-          "show_description": "This programme gives you comprehensive coverage of events in Japan and Asia, explaining the day's developments and what is behind them.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/70a0fb56-a62c-41e2-ba62-1a872175b6da/cover",
-          "start_time": "18:00",
-          "end_time": "18:28"
-        },
-        {
-          "show_name": "Direct Talk",
-          "show_description": "Makihara Daizoh is drawing attention from around the world for crafting timepieces that embody a Japanese aesthetic - he talks about the appeal of analogue watchmaking in the digital age.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d6af5646-c79a-43f2-91b1-1e3992617ad5/cover",
-          "start_time": "18:28",
-          "end_time": "18:43"
-        },
-        {
-          "show_name": "Impacts: Climates Change the World",
-          "show_description": "The number of tornadoes is surging in the US, the world's hotspot - what is driving this rise? We meet scientists who are uncovering their mechanisms and using new technology to save lives.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f46f04e4-7c86-43be-a7ef-1db94472d6d7/cover",
-          "start_time": "18:43",
-          "end_time": "18:55"
-        },
-        {
-          "show_name": "Ukiyo-e Edo-Life",
-          "show_description": "A Summer Delicacy: A group of anglers stand in a fast-moving and undulating river while using 'drifting mosquito hooks' to fish for a summer delicacy that was a favourite of the Edo townspeople.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/41fbbfbb-2415-4128-9609-70af4fa9ce6e/cover",
-          "start_time": "18:55",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Medical Frontiers",
-          "show_description": "Glaucoma, which can lead to blindness, often shows no symptoms in the early stages - we feature the latest efforts to restore the optic nerve, including new surgical techniques and gene therapy.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a7115d81-647e-4e04-b260-84d1a047ec23/cover",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Gunmachan",
-          "show_description": "Join Gunmachan and friends for playful adventures full of laughter and curiosity while exploring the charm of Gunma Prefecture's traditions, culture and specialities.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c46a2ee9-962c-4b6f-b4f9-ad99728f8af0/cover",
-          "start_time": "19:30",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f069718c-1f1c-4a96-bfc8-f86d783fd024/cover",
-          "start_time": "20:00",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "Design X Stories",
-          "show_description": "Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3bb9fead-56b2-4f41-9228-57a59fbf7a36/cover",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/27bb3194-b5cc-4b30-84dc-02b781ce12ec/cover",
-          "start_time": "21:00",
-          "end_time": "21:30"
-        },
-        {
-          "show_name": "Asia Insight",
-          "show_description": "An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8e28bd9e-5ef2-45f7-b70e-497b3093257d/cover",
-          "start_time": "21:30",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ab12b1a5-a737-4611-a314-9a1fa36d8ae3/cover",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "Today's Close-Up",
-          "show_description": "Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1c651347-23d1-434d-a249-6b3172b29ce2/cover",
-          "start_time": "22:30",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5e7457e0-9350-454c-b978-1558997744f8/cover",
-          "start_time": "23:00",
-          "end_time": "23:10"
-        },
-        {
-          "show_name": "Chatroom Japan",
-          "show_description": "Xu Quanyi sees it as his mission to promote the charm of Fukushima. Sharing his stories is how he counters the stigma Fukushima continues to suffer following the 2011 disaster.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4cad93a6-bb13-3ddf-86a5-031daaad8076/cover",
-          "start_time": "23:10",
-          "end_time": "23:15"
-        },
-        {
-          "show_name": "Japan's Top Inventions",
-          "show_description": "Discover the stories behind renowned Japanese products alongside our reporter - this time, concentrated laundry detergent.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/90386de3-77b9-4fc7-b87d-6b8b2598cc0e/cover",
-          "start_time": "23:15",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "Grand Sumo Preview",
-          "show_description": "Ahead of the latest Grand Sumo tournament, NHK World-Japan looks at the race for the championship among top wrestlers - we also focus on up-and-comers' secrets to winning and determination to excel.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/59cb7ccc-8a60-45b0-a915-5faca4023c9c/cover",
-          "start_time": "23:30",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "7 March 2026",
       "programmes": [
         {
@@ -446,7 +63,7 @@
         },
         {
           "show_name": "Design X Stories",
-          "show_description": "Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.",
+          "show_description": "Today's theme: Bodies. As AI, digital and virtual spaces take over, thinking about physical bodies is more important than ever - explore the role of designs which are rooted in human physicality.",
           "show_logo": "https://images.metadata.sky.com/pd-image/eca40cc7-a09e-4794-950e-65e1e37f2715/cover",
           "start_time": "03:10",
           "end_time": "03:40"
@@ -454,8 +71,15 @@
         {
           "show_name": "Design Ah! Neo",
           "show_description": "'Assemble' Special: Design is fun - design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ce46e145-85ce-4a6d-a4f1-daf809b4f0fc/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/233283e6-573c-4717-b6aa-a1465ddd756c/cover",
           "start_time": "03:40",
+          "end_time": "03:50"
+        },
+        {
+          "show_name": "Mitateru-phose",
+          "show_description": "This programme employs 'mitateru', a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7806d2bf-fb31-44ff-b59e-1f70bae84e13/cover",
+          "start_time": "03:50",
           "end_time": "04:00"
         },
         {
@@ -579,7 +203,7 @@
         },
         {
           "show_name": "Design X Stories",
-          "show_description": "Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.",
+          "show_description": "Today's theme: Bodies. As AI, digital and virtual spaces take over, thinking about physical bodies is more important than ever - explore the role of designs which are rooted in human physicality.",
           "show_logo": "https://images.metadata.sky.com/pd-image/3f29107a-c9b3-45d1-ae6f-a07b2a0e4f46/cover",
           "start_time": "09:10",
           "end_time": "09:40"
@@ -587,8 +211,15 @@
         {
           "show_name": "Design Ah! Neo",
           "show_description": "'Assemble' Special: Design is fun - design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6f9bfe5d-5883-48a7-b619-2dbf75486d3a/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/233283e6-573c-4717-b6aa-a1465ddd756c/cover",
           "start_time": "09:40",
+          "end_time": "09:50"
+        },
+        {
+          "show_name": "Mitateru-phose",
+          "show_description": "This programme employs 'mitateru', a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7806d2bf-fb31-44ff-b59e-1f70bae84e13/cover",
+          "start_time": "09:50",
           "end_time": "10:00"
         },
         {
@@ -677,7 +308,7 @@
         },
         {
           "show_name": "Biz Stream",
-          "show_description": "This upbeat programme combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.",
+          "show_description": "Beans and Beyond: Change is brewing in Japan - a grower defying the country's cold weather swings to produce domestic coffee beans, and a company transforms a local staple into a unique alternative.",
           "show_logo": "https://images.metadata.sky.com/pd-image/a15118d9-3d77-4af2-a64a-53370dbbd365/cover",
           "start_time": "14:10",
           "end_time": "14:40"
@@ -685,8 +316,15 @@
         {
           "show_name": "Design Ah! Neo",
           "show_description": "'Assemble' Special: Design is fun - design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f412c2d4-cbf7-4f2f-9f43-31358f025468/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/233283e6-573c-4717-b6aa-a1465ddd756c/cover",
           "start_time": "14:40",
+          "end_time": "14:50"
+        },
+        {
+          "show_name": "Mitateru-phose",
+          "show_description": "This programme employs 'mitateru', a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7806d2bf-fb31-44ff-b59e-1f70bae84e13/cover",
+          "start_time": "14:50",
           "end_time": "15:00"
         },
         {
@@ -803,7 +441,7 @@
         },
         {
           "show_name": "Biz Stream",
-          "show_description": "This upbeat programme combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.",
+          "show_description": "Beans and Beyond: Change is brewing in Japan - a grower defying the country's cold weather swings to produce domestic coffee beans, and a company transforms a local staple into a unique alternative.",
           "show_logo": "https://images.metadata.sky.com/pd-image/bbed42e8-8725-4832-9206-a04b173ad839/cover",
           "start_time": "20:10",
           "end_time": "20:40"
@@ -811,8 +449,15 @@
         {
           "show_name": "Design Ah! Neo",
           "show_description": "'Assemble' Special: Design is fun - design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/edda5201-3dc4-4a5a-a7de-e8433f3ebbc7/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/233283e6-573c-4717-b6aa-a1465ddd756c/cover",
           "start_time": "20:40",
+          "end_time": "20:50"
+        },
+        {
+          "show_name": "Mitateru-phose",
+          "show_description": "This programme employs 'mitateru', a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7806d2bf-fb31-44ff-b59e-1f70bae84e13/cover",
+          "start_time": "20:50",
           "end_time": "21:00"
         },
         {
@@ -890,6 +535,613 @@
           "show_description": "The highlight of Onabare is nerikomi, which involves the careful wielding of a long and heavy pole - follow the parade of a portable shrine through the streets with performances along the way.",
           "show_logo": "https://images.metadata.sky.com/pd-image/f61cbc00-2b26-3904-b177-b4d495b7c5e9/cover",
           "start_time": "23:50",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "8 March 2026",
+      "programmes": [
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e91db46b-7c64-45e6-aaa5-e06c98e9e9ae/cover",
+          "start_time": "00:00",
+          "end_time": "00:10"
+        },
+        {
+          "show_name": "Documentary 360",
+          "show_description": "On a hill near the ocean is a telephone booth known as the 'Telephone of the Wind' - it is connected to nowhere, but people come to whisper messages to family members lost in the 2011 tsunami.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/787f08ce-e782-4a70-8239-c62d0ce599ff/cover",
+          "start_time": "00:10",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1cf3a7d2-10dc-4c70-a1e0-ed634e291c83/cover",
+          "start_time": "01:00",
+          "end_time": "01:10"
+        },
+        {
+          "show_name": "Running Across Recovering Sanriku",
+          "show_description": "A stage race covering 130km in three days is held on the coast of Iwate 13 years after the 2011 Great East Japan Earthquake and Tsunami - we follow the runners as they learn about the area's recovery.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ba266afd-42ad-47bc-b0a6-3185b2a135c3/cover",
+          "start_time": "01:10",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d483a92c-aa6c-46e5-9a31-06223b554ab8/cover",
+          "start_time": "02:00",
+          "end_time": "02:10"
+        },
+        {
+          "show_name": "J-Melo",
+          "show_description": "Join May J. for great Japanese music! This time, CROWN HEAD - a rock band creating a buzz after debuting in 2025 - and Takagi Reni from Momoiro Clover Z stop by the studio to chat and perform.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0457b5ce-a48d-48fc-a719-df220368ed39/cover",
+          "start_time": "02:10",
+          "end_time": "02:40"
+        },
+        {
+          "show_name": "Little Charo",
+          "show_description": "Tohoku: Animation series about a Japanese dog who meets and is helped by many mythical creatures of northern Japan as he searches for eight star talismans. (S1, E09)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bb276dbf-11ad-465f-b795-a54d6de9ea38/cover",
+          "start_time": "02:40",
+          "end_time": "02:50"
+        },
+        {
+          "show_name": "Japanology Plus mini",
+          "show_description": "Onigiri is Japan's comfort food - we explore new types trending on social media, the latest convenience store offerings, and an emergency version that can be stored at room temperature for five years.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4c6cf662-6027-467a-83c7-f3ca70960ac3/cover",
+          "start_time": "02:50",
+          "end_time": "02:55"
+        },
+        {
+          "show_name": "A Cat's-Eye View of Japan",
+          "show_description": "Ricky was born in an apple orchard in a perfect playground for mischievous kittens while Peh spends the autumn in golden rice fields hiding and hunting grasshoppers - watch out for his pounce!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7a5a26ab-cf4f-377c-98dc-830d7ee3f765/cover",
+          "start_time": "02:55",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4a60f017-b74b-477b-abf0-8a50a20a1321/cover",
+          "start_time": "03:00",
+          "end_time": "03:10"
+        },
+        {
+          "show_name": "Cycle Around Japan Highlights",
+          "show_description": "In Okayama - the Land of Sunshine - we meet high school students revolutionising a town's famous denim and ride into the countryside to see a traditional storyteller.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/65addc9b-f4f3-4653-9a0f-703b7e2393b2/cover",
+          "start_time": "03:10",
+          "end_time": "03:40"
+        },
+        {
+          "show_name": "Rockie and Her Friends",
+          "show_description": "Puppet action show for children. In a distant post-human future where surviving creatures have formed a community, new-breed dinosaur girl Rockie sets out on hilarious adventures with her schoolmates.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ffbae64c-9025-33d1-90ba-0ad9caefa9da/cover",
+          "start_time": "03:40",
+          "end_time": "03:50"
+        },
+        {
+          "show_name": "I Love 'Mee'",
+          "show_description": "Mee wets the bed even after making sure to go to the bathroom and not drink any water before bed - through a 'Bedwetting Counsellor', Mee learns that physical growth varies from person to person...",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e60674d6-9056-4190-878c-55a13504365e/cover",
+          "start_time": "03:50",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b8eeb5ce-bf8c-4e58-b687-6daabe5be226/cover",
+          "start_time": "04:00",
+          "end_time": "04:10"
+        },
+        {
+          "show_name": "Somewhere Street",
+          "show_description": "The British city of Oxford is home to the renowned University of Oxford; the city's 900-year academic history shapes its streets with rich traditions, historic colleges, and a unique scholarly spirit.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6d95ddaf-e09f-46c6-a11d-cfbec35e5e86/cover",
+          "start_time": "04:10",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7eeb51fb-9354-4f33-a673-51ae169d60f5/cover",
+          "start_time": "05:00",
+          "end_time": "05:10"
+        },
+        {
+          "show_name": "Hit the Road",
+          "show_description": "Departing from Sendai Station in Miyagi, we drive along the Pacific coast to Sanriku - struck by a devastating tsunami, the region has risen with resilience 15 years on.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6f669084-a9cd-4487-b5dd-eeefd7ae106b/cover",
+          "start_time": "05:10",
+          "end_time": "05:25"
+        },
+        {
+          "show_name": "Core Kyoto Mini",
+          "show_description": "Kata-yuzen - the stenciled beauty of dyeing. Dive deep into the ancient capital which is still innovative 1,200 years after its foundation.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/335a42ef-256c-3ec2-a94c-a6212145e910/cover",
+          "start_time": "05:25",
+          "end_time": "05:30"
+        },
+        {
+          "show_name": "Easy Japanese for Work",
+          "show_description": "Irving-san from Mexico has trouble with 'keego'; soon he will begin working at his clients' office two days a week. To improve his 'keego', Irving-san tackles the role-play challenge.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/44539383-fa16-3b6d-bed7-b671738cb162/cover",
+          "start_time": "05:30",
+          "end_time": "05:45"
+        },
+        {
+          "show_name": "Zero Waste Life",
+          "show_description": "With falling demand and fewer occasions to wear kimonos, Tajiri Daichi turns discarded kimono fabric into stylish shoes while bringing tradition into everyday life and helping to keep it alive.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/eae76515-a86a-4b20-b9b2-958807f1fce3/cover",
+          "start_time": "05:45",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/dca1a308-2fae-4145-8511-fffd9f3c460c/cover",
+          "start_time": "06:00",
+          "end_time": "06:10"
+        },
+        {
+          "show_name": "Documentary 360",
+          "show_description": "On a hill near the ocean is a telephone booth known as the 'Telephone of the Wind' - it is connected to nowhere, but people come to whisper messages to family members lost in the 2011 tsunami.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8ad434d3-afb7-472a-9d1b-b3b9fb530502/cover",
+          "start_time": "06:10",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/dceffb83-124d-42d6-8568-d0050efd2605/cover",
+          "start_time": "07:00",
+          "end_time": "07:10"
+        },
+        {
+          "show_name": "Running Across Recovering Sanriku",
+          "show_description": "A stage race covering 130km in three days is held on the coast of Iwate 13 years after the 2011 Great East Japan Earthquake and Tsunami - we follow the runners as they learn about the area's recovery.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ba266afd-42ad-47bc-b0a6-3185b2a135c3/cover",
+          "start_time": "07:10",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cb111963-5142-4c81-8df6-404a2b4fb59d/cover",
+          "start_time": "08:00",
+          "end_time": "08:10"
+        },
+        {
+          "show_name": "Grand Sumo Live",
+          "show_description": "NHK World-Japan presents Grand Sumo March Tournament Day 1 action live from Osaka as top wrestlers have their first bouts of the 15-day contest.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/14239dfd-8730-412d-af83-6f96ca73bb3b/cover",
+          "start_time": "08:10",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2f4c8a4b-01d2-4f18-9459-9877ff023fa4/cover",
+          "start_time": "09:00",
+          "end_time": "09:10"
+        },
+        {
+          "show_name": "Cycle Around Japan Highlights",
+          "show_description": "In Okayama - the Land of Sunshine - we meet high school students revolutionising a town's famous denim and ride into the countryside to see a traditional storyteller.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/65addc9b-f4f3-4653-9a0f-703b7e2393b2/cover",
+          "start_time": "09:10",
+          "end_time": "09:40"
+        },
+        {
+          "show_name": "Rockie and Her Friends",
+          "show_description": "Puppet action show for children. In a distant post-human future where surviving creatures have formed a community, new-breed dinosaur girl Rockie sets out on hilarious adventures with her schoolmates.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ffbae64c-9025-33d1-90ba-0ad9caefa9da/cover",
+          "start_time": "09:40",
+          "end_time": "09:50"
+        },
+        {
+          "show_name": "I Love 'Mee'",
+          "show_description": "After mastering writing autographs, Mee heads to the park only to find a huge white statue! Feeling a strong urge to sign it and seeing no-one else around, Mee gives in to temptation...",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1e1856af-1ebf-4c95-bf3a-5f963ca7bea5/cover",
+          "start_time": "09:50",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a9e9bf2a-2bef-4539-b27c-75c13209fec0/cover",
+          "start_time": "10:00",
+          "end_time": "10:10"
+        },
+        {
+          "show_name": "J-Melo",
+          "show_description": "Join May J. for great Japanese music! This time, CROWN HEAD - a rock band creating a buzz after debuting in 2025 - and Takagi Reni from Momoiro Clover Z stop by the studio to chat and perform.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0457b5ce-a48d-48fc-a719-df220368ed39/cover",
+          "start_time": "10:10",
+          "end_time": "10:40"
+        },
+        {
+          "show_name": "Little Charo",
+          "show_description": "Tohoku: Animation series about a Japanese dog who meets and is helped by many mythical creatures of northern Japan as he searches for eight star talismans. (S1, E09)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/98fd1620-3ff7-464e-9668-3244f3b2b0c7/cover",
+          "start_time": "10:40",
+          "end_time": "10:50"
+        },
+        {
+          "show_name": "Japanology Plus mini",
+          "show_description": "Onigiri is Japan's comfort food - we explore new types trending on social media, the latest convenience store offerings, and an emergency version that can be stored at room temperature for five years.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4c6cf662-6027-467a-83c7-f3ca70960ac3/cover",
+          "start_time": "10:50",
+          "end_time": "10:55"
+        },
+        {
+          "show_name": "A Cat's-Eye View of Japan",
+          "show_description": "Ricky was born in an apple orchard in a perfect playground for mischievous kittens while Peh spends the autumn in golden rice fields hiding and hunting grasshoppers - watch out for his pounce!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7a5a26ab-cf4f-377c-98dc-830d7ee3f765/cover",
+          "start_time": "10:55",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6482547f-cecd-4ded-9cdd-fcc0135db7b2/cover",
+          "start_time": "11:00",
+          "end_time": "11:10"
+        },
+        {
+          "show_name": "Hit the Road",
+          "show_description": "Departing from Sendai Station in Miyagi, we drive along the Pacific coast to Sanriku - struck by a devastating tsunami, the region has risen with resilience 15 years on.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6f669084-a9cd-4487-b5dd-eeefd7ae106b/cover",
+          "start_time": "11:10",
+          "end_time": "11:25"
+        },
+        {
+          "show_name": "Core Kyoto Mini",
+          "show_description": "Kirikane - the beauty of gossamer gold leaf craftsmanship. Dive deep into the ancient capital which is still innovative 1,200 years after its foundation.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/729c65e5-5f02-36b9-a2b1-02d80a3a5dbd/cover",
+          "start_time": "11:25",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Easy Japanese for Work",
+          "show_description": "Irving-san from Mexico has trouble with 'keego'; soon he will begin working at his clients' office two days a week. To improve his 'keego', Irving-san tackles the role-play challenge.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/44539383-fa16-3b6d-bed7-b671738cb162/cover",
+          "start_time": "11:30",
+          "end_time": "11:45"
+        },
+        {
+          "show_name": "Zero Waste Life",
+          "show_description": "With falling demand and fewer occasions to wear kimonos, Tajiri Daichi turns discarded kimono fabric into stylish shoes while bringing tradition into everyday life and helping to keep it alive.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e5f6e708-2d76-40ad-bab7-cfd9d366d862/cover",
+          "start_time": "11:45",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/88082878-a748-4b8b-9152-2ae6e41aa302/cover",
+          "start_time": "12:00",
+          "end_time": "12:10"
+        },
+        {
+          "show_name": "Documentary 360",
+          "show_description": "On a hill near the ocean is a telephone booth known as the 'Telephone of the Wind' - it is connected to nowhere, but people come to whisper messages to family members lost in the 2011 tsunami.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3abd7403-d501-42ec-8484-8e358a35c3cc/cover",
+          "start_time": "12:10",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/14366749-0ed4-4be6-ac31-facf2ed33177/cover",
+          "start_time": "13:00",
+          "end_time": "13:10"
+        },
+        {
+          "show_name": "Running Across Recovering Sanriku",
+          "show_description": "A stage race covering 130km in three days is held on the coast of Iwate 13 years after the 2011 Great East Japan Earthquake and Tsunami - we follow the runners as they learn about the area's recovery.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ba266afd-42ad-47bc-b0a6-3185b2a135c3/cover",
+          "start_time": "13:10",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ddc5dbef-b9aa-4d7d-9aa1-6ac9e3811082/cover",
+          "start_time": "14:00",
+          "end_time": "14:10"
+        },
+        {
+          "show_name": "Cycle Around Japan Highlights",
+          "show_description": "In Okayama - the Land of Sunshine - we meet high school students revolutionising a town's famous denim and ride into the countryside to see a traditional storyteller.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/65addc9b-f4f3-4653-9a0f-703b7e2393b2/cover",
+          "start_time": "14:10",
+          "end_time": "14:40"
+        },
+        {
+          "show_name": "Rockie and Her Friends",
+          "show_description": "Puppet action show for children. In a distant post-human future where surviving creatures have formed a community, new-breed dinosaur girl Rockie sets out on hilarious adventures with her schoolmates.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ffbae64c-9025-33d1-90ba-0ad9caefa9da/cover",
+          "start_time": "14:40",
+          "end_time": "14:50"
+        },
+        {
+          "show_name": "I Love 'Mee'",
+          "show_description": "Mee wets the bed even after making sure to go to the bathroom and not drink any water before bed - through a 'Bedwetting Counsellor', Mee learns that physical growth varies from person to person...",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e60674d6-9056-4190-878c-55a13504365e/cover",
+          "start_time": "14:50",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a02ee1bc-1c3e-49b8-a066-586ac53e1553/cover",
+          "start_time": "15:00",
+          "end_time": "15:10"
+        },
+        {
+          "show_name": "J-Melo",
+          "show_description": "Join May J. for great Japanese music! This time, CROWN HEAD - a rock band creating a buzz after debuting in 2025 - and Takagi Reni from Momoiro Clover Z stop by the studio to chat and perform.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0457b5ce-a48d-48fc-a719-df220368ed39/cover",
+          "start_time": "15:10",
+          "end_time": "15:40"
+        },
+        {
+          "show_name": "Little Charo",
+          "show_description": "Tohoku: Animation series about a Japanese dog who meets and is helped by many mythical creatures of northern Japan as he searches for eight star talismans. (S1, E09)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/97f9c169-ed87-479e-850a-778146928172/cover",
+          "start_time": "15:40",
+          "end_time": "15:50"
+        },
+        {
+          "show_name": "Japanology Plus mini",
+          "show_description": "Onigiri is Japan's comfort food - we explore new types trending on social media, the latest convenience store offerings, and an emergency version that can be stored at room temperature for five years.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4c6cf662-6027-467a-83c7-f3ca70960ac3/cover",
+          "start_time": "15:50",
+          "end_time": "15:55"
+        },
+        {
+          "show_name": "A Cat's-Eye View of Japan",
+          "show_description": "Ricky was born in an apple orchard in a perfect playground for mischievous kittens while Peh spends the autumn in golden rice fields hiding and hunting grasshoppers - watch out for his pounce!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7a5a26ab-cf4f-377c-98dc-830d7ee3f765/cover",
+          "start_time": "15:55",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/66d9f28d-a9b2-4ea5-9dbb-893f9c64f72a/cover",
+          "start_time": "16:00",
+          "end_time": "16:10"
+        },
+        {
+          "show_name": "Cinematic Journey",
+          "show_description": "A scientific trek into Earth's memory - see Anami's ancient strata, the singing sands of Kotobikihama, and the geological time gaps of Uradome's rocks.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/64e62c33-aada-4240-9470-ab2687053626/cover",
+          "start_time": "16:10",
+          "end_time": "16:25"
+        },
+        {
+          "show_name": "Okinawa",
+          "show_description": "Okinawa Prefecture is a group of subtropical islands in the far south of Japan - we examine its past and present with footage from time-lapse creator Shimizu Daisuke. This time: Shuri Castle.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ae5ddb05-2d13-45b3-8680-4e46c5d508da/cover",
+          "start_time": "16:25",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "Grand Sumo Highlights",
+          "show_description": "NHK World-Japan presents a sumo highlights programme for fans around the globe featuring all top-division bouts from Day 1 of the latest Grand Sumo tournament in Osaka.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d9b6d32a-ce6f-4f27-b8ea-a34647c41f63/cover",
+          "start_time": "16:30",
+          "end_time": "16:57"
+        },
+        {
+          "show_name": "Sumopedia",
+          "show_description": "Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/36ac264c-f5be-31b2-9b84-08817f48932d/cover",
+          "start_time": "16:57",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bb5f69c3-d700-480e-93ba-5fab9c385dae/cover",
+          "start_time": "17:00",
+          "end_time": "17:10"
+        },
+        {
+          "show_name": "Hit the Road",
+          "show_description": "Departing from Sendai Station in Miyagi, we drive along the Pacific coast to Sanriku - struck by a devastating tsunami, the region has risen with resilience 15 years on.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6f669084-a9cd-4487-b5dd-eeefd7ae106b/cover",
+          "start_time": "17:10",
+          "end_time": "17:25"
+        },
+        {
+          "show_name": "Core Kyoto Mini",
+          "show_description": "Raden - the iridescent sheen of Kyoto craftwork. Dive deep into the ancient capital which is still innovative 1,200 years after its foundation.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4d23bb36-a42a-39da-af30-1c39b9f9ac57/cover",
+          "start_time": "17:25",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "Easy Japanese for Work",
+          "show_description": "Irving-san from Mexico has trouble with 'keego'; soon he will begin working at his clients' office two days a week. To improve his 'keego', Irving-san tackles the role-play challenge.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/44539383-fa16-3b6d-bed7-b671738cb162/cover",
+          "start_time": "17:30",
+          "end_time": "17:45"
+        },
+        {
+          "show_name": "Zero Waste Life",
+          "show_description": "With falling demand and fewer occasions to wear kimonos, Tajiri Daichi turns discarded kimono fabric into stylish shoes while bringing tradition into everyday life and helping to keep it alive.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3a5182b0-acb5-47fc-93f7-38fc13f6bbe4/cover",
+          "start_time": "17:45",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e5f08687-4242-4be0-939a-e6e1788c5ec9/cover",
+          "start_time": "18:00",
+          "end_time": "18:10"
+        },
+        {
+          "show_name": "Documentary 360",
+          "show_description": "On a hill near the ocean is a telephone booth known as the 'Telephone of the Wind' - it is connected to nowhere, but people come to whisper messages to family members lost in the 2011 tsunami.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/05255eb0-3ed5-4c6e-aff8-ac045d773cd4/cover",
+          "start_time": "18:10",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/32a1a283-4cda-4880-a6ce-1c2163199e5f/cover",
+          "start_time": "19:00",
+          "end_time": "19:10"
+        },
+        {
+          "show_name": "Running Across Recovering Sanriku",
+          "show_description": "A stage race covering 130km in three days is held on the coast of Iwate 13 years after the 2011 Great East Japan Earthquake and Tsunami - we follow the runners as they learn about the area's recovery.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ba266afd-42ad-47bc-b0a6-3185b2a135c3/cover",
+          "start_time": "19:10",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6a3f8ce2-3d34-4405-865b-5d3c6909f4eb/cover",
+          "start_time": "20:00",
+          "end_time": "20:10"
+        },
+        {
+          "show_name": "Cycle Around Japan Highlights",
+          "show_description": "In Okayama - the Land of Sunshine - we meet high school students revolutionising a town's famous denim and ride into the countryside to see a traditional storyteller.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/65addc9b-f4f3-4653-9a0f-703b7e2393b2/cover",
+          "start_time": "20:10",
+          "end_time": "20:40"
+        },
+        {
+          "show_name": "Rockie and Her Friends",
+          "show_description": "Puppet action show for children. In a distant post-human future where surviving creatures have formed a community, new-breed dinosaur girl Rockie sets out on hilarious adventures with her schoolmates.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ffbae64c-9025-33d1-90ba-0ad9caefa9da/cover",
+          "start_time": "20:40",
+          "end_time": "20:50"
+        },
+        {
+          "show_name": "I Love 'Mee'",
+          "show_description": "After mastering writing autographs, Mee heads to the park only to find a huge white statue! Feeling a strong urge to sign it and seeing no-one else around, Mee gives in to temptation...",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1e1856af-1ebf-4c95-bf3a-5f963ca7bea5/cover",
+          "start_time": "20:50",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/02035a02-743f-4482-b876-dc3941a28693/cover",
+          "start_time": "21:00",
+          "end_time": "21:10"
+        },
+        {
+          "show_name": "J-Melo",
+          "show_description": "Join May J. for great Japanese music! This time, CROWN HEAD - a rock band creating a buzz after debuting in 2025 - and Takagi Reni from Momoiro Clover Z stop by the studio to chat and perform.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0457b5ce-a48d-48fc-a719-df220368ed39/cover",
+          "start_time": "21:10",
+          "end_time": "21:40"
+        },
+        {
+          "show_name": "Little Charo",
+          "show_description": "Tohoku: Animation series about a Japanese dog who meets and is helped by many mythical creatures of northern Japan as he searches for eight star talismans. (S1, E09)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/de02a403-ad6b-4182-9c7d-cf9ee64a150d/cover",
+          "start_time": "21:40",
+          "end_time": "21:50"
+        },
+        {
+          "show_name": "Japanology Plus mini",
+          "show_description": "Onigiri is Japan's comfort food - we explore new types trending on social media, the latest convenience store offerings, and an emergency version that can be stored at room temperature for five years.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4c6cf662-6027-467a-83c7-f3ca70960ac3/cover",
+          "start_time": "21:50",
+          "end_time": "21:55"
+        },
+        {
+          "show_name": "A Cat's-Eye View of Japan",
+          "show_description": "Ricky was born in an apple orchard in a perfect playground for mischievous kittens while Peh spends the autumn in golden rice fields hiding and hunting grasshoppers - watch out for his pounce!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7a5a26ab-cf4f-377c-98dc-830d7ee3f765/cover",
+          "start_time": "21:55",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2f7473f6-ff17-4457-b512-f147e99b15eb/cover",
+          "start_time": "22:00",
+          "end_time": "22:10"
+        },
+        {
+          "show_name": "Hit the Road",
+          "show_description": "Departing from Sendai Station in Miyagi, we drive along the Pacific coast to Sanriku - struck by a devastating tsunami, the region has risen with resilience 15 years on.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6f669084-a9cd-4487-b5dd-eeefd7ae106b/cover",
+          "start_time": "22:10",
+          "end_time": "22:25"
+        },
+        {
+          "show_name": "Core Kyoto Mini",
+          "show_description": "Washi - diverse beauty in everyday life. Dive deep into the ancient capital which is still innovative 1,200 years after its foundation.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9653c90e-f500-3bca-bc7d-e012f2fdf5df/cover",
+          "start_time": "22:25",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Easy Japanese for Work",
+          "show_description": "Irving-san from Mexico has trouble with 'keego'; soon he will begin working at his clients' office two days a week. To improve his 'keego', Irving-san tackles the role-play challenge.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/44539383-fa16-3b6d-bed7-b671738cb162/cover",
+          "start_time": "22:30",
+          "end_time": "22:45"
+        },
+        {
+          "show_name": "Zero Waste Life",
+          "show_description": "With falling demand and fewer occasions to wear kimonos, Tajiri Daichi turns discarded kimono fabric into stylish shoes while bringing tradition into everyday life and helping to keep it alive.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/744ef3ef-3586-40e7-b857-daad70d706a9/cover",
+          "start_time": "22:45",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/864ad318-cf38-4767-9c31-fc985d1403bc/cover",
+          "start_time": "23:00",
+          "end_time": "23:10"
+        },
+        {
+          "show_name": "Cinematic Journey",
+          "show_description": "Experience the wild San'in Coast - Kyle boats through Uradome's rocks, tries traditional fishing, rides fat bikes on dunes and treks ancient lava flows.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f54599d1-1590-413a-9861-1fe350542c96/cover",
+          "start_time": "23:10",
+          "end_time": "23:25"
+        },
+        {
+          "show_name": "Okinawa",
+          "show_description": "Okinawa Prefecture is a group of subtropical islands in the far south of Japan - we examine its past and present with footage from time-lapse creator Shimizu Daisuke. This time: Shuri Castle.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/36076c4a-8a02-48f4-a030-07799aced45e/cover",
+          "start_time": "23:25",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "Grand Sumo Highlights",
+          "show_description": "NHK World-Japan presents a sumo highlights programme for fans around the globe featuring all top-division bouts from Day 1 of the latest Grand Sumo tournament in Osaka.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/62ec50a6-deb7-487e-ba2a-75c123e69b04/cover",
+          "start_time": "23:30",
+          "end_time": "23:57"
+        },
+        {
+          "show_name": "Sumopedia",
+          "show_description": "Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/36ac264c-f5be-31b2-9b84-08817f48932d/cover",
+          "start_time": "23:57",
           "end_time": "00:00"
         }
       ]

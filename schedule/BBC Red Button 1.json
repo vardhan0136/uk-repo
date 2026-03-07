@@ -3,62 +3,8 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-red-button-uk.png",
   "schedule": [
     {
-      "date": "6 March 2026",
-      "programmes": [
-        {
-          "show_name": "Winterwatch: Winter Encounters",
-          "show_description": "Enjoy the very best of the season in a natural escape that lets nature do the talking.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2e0cef27-b39f-4367-a47f-de4658605081/cover",
-          "start_time": "03:15",
-          "end_time": "06:10"
-        },
-        {
-          "show_name": "Radio 2's Piano Room 2026: What a Week - Week 2",
-          "show_description": "Catch up on the artists performing in the second week of Radio 2's Piano Room Month 2026.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/10ca6742-2bc9-4dfd-b800-c58a7ce899dd/cover",
-          "start_time": "06:10",
-          "end_time": "09:10"
-        },
-        {
-          "show_name": "Winterwatch: Winter Encounters",
-          "show_description": "Enjoy the very best of the season in a natural escape that lets nature do the talking.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2e0cef27-b39f-4367-a47f-de4658605081/cover",
-          "start_time": "09:10",
-          "end_time": "15:10"
-        },
-        {
-          "show_name": "Winterwatch: Winter Encounters",
-          "show_description": "Enjoy the very best of the season in a natural escape that lets nature do the talking.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2e0cef27-b39f-4367-a47f-de4658605081/cover",
-          "start_time": "15:10",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "U20s Six Nations: Italy v England",
-          "show_description": "Italy host England in the U20s Six Nations.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f56639c1-066c-4761-b0de-5db23aa48294/cover",
-          "start_time": "19:00",
-          "end_time": "21:30"
-        },
-        {
-          "show_name": "U20s Six Nations: Scotland v France",
-          "show_description": "Scotland host France in the U20s Six Nations.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/66005217-d5a0-4ad8-9cb0-4356f2acd3d3/cover",
-          "start_time": "21:30",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "7 March 2026",
       "programmes": [
-        {
-          "show_name": "Winterwatch: Winter Encounters",
-          "show_description": "Enjoy the very best of the season in a natural escape that lets nature do the talking.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2e0cef27-b39f-4367-a47f-de4658605081/cover",
-          "start_time": "00:00",
-          "end_time": "05:50"
-        },
         {
           "show_name": "Radio 2's Piano Room 2026: What a Week - Week 3",
           "show_description": "Catch up on the artists performing in the third week of Radio 2's Piano Room Month 2026.",
@@ -71,13 +17,13 @@
           "show_description": "Catch up on the artists performing in the third week of Radio 2's Piano Room Month 2026.",
           "show_logo": "https://images.metadata.sky.com/pd-image/53923674-ef11-47dd-92c3-ca3fa4551ef1/cover",
           "start_time": "06:00",
-          "end_time": "09:40"
+          "end_time": "09:50"
         },
         {
-          "show_name": "MOTD Live: Wolverhampton Wanderers v Liverpool",
+          "show_name": "MOTD: Wolverhampton Wanderers v Liverpool",
           "show_description": "Fifth-round action from Molineux in the FA Cup as four-time winners Wolves take on eight-time winners Liverpool, with a place in the quarter-finals at stake.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8c075e5b-37a5-48a4-88aa-69c96ffceeed/cover",
-          "start_time": "09:40",
+          "show_logo": "https://images.metadata.sky.com/pd-image/15c367df-de10-4f9a-aa06-b964299c1568/cover",
+          "start_time": "09:50",
           "end_time": "12:10"
         },
         {
@@ -135,6 +81,60 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/d477be58-ef3b-4268-bbdb-6d5be81f0807/cover",
           "start_time": "23:00",
           "end_time": "05:00"
+        }
+      ]
+    },
+    {
+      "date": "8 March 2026",
+      "programmes": [
+        {
+          "show_name": "Winterwatch: Winter Encounters",
+          "show_description": "Enjoy the very best of the season in a natural escape that lets nature do the talking.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/670b2335-6fdf-4276-909c-ed412c4d89f2/cover",
+          "start_time": "05:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Radio 2's Piano Room 2026: What a Week - Week 3",
+          "show_description": "Catch up on the artists performing in the third week of Radio 2's Piano Room Month 2026.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/81eae23c-7763-458e-8b53-33dbe58c4953/cover",
+          "start_time": "06:00",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "MOTD Live: Wrexham v Chelsea",
+          "show_description": "Coverage from the Racecourse Ground of the FA Cup fifth-round tie between Championship side Wrexham and Premier League and eight-time winners Chelsea.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8fac13b5-9e3b-4377-befb-97bb1564a188/cover",
+          "start_time": "08:30",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "All England Open Badminton Championships: Finals",
+          "show_description": "Coverage of the 2026 All England Open Badminton Championships.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d0c2b633-d1af-4c6f-b0dc-76fc39810cb9/cover",
+          "start_time": "11:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Netball Super League -...",
+          "show_description": "...Manchester Thunder v London Mavericks. Netball action from Super League round 2 as Manchester Thunder face London Mavericks.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/202ed28c-9c3c-4acd-93e6-953a6203428d/cover",
+          "start_time": "16:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Radio 2's Piano Room 2026: What a Week - Week 3",
+          "show_description": "Catch up on the artists performing in the third week of Radio 2's Piano Room Month 2026.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/53923674-ef11-47dd-92c3-ca3fa4551ef1/cover",
+          "start_time": "18:00",
+          "end_time": "19:10"
+        },
+        {
+          "show_name": "Winterwatch: Winter Encounters",
+          "show_description": "Enjoy the very best of the season in a natural escape that lets nature do the talking.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2e0cef27-b39f-4367-a47f-de4658605081/cover",
+          "start_time": "19:10",
+          "end_time": "00:00"
         }
       ]
     }

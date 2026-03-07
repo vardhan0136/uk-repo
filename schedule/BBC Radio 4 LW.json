@@ -3,277 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-4-LW.png",
   "schedule": [
     {
-      "date": "6 March 2026",
-      "programmes": [
-        {
-          "show_name": "Midnight News",
-          "show_description": "National and international news from BBC Radio 4.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "00:30"
-        },
-        {
-          "show_name": "This Is the Door: Notes from a...",
-          "show_description": "...Body in Pain by Darcey Steinke. 4/5. Elizabeth McGovern reads Darcey Steinke's engrossing new book about pain - what science tells us and what artists and thinkers have made of it.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "00:48"
-        },
-        {
-          "show_name": "Shipping Forecast",
-          "show_description": "The latest weather reports and forecasts for UK shipping.",
-          "show_logo": "",
-          "start_time": "00:48",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "World Service",
-          "show_description": "BBC Radio 4 presents a selection of news and current affairs, arts and science programmes from the BBC World Service.",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "News Summary",
-          "show_description": "National and international news from BBC Radio 4.",
-          "show_logo": "",
-          "start_time": "05:00",
-          "end_time": "05:04"
-        },
-        {
-          "show_name": "Yesterday in Parliament",
-          "show_description": "Sean Curran reports from Westminster as the government faces questions over its handling of the crisis in the Middle East.",
-          "show_logo": "",
-          "start_time": "05:04",
-          "end_time": "05:34"
-        },
-        {
-          "show_name": "Shipping Forecast",
-          "show_description": "The latest weather reports and forecasts for UK shipping.",
-          "show_logo": "",
-          "start_time": "05:34",
-          "end_time": "05:43"
-        },
-        {
-          "show_name": "Prayer for the Day",
-          "show_description": "A spiritual comment and prayer to start the day with the Very Rev Dr Sarah Rowland Jones.",
-          "show_logo": "",
-          "start_time": "05:43",
-          "end_time": "05:45"
-        },
-        {
-          "show_name": "Farming Today",
-          "show_description": "Why UK chickens are unlikely to be vaccinated against avian flu.",
-          "show_logo": "",
-          "start_time": "05:45",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Today",
-          "show_description": "News and current affairs, including Sports Desk, Weather and Thought for the Day.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Desert Island Discs",
-          "show_description": "Dwayne Fields, explorer and chief Scout, shares the eight tracks, book and luxury item he would take with him if cast away to a desert island. With Lauren Laverne.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Woman's Hour",
-          "show_description": "Women's voices and women's lives - topical conversations to inform, challenge and inspire.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "The Food Programme",
-          "show_description": "Leyla Kazim visits the montado to uncover the future of Portugal's cork forests. Will climate change and changing drinking habits alter their fate?",
-          "show_logo": "",
-          "start_time": "11:00",
-          "end_time": "11:45"
-        },
-        {
-          "show_name": "This Is the Door: Notes from a...",
-          "show_description": "...Body in Pain by Darcey Steinke. 5/5. Elizabeth McGovern reads Darcey Steinke's engrossing new book about pain - what science tells us and what artists and thinkers have made of it.",
-          "show_logo": "",
-          "start_time": "11:45",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "News Summary",
-          "show_description": "The latest national and international news from BBC Radio 4.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "12:04"
-        },
-        {
-          "show_name": "Rare Earth",
-          "show_description": "In the year when London Zoological Society marks its 200th anniversary, Tom Heap and Helen Czerski discuss the role of zoos in the 21st century.",
-          "show_logo": "",
-          "start_time": "12:04",
-          "end_time": "12:57"
-        },
-        {
-          "show_name": "Weather Forecast",
-          "show_description": "The latest weather forecast.",
-          "show_logo": "",
-          "start_time": "12:57",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "The World at One",
-          "show_description": "News, analysis and comment from BBC Radio 4.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "13:45"
-        },
-        {
-          "show_name": "Waugh: What Is He Good For?",
-          "show_description": "5/7. On the 60th anniversary of his death, Russell Kane delves into seven of Evelyn Waugh's most important works. In episode 5, Scoop (1938) - a book about the media.",
-          "show_logo": "",
-          "start_time": "13:45",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "The Archers",
-          "show_description": "It all comes down to head or heart for Helen, and Amber and George have the first pregnancy scan.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "14:15"
-        },
-        {
-          "show_name": "The Dentist",
-          "show_description": "Kerry thought her life was bad. Turns out that assuming her dead sister's life as a dentist might actually be worse.",
-          "show_logo": "",
-          "start_time": "14:15",
-          "end_time": "14:45"
-        },
-        {
-          "show_name": "Life Without",
-          "show_description": "A low salt diet is one thing, but a no salt life? In this episode of Life Without, our host Alan Davies discusses how sodium chloride affects our world and our taste buds.",
-          "show_logo": "",
-          "start_time": "14:45",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Gardeners' Question Time",
-          "show_description": "Peter Gibbs and the GQT team are in Hertfordshire.",
-          "show_logo": "",
-          "start_time": "15:00",
-          "end_time": "15:45"
-        },
-        {
-          "show_name": "Short Works",
-          "show_description": "In a hospital in Belfast, senior nurse Erin is unsettled to find herself in the role of the patient.",
-          "show_logo": "",
-          "start_time": "15:45",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Last Word",
-          "show_description": "Matthew Bannister tells the life stories of people who have recently died, from the rich and famous to unsung but significant.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "Sideways",
-          "show_description": "The relentless pursuit of big ideas and complex theories sends a podcaster into a spin. Matthew Syed considers whether some ideas are simply too dangerous to explore.",
-          "show_logo": "",
-          "start_time": "16:30",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "PM",
-          "show_description": "News and current affairs, reporting on breaking stories and summing up the day's headlines.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Six O'Clock News",
-          "show_description": "National and international news from BBC Radio 4.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "The Naked Week",
-          "show_description": "1/6. Andrew Hunter Murray and Jon Holmes return with a bold, audacious take on the week's news.",
-          "show_logo": "",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "The Archers",
-          "show_description": "Alice gives Ruairi some loving care, and George and Amber hatch a plan.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:15"
-        },
-        {
-          "show_name": "Add to Playlist",
-          "show_description": "Singer-songwriter Andrew Roachford and trombonist and session musician Carol Jarvis add five more tracks to the playlist, kicking off with Philip Glass.",
-          "show_logo": "",
-          "start_time": "19:15",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Any Questions?",
-          "show_description": "Alex Forsyth presents political debate from Norwich Cathedral with Sir Mark Lyall Grant, Lucy Rigby MP, Eleanor Shearer, Sir John Whittingdale MP.",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "20:55"
-        },
-        {
-          "show_name": "This Week in History",
-          "show_description": "Alexander Graham Bell receives a patent for the telephone in the US, The Sound of Music, and Anne Boleyn makes her debut at the English court.",
-          "show_logo": "",
-          "start_time": "20:55",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Free Thinking",
-          "show_description": "Shahidha Bari marks International Women's Day with guests including Sara Ahmed on how women can embrace saying no and a new translation of the French thinker Hélène Cixous.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The World Tonight",
-          "show_description": "In depth reporting, intelligent analysis and breaking news from a global perspective.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "22:45"
-        },
-        {
-          "show_name": "Fire Ready by Jane Rogers",
-          "show_description": "5/5. The temperature in Australia is soaring higher than ever. Living has become an endurance. Everything is threatened - even friendship.",
-          "show_logo": "",
-          "start_time": "22:45",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Americast",
-          "show_description": "Join Americast for insights and analysis on what's happening inside Trump's White House.",
-          "show_logo": "",
-          "start_time": "23:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "Today in Parliament",
-          "show_description": "News, views and features on today's stories in Parliament.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "7 March 2026",
       "programmes": [
         {
@@ -348,7 +77,7 @@
         },
         {
           "show_name": "Farming Today This Week",
-          "show_description": "The latest news about food, farming and the countryside.",
+          "show_description": "First UK trials of a bird flu vaccine - farmers and vets will test it on turkeys.",
           "show_logo": "",
           "start_time": "06:30",
           "end_time": "06:57"
@@ -383,21 +112,21 @@
         },
         {
           "show_name": "The Kitchen Cabinet",
-          "show_description": "3/6. Jay Rayner hosts a culinary panel show packed full of tasty titbits.",
+          "show_description": "3/6. Jay Rayner and The Kitchen Cabinet Panel visit Cambridge this week to discuss culinary tips and student nostalgia, and dive into Cambridge's unexpected pineapple obsession.",
           "show_logo": "",
           "start_time": "10:30",
           "end_time": "11:00"
         },
         {
           "show_name": "The Week in Westminster",
-          "show_description": "Radio 4's assessment of developments at Westminster.",
+          "show_description": "George Parker from the Financial Times reflects on the political reaction here in the UK to the conflict over Iran and the Middle East.",
           "show_logo": "",
           "start_time": "11:00",
           "end_time": "11:30"
         },
         {
           "show_name": "From Our Own Correspondent",
-          "show_description": "Insight, wit and analysis from BBC correspondents, journalists and writers from around the world.",
+          "show_description": "After the US-Israel attacks on Iran, surrounding countries have quickly been drawn into the war following retaliatory strikes. We hear from Turkey, Lebanon, Israel and Cyprus.",
           "show_logo": "",
           "start_time": "11:30",
           "end_time": "12:00"
@@ -411,14 +140,14 @@
         },
         {
           "show_name": "Money Box",
-          "show_description": "The latest news from the world of personal finance.",
+          "show_description": "The listener who had more than £300,000 stolen from her by cryptocurrency thieves.",
           "show_logo": "",
           "start_time": "12:04",
           "end_time": "12:30"
         },
         {
           "show_name": "The Naked Week",
-          "show_description": "1/6. Andrew Hunter Murray and Jon Holmes return with a bold, audacious take on the week's news.",
+          "show_description": "1/6. The Naked Week team launch an unprovoked attack on current events with a mix of correspondents, guests and, on this occasion, a Town Crier performing the works of Amol Rajan.",
           "show_logo": "",
           "start_time": "12:30",
           "end_time": "12:57"
@@ -467,7 +196,7 @@
         },
         {
           "show_name": "Weekend Woman's Hour",
-          "show_description": "Highlights from the Woman's Hour week.",
+          "show_description": "The emerging science of Matrescence and the world's largest study scanning pregnant women's brains, Ramadan & 'the sandwich generation', The Traitors' Harriet Tyce.",
           "show_logo": "",
           "start_time": "16:00",
           "end_time": "17:00"
@@ -516,7 +245,7 @@
         },
         {
           "show_name": "Profile",
-          "show_description": "An insight into the character of an influential person making the news headlines.",
+          "show_description": "US Secretary of Defense, Pete Hegseth, is no stranger to controversy. Who is the military man and former Fox News host who holds the keys to the Pentagon?",
           "show_logo": "",
           "start_time": "19:00",
           "end_time": "19:15"
@@ -568,6 +297,361 @@
           "show_description": "9/13. Paul Gambaccini is in the chair as the ultimate music quiz returns, with questions on music of all varieties and eras.",
           "show_logo": "",
           "start_time": "23:30",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "8 March 2026",
+      "programmes": [
+        {
+          "show_name": "Midnight News",
+          "show_description": "National and international news from BBC Radio 4.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "00:15"
+        },
+        {
+          "show_name": "Bookclub",
+          "show_description": "Led by James Naughtie, this special episode of Bookclub celebrates the late Alasdair Gray's 1981 novel, Lanark, at the Pitlochry Winter Words Festival, with the actor Alan Cumming.",
+          "show_logo": "",
+          "start_time": "00:15",
+          "end_time": "00:48"
+        },
+        {
+          "show_name": "Shipping Forecast",
+          "show_description": "The latest weather reports and forecasts for UK shipping.",
+          "show_logo": "",
+          "start_time": "00:48",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "World Service",
+          "show_description": "BBC Radio 4 presents a selection of news and current affairs, arts and science programmes from the BBC World Service.",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "05:30"
+        },
+        {
+          "show_name": "News Summary",
+          "show_description": "National and international news from BBC Radio 4.",
+          "show_logo": "",
+          "start_time": "05:30",
+          "end_time": "05:34"
+        },
+        {
+          "show_name": "Shipping Forecast",
+          "show_description": "The latest weather reports and forecasts for UK shipping.",
+          "show_logo": "",
+          "start_time": "05:34",
+          "end_time": "05:43"
+        },
+        {
+          "show_name": "Bells on Sunday",
+          "show_description": "Bells on Sunday comes from the church of St Mary the Virgin, Bromfield in Shropshire.",
+          "show_logo": "",
+          "start_time": "05:43",
+          "end_time": "05:45"
+        },
+        {
+          "show_name": "In Touch",
+          "show_description": "News, views and information for people who are blind or partially sighted.",
+          "show_logo": "",
+          "start_time": "05:45",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "News Summary",
+          "show_description": "The latest national and international news from BBC Radio 4.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "06:05"
+        },
+        {
+          "show_name": "Thinking Allowed",
+          "show_description": "What draws people to extreme physical challenge? Sarah Lonsdale on climber Dorothy Pilley, and Carl Morris on the culture and history of endurance running. Laurie Taylor presents.",
+          "show_logo": "",
+          "start_time": "06:05",
+          "end_time": "06:35"
+        },
+        {
+          "show_name": "On Your Farm",
+          "show_description": "Ten years after On Your Farm first visited Westcombe Dairy, Theo Whyte returns to see how a high-tech investment kickstarted a dramatic diversification at the Somerset farm.",
+          "show_logo": "",
+          "start_time": "06:35",
+          "end_time": "06:57"
+        },
+        {
+          "show_name": "Weather Forecast",
+          "show_description": "The latest weather reports and forecast.",
+          "show_logo": "",
+          "start_time": "06:57",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "News and Sunday Papers",
+          "show_description": "National and international news from BBC Radio 4.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "07:10"
+        },
+        {
+          "show_name": "Sunday",
+          "show_description": "A look at the ethical and religious issues of the week.",
+          "show_logo": "",
+          "start_time": "07:10",
+          "end_time": "07:54"
+        },
+        {
+          "show_name": "The Radio 4 Appeal",
+          "show_description": "Actor Toby Jones makes the Radio 4 Appeal on behalf of Action Syria.",
+          "show_logo": "",
+          "start_time": "07:54",
+          "end_time": "07:57"
+        },
+        {
+          "show_name": "Weather Forecast",
+          "show_description": "The latest weather reports and forecast.",
+          "show_logo": "",
+          "start_time": "07:57",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "News and Sunday Papers",
+          "show_description": "The news headlines, including a look at the newspapers.",
+          "show_logo": "",
+          "start_time": "08:00",
+          "end_time": "08:10"
+        },
+        {
+          "show_name": "Sunday Worship",
+          "show_description": "As Lent continues and Holy Week draws closer, Rwandan Christians reflect on the Raising of Lazarus in the Gospel of John and the shortest verse in the Bible, 'Jesus Wept'.",
+          "show_logo": "",
+          "start_time": "08:10",
+          "end_time": "08:48"
+        },
+        {
+          "show_name": "Witness History",
+          "show_description": "The first World Book Day was in 1996. The idea came from a long-established Spanish celebration 'The Day of Books and Roses'.",
+          "show_logo": "",
+          "start_time": "08:48",
+          "end_time": "08:58"
+        },
+        {
+          "show_name": "Tweet of the Day",
+          "show_description": "Tweet of the Day is a series of fascinating stories about birds inspired by their calls, songs and behaviour.",
+          "show_logo": "",
+          "start_time": "08:58",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Broadcasting House",
+          "show_description": "The Sunday morning news magazine programme. Presented by Paddy O'Connell.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Desert Island Discs",
+          "show_description": "Jessie Buckley, actor and singer, shares the eight tracks, book and luxury item she would take with her if cast away to a desert island. With Lauren Laverne.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "The Archers Omnibus",
+          "show_description": "There's tension at Bridge Farm, and Rex and Alice finally make it out on a date.",
+          "show_logo": "",
+          "start_time": "11:00",
+          "end_time": "12:15"
+        },
+        {
+          "show_name": "Profile",
+          "show_description": "US Secretary of Defense, Pete Hegseth, is no stranger to controversy. Who is the military man and former Fox News host who holds the keys to the Pentagon?",
+          "show_logo": "",
+          "start_time": "12:15",
+          "end_time": "12:30"
+        },
+        {
+          "show_name": "Just a Minute",
+          "show_description": "5/6. Subjects include 'caught in the act' and 'what's the matter with you?'. Plus Gyles Brandreth reveals the actor he's most compared to in Bridget Jones' Diary.",
+          "show_logo": "",
+          "start_time": "12:30",
+          "end_time": "12:57"
+        },
+        {
+          "show_name": "Weather Forecast",
+          "show_description": "The latest weather forecast.",
+          "show_logo": "",
+          "start_time": "12:57",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "The World This Weekend",
+          "show_description": "Radio 4's look at the week's big stories from both home and around the world.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Sophia v AI Slop",
+          "show_description": "Sophia Smith Galer examines the impact of AI slop on the information landscape after finding an AI-generated biography of herself on sale on Amazon.",
+          "show_logo": "",
+          "start_time": "13:30",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Gardeners' Question Time",
+          "show_description": "Peter Gibbs and the GQT panel are in Hertfordshire, discussing meadows, tomatoes, rhubarb, bluebells and more.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "14:45"
+        },
+        {
+          "show_name": "Prime Ministers' Props",
+          "show_description": "Professor Sir David Cannadine explores political fame and image by looking at how an object or prop can come to define a political leader. This time - Lord Rosebery's race horses.",
+          "show_logo": "",
+          "start_time": "14:45",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "The Virginian",
+          "show_description": "Owen Wister's pioneering work of cowboy fiction, adapted by Theo Toksvig-Stewart. In this mythic portrayal of the Wild West, romance blossoms for the Virginian.",
+          "show_logo": "",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Take Four Books",
+          "show_description": "The Irish writer Colm Tóibín speaks to Take Four Books about his new short story collection, The News From Dublin, and explores its connections to three other literary works.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "Counterpoint",
+          "show_description": "10/13. Paul Gambaccini is in the chair as the ultimate music quiz returns, with questions on music of all varieties and eras.",
+          "show_logo": "",
+          "start_time": "16:30",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Witness History",
+          "show_description": "In 1992 FW de Klerk asked white South Africans to vote yes to continuing negotiations to abolish apartheid and create a new constitution.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "17:10"
+        },
+        {
+          "show_name": "The Verb",
+          "show_description": "Michael Laskey on his new King's Gold Medal for Poetry, Michael Schmidt marks Elizabeth Jennings' centenary, Michelle Penn on retablos, and Rachel Douglas-Jones on redaction.",
+          "show_logo": "",
+          "start_time": "17:10",
+          "end_time": "17:54"
+        },
+        {
+          "show_name": "Shipping Forecast",
+          "show_description": "The latest weather reports and forecasts for UK shipping.",
+          "show_logo": "",
+          "start_time": "17:54",
+          "end_time": "17:57"
+        },
+        {
+          "show_name": "Weather Forecast",
+          "show_description": "The latest weather reports and forecast.",
+          "show_logo": "",
+          "start_time": "17:57",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Six O'Clock News",
+          "show_description": "National and international news from BBC Radio 4.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "18:15"
+        },
+        {
+          "show_name": "Pick of the Week",
+          "show_description": "Huw Stephens presents a weekly selection of the best bits of audio across the BBC.",
+          "show_logo": "",
+          "start_time": "18:15",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "The Archers",
+          "show_description": "Alice and Rex are getting along fine, and the Grundys have a get-together.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:15"
+        },
+        {
+          "show_name": "The Alpenpost: A Girl's Guide...",
+          "show_description": "...to Fighting Hitler and Stalin. The Alpenpost: both a love letter to a distant father and a chronicle of European darkness.",
+          "show_logo": "",
+          "start_time": "19:15",
+          "end_time": "19:45"
+        },
+        {
+          "show_name": "Lent Talks",
+          "show_description": "A series of personal reflections on power.",
+          "show_logo": "",
+          "start_time": "19:45",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Feedback",
+          "show_description": "Andrea Catherwood discusses news avoidance, the conflict in Iran and positive news. We also hear more of your views on the end of regular episodes of Ukrainecast.",
+          "show_logo": "",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Last Word",
+          "show_description": "Matthew Bannister on musician Neil Sedaka, journalist Drusilla Beyfus, astronomer Professor Dame Carole Jordan and Ayatollah Ali Khamenei.",
+          "show_logo": "",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Money Box",
+          "show_description": "The listener who had more than £300,000 stolen from her by cryptocurrency thieves.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "21:25"
+        },
+        {
+          "show_name": "The Radio 4 Appeal",
+          "show_description": "Actor Toby Jones makes the Radio 4 Appeal on behalf of Action Syria.",
+          "show_logo": "",
+          "start_time": "21:25",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "From Our Own Correspondent",
+          "show_description": "After the US-Israel attacks on Iran, surrounding countries have quickly been drawn into the war following retaliatory strikes. We hear from Turkey, Lebanon, Israel and Cyprus.",
+          "show_logo": "",
+          "start_time": "21:30",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "The Westminster Hour",
+          "show_description": "Radio 4's Sunday night political discussion programme.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "In Our Time",
+          "show_description": "Misha Glenny and guests discuss the resilience of the child bride who made it her mission to protect her son during the Wars of the Roses and helped him become the first Tudor king.",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "23:45"
+        },
+        {
+          "show_name": "Short Works",
+          "show_description": "In a hospital in Belfast, senior nurse Erin is unsettled to find herself in the role of the patient.",
+          "show_logo": "",
+          "start_time": "23:45",
           "end_time": "00:00"
         }
       ]

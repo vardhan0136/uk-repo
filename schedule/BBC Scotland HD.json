@@ -3,81 +3,6 @@
   "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png",
   "schedule": [
     {
-      "date": "6 March 2026",
-      "programmes": [
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Reporting Scotland: News at Seven",
-          "show_description": "More from the day's top stories and communities across Scotland.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9fd3c8fd-9498-4005-8d51-a20222ebb17d/cover",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Sportscene: Scottish Cup Live",
-          "show_description": "Live Scottish Cup quarter-final action as Falkirk host Dundee United.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e8896c05-b4a0-41ea-915b-fc56aa24e59d/cover",
-          "start_time": "19:30",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Still Game",
-          "show_description": "Jack and Victor are enticed by the manager of a local care home. Contains some strong language and adult humour.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c68b7165-32db-4473-9a76-37ca5d1b8171/cover",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "A View from the Terrace",
-          "show_description": "10/18. Every ounce of Scottish football, from the SPFL to the Sunday league ringers. It means everything, it means nothing, and this is the view of the fans on the terrace.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4cfe28e9-5541-41d0-a441-e7f71822471d/cover",
-          "start_time": "22:30",
-          "end_time": "23:15"
-        },
-        {
-          "show_name": "Two Doors Down",
-          "show_description": "3/6. Beth's hopes of a traditional Sunday lunch collapse when Cathy and Colin arrive arguing. Contains some strong language and adult humour.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d737b49e-eead-43d1-99f1-2d3ac81ba345/cover",
-          "start_time": "23:15",
-          "end_time": "23:45"
-        },
-        {
-          "show_name": "Growing Up Scottish",
-          "show_description": "Some of Scotland's favourite comedians remember Burns recitals, coach trips and country dancing.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7b48b3d7-4274-4dc9-9184-f5d6ef55214e/cover",
-          "start_time": "23:45",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "7 March 2026",
       "programmes": [
         {
@@ -155,6 +80,81 @@
           "show_description": "2/2. A decades-long quest for justice as Arlene's family searches for the truth. Contains some scenes which some viewers may find upsetting.",
           "show_logo": "https://images.metadata.sky.com/pd-image/1580edb2-8691-4ba6-af33-acaad83f6d00/cover",
           "start_time": "23:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "8 March 2026",
+      "programmes": [
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Reporting Scotland: News at Seven",
+          "show_description": "All your weekend national, UK-wide and international news on Sunday evening at 7.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/698e949a-87de-485d-8a40-4be9e3e4089c/cover",
+          "start_time": "19:00",
+          "end_time": "19:15"
+        },
+        {
+          "show_name": "Sportscene: Scottish Cup Live",
+          "show_description": "Live Scottish Cup quarter-final action as St Mirren take on Partick Thistle with a place in the semi-finals at stake.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/70f36359-642f-4675-8654-df164c84d4bf/cover",
+          "start_time": "19:15",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Still Game",
+          "show_description": "Jack and Victor are enticed by the manager of a local care home. Contains some strong language and adult humour.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c68b7165-32db-4473-9a76-37ca5d1b8171/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Scot Squad",
+          "show_description": "2/5. The Bravehearts in Blue crack down on criminality all across Caledonia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/45969693-2df7-4763-8e06-8a0f3e59f320/cover",
+          "start_time": "22:30",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Situationships with Sophie and Christine",
+          "show_description": "3/8. Are Sophie and Christine any good at saying sorry? Contains some strong language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/360c617f-f1cd-4cf3-8311-5cea72622595/cover",
+          "start_time": "23:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "The Sunday Show",
+          "show_description": "Gary Robertson brings you all the main issues from the world of politics and beyond. Big interviews, discussion and analysis of the stories that matter to Scotland.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6b3a37df-374d-4288-a7bc-39de0788436e/cover",
+          "start_time": "23:30",
           "end_time": "00:00"
         }
       ]

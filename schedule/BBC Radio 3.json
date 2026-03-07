@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
   "schedule": [
     {
-      "date": "6 March 2026",
-      "programmes": [
-        {
-          "show_name": "Through the Night",
-          "show_description": "Violinist Carolin Widmann and pianist Gabriele Carcano play sonatas by Schumann, Brahms and Fauré at the Pau Casals International Music Festival in Spain. Penny Gore presents.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "Linton Stephens presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Essential Classics",
-          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Classical Live",
-          "show_description": "Al Ryan reaches the climax of his week focused on performances of distinctive settings of the mass with Beethoven, and he also casts an eye on festive chamber music from Belfast.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Composer of the Week: Sibelius",
-          "show_description": "5/5. Kate Molleson follows Sibelius in the creation of his Sixth and Seventh Symphonies - and also the Eighth which the composer destroyed.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "In Tune",
-          "show_description": "Harpist Anne-Sophie Bertrand and the Kaleiddoscope Chamber Collective play rediscovered pieces by Ethel Yeats and Augusta Zuckermann.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Classical Mixtape",
-          "show_description": "Take time out with a 30-minute soundscape of classical music with music from Saint-Saens, Mendelssohn, Mozart and Howard Shore.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Friday Night is Music Night",
-          "show_description": "The BBC National Orchestra of Wales, conductor Ian McMillan-Davidson, and three vocal stars celebrate the music of Ivor Novello on the 75th anniversary of his death.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "The Essay: You, Me and the Wireless",
-          "show_description": "Legendary broadcaster Gillian Reynolds shares her life and career in radio, spanning over 50 years. Audio drama takes centre stage in this final essay.",
-          "show_logo": "",
-          "start_time": "21:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Late Junction",
-          "show_description": "Join Jennifer Lucy Allan for a celebration of the accordion's more experimental sides, from extended techniques to pedal manipulation.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "'Round Midnight",
-          "show_description": "Soweto presents concert highlights from vocalist, violinist, and friend of the show Alice Zawadzki, who blends different music traditions and jazz.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "7 March 2026",
       "programmes": [
         {
@@ -159,9 +77,119 @@
         },
         {
           "show_name": "New Music Show",
-          "show_description": "Cutting edge music including the premiere of Shiva Feshareki's DIVINE FEMININE, a 360  soundscape of \"divine\" geometric spatialisation.",
+          "show_description": "Cutting edge music including the premiere of Shiva Feshareki's Divine Feminine, a 360  soundscape of \"divine\" geometric spatialisation.",
           "show_logo": "",
           "start_time": "22:30",
+          "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "8 March 2026",
+      "programmes": [
+        {
+          "show_name": "Through the Night",
+          "show_description": "Celebrating women in classical music with a concert from the Polish National Radio Symphony Orchestra, performing Louise Farrenc and Clara Schumann.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "Mark Forrest presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Sunday Morning",
+          "show_description": "Sarah Walker with three hours of classical music to reflect, restore and refresh, whether you're about to tackle a to-do list, or you're taking some time out with tea and a book.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Private Passions",
+          "show_description": "The film-maker and opera director Penny Woolcock shares her musical choices with Michael Berkeley.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Music Map",
+          "show_description": "Sara Mohr-Pietsch explores Clara Schumann's virtuosic Piano Concerto, premiered by the composer when she was just sixteen years old.",
+          "show_logo": "",
+          "start_time": "13:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Choral Evensong",
+          "show_description": "Live from the Chapel of Sidney Sussex College, Cambridge, with music by Joanna Marsh.",
+          "show_logo": "",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Jazz Record Requests",
+          "show_description": "Alyn marks International Women's Day with a special edition featuring music from harpist Dorothy Ashby and vocalists Etta James, Billie Holiday and Ella Fitzgerald.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "The Early Music Show",
+          "show_description": "Hannah French celebrates some of the leading women performers at the beginnings of the early music movement, including violinist Alice Harnoncourt & harpsichordist Wanda Landowska.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Words and Music",
+          "show_description": "Pippa Nixon and Sarah Amankwah read from authors including Brit Bennett, Daisy Johnson, Colm Tóibín, CS Lewis. Music includes Angelique Kidjo, Fanny Mendelssohn and the Boulangers.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "19:15"
+        },
+        {
+          "show_name": "Sunday Feature: Richard Strauss and Us",
+          "show_description": "Comedian, actor and keen musician Nick Mohammed traces how the popularity of the German composer Richard Strauss soared and waned with British audiences during his lifetime.",
+          "show_logo": "",
+          "start_time": "19:15",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Handel Dixit Dominus",
+          "show_description": "The Building a Library recommended recording from yesterday's Record Review.",
+          "show_logo": "",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "20th Century Radicals",
+          "show_description": "Kate Molleson and Gillian Moore shine new light on the 'modern' music of the 20th century. This week, Kate explores the unique musical universe of Lucia Dlugoszewski.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Compline",
+          "show_description": "From St John the Evangelist, Hills Road, Cambridge, with Cambridge University Schola Cantorum.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Night Tracks",
+          "show_description": "Sara Mohr-Pietsch presents an International Women's Day immersive soundtrack by female composers for late-night listening, from classical to contemporary and everything in between.",
+          "show_logo": "",
+          "start_time": "22:30",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "Unclassified",
+          "show_description": "Elizabeth Alker picks new releases from the world of ambient music. Plus legendary synth composer Suzanne Ciani shares a piece of music that transports her elsewhere.",
+          "show_logo": "",
+          "start_time": "23:30",
           "end_time": "00:30"
         }
       ]

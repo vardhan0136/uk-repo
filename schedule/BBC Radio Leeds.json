@@ -3,60 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Leeds.png",
   "schedule": [
     {
-      "date": "6 March 2026",
-      "programmes": [
-        {
-          "show_name": "Weekday overnights with BBC...",
-          "show_description": "...Radio 5 Live. Local BBC Radio joins BBC Radio 5 Live through the night on a weekday.",
-          "show_logo": "http://img.freeviewplay.net/e4db4431f28f77b8f720b9f8e5c1d2e53?w=800",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Rima Ahmed",
-          "show_description": "Waking you up this morning, Dixie sits in for Rima.",
-          "show_logo": "http://img.freeviewplay.net/efe0e21bf2b2fb7639a552bf4044b2eef?w=800",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Gayle Lofthouse",
-          "show_description": "West Yorkshire stories to make you smile, mid-morning updates and the music you love.",
-          "show_logo": "http://img.freeviewplay.net/ee958bd0e7bd89087f5cd36a64bfad2cd?w=800",
-          "start_time": "10:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Toby Foster",
-          "show_description": "The day's local and national news, as well as great music and quizzes with Toby.",
-          "show_logo": "http://img.freeviewplay.net/e0ae457ef87c5a95a0cf0ee28df46e800?w=800",
-          "start_time": "14:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "West Yorkshire Sport Daily",
-          "show_description": "Topical sports issues of the day.",
-          "show_logo": "http://img.freeviewplay.net/ee87333564c85f29b7454ead54a9d9509?w=800",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Sile Sibanda",
-          "show_description": "Conversation and music for our African and Caribbean communities with Sile Sibanda.",
-          "show_logo": "http://img.freeviewplay.net/e178a3e020af8257b47c676895adabfba?w=800",
-          "start_time": "19:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Late Night Jo",
-          "show_description": "Jim with late-night conversation, amazing stories and the soundtrack to your night.",
-          "show_logo": "http://img.freeviewplay.net/ebccb55fa5a5016e8794730c01535ad5a?w=800",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "7 March 2026",
       "programmes": [
         {
@@ -133,6 +79,74 @@
           "show_name": "Late Night Jo",
           "show_description": "Jim with late-night conversation, amazing stories and the soundtrack to your night.",
           "show_logo": "http://img.freeviewplay.net/ebccb55fa5a5016e8794730c01535ad5a?w=800",
+          "start_time": "22:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "8 March 2026",
+      "programmes": [
+        {
+          "show_name": "Weekend overnights with BBC...",
+          "show_description": "...Radio 5 Live. Local BBC Radio joins BBC Radio 5 Live through the night on a weekend.",
+          "show_logo": "http://img.freeviewplay.net/ecf9fd0caeb6fb0c32a8c9c02274e26e4?w=800",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Kat Cowan",
+          "show_description": "The week's big topics, faith and ethical discussion. Includes The Grow Show at 9am.",
+          "show_logo": "http://img.freeviewplay.net/e6c57454d52667afd4f6562af7596a83d?w=800",
+          "start_time": "06:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Nick Ahad",
+          "show_description": "Fun, updates and entertainment to brighten up Sunday mid-morning.",
+          "show_logo": "http://img.freeviewplay.net/ec9e26080d66209aabda2db78f858c74c?w=800",
+          "start_time": "10:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "The Make a Difference Show",
+          "show_description": "Gaby Roslin talks to some amazing people making a difference where we live.",
+          "show_logo": "http://img.freeviewplay.net/e175867f6766d2696396679455ca61ae5?w=800",
+          "start_time": "14:00",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "West Yorkshire Sport: Pre-match",
+          "show_description": "All the build-up and interviews ahead of today's matches featuring West Yorkshire teams.",
+          "show_logo": "http://img.freeviewplay.net/e424f253bcc8b5b8f11e2b8ad6e6b533a?w=800",
+          "start_time": "15:30",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "West Yorkshire Sport: Commentary",
+          "show_description": "Live FA Cup fifth round commentary of Leeds United v Norwich City. Kick-off at 4.30pm. UK only.",
+          "show_logo": "http://img.freeviewplay.net/e3f2752b98d4940570a66bfde8589f4f6?w=800",
+          "start_time": "16:30",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "West Yorkshire Sport: Post-match",
+          "show_description": "Have your say. Text 81333 starting with WYS. Email westyorkshiresport@bbc.co.uk.",
+          "show_logo": "http://img.freeviewplay.net/e03c0ce0f89f9318aa799eb6b597fa801?w=800",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Dotun Adebayo",
+          "show_description": "Dotun Adebayo brings you the best of community programming from across England.",
+          "show_logo": "http://img.freeviewplay.net/ec35946f3ecfc2450974a6221f39b4e1a?w=800",
+          "start_time": "19:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "The Late Show",
+          "show_description": "Asma Younus with late-night conversation, stories and the soundtrack to your night.",
+          "show_logo": "http://img.freeviewplay.net/efd65265b511daa476ef72564c81e71c0?w=800",
           "start_time": "22:00",
           "end_time": "01:00"
         }
