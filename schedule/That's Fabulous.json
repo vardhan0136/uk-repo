@@ -3,39 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/That's_Fabulous.png",
   "schedule": [
     {
-      "date": "7 March 2026",
-      "programmes": [
-        {
-          "show_name": "..programmes no longer available",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "..programmes no longer available",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "..programmes no longer available",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "..programmes no longer available",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "8 March 2026",
       "programmes": [
         {
@@ -148,6 +115,74 @@
           "show_description": "Relive the biggest rock songs of all time with That's Rock.",
           "show_logo": "https://images.metadata.sky.com/pd-image/899f4edf-2b40-459a-bdd2-3138537d1f35/cover",
           "start_time": "23:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "9 March 2026",
+      "programmes": [
+        {
+          "show_name": "60s Rock Around the Clock",
+          "show_description": "Hot 60s hits all night.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a93dcf3d-2532-43f2-97be-f4921dabccbb/cover",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "60s Rock Around the Clock",
+          "show_description": "Hot 60s hits all night.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8040dc38-163f-45f1-a6d1-3dfe57f8bb77/cover",
+          "start_time": "01:00",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "60s Rock Around the Clock",
+          "show_description": "Hot 60s hits all night.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/90cdada1-1f9e-4a99-b484-9f9f18b9c7d7/cover",
+          "start_time": "02:00",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "60s Rock Around the Clock",
+          "show_description": "Hot 60s hits all night.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ded441b1-fc7e-4e74-9a0a-843e81348f72/cover",
+          "start_time": "03:00",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "60s Rock Around the Clock",
+          "show_description": "Hot 60s hits all night.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/161e2708-752e-44d5-9090-2874e46320a8/cover",
+          "start_time": "04:00",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "60s Rock Around the Clock",
+          "show_description": "Hot 60s hits all night.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/930fdb8a-4c7f-4989-a6bd-55965b61212c/cover",
+          "start_time": "05:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "..programmes no longer available",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "..programmes no longer available",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "..programmes no longer available",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "18:00",
           "end_time": "00:00"
         }
       ]

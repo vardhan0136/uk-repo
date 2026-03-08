@@ -3,158 +3,20 @@
   "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
   "schedule": [
     {
-      "date": "7 March 2026",
-      "programmes": [
-        {
-          "show_name": "Weather for the Week Ahead",
-          "show_description": "Detailed weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9f81a682-eafb-469a-b01d-a62fba775726/cover",
-          "start_time": "00:45",
-          "end_time": "00:50"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b6961ddd-4322-3081-b084-d33df356fe41/cover",
-          "start_time": "00:50",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1a137a77-1beb-4bfa-8cb4-e526fb9da333/cover",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Saturday Kitchen Live",
-          "show_description": "Alex Jones is joined by chefs Mike Reid, Adejoké Bakare and Bryn Williams, and by special guest Phil Wang. Drinks expert Olly Smith picks the wines to go with the studio dishes.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/748271a3-cf1a-4644-9d76-9b5ebe25cc2f/cover",
-          "start_time": "10:00",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Nadiya's Simple Spices",
-          "show_description": "6/6. Nadiya presents her best-loved recipes for get-togethers, including marinated chicken.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cc3aa711-0378-3091-acf8-d9b9e4cc32b8/cover",
-          "start_time": "11:30",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Bargain Hunt",
-          "show_description": "Charlie Ross heads to Southwell in Nottinghamshire with experts Steph Connell and Mark Stacey and the teams, learning the surprising history behind the humble bar of soap along the way.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6ecea5a7-3428-47a5-8757-87b4b8780136/cover",
-          "start_time": "12:00",
-          "end_time": "12:45"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8c32f7c0-8e30-45ee-b98e-bc8a1a254db7/cover",
-          "start_time": "12:45",
-          "end_time": "12:55"
-        },
-        {
-          "show_name": "Weather",
-          "show_description": "The latest weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/05c45c7b-c029-4229-8130-f02de738a067/cover",
-          "start_time": "12:55",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Six Nations: Scotland v France",
-          "show_description": "Coverage from Murrayfield as Scotland look to stay in contention for a first Six Nations title against unbeaten France.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b66cd603-ddbb-4022-b934-48dfd56fde36/cover",
-          "start_time": "13:00",
-          "end_time": "16:25"
-        },
-        {
-          "show_name": "Asia",
-          "show_description": "6/7. A look at the vast, hostile, arid lands in the heart of Asia - deserts and dry grasslands.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b7a15ace-f0f2-33f2-b086-6b882a984e3f/cover",
-          "start_time": "16:25",
-          "end_time": "17:15"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b55aa07b-7a40-4ab0-ae40-f429d3fdda89/cover",
-          "start_time": "17:15",
-          "end_time": "17:20"
-        },
-        {
-          "show_name": "BBC Newsline",
-          "show_description": "Local news from across Northern Ireland with Tara Mills and Declan Harvey.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/66740231-f13e-4db0-92cd-5d59b1c4db80/cover",
-          "start_time": "17:20",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "MOTD Live: Wrexham v Chelsea",
-          "show_description": "Coverage from the Racecourse Ground of the FA Cup fifth-round tie between Championship side Wrexham and Premier League and eight-time winners Chelsea.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/66bbe057-fe36-464c-ac16-6ecf9b42f9d2/cover",
-          "start_time": "17:30",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Gladiators",
-          "show_description": "8/11. Gladiators ready! Bradley and Barney Walsh welcome back four more steel-nerved Contenders to battle the indomitable Gladiators as they compete for the last semi-final places.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e83756f6-c547-4c3a-9b06-054ac36abda6/cover",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Casualty",
-          "show_description": "8/12. Iain realises life will never be the same again, Siobhan's blood runs cold at a discovery, while Dylan steps up for Matty. Contains some scenes which some viewers may find upsetting.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/364c3bfa-15a2-4462-871d-fa015b5fa8e6/cover",
-          "start_time": "21:00",
-          "end_time": "21:50"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e9c2a2fb-a32d-4245-9559-3a2b23073dab/cover",
-          "start_time": "21:50",
-          "end_time": "22:05"
-        },
-        {
-          "show_name": "Weather",
-          "show_description": "The latest weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9a09b736-cf4b-42c1-a62b-0678b0e0a24c/cover",
-          "start_time": "22:05",
-          "end_time": "22:10"
-        },
-        {
-          "show_name": "The Walsh Sisters",
-          "show_description": "3/6. Anna processes her emotions, Rachel struggles in rehab, and Maggie plans her future. Contains some strong language and some scenes of a sexual nature.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/29d87fd9-896b-4614-b3d5-ba7f7ec21e53/cover",
-          "start_time": "22:10",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Blade Runner 2049",
-          "show_description": "After making a disturbing discovery, replicant hunter K goes after the one person he suspects can help. Contains some strong language and some violent scenes. [2017]",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dbc8dfd4-1a95-4fc2-b64a-1128e4918a9a/cover",
-          "start_time": "23:00",
-          "end_time": "01:30"
-        }
-      ]
-    },
-    {
       "date": "8 March 2026",
       "programmes": [
         {
           "show_name": "Weather for the Week Ahead",
           "show_description": "Detailed weather forecast.",
           "show_logo": "https://images.metadata.sky.com/pd-image/330c1310-a86e-4066-a192-3eb36229fd07/cover",
-          "start_time": "01:30",
-          "end_time": "01:35"
+          "start_time": "02:10",
+          "end_time": "02:15"
         },
         {
           "show_name": "BBC News",
           "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
           "show_logo": "https://images.metadata.sky.com/pd-image/b6961ddd-4322-3081-b084-d33df356fe41/cover",
-          "start_time": "01:35",
+          "start_time": "02:15",
           "end_time": "06:00"
         },
         {
@@ -166,7 +28,7 @@
         },
         {
           "show_name": "Sunday with Laura Kuenssberg",
-          "show_description": "The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.",
+          "show_description": "Laura Kuenssberg talks to Yvette Cooper, Seyed Ali Mousavi, Tom Fletcher, Robert Jenrick and John Swinney. With Penny Mordaunt, Zarah Sultana and Christiane Amanpour.",
           "show_logo": "https://images.metadata.sky.com/pd-image/f6eb219a-f16c-4264-99cd-b1e927cc84b0/cover",
           "start_time": "09:00",
           "end_time": "10:00"
@@ -310,6 +172,186 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/e29428be-cc52-4410-bf00-966ec451b3cf/cover",
           "start_time": "23:55",
           "end_time": "00:45"
+        }
+      ]
+    },
+    {
+      "date": "9 March 2026",
+      "programmes": [
+        {
+          "show_name": "Weather for the Week Ahead",
+          "show_description": "Detailed weather forecast.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/37f40099-2e7a-4c08-be29-550a15187d78/cover",
+          "start_time": "00:45",
+          "end_time": "00:50"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d4a4d497-fdab-4ad7-b007-332762293f70/cover",
+          "start_time": "00:50",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/41c088ab-a5d0-49a0-82fd-eb2045fe384c/cover",
+          "start_time": "06:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Morning Live",
+          "show_description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3c571881-5719-47e5-b203-cb7c2fb23508/cover",
+          "start_time": "09:30",
+          "end_time": "10:45"
+        },
+        {
+          "show_name": "Crimewatch Live",
+          "show_description": "6/15. In 1986, Diane Sindall was found dead in an alleyway - can you help solve a 40-year-old mystery? Also on the programme, how brave officers rescued a woman trapped on Aberavon Beach.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4dd45da5-57f1-46a7-bf4a-4e2556e12f8f/cover",
+          "start_time": "10:45",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Homes Under the Hammer",
+          "show_description": "Martin is served up a treat at a Wimbledon flat.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e03da442-953c-4c3a-9a71-bc0274099469/cover",
+          "start_time": "11:30",
+          "end_time": "12:15"
+        },
+        {
+          "show_name": "Bargain Hunt",
+          "show_description": "Experts Izzie Balmer and Nick Hall shop alongside today's red and blue teams, and presenter Christina Trevanion meets a collector with more than 1,200 Staffordshire figures.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/63b50a2e-560b-4402-9ed0-43b455ea5ad4/cover",
+          "start_time": "12:15",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "BBC News at One including BBC Newsline",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b22e141f-30d4-479f-9543-828ea4443c38/cover",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Bear Grylls - Wild Reckoning",
+          "show_description": "Former best friends Rhys and Niall work to repair their broken friendship. They drifted apart after the death of Niall's older brother and have barely spoken for two years.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1718e02b-9702-450d-bf7e-3df92392c9c4/cover",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "Amanda & Alan's Spanish Job",
+          "show_description": "1/8. Amanda Holden and Alan Carr take on their biggest and most ambitious project yet as they embark on transforming a run-down Andalusian townhouse into a boutique B&B.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f94ef0e5-2ecd-41ff-952a-7b838411dd64/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Escape to the Country",
+          "show_description": "33/50. In Scotland's Central Lowlands, Sonali Shah helps a Canadian couple to make a rural escape and meets Californians who bought their dream home, sight unseen, and never looked back.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bbce6566-229c-4ed7-a207-11cc10d62399/cover",
+          "start_time": "15:00",
+          "end_time": "15:45"
+        },
+        {
+          "show_name": "The Repair Shop on the Road",
+          "show_description": "In Chatham, the team honour the fallen, restoring two First World War memorial plaques after a shocking act of vandalism.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/35279382-54e9-4f4e-a588-cbd239e3a289/cover",
+          "start_time": "15:45",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "The Finish Line",
+          "show_description": "1/25. Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f59d836e-feb1-4597-9e19-67c2e2a3eaea/cover",
+          "start_time": "16:30",
+          "end_time": "17:15"
+        },
+        {
+          "show_name": "Pointless",
+          "show_description": "1/54. The quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c007fa27-8809-49f2-bf8f-bdc2570e49f8/cover",
+          "start_time": "17:15",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8ac2e4b2-b881-4156-a10d-417816879f97/cover",
+          "start_time": "18:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "BBC Newsline",
+          "show_description": "Local news from across Northern Ireland with Tara Mills and Declan Harvey.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b3eb2339-7158-4d70-8887-79bb557e02f0/cover",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "The One Show",
+          "show_description": "Alex Jones and Roman Kemp bring you the stories that matter from across the country.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fe6bd822-777f-4742-9ed4-984ed7efd522/cover",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "EastEnders",
+          "show_description": "The pressure grows for Mark, Lauren worries about her future, and Phil avoids a situation.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2b30d787-1976-4262-affc-c0df70440249/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Jane Rea's Bloomin' Wild",
+          "show_description": "4/4. It's winter in Shilnavogie - one of Jane's busiest times both on and off the farm.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/944088f4-393d-41ef-809d-4cf02a650006/cover",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "At War: Trump, Israel and Iran - Panorama",
+          "show_description": "As the conflict in the Middle East intensifies, Jane Corbin investigates the origins and aims of the US/Israeli offensive against Iran that could reshape the region.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9e730905-97d2-494f-b925-6de1a18557ac/cover",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Death in Paradise",
+          "show_description": "6/8. Mervin gets embroiled in a confounding case when he goes in search of his brother on Antigua. And the team must uncover their detective's whereabouts before it's too late.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/552be899-81dc-4b19-8dd7-9aa0cb0c8de2/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "BBC News and Weather",
+          "show_description": "The latest national and international news, with reports from BBC correspondents worldwide.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/039461a2-23f6-445d-b9f9-169cc3b441a4/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "BBC Newsline",
+          "show_description": "Local news from across Northern Ireland with Tara Mills and Declan Harvey.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b273364a-00a5-4f52-a42d-cf3fb2f163a4/cover",
+          "start_time": "22:30",
+          "end_time": "22:40"
+        },
+        {
+          "show_name": "Men of the Manosphere",
+          "show_description": "James Blake joins three young men to explore why they've turned to the so-called manosphere to achieve success, and how it's influenced their real lives. Contains strong language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5843d09c-4f59-4851-b404-2f9a726f45c9/cover",
+          "start_time": "22:40",
+          "end_time": "23:40"
+        },
+        {
+          "show_name": "Would I Lie to You?",
+          "show_description": "10/12. Rob Brydon hosts the award-winning comedy panel show. Lee Mack and David Mitchell are joined by guest panellists Nabil Abdulrashid, Alex James, Nella Rose and Lou Sanders.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5f64b2f3-8da7-4289-b610-ac0e21db7887/cover",
+          "start_time": "23:40",
+          "end_time": "00:10"
         }
       ]
     }
