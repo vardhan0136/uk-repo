@@ -3,81 +3,6 @@
   "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png",
   "schedule": [
     {
-      "date": "8 March 2026",
-      "programmes": [
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Reporting Scotland: News at Seven",
-          "show_description": "All your weekend national, UK-wide and international news on Sunday evening at 7.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/698e949a-87de-485d-8a40-4be9e3e4089c/cover",
-          "start_time": "19:00",
-          "end_time": "19:15"
-        },
-        {
-          "show_name": "Sportscene: Scottish Cup Live",
-          "show_description": "Live Scottish Cup quarter-final action as St Mirren take on Partick Thistle with a place in the semi-finals at stake.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/70f36359-642f-4675-8654-df164c84d4bf/cover",
-          "start_time": "19:15",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Still Game",
-          "show_description": "Jack and Victor are enticed by the manager of a local care home. Contains some strong language and adult humour.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c68b7165-32db-4473-9a76-37ca5d1b8171/cover",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "Scot Squad",
-          "show_description": "2/5. The Bravehearts in Blue crack down on criminality all across Caledonia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/45969693-2df7-4763-8e06-8a0f3e59f320/cover",
-          "start_time": "22:30",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Situationships with Sophie and Christine",
-          "show_description": "3/8. Are Sophie and Christine any good at saying sorry? Contains some strong language.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/360c617f-f1cd-4cf3-8311-5cea72622595/cover",
-          "start_time": "23:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "The Sunday Show",
-          "show_description": "Gary Robertson brings you all the main issues from the world of politics and beyond. Big interviews, discussion and analysis of the stories that matter to Scotland.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6b3a37df-374d-4288-a7bc-39de0788436e/cover",
-          "start_time": "23:30",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "9 March 2026",
       "programmes": [
         {
@@ -196,6 +121,88 @@
           "show_name": "Limmy's Show",
           "show_description": "5/6. Limmy suggests a well-placed mime to get you out of some pretty serious scrapes. Contains some strong language and adult humour.",
           "show_logo": "https://images.metadata.sky.com/pd-image/4fd973cf-5c0a-4a84-a6e7-85bd69b6ce89/cover",
+          "start_time": "23:30",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "10 March 2026",
+      "programmes": [
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Reporting Scotland: News at Seven",
+          "show_description": "Bringing you more from the day's top stories and communities across Scotland.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ff121b64-70c7-4930-b58f-c6ef228bcb57/cover",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "The Harbour",
+          "show_description": "3/6. Following the people working at Aberdeen harbour. Trainee harbour pilot Ralph faces a tough test on the simulator. Ex-sailor Ellen hopes to take Ralph's place as VTS controller.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/53e079c3-679b-4f42-a595-fcaf34cd4fd6/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "New: This Farming Life",
+          "show_description": "3/12. Zara worries that Callum's accident has had a lasting effect, Emma and Rob call in the vet for a difficult birth, and Ally and Bethany set sail for an island sheep gather.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b07afada-c75e-4340-b187-bd8aee3e0eff/cover",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Dunblane: How Britain Banned Handguns",
+          "show_description": "How grieving parents forced the government to ban handguns after the Dunblane shooting. Contains some strong language and some upsetting scenes.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1c5512aa-80db-455f-8821-f74e0f5b28cc/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Scotland: The Promised Land",
+          "show_description": "3/3. Documentary series examining the political changes that shaped modern-day Scotland. Scotland's ideological struggle in the wake of World War I.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7c03b5f7-3b8d-4a5a-a777-877f8087b831/cover",
+          "start_time": "22:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Scotcast",
+          "show_description": "Conversation about Scotland's biggest news stories, hosted by Martin Geissler.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8a7ff390-aa82-45e2-97e6-02cfd226c431/cover",
+          "start_time": "23:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "David Wilson's Crime Files",
+          "show_description": "Criminologist David Wilson examines the complex topic of terrorism. Contains some scenes which some viewers may find upsetting.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/690f5a59-6a74-4c0d-96e2-82fbbd382dd3/cover",
           "start_time": "23:30",
           "end_time": "00:00"
         }

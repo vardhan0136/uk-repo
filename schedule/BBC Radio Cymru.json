@@ -3,137 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cymru.png",
   "schedule": [
     {
-      "date": "8 March 2026",
-      "programmes": [
-        {
-          "show_name": "Gweler BBC World Service",
-          "show_description": "Mae Radio Cymru'n ymuno â'r BBC World Service dros nos. Radio Cymru joins the BBC World Service overnight.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "05:30"
-        },
-        {
-          "show_name": "Linda Griffiths",
-          "show_description": "Cymysgedd o gerddoriaeth brin, anghofiedig, hen a newydd yng nghwmni Linda Griffiths. Linda Griffiths with a mix of music old and new, including some rare and forgotten tracks.",
-          "show_logo": "",
-          "start_time": "05:30",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Troi'r Tir",
-          "show_description": "Emyr a Gwynedd Evans sy'n hel atgofion am y cwmni tractorau wrth iddyn nhw nodi'r 40. Emyr and Gwynedd Evans reminisce about their tractor company as they celebrate 40 years.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "07:30"
-        },
-        {
-          "show_name": "Caniadaeth y Cysegr",
-          "show_description": "Amrywiaeth o emynau yng nghwmni'r Parchedig Andrew Settatree.  A selection of hymns with the Reverend Andrew Settatree.",
-          "show_logo": "",
-          "start_time": "07:30",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "Heledd Cynwal",
-          "show_description": "Heledd Cynwal sydd yn estyn croeso cynnes i chi fwynhau dwy awr o gwmnïaeth ddifyr a cherddoriaeth fendigedig ar fore Sul. Sunday morning music and chat with Heledd Cynwal.",
-          "show_logo": "",
-          "start_time": "08:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Swyn y Sul",
-          "show_description": "Y cerddor a'r cyfansoddwr Sioned Webb yn dewis cerddoriaeth ar gyfer bore Sul. Music for Sunday morning, chosen by Sioned Webb.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Yr Oedfa",
-          "show_description": "Trydedd Oedfa'r Grawys o Gaernarfon dan arweiniad Jenny Knott yn trafod ymprydio, diolchgarwch a haelioni.  Jenny Knott leads the third Lent service from Caernarfon.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "Bwrw Golwg",
-          "show_description": "John Roberts yn trafod rhyfel y Dwyrain Canol, lle gweddi a chyfrol am ferched a ffydd.  Discussion about the war in the Middle East, prayer and a new book about women of faith.",
-          "show_logo": "",
-          "start_time": "12:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Llwyfan gyda Manon Steffan Ros",
-          "show_description": "Manon Steffan Ros a'i gwesteion yn trafod y byd celfyddydol yn ei holl amrywiaeth yng Nghymru a thu hwnt. A look at the arts scene in Wales and beyond with Manon Steffan Ros.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Linda Griffiths",
-          "show_description": "Cymysgedd o gerddoriaeth brin, anghofiedig, hen a newydd yng nghwmni Linda Griffiths. Linda Griffiths with a mix of music old and new, including some rare and forgotten tracks.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Troi'r Tir",
-          "show_description": "Emyr a Gwynedd Evans sy'n hel atgofion am y cwmni tractorau wrth iddyn nhw nodi'r 40. Emyr and Gwynedd Evans reminisce about their tractor company as they celebrate 40 years.",
-          "show_logo": "",
-          "start_time": "15:30",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Gwneud Gwahaniaeth",
-          "show_description": "Heledd Cynwal yn cwrdd â rhai o enillwyr ysbrydoledig Gwobrau Gwneud Gwahaniaeth BBC Cymru 2025. Heledd Cynwal meets individuals honoured at the BBC Wales Make a Difference Awards.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "Caniadaeth y Cysegr",
-          "show_description": "Amrywiaeth o emynau yng nghwmni'r Parchedig Andrew Settatree.  A selection of hymns with the Reverend Andrew Settatree.",
-          "show_logo": "",
-          "start_time": "16:30",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Dei Tomos",
-          "show_description": "Elis Dafydd sy'n trafod ei waith ar olygiad newydd o farddoniaeth R. Williams Parry. Elis Dafydd discusses his work on a new edition of R. Williams Parry's poetry.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Beti a'i Phobol",
-          "show_description": "Beti George yn holi Peredur Glyn awdur a Darllenydd mewn Ieithyddiaeth a Dwyieithrwydd. Beti George interviews Peredur Glyn University lecturer and novelist.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Y Talwrn",
-          "show_description": "Dau dîm o feirdd yn cystadlu i geisio cyrraedd y rownd derfynol yn Eisteddfod Genedlaethol 2026. Two teams of bards compete to win a place in the final at the National Eisteddfod.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Ar Eich Cais",
-          "show_description": "Rhys Meirion yn darllen cyfarchion ac yn chwarae ceisiadau. Rhys Meirion reads greetings and plays requests.",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "John ac Alun",
-          "show_description": "Cerddoriaeth a sgwrsio i gloi'r penwythnos. Music and chat to bring the weekend to a close.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "9 March 2026",
       "programmes": [
         {
@@ -202,6 +71,95 @@
         {
           "show_name": "Rhys Mwyn",
           "show_description": "Y derwydd ac awdur Kristoffer Hughes sy'n galw heibio'r stiwdio am sgwrs. Druid and author Kristoffer Hughes calls by the studio for a chat.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Caryl",
+          "show_description": "Cerddoriaeth a hwyl gyda'r hwyr gyda Caryl Parry Jones. Music and fun with Caryl Parry Jones.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Y Clwb PJs",
+          "show_description": "Ymunwch â Caryl i ymlacio wrth wrando ar gerddoriaeth hudolus cyn cysgu. Unwind with Caryl while listening to soothing music before sleeping.",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "10 March 2026",
+      "programmes": [
+        {
+          "show_name": "Gweler BBC World Service",
+          "show_description": "Mae Radio Cymru'n ymuno â'r BBC World Service dros nos. Radio Cymru joins the BBC World Service overnight.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "05:30"
+        },
+        {
+          "show_name": "John Hardy",
+          "show_description": "Cerddoriaeth a chwmnïaeth ben bore, gyda bwletinau newyddion, chwaraeon, tywydd a thraffig. Hefyd, y bwletin amaeth dyddiol, yn ogystal â golwg ar y papurau. Early breakfast show.",
+          "show_logo": "",
+          "start_time": "05:30",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Dros Frecwast",
+          "show_description": "Y newyddion diweddaraf yng Nghymru a thu hwnt, gyda Kate Crockett a Dylan Ebenezer. The latest news in Wales and beyond, presented by Kate Crockett and Dylan Ebenezer.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Aled Hughes",
+          "show_description": "Straeon cyfredol, cerddoriaeth, a holi'r cwestiynau sydd ar feddwl pawb. Topical stories and music.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "Bore Cothi",
+          "show_description": "Croeso cynnes dros baned gyda Shân Cothi. A warm welcome over a cuppa with Shân Cothi.",
+          "show_logo": "",
+          "start_time": "11:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Dros Ginio",
+          "show_description": "Trin a thrafod Cymru a'r byd, gan godi'r pynciau a gofyn y cwestiynau sy'n bwysig i chi. Discussing Wales and the world.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Ifan Jones Evans",
+          "show_description": "Digon o gerddoriaeth, chwerthin a sgwrsio, yn ogystal â chystadleuaeth neu ddwy. Music and chat, plus a competition or two.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Post Prynhawn",
+          "show_description": "Newyddion y dydd yng Nghymru a thu hwnt. The day's news in Wales and beyond.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Dei Tomos",
+          "show_description": "Elis Dafydd sy'n trafod ei waith ar olygiad newydd o farddoniaeth R. Williams Parry. Elis Dafydd discusses his work on a new edition of R. Williams Parry's poetry.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Georgia Ruth",
+          "show_description": "Dewis eclectig o gerddoriaeth o gasgliad Georgia Ruth, yn cynnwys cerddoriaeth ryngwladol, byd a thraciau Cymraeg arbrofol. An eclectic selection of music.",
           "show_logo": "",
           "start_time": "19:00",
           "end_time": "21:00"
