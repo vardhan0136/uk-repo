@@ -3,8 +3,22 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Scotland.png",
   "schedule": [
     {
-      "date": "9 March 2026",
+      "date": "10 March 2026",
       "programmes": [
+        {
+          "show_name": "Scotcast",
+          "show_description": "Laura Miller and Natalie Higgins ask how authorities will respond to disorder at the Scottish Cup clash between Rangers and Celtic.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "00:25"
+        },
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "Joining Radio 5 Live.",
+          "show_logo": "",
+          "start_time": "00:25",
+          "end_time": "06:00"
+        },
         {
           "show_name": "Radio Scotland Breakfast",
           "show_description": "News from across Scotland and the world, plus sport, weather, entertainment and big name interviews.",
@@ -35,7 +49,7 @@
         },
         {
           "show_name": "Afternoons",
-          "show_description": "Len Pennie keeps you up to date on what's happening in the arts and culture scene across Scotland.",
+          "show_description": "Len Pennie keeps you up to date on what's happening in the arts and culture scene across Scotland, including Matilda the Musical, StAnza and Wild Song Film Fest.",
           "show_logo": "",
           "start_time": "15:30",
           "end_time": "16:00"
@@ -49,14 +63,14 @@
         },
         {
           "show_name": "Get It On with Bryan Burnett",
-          "show_description": "Tonight, we're after the songs you loved as a teen but your parents just did not get. From Elvis Presley to Madonna - we'd like the songs that annoyed your parents!",
+          "show_description": "It's the songs about dance styles, whether there's some jive talking or a tango in the night - songs that had us twisting by the pool or having a go at a hucklebuck.",
           "show_logo": "",
           "start_time": "18:00",
           "end_time": "20:00"
         },
         {
-          "show_name": "Vic Galloway",
-          "show_description": "Vic kick starts the week with a Big Beat playlist, crammed with anthems from the likes of Groove Armada and Basement Jax, Calvin Harris and Mylo, plus a Triple A from Fat Boy Slim.",
+          "show_name": "Another Country with Ricky Ross",
+          "show_description": "A preview of some of the acts coming to Scotland for the three-day country music festival. Plus a reminder of some of the highlights from previous years.",
           "show_logo": "",
           "start_time": "20:00",
           "end_time": "22:00"
@@ -71,7 +85,7 @@
       ]
     },
     {
-      "date": "10 March 2026",
+      "date": "11 March 2026",
       "programmes": [
         {
           "show_name": "Scotcast",
@@ -131,14 +145,14 @@
         },
         {
           "show_name": "Get It On with Bryan Burnett",
-          "show_description": "It's the songs about dance styles, whether there's some jive talking or a tango in the night - songs that had us twisting by the pool or having a go at a hucklebuck.",
+          "show_description": "Thirty-five years ago, The Clash's Should I Stay or Should I Go was reissued after it was used in a jeans commercial. Which other songs reached fresh ears after appearing on an ad?",
           "show_logo": "",
           "start_time": "18:00",
           "end_time": "20:00"
         },
         {
-          "show_name": "Another Country with Ricky Ross",
-          "show_description": "A preview of some of the acts coming to Scotland for the three-day country music festival. Plus a reminder of some of the highlights from previous years.",
+          "show_name": "The Quay Sessions",
+          "show_description": "Live sessions and archive performances from Pacific Quay alongside news of upcoming gigs and festivals with upfront releases and classic tracks from some of your favourite artists.",
           "show_logo": "",
           "start_time": "20:00",
           "end_time": "22:00"

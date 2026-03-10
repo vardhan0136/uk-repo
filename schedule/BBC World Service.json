@@ -3,571 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-World-Service.png",
   "schedule": [
     {
-      "date": "9 March 2026",
-      "programmes": [
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "00:06"
-        },
-        {
-          "show_name": "From Our Own Correspondent",
-          "show_description": "After US-Israeli attacks on Iran, and retaliatory strikes from Iran and Hezbollah, many countries have been affected. We hear from the Turkey-Iran border, Beirut and Tel Aviv.",
-          "show_logo": "",
-          "start_time": "00:06",
-          "end_time": "00:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "00:32"
-        },
-        {
-          "show_name": "BBC Inside Science",
-          "show_description": "How does space technology play a part in modern warfare, manufacturing and estimating sea levels? Inside Science is at Space Comm Expo.",
-          "show_logo": "",
-          "start_time": "00:32",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "01:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "01:06",
-          "end_time": "01:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "01:30",
-          "end_time": "01:32"
-        },
-        {
-          "show_name": "Discovery",
-          "show_description": "Pierre Friedlingstein talks to Jim Al-Khalili about the pivotal role carbon dioxide plays in predicting future climate change, as it cycles through the atmosphere, land and oceans.",
-          "show_logo": "",
-          "start_time": "01:32",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "02:00",
-          "end_time": "02:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "02:06",
-          "end_time": "02:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "02:30",
-          "end_time": "02:32"
-        },
-        {
-          "show_name": "CrowdScience",
-          "show_description": "What keeps the stars burning? And is the universe in balance? Ndanusa in Accra in Ghana wants to know, and Alex Lathbridge heads out into the cosmos, to find out.",
-          "show_logo": "",
-          "start_time": "02:32",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "03:00",
-          "end_time": "03:06"
-        },
-        {
-          "show_name": "People Fixing The World",
-          "show_description": "The fight to regrow vital seagrass meadows and protect them from climate change.",
-          "show_logo": "",
-          "start_time": "03:06",
-          "end_time": "03:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "03:30",
-          "end_time": "03:32"
-        },
-        {
-          "show_name": "The Fifth Floor",
-          "show_description": "How Russia is making soldiers out of Ukrainian children.",
-          "show_logo": "",
-          "start_time": "03:32",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "04:00",
-          "end_time": "04:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "04:06",
-          "end_time": "04:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "04:30",
-          "end_time": "04:32"
-        },
-        {
-          "show_name": "The Conversation",
-          "show_description": "Ella Al-Shamahi talks to women in Switzerland and the UK about how job sharing can boost a career and bring many benefits to both work and home life.",
-          "show_logo": "",
-          "start_time": "04:32",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "05:00",
-          "end_time": "05:06"
-        },
-        {
-          "show_name": "Newsday",
-          "show_description": "Live news, business and sport from around the world.",
-          "show_logo": "",
-          "start_time": "05:06",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "06:06"
-        },
-        {
-          "show_name": "Newsday",
-          "show_description": "Live news, business and sport from around the world.",
-          "show_logo": "",
-          "start_time": "06:06",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "07:06"
-        },
-        {
-          "show_name": "Newsday",
-          "show_description": "Live news, business and sport from around the world.",
-          "show_logo": "",
-          "start_time": "07:06",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "08:00",
-          "end_time": "08:06"
-        },
-        {
-          "show_name": "The Interview",
-          "show_description": "Caitriona Perry speaks to former US ambassador to the UN Samantha Power. She also led the American international aid agency USAID, later closed down by President Trump.",
-          "show_logo": "",
-          "start_time": "08:06",
-          "end_time": "08:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "08:30",
-          "end_time": "08:32"
-        },
-        {
-          "show_name": "Business Daily",
-          "show_description": "It's the 250th anniversary of the publication of Adam Smith's Wealth of Nations. As Rob Young finds out, Smith's words were so profound they're still talked about today.",
-          "show_logo": "",
-          "start_time": "08:32",
-          "end_time": "08:50"
-        },
-        {
-          "show_name": "Witness History",
-          "show_description": "In 1934, one of the most controversial propaganda movies ever made - Triumph of the Will - was filmed at the Nazis' Nuremberg rally.",
-          "show_logo": "",
-          "start_time": "08:50",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "09:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "09:06",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "09:32"
-        },
-        {
-          "show_name": "CrowdScience",
-          "show_description": "What keeps the stars burning? And is the universe in balance? Ndanusa in Accra in Ghana wants to know, and Alex Lathbridge heads out into the cosmos, to find out.",
-          "show_logo": "",
-          "start_time": "09:32",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "10:06"
-        },
-        {
-          "show_name": "The History Hour",
-          "show_description": "When diplomatic relations between Sweden and the USA broke down during the Vietnam War and the only time Elvis set foot on UK soil in 1960.",
-          "show_logo": "",
-          "start_time": "10:06",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "11:00",
-          "end_time": "11:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "11:06",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "11:30",
-          "end_time": "11:32"
-        },
-        {
-          "show_name": "The Global Story",
-          "show_description": "The Global Story: Where the world meets America.",
-          "show_logo": "",
-          "start_time": "11:32",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "12:06"
-        },
-        {
-          "show_name": "Outlook",
-          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
-          "show_logo": "",
-          "start_time": "12:06",
-          "end_time": "12:50"
-        },
-        {
-          "show_name": "Witness History",
-          "show_description": "In 1934, one of the most controversial propaganda movies ever made - Triumph of the Will - was filmed at the Nazis' Nuremberg rally.",
-          "show_logo": "",
-          "start_time": "12:50",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "13:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "13:06",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "13:30",
-          "end_time": "13:32"
-        },
-        {
-          "show_name": "The Conversation",
-          "show_description": "Ella Al-Shamahi talks to women in Switzerland and the UK about how job sharing can boost a career and bring many benefits to both work and home life.",
-          "show_logo": "",
-          "start_time": "13:32",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "14:06"
-        },
-        {
-          "show_name": "Newshour",
-          "show_description": "Interviews, news and analysis of the day's global events.",
-          "show_logo": "",
-          "start_time": "14:06",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "15:00",
-          "end_time": "15:06"
-        },
-        {
-          "show_name": "The Interview",
-          "show_description": "Caitriona Perry speaks to former US ambassador to the UN Samantha Power. She also led the American international aid agency USAID, later closed down by President Trump.",
-          "show_logo": "",
-          "start_time": "15:06",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "15:30",
-          "end_time": "15:32"
-        },
-        {
-          "show_name": "Business Daily",
-          "show_description": "It's the 250th anniversary of the publication of Adam Smith's Wealth of Nations. As Rob Young finds out, Smith's words were so profound they're still talked about today.",
-          "show_logo": "",
-          "start_time": "15:32",
-          "end_time": "15:50"
-        },
-        {
-          "show_name": "World Business Express",
-          "show_description": "Finance, economy and business news from BBC journalists around the world.",
-          "show_logo": "",
-          "start_time": "15:50",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "16:06"
-        },
-        {
-          "show_name": "Outside Source",
-          "show_description": "A vibrant account of the day's events with explanation and reaction from those involved.",
-          "show_logo": "",
-          "start_time": "16:06",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "17:06"
-        },
-        {
-          "show_name": "Outside Source",
-          "show_description": "A vibrant account of the day's events with explanation and reaction from those involved.",
-          "show_logo": "",
-          "start_time": "17:06",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "18:06"
-        },
-        {
-          "show_name": "Outlook",
-          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
-          "show_logo": "",
-          "start_time": "18:06",
-          "end_time": "18:50"
-        },
-        {
-          "show_name": "Witness History",
-          "show_description": "In 1934, one of the most controversial propaganda movies ever made - Triumph of the Will - was filmed at the Nazis' Nuremberg rally.",
-          "show_logo": "",
-          "start_time": "18:50",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "19:06",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "19:32"
-        },
-        {
-          "show_name": "Sport Today",
-          "show_description": "BBC sports correspondents tell the story behind today's top sporting news, with interviews and reports from across the world.",
-          "show_logo": "",
-          "start_time": "19:32",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "20:06"
-        },
-        {
-          "show_name": "From Our Own Correspondent",
-          "show_description": "After US-Israeli attacks on Iran, and retaliatory strikes from Iran and Hezbollah, many countries have been affected. We hear from the Turkey-Iran border, Beirut and Tel Aviv.",
-          "show_logo": "",
-          "start_time": "20:06",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "20:30",
-          "end_time": "20:32"
-        },
-        {
-          "show_name": "Discovery",
-          "show_description": "Explorations in the world of science.",
-          "show_logo": "",
-          "start_time": "20:32",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "21:06"
-        },
-        {
-          "show_name": "Newshour",
-          "show_description": "Interviews, news and analysis of the day's global events.",
-          "show_logo": "",
-          "start_time": "21:06",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "22:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "22:06",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "22:30",
-          "end_time": "22:32"
-        },
-        {
-          "show_name": "World Business Report",
-          "show_description": "The latest business and finance news from around the world, on the BBC.",
-          "show_logo": "",
-          "start_time": "22:32",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "23:00",
-          "end_time": "23:06"
-        },
-        {
-          "show_name": "The Interview",
-          "show_description": "Caitriona Perry speaks to former US ambassador to the UN Samantha Power. She also led the American international aid agency USAID, later closed down by President Trump.",
-          "show_logo": "",
-          "start_time": "23:06",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "23:32"
-        },
-        {
-          "show_name": "The Conversation",
-          "show_description": "Ella Al-Shamahi talks to women in Switzerland and the UK about how job sharing can boost a career and bring many benefits to both work and home life.",
-          "show_logo": "",
-          "start_time": "23:32",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "10 March 2026",
       "programmes": [
         {
@@ -607,7 +42,7 @@
         },
         {
           "show_name": "The Global Story",
-          "show_description": "The Global Story: Where the world meets America.",
+          "show_description": "Pedro Sanchez's anti-war and pro-immigration views have caused clashes with the US leader.",
           "show_logo": "",
           "start_time": "01:32",
           "end_time": "02:00"
@@ -649,7 +84,7 @@
         },
         {
           "show_name": "Outlook",
-          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
+          "show_description": "When Zimbabwean Simukai Chigudu saw historical artefacts celebrating Britain's colonial past at Oxford University, he knew he had to take a stand on behalf of his ancestors.",
           "show_logo": "",
           "start_time": "03:06",
           "end_time": "03:50"
@@ -754,7 +189,7 @@
         },
         {
           "show_name": "Business Daily",
-          "show_description": "The daily drama of money and work from the BBC.",
+          "show_description": "We examine the huge rise in the number of people collectively fighting legal cases for redress - often against big corporations.",
           "show_logo": "",
           "start_time": "08:32",
           "end_time": "08:50"
@@ -845,7 +280,7 @@
         },
         {
           "show_name": "Outlook",
-          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
+          "show_description": "With 1,000 freeze dried meals, a philospher, a craftsman and an engineer set off to row across the world's largest ocean. The Pacific was waiting for them.",
           "show_logo": "",
           "start_time": "12:06",
           "end_time": "12:50"
@@ -922,7 +357,7 @@
         },
         {
           "show_name": "Business Daily",
-          "show_description": "The daily drama of money and work from the BBC.",
+          "show_description": "We examine the huge rise in the number of people collectively fighting legal cases for redress - often against big corporations.",
           "show_logo": "",
           "start_time": "15:32",
           "end_time": "15:50"
@@ -971,7 +406,7 @@
         },
         {
           "show_name": "Outlook",
-          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
+          "show_description": "With 1,000 freeze dried meals, a philospher, a craftsman and an engineer set off to row across the world's largest ocean. The Pacific was waiting for them.",
           "show_logo": "",
           "start_time": "18:06",
           "end_time": "18:50"
@@ -1105,6 +540,550 @@
         {
           "show_name": "In the Studio",
           "show_description": "Michael Kaloki tracks how his bold style evolves as he travels to Mexico, where he says street art is more widely accepted than in Nairobi.",
+          "show_logo": "",
+          "start_time": "23:32",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "11 March 2026",
+      "programmes": [
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "00:06"
+        },
+        {
+          "show_name": "The Arts Hour",
+          "show_description": "Nikki Bedi talks to Oscar contenders Chloé Zhao, Jessie Buckley, Jorgos Lanthimos, Kaouther Ben Hania, Wagner Moura, Kleber Mendonça Filho and Adolpho Veloso.",
+          "show_logo": "",
+          "start_time": "00:06",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "01:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "01:06",
+          "end_time": "01:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "01:30",
+          "end_time": "01:32"
+        },
+        {
+          "show_name": "The Global Story",
+          "show_description": "The Global Story: Where the world meets America.",
+          "show_logo": "",
+          "start_time": "01:32",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "02:00",
+          "end_time": "02:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "02:06",
+          "end_time": "02:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "02:30",
+          "end_time": "02:32"
+        },
+        {
+          "show_name": "The Climate Question",
+          "show_description": "Have you considered the carbon footprint of war: the bombs, the jets, and the network of military bases?  How does that impact our planet? And how could the military decarbonise?",
+          "show_logo": "",
+          "start_time": "02:32",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "03:00",
+          "end_time": "03:06"
+        },
+        {
+          "show_name": "Outlook",
+          "show_description": "With 1,000 freeze dried meals, a philospher, a craftsman and an engineer set off to row across the world's largest ocean. The Pacific was waiting for them.",
+          "show_logo": "",
+          "start_time": "03:06",
+          "end_time": "03:50"
+        },
+        {
+          "show_name": "Witness History",
+          "show_description": "Akira Kurosawa's movie Seven Samurai was released in 1954. It is widely considered to be one of world cinema's most influential films.",
+          "show_logo": "",
+          "start_time": "03:50",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "04:00",
+          "end_time": "04:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "04:06",
+          "end_time": "04:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "04:30",
+          "end_time": "04:32"
+        },
+        {
+          "show_name": "World of Secrets",
+          "show_description": "4/6. The agents discover the dark web community is even bigger than they thought. Overwhelmed by the child abuse images being shared online, Greg makes a decision to go undercover.",
+          "show_logo": "",
+          "start_time": "04:32",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "05:00",
+          "end_time": "05:06"
+        },
+        {
+          "show_name": "Newsday",
+          "show_description": "Live news, business and sport from around the world.",
+          "show_logo": "",
+          "start_time": "05:06",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "06:06"
+        },
+        {
+          "show_name": "Newsday",
+          "show_description": "Live news, business and sport from around the world.",
+          "show_logo": "",
+          "start_time": "06:06",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "07:06"
+        },
+        {
+          "show_name": "Newsday",
+          "show_description": "Live news, business and sport from around the world.",
+          "show_logo": "",
+          "start_time": "07:06",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "08:00",
+          "end_time": "08:06"
+        },
+        {
+          "show_name": "The Interview",
+          "show_description": "Conversations with people shaping our world. The best interviews from the BBC.",
+          "show_logo": "",
+          "start_time": "08:06",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "08:30",
+          "end_time": "08:32"
+        },
+        {
+          "show_name": "Business Daily",
+          "show_description": "The daily drama of money and work from the BBC.",
+          "show_logo": "",
+          "start_time": "08:32",
+          "end_time": "08:50"
+        },
+        {
+          "show_name": "Witness History",
+          "show_description": "Ivana Baquero was 11 when she starred in Guillermo del Toro's film which won awards around the world.",
+          "show_logo": "",
+          "start_time": "08:50",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "09:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "09:06",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "09:32"
+        },
+        {
+          "show_name": "The Climate Question",
+          "show_description": "Have you considered the carbon footprint of war: the bombs, the jets, and the network of military bases?  How does that impact our planet? And how could the military decarbonise?",
+          "show_logo": "",
+          "start_time": "09:32",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "10:06"
+        },
+        {
+          "show_name": "World Book Club",
+          "show_description": "Harriett Gilbert welcomes the French author Laurent Binet to the World Book Club studio to answer your questions about his acclaimed novel HHhH.",
+          "show_logo": "",
+          "start_time": "10:06",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "11:00",
+          "end_time": "11:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "11:06",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "11:30",
+          "end_time": "11:32"
+        },
+        {
+          "show_name": "The Global Story",
+          "show_description": "The Global Story: Where the world meets America.",
+          "show_logo": "",
+          "start_time": "11:32",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "12:06"
+        },
+        {
+          "show_name": "Outlook",
+          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
+          "show_logo": "",
+          "start_time": "12:06",
+          "end_time": "12:50"
+        },
+        {
+          "show_name": "Witness History",
+          "show_description": "Ivana Baquero was 11 when she starred in Guillermo del Toro's film which won awards around the world.",
+          "show_logo": "",
+          "start_time": "12:50",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "13:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "13:06",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "13:30",
+          "end_time": "13:32"
+        },
+        {
+          "show_name": "World of Secrets",
+          "show_description": "4/6. The agents discover the dark web community is even bigger than they thought. Overwhelmed by the child abuse images being shared online, Greg makes a decision to go undercover.",
+          "show_logo": "",
+          "start_time": "13:32",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "14:06"
+        },
+        {
+          "show_name": "Newshour",
+          "show_description": "Interviews, news and analysis of the day's global events.",
+          "show_logo": "",
+          "start_time": "14:06",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "15:00",
+          "end_time": "15:06"
+        },
+        {
+          "show_name": "The Interview",
+          "show_description": "Conversations with people shaping our world. The best interviews from the BBC.",
+          "show_logo": "",
+          "start_time": "15:06",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "15:30",
+          "end_time": "15:32"
+        },
+        {
+          "show_name": "Business Daily",
+          "show_description": "The daily drama of money and work from the BBC.",
+          "show_logo": "",
+          "start_time": "15:32",
+          "end_time": "15:50"
+        },
+        {
+          "show_name": "World Business Express",
+          "show_description": "Finance, economy and business news from BBC journalists around the world.",
+          "show_logo": "",
+          "start_time": "15:50",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "16:06"
+        },
+        {
+          "show_name": "Outside Source",
+          "show_description": "A vibrant account of the day's events with explanation and reaction from those involved.",
+          "show_logo": "",
+          "start_time": "16:06",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "17:06"
+        },
+        {
+          "show_name": "Outside Source",
+          "show_description": "A vibrant account of the day's events with explanation and reaction from those involved.",
+          "show_logo": "",
+          "start_time": "17:06",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "18:06"
+        },
+        {
+          "show_name": "Outlook",
+          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
+          "show_logo": "",
+          "start_time": "18:06",
+          "end_time": "18:50"
+        },
+        {
+          "show_name": "Witness History",
+          "show_description": "Ivana Baquero was 11 when she starred in Guillermo del Toro's film which won awards around the world.",
+          "show_logo": "",
+          "start_time": "18:50",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "19:06",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "19:30",
+          "end_time": "19:32"
+        },
+        {
+          "show_name": "Sport Today",
+          "show_description": "BBC sports correspondents tell the story behind today's top sporting news, with interviews and reports from across the world.",
+          "show_logo": "",
+          "start_time": "19:32",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "20:00",
+          "end_time": "20:06"
+        },
+        {
+          "show_name": "The Climate Question",
+          "show_description": "Have you considered the carbon footprint of war: the bombs, the jets, and the network of military bases?  How does that impact our planet? And how could the military decarbonise?",
+          "show_logo": "",
+          "start_time": "20:06",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "20:30",
+          "end_time": "20:32"
+        },
+        {
+          "show_name": "Health Check",
+          "show_description": "Health issues and medical breakthroughs from around the world.",
+          "show_logo": "",
+          "start_time": "20:32",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "21:06"
+        },
+        {
+          "show_name": "Newshour",
+          "show_description": "Interviews, news and analysis of the day's global events.",
+          "show_logo": "",
+          "start_time": "21:06",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "22:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "22:06",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "22:30",
+          "end_time": "22:32"
+        },
+        {
+          "show_name": "World Business Report",
+          "show_description": "The latest business and finance news from around the world, on the BBC.",
+          "show_logo": "",
+          "start_time": "22:32",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "23:06"
+        },
+        {
+          "show_name": "The Interview",
+          "show_description": "Conversations with people shaping our world. The best interviews from the BBC.",
+          "show_logo": "",
+          "start_time": "23:06",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "23:30",
+          "end_time": "23:32"
+        },
+        {
+          "show_name": "World of Secrets",
+          "show_description": "4/6. The agents discover the dark web community is even bigger than they thought. Overwhelmed by the child abuse images being shared online, Greg makes a decision to go undercover.",
           "show_logo": "",
           "start_time": "23:32",
           "end_time": "00:00"

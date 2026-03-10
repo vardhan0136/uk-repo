@@ -3,95 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-6-Music.png",
   "schedule": [
     {
-      "date": "9 March 2026",
-      "programmes": [
-        {
-          "show_name": "Cillian Murphy's Limited Edition",
-          "show_description": "Peaky Blinders Takeover: Cillian handpicks music from Peaky Blinders: The Immortal Man soundtrack, Lisa O'Neill, Sleaford Mods, Seamus Fogarty and CAN.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "Cillian Murphy's Limited Edition",
-          "show_description": "Cillian handpicks music by Four Tet, Aphex Twin, Lankum, Sinead O'Connor, The Supremes and Burial.",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "6 Music Jukebox",
-          "show_description": "Soundtrack the early hours with back-to-back music, plus exclusive BBC sessions.",
-          "show_logo": "",
-          "start_time": "03:00",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "The BBC Introducing Mixtape",
-          "show_description": "Emily Pilbeam presents a mixtape of her personal selection of tracks from BBC Introducing, with a new Track of the Week by BBC Introducing in Essex and Cambridgeshire's Konyikeh.",
-          "show_logo": "",
-          "start_time": "04:00",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "Emily Pilbeam",
-          "show_description": "Emily Pilbeam sits in with the early morning breakfast show.",
-          "show_logo": "",
-          "start_time": "05:00",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Nick Grimshaw",
-          "show_description": "Wonderful music to start your day, including the Cloudbusting mix to banish the grey skies.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Lauren Laverne",
-          "show_description": "Lauren welcomes you to a brand new week with uplifting tunes.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Chris Hawkins",
-          "show_description": "Chris Hawkins keeps the seat warm for the afternoon, and chats to DJ and producer Sebastien Tellier about his latest record 'Kill The Beast'.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Steve Lamacq's Teatime Session",
-          "show_description": "Showcasing the very best of what Steve's listening to and supporting right now.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "New Music Fix Daily",
-          "show_description": "Nathan and Deb unveil this week's Breaking Artist, Max Winter, following the release of his experimental single Candlelight. The Rundown celebrates International Women's Day.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Riley & Coe",
-          "show_description": "Marc Riley plays his music loves from every era and genre.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "6 Music Artist in Residence",
-          "show_description": "Ahead of their performance at the 6 Music Festival in Greater Manchester, Lynks is this week's Artist in Residence with shows centred on four basic human needs.",
-          "show_logo": "",
-          "start_time": "23:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "10 March 2026",
       "programmes": [
         {
@@ -123,17 +34,10 @@
           "end_time": "04:00"
         },
         {
-          "show_name": "This is BBC Radio 6 Music",
-          "show_description": "This is BBC Radio 6 Music",
+          "show_name": "The Mancunian Way",
+          "show_description": "5/3. Part 3 Factory. Mark Radcliffe talks to Tony Wilson about his unique record label and part 4 focuses on mainstream acts such as 10cc, Simply Red & M People. First broadcast 2001.",
           "show_logo": "",
           "start_time": "04:00",
-          "end_time": "04:30"
-        },
-        {
-          "show_name": "This is BBC Radio 6 Music",
-          "show_description": "This is BBC Radio 6 Music",
-          "show_logo": "",
-          "start_time": "04:30",
           "end_time": "05:00"
         },
         {
@@ -166,7 +70,7 @@
         },
         {
           "show_name": "Huw Stephens",
-          "show_description": "Huw handpicks brand-new releases alongside a selection of tracks he's loving right now, plus De La Soul take part in this week's 'Song I Wish I'd Written'.",
+          "show_description": "Huw handpicks brand-new releases alongside a selection of tracks he's loving right now, plus De La Soul take part in this week's Song I Wish I'd Written.",
           "show_logo": "",
           "start_time": "16:00",
           "end_time": "19:00"
@@ -174,6 +78,88 @@
         {
           "show_name": "New Music Fix Daily",
           "show_description": "New London band RIP Magic are live in session from Maida Vale, following the release of their single 5Words.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Riley & Coe",
+          "show_description": "Marc Riley plays his music loves from every era and genre.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "6 Music Artist in Residence",
+          "show_description": "Ahead of their performance at the 6 Music Festival in Greater Manchester, Lynks is this week's Artist in Residence with shows centred on four basic human needs.",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "11 March 2026",
+      "programmes": [
+        {
+          "show_name": "Cillian Murphy's Limited Edition",
+          "show_description": "Cillian handpicks music by The Beatles, PJ Harvey, Aretha Franklin, Feist and Nick Cave & The Bad Seeds.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "Cillian Murphy's Limited Edition",
+          "show_description": "Cillian hand-picks music by Irma Thomas, Mac DeMarco, Julie Byrne, John Francis Flynn and Brian Eno.",
+          "show_logo": "",
+          "start_time": "02:00",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "The 6 Music Playlist",
+          "show_description": "Want to hear the latest tracks 6 Music have added to their playlist? Then listen here!",
+          "show_logo": "",
+          "start_time": "04:00",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "Chris Hawkins",
+          "show_description": "Names in Songs returns. Can you hear your name in a well-known song?",
+          "show_logo": "",
+          "start_time": "05:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Nick Grimshaw",
+          "show_description": "Wonderful music to start your day, including the Cloudbusting mix to banish the grey skies.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Lauren Laverne",
+          "show_description": "Rebecca Lucy Taylor aka Self Esteem joins around her role as Maggie Frisby in the 50th anniversary of Teeth 'N' Smiles play by Sir David Hare.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Craig Charles",
+          "show_description": "Craig celebrates your midweek wins for Wednesday, I'm In Love, and we hear another of your left-field music suggestions as we turn Left At The Lights.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Huw Stephens",
+          "show_description": "Belfast trio Chalk join Huw in session from Maida Vale ahead of their debut album Crystalpunk coming out this Friday. Plus, we get to know 100 Rabbits in this week's Huw Are You.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "New Music Fix Daily",
+          "show_description": "Deb chats to rapper, singer and producer Miso Extra about some of her favourite tracks, following the release of her latest single Right Here.",
           "show_logo": "",
           "start_time": "19:00",
           "end_time": "21:00"

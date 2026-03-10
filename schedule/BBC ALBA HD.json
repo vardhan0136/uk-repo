@@ -3,179 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-alba-uk.png",
   "schedule": [
     {
-      "date": "9 March 2026",
-      "programmes": [
-        {
-          "show_name": "Alba Today",
-          "show_description": "Sealladh ùr bho Alba. A new view from Scotland.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Alba Today",
-          "show_description": "Sealladh ùr bho Alba. A new view from Scotland.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Creag nam Buthaidean/Puffin Rock",
-          "show_description": "19/21. To find the best flowers for Mama and Papa, Oona and Baba follow some bees. Gus na lusan as fheàrr fhaighinn 'son mamaidh is Papaidh, the Oona is Baba a' leanail sheilleanan.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/23d437b0-65f4-45fa-9980-441cba543420/cover",
-          "start_time": "17:00",
-          "end_time": "17:10"
-        },
-        {
-          "show_name": "Creag nam Buthaidean/Puffin Rock",
-          "show_description": "20/21. Baba has a swimming lesson with Oona. Diving proves difficult - but Baba is determined! Tha leasan snàimh aig baba còmhla ri Oona. Tha daibheadh na dhùbhlan - ach tha Baba daingeann!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9100a8c7-9973-42cd-afed-8de9e3a8c7ce/cover",
-          "start_time": "17:10",
-          "end_time": "17:20"
-        },
-        {
-          "show_name": "Boban is Fuigheag",
-          "show_description": "3/40. Tha Boban a' toirt ponaigeadh sònraichte do dh'Fhuigheag gus am faigh e air a dhealbh a tharraing. Boban makes Fuigheag look extra nice so that he can paint his perfect picture.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a21b991c-7ba1-3a8b-9f46-d0d972041bcf/cover",
-          "start_time": "17:20",
-          "end_time": "17:25"
-        },
-        {
-          "show_name": "Peataichean/Pets",
-          "show_description": "13/15. Eilidh visits Emily and her adorable rabbits, Syrius and Seumas, as we get to find out how to look after rabbits.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/982b653c-7ba7-4430-96a8-84f8bdc7aa97/cover",
-          "start_time": "17:25",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "AH-AH/No-No",
-          "show_description": "33/52. Chan eil AH-AH ann an deagh shunnd an-diugh agus, gu dearbh', tha e gabhaltach. AH-AH isn't in a good mood and it seems to be contagious.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/33371516-e273-3c61-9ed3-86a68d40b7ec/cover",
-          "start_time": "17:30",
-          "end_time": "17:40"
-        },
-        {
-          "show_name": "Pip & Posy",
-          "show_description": "9/52. Tha Posy ag iarraidh itealag Pip fheuchainn ach chan eil cùisean a dol leatha! Posy want to try Pip's kite but things don't go her way!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/faf5d898-577f-4949-bae5-5f1999d61d6a/cover",
-          "start_time": "17:40",
-          "end_time": "17:45"
-        },
-        {
-          "show_name": "Pip & Posy",
-          "show_description": "10/52. Tha Pip is Posy a' togail shadhbhaidhean ach chan eil iad idir rèidh le chèile. Pip and Posy are den-building, but they're not getting on with one another.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/983436b4-6d98-4a58-8fa2-ee026c441e72/cover",
-          "start_time": "17:45",
-          "end_time": "17:55"
-        },
-        {
-          "show_name": "Stòiridh",
-          "show_description": "81/82. A bedtime story for young children. Derek MacIntosh reads Mgr Pusskins Buannaiche na Fèille, written and illustrated by Sam Lloyd and translated into Gaelic by Jo MacDonald.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7e6eef94-e6b5-47c4-bbbf-440c6cb71165/cover",
-          "start_time": "17:55",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "An Teaghlach Rìoghail an...",
-          "show_description": "...Ath-dhoras/The Royals Next Door. 39/52. Tha Stella a' cur àm teaghlaich seachad le Molaidh aig a' phàirc-spèilidh. Stella spends some family time with Molly at the skate park.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/13b9ca44-2ece-32e1-ad02-6784c0fefd74/cover",
-          "start_time": "18:00",
-          "end_time": "18:10"
-        },
-        {
-          "show_name": "An Teaghlach Rìoghail an...",
-          "show_description": "...Ath-dhoras/The Royals Next Door. 40/52. Tha Stella a' cluinntinn gusgal mu Mhgr. Bruno. Ach bheil e fìor? Stella hears gossip about Mgr Bruno. But is it true?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/573e6bda-1908-3c72-932e-211d8804f6b0/cover",
-          "start_time": "18:10",
-          "end_time": "18:25"
-        },
-        {
-          "show_name": "Bogaisean is...",
-          "show_description": "...Gumbalan/Bottersnikes and Gumbles. 40/52. Tha Bonns fo bhruid an-diugh. Bonns is kidnapped today.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fa4b1cac-e8a7-3151-ae22-d1c398151bae/cover",
-          "start_time": "18:25",
-          "end_time": "18:35"
-        },
-        {
-          "show_name": "An Doimhne/The Deep",
-          "show_description": "9/13. Tha Na Neachdan air an glacadh ann an cuartan -  's chan eil iad leotha fhèin! The Neachdan are trapped in a maze, and they are not alone!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7a36c6f3-7ffb-4c84-88e6-8bee4743bb1c/cover",
-          "start_time": "18:35",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Slighe Chladach Fiobha (Fife Coastal Path)",
-          "show_description": "3/5. Iagan MacNeil explores the Fife Coastal Path, from Dysart to Elie. Tha Iagan MacNèill a'coiseachd cladach Fìobha, bhon Dìseart gu Ealaidh.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2dd67654-bcc4-4018-a07a-591104a224e6/cover",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "SpeakGaelic",
-          "show_description": "9/13. Calum Maclean is on Scotland's east coast where he's hoping to have smoked fish for lunch.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c8822424-0ebb-4b18-82cd-09927bd6ee7f/cover",
-          "start_time": "19:30",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "An Là",
-          "show_description": "Naidheachdan ionadail, nàiseanta is eadar-nàiseanta gach là cuide ri fiosrachadh coimhearsnachd bho BBC ALBA. Local, national and international news and information from BBC ALBA.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c90fc325-d972-40b1-938d-0d3aeddbc605/cover",
-          "start_time": "20:00",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "Cruit Phadruig",
-          "show_description": "1/6. Join Peter as he starts work on the house and travels to a crofting stronghold in Lewis. Thigibh cuide ri Pàdruig 's e tòiseachadh a' togail taigh agus a' siubhal gu Leòdhas.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/991e1ba3-9817-44c4-b355-8ec5038d0029/cover",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Trusadh - Is Mise Loretta",
-          "show_description": "2/3. Turas fèin-aithne dha boireannach Dhubh tar-ghnèitheach ann am Brasil. A journey of self-discovery for a black trans woman in Brazil.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/273c8d96-60ea-431e-9cf8-50098a6d55b9/cover",
-          "start_time": "21:00",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "Belladrum 2025 - Rianne Downey",
-          "show_description": "13/33. An seinneadair aithnichte Albannach Rianne Downey le seisean acoustic aig Belladrum 2025. Acclaimed Scottish singer Rianne Downey performs an acoustic session at Belladrum.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/03f3dfc2-54f2-4273-8e4c-f65be68847f9/cover",
-          "start_time": "21:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Transatlantic Sessions: Dluth an Daimh",
-          "show_description": "4/6. Julie Fowlis agus Muireann Nic Amhlaoibh le taghadh ciùil bho Transatlantic Sessions. Julie Fowlis and Muireann Nic Amhlaoibh present highlights from Transatlantic Sessions.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/975c253c-4e34-3547-8580-54ecf1043ee9/cover",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "Hebridean Baker - Nordic Islands",
-          "show_description": "3/4. Coinneach MacLeod explores the food traditions of Lofoten in Norway. Tha Coinneach MacLeòid a' faighinn a-mach mu chultaran a' bhidhe ann an Lofoten ann a Nirribhidh.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0108273b-dda2-4489-9772-d8c22546405f/cover",
-          "start_time": "22:30",
-          "end_time": "23:15"
-        },
-        {
-          "show_name": "Belladrum 2025 - Muireann Bradley",
-          "show_description": "18/33. An neach-ciùil blues iongantach, Muireann Bradley, le seisean acoustic aig Belladrum 2025. Teenage blues sensation Muireann Bradley performs an acoustic session.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9d0ed58b-56aa-4186-98d9-93f43cbb93c8/cover",
-          "start_time": "23:15",
-          "end_time": "23:25"
-        },
-        {
-          "show_name": "Dàna | Scotland's Wild Side",
-          "show_description": "3/6. Coinneach MacFhraing make his first trip to the Island of Arran and enjoys discovering some of its ridges and precipices.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/474bdd77-4ba3-4a1c-aa0d-37d23a4ec895/cover",
-          "start_time": "23:25",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "10 March 2026",
       "programmes": [
         {
@@ -323,19 +150,192 @@
           "show_description": "2/13. Drama Gàidhlig stèidhichte ann an Leòdhas. Gaelic soap based on the Isle of Lewis.",
           "show_logo": "https://images.metadata.sky.com/pd-image/6d869371-7dc6-3043-8e4e-e4bbbfc8d50f/cover",
           "start_time": "23:00",
-          "end_time": "23:25"
+          "end_time": "23:20"
         },
         {
           "show_name": "Fraochy Bay",
           "show_description": "10/10. A writer is experiencing a dry spell, but one night he gets inspiration from a dream and rushes to write it down.",
           "show_logo": "https://images.metadata.sky.com/pd-image/de1c847e-e7f0-4439-a60f-a414850534c3/cover",
-          "start_time": "23:25",
-          "end_time": "23:30"
+          "start_time": "23:20",
+          "end_time": "23:25"
         },
         {
           "show_name": "Alleluia!",
           "show_description": "5/6. Iain MacKinnon reads excerpts from Gliocas bhon Bhìoball by Donald Saunders, and Mairi MacInnes narrates from The Mother's Catechism.",
           "show_logo": "https://images.metadata.sky.com/pd-image/ca819d91-442e-4ff3-a37a-25a871cdc715/cover",
+          "start_time": "23:25",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "11 March 2026",
+      "programmes": [
+        {
+          "show_name": "Alba Today",
+          "show_description": "Sealladh ùr bho Alba. A new view from Scotland.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Alba Today",
+          "show_description": "Sealladh ùr bho Alba. A new view from Scotland.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Oscar & Ealasaid",
+          "show_description": "1/26. While out picking blackberries, Célestine finds an old mill covered in ivy. Ernest claims that the building is haunted. Instead of scaring Célestine, it piques her curiosity.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6532f168-d425-4fb5-9e42-22175ecd506f/cover",
+          "start_time": "17:00",
+          "end_time": "17:15"
+        },
+        {
+          "show_name": "Beathaichean a' Bocadaich",
+          "show_description": "5/15. Tha Sophie agus a caraidean a' bocadaich coltach ri losgann agus ochd-chasach. Sophie and her friends dance like a frog and an octopus.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cbddc60f-219b-4ae4-8621-86ca8e27d949/cover",
+          "start_time": "17:15",
+          "end_time": "17:20"
+        },
+        {
+          "show_name": "Peataichean/Pets",
+          "show_description": "13/15. Eilidh visits Emily and her adorable rabbits, Syrius and Seumas, as we get to find out how to look after rabbits.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/982b653c-7ba7-4430-96a8-84f8bdc7aa97/cover",
+          "start_time": "17:20",
+          "end_time": "17:25"
+        },
+        {
+          "show_name": "Na Clangairean",
+          "show_description": "5/52. Feumar rud a chruthachadh an-diugh - prèasant snog airson co-là breith Granaidh Clangair. Something needs to be created today - a lovely present for Granaidh Clangair's birthday.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5b6772e0-2f3d-3771-abcb-cba78a320e9e/cover",
+          "start_time": "17:25",
+          "end_time": "17:40"
+        },
+        {
+          "show_name": "Na Clangairean",
+          "show_description": "6/52. Tha rud neònach air a' phlanaid. Coltach ri ugh agus robot - ughbot 's dòcha? An odd thing has landed on the planet. It's like an egg and a robot - an eggbot perhaps?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4b265e13-7bf3-3f20-80ad-b93c9f37e8a9/cover",
+          "start_time": "17:40",
+          "end_time": "17:50"
+        },
+        {
+          "show_name": "'S E Iasg a Th'Annam (I'm a Fish)",
+          "show_description": "2/52. Tha sinn a' cluinntinn mu dhèidhinn na dòighean-beatha aig creachannan-mòra an diugh. We meet a giant clam today who tells us all about her species and their way of life.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c3a24e4b-162c-4820-b8ee-e27ebf738a0b/cover",
+          "start_time": "17:50",
+          "end_time": "17:55"
+        },
+        {
+          "show_name": "Stòiridh",
+          "show_description": "21/80. Eilidh NicCarmaig a' leughadh Famh agus Èirigh-na-grèine. Eilidh Cormack reads Famh agus Èirigh-na-grèine.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c185639d-a44b-406b-8e41-9df97473c508/cover",
+          "start_time": "17:55",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Clann na Cruinne",
+          "show_description": "2/9. Tha Tiago deich bliadhna a' dh'aois agus ag innse dhuinn mu chànan nam bodhar. Tiago is ten and tells us about sign language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a4f3ce61-cef1-4bc5-add6-41b315e1b41a/cover",
+          "start_time": "18:00",
+          "end_time": "18:15"
+        },
+        {
+          "show_name": "Flix",
+          "show_description": "10/13. Tha an t-seoth' tàlant gus bhith ann ach saoil a bheil tàlant dha-rìribh aig Tabaidh? The talent show is going to take place, but does Tabaidh really have a talent?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6592f30f-d312-367f-b895-6504d5c60255/cover",
+          "start_time": "18:15",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "Seonaidh/Shaun the Sheep",
+          "show_description": "10/20. Bitzer thinks the future has arrived when he takes delivery of his new high tech farmyard control module. But when the gadget malfunctions, Bitzer is left wishing for his old whistle.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/dd1c1f30-6305-45c0-8274-6c8d71e572e9/cover",
+          "start_time": "18:30",
+          "end_time": "18:40"
+        },
+        {
+          "show_name": "Naidheachdan Neonach CBBC ALBA",
+          "show_description": "2/2. Calum Macdonald introduces his personal highlights from the craziest news show on BBC ALBA!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8a916a91-5877-305d-b21e-7c09882d8e0d/cover",
+          "start_time": "18:40",
+          "end_time": "18:45"
+        },
+        {
+          "show_name": "Bogaisean is...",
+          "show_description": "...Gumbalan/Bottersnikes and Gumbles. 40/52. Tha Bonns fo bhruid an-diugh. Bonns is kidnapped today.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fa4b1cac-e8a7-3151-ae22-d1c398151bae/cover",
+          "start_time": "18:45",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Slighe Chladach Fiobha (Fife Coastal Path)",
+          "show_description": "3/5. Iagan MacNeil explores the Fife Coastal Path, from Dysart to Elie. Tha Iagan MacNèill a'coiseachd cladach Fìobha, bhon Dìseart gu Ealaidh.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2dd67654-bcc4-4018-a07a-591104a224e6/cover",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "SpeakGaelic",
+          "show_description": "22/26. Kathleen Reddy from Nova Scotia chats to Joy in the studio, and Calum Maclean visits The Rough Bounds where he finds that a link to Gaelic tradition is only a short step away.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c4e6d8b8-3176-3cd0-8d7e-0e49b443f71e/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "An Là",
+          "show_description": "Naidheachdan ionadail, nàiseanta is eadar-nàiseanta gach là cuide ri fiosrachadh coimhearsnachd bho BBC ALBA. Local, national and international news and information from BBC ALBA.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/09f25029-6d57-4961-a4ab-b79b0b0c13d2/cover",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Rùm Gu Rùm, Le Erica",
+          "show_description": "2/6. An old office in Inverness gets a modern make-over, with the aid of strong colours, black steel and a little CAD cutting technology.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6db0ce34-a64f-489d-9020-8ae82b13d4c4/cover",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Hebridean Baker - Nordic Islands",
+          "show_description": "4/4. Coinneach MacLeod explores the food traditions of Gotland in Sweden. Tha Coinneach MacLeòid a' faighinn blasad de chultar a' bhidhe ann an Gotland san t-Suain.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/af505948-c9e4-4e7d-b487-02d3363d2a3e/cover",
+          "start_time": "21:00",
+          "end_time": "21:45"
+        },
+        {
+          "show_name": "Belladrum 2025 - Muireann Bradley",
+          "show_description": "18/33. An neach-ciùil blues iongantach, Muireann Bradley, le seisean acoustic aig Belladrum 2025. Teenage blues sensation Muireann Bradley performs an acoustic session.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9d0ed58b-56aa-4186-98d9-93f43cbb93c8/cover",
+          "start_time": "21:45",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "OMC!",
+          "show_description": "4/4. Includes problems at the ferry office, an all-action grudge against the boss in the workplace and an everlasting proposal. Contains some strong language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2b17c341-2f6c-4cfe-a6d4-a2f2fd76bbc0/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Cuantan Caochlaideach/Seas in Motion",
+          "show_description": "1/4. A look at the marine dramas, great and small, that unfold across the North and Baltic Seas. Contains some scenes which some viewers may find upsetting.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3f4f53f5-899a-4ac6-9ecb-32bedd2fb84f/cover",
+          "start_time": "22:30",
+          "end_time": "23:20"
+        },
+        {
+          "show_name": "Skipinnish aig a' Chaisteal (Shorts)",
+          "show_description": "10/10. Skipinnish le Walking on the Waves aig cuirm-chiùil bho Chaisteal Dhùn Èideann. Skipinnish perform Walking on the Waves at a concert from Edinburgh Castle.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4048b16d-36f7-48ac-b6f7-bca5138af2a7/cover",
+          "start_time": "23:20",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "Transatlantic Sessions: Dluth an Daimh",
+          "show_description": "4/6. Julie Fowlis agus Muireann Nic Amhlaoibh le taghadh ciùil bho Transatlantic Sessions. Julie Fowlis and Muireann Nic Amhlaoibh present highlights from Transatlantic Sessions.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/975c253c-4e34-3547-8580-54ecf1043ee9/cover",
           "start_time": "23:30",
           "end_time": "00:00"
         }
