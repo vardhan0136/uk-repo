@@ -3,53 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-5-Sports-Extra.png",
   "schedule": [
     {
-      "date": "10 March 2026",
-      "programmes": [
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "The Cheltenham Festival",
-          "show_description": "Live horse racing commentary of day 1 of the Cheltenham Festival.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "17:45"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "17:45",
-          "end_time": "19:55"
-        },
-        {
-          "show_name": "Champions League Football",
-          "show_description": "Live football commentary of Atletico Madrid v Tottenham Hotspur in the Champions League.",
-          "show_logo": "",
-          "start_time": "19:55",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "11 March 2026",
       "programmes": [
         {
@@ -68,7 +21,40 @@
         },
         {
           "show_name": "The Cheltenham Festival",
-          "show_description": "Live horse racing commentary of day 2 of the Cheltenham Festival.",
+          "show_description": "Live horse racing commentary of Ladies Day on the second day of the Cheltenham Festival.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "17:45"
+        },
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "17:45",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "12 March 2026",
+      "programmes": [
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "The Cheltenham Festival",
+          "show_description": "Live horse racing commentary of St Patrick's Thursday on the third day of the Cheltenham Festival.",
           "show_logo": "",
           "start_time": "13:00",
           "end_time": "17:45"

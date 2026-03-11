@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
   "schedule": [
     {
-      "date": "10 March 2026",
-      "programmes": [
-        {
-          "show_name": "Through the Night",
-          "show_description": "Orchestra della Svizzera Italiana and conductor Alessandro Cadario are joined by marimba player Matthias Würsch in Ney Rosauro's Concerto no 1 for Marimba and String Orchestra.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Essential Classics",
-          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Classical Live",
-          "show_description": "Linton Stephens introduces an afternoon of specially made recordings including music Tchaikovsky and Shostakovich from the Royal Scottish National Orchestra.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Composer of the Week: New Zealand Composers",
-          "show_description": "2/5. Donald Macleod explores five classical composers from the land of the long white cloud, New Zealand, focusing today on the life and music of Jenny McLeod.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "In Tune",
-          "show_description": "Petroc interviews Jean Rondeau live in studio ahead of his Wigmore recital. Plus, composer Blasio Kavuma and Rowan Rutter talk about The Exoplanets at Hackney Empire.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Classical Mixtape",
-          "show_description": "Take time out with a 30-minute soundscape of classical music.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Radio 3 in Concert",
-          "show_description": "The Royal Liverpool Philharmonic Orchestra under Chief Conductor Domingo Hindoyan present an all-French programme of music including Canteloube's ravishing Songs of the Auvergne.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "The Essay: Music Rediscovered - series 2",
-          "show_description": "A remarkable online project is making available, for the first time in a hundred years, the rich repertoire of klezmer player Motl Reyder. Phil Alexander explores his tunebook.",
-          "show_logo": "",
-          "start_time": "21:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Night Tracks",
-          "show_description": "Sara Mohr-Pietsch presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "'Round Midnight",
-          "show_description": "Soweto welcomes back jazz saxophonist Iain Ballamy, who has another 4/4 album selection to share.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "11 March 2026",
       "programmes": [
         {
@@ -167,6 +85,88 @@
         {
           "show_name": "'Round Midnight",
           "show_description": "Tonight on the show, Iain Ballamy is back with a third jazz record that he is inspired by, for 4/4.",
+          "show_logo": "",
+          "start_time": "23:30",
+          "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "12 March 2026",
+      "programmes": [
+        {
+          "show_name": "Through the Night",
+          "show_description": "The Nightingale String Quartet and clarinettist Jonas Frølund perform music by Danish composers Rued Langgaard and Bent Sørensen, alongside Brahms's Clarinet Quintet.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Essential Classics",
+          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Classical Live",
+          "show_description": "Linton Stephens introduces an afternoon of specially made recordings including a performance of Haydn's Trumpet Concerto from the Royal Scottish National Orchestra.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Composer of the Week: New Zealand Composers",
+          "show_description": "4/5. Donald Macleod explores five classical composers from the land of the long white cloud, New Zealand, focusing today on the life and music of John Psathas.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "In Tune",
+          "show_description": "Sarah Walker talks to Tristan Gurney and Clarence Adoo about RNS Moves. Also, Kieran White and Cedric Meyer perform Dowland live in studio.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Classical Mixtape",
+          "show_description": "Take time out with a 30-minute soundscape of classical music.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Radio 3 in Concert",
+          "show_description": "Marin Alsop conducts the Philharmonia live from London in Márquez's Danzón No.2 and Rimsky-Korsakov's Scheherazade, plus Gabriela Ortiz's Cello Concerto with Alisa Weilerstein.",
+          "show_logo": "",
+          "start_time": "19:30",
+          "end_time": "21:45"
+        },
+        {
+          "show_name": "The Essay: Music Rediscovered - series 2",
+          "show_description": "Charles Burney (1726-1814) was the author of the first history of music ever published In the English language. Sophie Coulombeau has been reading it and his letters and diaries.",
+          "show_logo": "",
+          "start_time": "21:45",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Night Tracks",
+          "show_description": "Sara Mohr-Pietsch presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "'Round Midnight",
+          "show_description": "Soweto shares more of the best in jazz, and Iain Ballamy returns to share his final 4/4 pick of the week.",
           "show_logo": "",
           "start_time": "23:30",
           "end_time": "00:30"

@@ -3,88 +3,6 @@
   "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png",
   "schedule": [
     {
-      "date": "10 March 2026",
-      "programmes": [
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Reporting Scotland: News at Seven",
-          "show_description": "Bringing you more from the day's top stories and communities across Scotland.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ff121b64-70c7-4930-b58f-c6ef228bcb57/cover",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "The Harbour",
-          "show_description": "3/6. Following the people working at Aberdeen harbour. Trainee harbour pilot Ralph faces a tough test on the simulator. Ex-sailor Ellen hopes to take Ralph's place as VTS controller.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/53e079c3-679b-4f42-a595-fcaf34cd4fd6/cover",
-          "start_time": "19:30",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "New: This Farming Life",
-          "show_description": "3/12. Zara worries that Callum's accident has had a lasting effect, Emma and Rob call in the vet for a difficult birth, and Ally and Bethany set sail for an island sheep gather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b07afada-c75e-4340-b187-bd8aee3e0eff/cover",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Dunblane: How Britain Banned Handguns",
-          "show_description": "How grieving parents forced the government to ban handguns after the Dunblane shooting. Contains some strong language and some upsetting scenes.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1c5512aa-80db-455f-8821-f74e0f5b28cc/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Scotland: The Promised Land",
-          "show_description": "3/3. Documentary series examining the political changes that shaped modern-day Scotland. Scotland's ideological struggle in the wake of World War I.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7c03b5f7-3b8d-4a5a-a777-877f8087b831/cover",
-          "start_time": "22:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Scotcast",
-          "show_description": "Conversation about Scotland's biggest news stories, hosted by Martin Geissler.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8a7ff390-aa82-45e2-97e6-02cfd226c431/cover",
-          "start_time": "23:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "David Wilson's Crime Files",
-          "show_description": "Criminologist David Wilson examines the complex topic of terrorism. Contains some scenes which some viewers may find upsetting.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/690f5a59-6a74-4c0d-96e2-82fbbd382dd3/cover",
-          "start_time": "23:30",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "11 March 2026",
       "programmes": [
         {
@@ -168,6 +86,95 @@
           "show_name": "David Wilson's Crime Files",
           "show_description": "Criminologist David Wilson explores some of the ethical quandaries that plague our criminal justice system - is there a line that police shouldn't cross when hunting the bad guy?",
           "show_logo": "https://images.metadata.sky.com/pd-image/7abba1c8-f6aa-4404-9466-0f2087ca2ee0/cover",
+          "start_time": "23:30",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "12 March 2026",
+      "programmes": [
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Reporting Scotland: News at Seven",
+          "show_description": "Bringing you more from the day's top stories and communities across Scotland.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f2a06662-e5bb-4e6b-bb75-2aa5e3561f78/cover",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "New: The Entertainment Mix",
+          "show_description": "14/16. Michelle McManus serves up big name interviews, features and the latest in entertainment and culture news from across Scotland.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a0d654a5-b933-46f1-bbfa-5168b38315ed/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Caroline Walker: Women's Work",
+          "show_description": "Acclaimed Scottish artist Caroline Walker paints the invisible labour that shapes women's lives, from housework to caregiving to creative production.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/87b6ccce-726a-4b79-877e-7b69a7ec0fb6/cover",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Greetings from Scotland",
+          "show_description": "2/2. A humorous look at the Scottish tourism industry through the years.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f6868cbb-9692-40f2-86c6-435db06af5cd/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "New: Situationships with Sophie and Christine",
+          "show_description": "4/8. Sophie Gravia and Christine McGuinness unpack funny, bizarre and downright weird stories of when relationships take an unexpected turn.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5ed182b6-6842-4ecf-a834-b22dd696b55b/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Martin Compston's Norwegian Fling",
+          "show_description": "1/6. Martin Compston and Phil MacHugh embrace the Nordic way of life in Oslo.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6151818e-b09b-31fb-a7a1-19e123f1554b/cover",
+          "start_time": "22:30",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Scotcast",
+          "show_description": "Conversation about Scotland's biggest news stories, hosted by Martin Geissler.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a40fcec2-fdf3-43c4-b682-901f4d149073/cover",
+          "start_time": "23:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "Scot Squad",
+          "show_description": "2/5. The Bravehearts in Blue crack down on criminality all across Caledonia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/45969693-2df7-4763-8e06-8a0f3e59f320/cover",
           "start_time": "23:30",
           "end_time": "00:00"
         }

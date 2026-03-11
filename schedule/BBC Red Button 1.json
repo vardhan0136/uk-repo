@@ -3,53 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-red-button-uk.png",
   "schedule": [
     {
-      "date": "10 March 2026",
-      "programmes": [
-        {
-          "show_name": "Winterwatch: Winter Encounters",
-          "show_description": "Enjoy the very best of the season in a natural escape that lets nature do the talking.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2e0cef27-b39f-4367-a47f-de4658605081/cover",
-          "start_time": "00:00",
-          "end_time": "05:50"
-        },
-        {
-          "show_name": "Radio 2's Piano Room 2026: What a Week - Week 3",
-          "show_description": "Catch up on the artists performing in the third week of Radio 2's Piano Room Month 2026.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/53923674-ef11-47dd-92c3-ca3fa4551ef1/cover",
-          "start_time": "05:50",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Radio 2's Piano Room 2026: What a Week - Week 3",
-          "show_description": "Catch up on the artists performing in the third week of Radio 2's Piano Room Month 2026.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/53923674-ef11-47dd-92c3-ca3fa4551ef1/cover",
-          "start_time": "06:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Radio 2's Piano Room 2026: What a Week - Week 3",
-          "show_description": "Catch up on the artists performing in the third week of Radio 2's Piano Room Month 2026.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/53923674-ef11-47dd-92c3-ca3fa4551ef1/cover",
-          "start_time": "12:00",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "Champions League Final Score",
-          "show_description": "Listen to 5 Live commentary alongside Final Score graphics, keeping you up to date on all the goals as they go in across Europe in the UEFA Champions League.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/16351f00-c510-4aaa-8fb4-d2ebe2fd1788/cover",
-          "start_time": "17:30",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "Winterwatch: Winter Encounters",
-          "show_description": "Enjoy the very best of the season in a natural escape that lets nature do the talking.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2e0cef27-b39f-4367-a47f-de4658605081/cover",
-          "start_time": "22:30",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "11 March 2026",
       "programmes": [
         {
@@ -93,6 +46,46 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/2e0cef27-b39f-4367-a47f-de4658605081/cover",
           "start_time": "22:30",
           "end_time": "01:15"
+        }
+      ]
+    },
+    {
+      "date": "12 March 2026",
+      "programmes": [
+        {
+          "show_name": "MOTD: UEFA Champions League",
+          "show_description": "Gabby Logan presents highlights of the first-leg ties from the Champions League round of 16, with six Premier League clubs still in the tournament, as well as surprise package Bodo/Glimt.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/16e1c4ad-a7b4-45cf-81ea-9b9386a67be4/cover",
+          "start_time": "01:15",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "MOTD: UEFA Champions League",
+          "show_description": "Gabby Logan presents highlights of the first-leg ties from the Champions League round of 16, with six Premier League clubs still in the tournament, as well as surprise package Bodo/Glimt.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/16e1c4ad-a7b4-45cf-81ea-9b9386a67be4/cover",
+          "start_time": "06:30",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "MOTD: UEFA Champions League",
+          "show_description": "Gabby Logan presents highlights of the first-leg ties from the Champions League round of 16, with six Premier League clubs still in the tournament, as well as surprise package Bodo/Glimt.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/16e1c4ad-a7b4-45cf-81ea-9b9386a67be4/cover",
+          "start_time": "12:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "MOTD: UEFA Champions League",
+          "show_description": "Gabby Logan presents highlights of the first-leg ties from the Champions League round of 16, with six Premier League clubs still in the tournament, as well as surprise package Bodo/Glimt.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/16e1c4ad-a7b4-45cf-81ea-9b9386a67be4/cover",
+          "start_time": "18:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Winterwatch: Winter Encounters",
+          "show_description": "Enjoy the very best of the season in a natural escape that lets nature do the talking.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2e0cef27-b39f-4367-a47f-de4658605081/cover",
+          "start_time": "21:00",
+          "end_time": "00:00"
         }
       ]
     }

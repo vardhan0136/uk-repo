@@ -3,102 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Wales.png",
   "schedule": [
     {
-      "date": "10 March 2026",
-      "programmes": [
-        {
-          "show_name": "Relax with Radio Wales",
-          "show_description": "Relax, unwind and chill out with an hour of classic and contemporary tunes.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "As BBC Radio 5 Live",
-          "show_description": "See programme schedules for BBC Radio 5 Live.",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Radio Wales News Update",
-          "show_description": "The latest news and weather for Wales and a look ahead to this morning's Radio Wales Breakfast.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "06:05"
-        },
-        {
-          "show_name": "Wake Up with Radio Wales",
-          "show_description": "A lively mix of music to start the day. Perfect for your pod!",
-          "show_logo": "",
-          "start_time": "06:05",
-          "end_time": "06:31"
-        },
-        {
-          "show_name": "After the Cameras",
-          "show_description": "After the news crews leave, what happens next? Catrin Nye presents a series about the aftermath and the long term effects of tragedy and trauma on humans and on a community.",
-          "show_logo": "",
-          "start_time": "06:31",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Radio Wales Breakfast",
-          "show_description": "Everything you need to know as you wake up.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Bronwen Lewis",
-          "show_description": "Bronwen brightens your morning with great music and entertainment. Call 03700 100 110 Text 81012 or message via X @bbcradiowales.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "11:59"
-        },
-        {
-          "show_name": "The Phone In",
-          "show_description": "Be part of the nation's conversation.",
-          "show_logo": "",
-          "start_time": "11:59",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Behnaz Akhgar",
-          "show_description": "The Royle Family star Ralf Little chats about his new role in The Spy Who Came in from the Cold, and Bargain Hunt's Natasha Raskin Sharp answers your antique questions.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Radio Wales Drive",
-          "show_description": "Everything you need to know as you head home.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "We Can't Go On Eating Like This!",
-          "show_description": "Farmers are protesting, but what's at the root of their anger, and how does it relate to the challenges we face on climate, nature and the basic task of feeding Wales?",
-          "show_logo": "",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Radio Wales Sport",
-          "show_description": "Live commentary of Wales's Tuesday night fixtures.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Eleri Siôn",
-          "show_description": "Eleri brightens your night-time with great music and chat. Call 03700 100 110 Text 81012 or via X @bbcradiowales.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "11 March 2026",
       "programmes": [
         {
@@ -181,6 +85,102 @@
         {
           "show_name": "Country with Bronwen Lewis",
           "show_description": "Bronwen Lewis showcases new and classic country music from Wales and the world.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Eleri Siôn",
+          "show_description": "Eleri brightens your night-time with great music and chat. Call 03700 100 110 Text 81012 or via X @bbcradiowales.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "12 March 2026",
+      "programmes": [
+        {
+          "show_name": "Relax with Radio Wales",
+          "show_description": "Relax, unwind and chill out with an hour of classic and contemporary tunes.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "See programme schedules for BBC Radio 5 Live.",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Radio Wales News Update",
+          "show_description": "The latest news and weather for Wales and a look ahead to this morning's Radio Wales Breakfast.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "06:05"
+        },
+        {
+          "show_name": "Wake Up with Radio Wales",
+          "show_description": "A lively mix of music to start the day. Perfect for your pod!",
+          "show_logo": "",
+          "start_time": "06:05",
+          "end_time": "06:31"
+        },
+        {
+          "show_name": "Country Focus",
+          "show_description": "Para dressage riders and an island wildlife warden feature as we mark International Women's Day. We also hear about a Welsh farmer developing an AI platform for farm management.",
+          "show_logo": "",
+          "start_time": "06:31",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Radio Wales Breakfast",
+          "show_description": "Everything you need to know as you wake up.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Bronwen Lewis",
+          "show_description": "Bronwen brightens your morning with great music and entertainment. Call 03700 100 110 Text 81012 or message via X @bbcradiowales.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "11:59"
+        },
+        {
+          "show_name": "The Phone In",
+          "show_description": "Be part of the nation's conversation.",
+          "show_logo": "",
+          "start_time": "11:59",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Behnaz Akhgar",
+          "show_description": "Celebrity guests, expert advice, and we test your anagram-solving skills in The Name Game. Call or WhatsApp 03700 100 110 Text 81012.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Radio Wales Drive",
+          "show_description": "Everything you need to know as you head home.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "Kiri's Comedy Club",
+          "show_description": "Sara Pascoe, Cariad Lloyd, Lou Sanders and Sofie Hagen tell Kiri how they became authors.",
+          "show_logo": "",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Aleighcia Scott",
+          "show_description": "Aleighcia Scott with a show mixing old school, new school and in-between school.",
           "show_logo": "",
           "start_time": "19:00",
           "end_time": "22:00"

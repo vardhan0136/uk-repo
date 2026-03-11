@@ -3,396 +3,6 @@
   "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",
   "schedule": [
     {
-      "date": "10 March 2026",
-      "programmes": [
-        {
-          "show_name": "Premium Collection",
-          "show_description": "A documentary series comprising an eclectic selection of broad subjects.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/500e2e45-937d-4b62-b1b4-e91cfcba0080/cover",
-          "start_time": "00:00",
-          "end_time": "00:30"
-        },
-        {
-          "show_name": "Trip In Korea",
-          "show_description": "This programme takes you on a five-star local journey with Korean actor Oh Ji-ho and trot singer Shin Seong, exploring hidden gems and unique experiences that reveal a fresh side of Korea.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bb38c3e2-f6e3-4fbd-aa82-7ed9b6eae8a9/cover",
-          "start_time": "00:30",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "New Day at Arirang",
-          "show_description": "A special news programme.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/01d7e8a0-77c2-4bd6-8282-8fe87bbe7806/cover",
-          "start_time": "01:00",
-          "end_time": "01:30"
-        },
-        {
-          "show_name": "News Generation",
-          "show_description": "The news talk show covers recent trends and current affairs from people of the Millennium and the Zoomers generation.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5e393c36-ad30-4f16-a52c-bf02ca1049c9/cover",
-          "start_time": "01:30",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "Culture Crunch",
-          "show_description": "Want to know more about K-culture? Crunch on a different flavour of K-culture every day with Su Jung on Culture Crunch!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/101d7d72-750f-4b61-b7ca-dad10416fd2a/cover",
-          "start_time": "02:00",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Arirang News",
-          "show_description": "Arirang News provides up-to-the-minute, objective and in-depth coverage of news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a144c0a5-8a80-4d11-8226-e1814339ccaa/cover",
-          "start_time": "03:00",
-          "end_time": "03:30"
-        },
-        {
-          "show_name": "Diplomat's Archive: Hidden Stories",
-          "show_description": "A documentary series that explores hidden stories and forgotten moments in the history of Korean diplomacy.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9e876987-df9a-4d8f-b3a5-dedd9a6e56b9/cover",
-          "start_time": "03:30",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "Gugak: The Music of Korea",
-          "show_description": "Professional traditional music companies perform high-quality gugak performances which are vividly captured and conveyed through this series.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/11276bd1-b3bb-4d97-947f-6a55e7c60466/cover",
-          "start_time": "04:00",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "K-Culture Dive",
-          "show_description": "Welcome to 'K-Culture Dive', where we dive deeper into the heart of Korean culture with daily K-entertainment issues and AI culture news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/96cbcaa8-6c15-44bf-bb8b-730314689cf3/cover",
-          "start_time": "05:00",
-          "end_time": "05:30"
-        },
-        {
-          "show_name": "News Generation",
-          "show_description": "The news talk show covers recent trends and current affairs from people of the Millennium and the Zoomers generation.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/76f52efb-fd9f-46a3-b285-f2f57858be70/cover",
-          "start_time": "05:30",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Regional Tastes: Gangwon",
-          "show_description": "An archive video produced to record the local foods in the region of Gangwon.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e7ad857a-399f-4c08-9209-ceba5a46ced9/cover",
-          "start_time": "06:00",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Trip In Korea",
-          "show_description": "This programme takes you on a five-star local journey with Korean actor Oh Ji-ho and trot singer Shin Seong, exploring hidden gems and unique experiences that reveal a fresh side of Korea.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e0c46362-ad86-4eb4-a4c4-b17a1eb85a0d/cover",
-          "start_time": "06:30",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "AI Headline News",
-          "show_description": "AI-generated, up-to-the-minute coverage of news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/14169ea2-cef7-4771-88cb-0ddc84680fc9/cover",
-          "start_time": "07:00",
-          "end_time": "07:05"
-        },
-        {
-          "show_name": "Diplomat's Archive: Hidden Stories",
-          "show_description": "A documentary series that explores hidden stories and forgotten moments in the history of Korean diplomacy.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/74f30b2e-3b84-40fe-84a9-a2b9558460d0/cover",
-          "start_time": "07:05",
-          "end_time": "07:40"
-        },
-        {
-          "show_name": "K-Culture Minutes: K-People",
-          "show_description": "Dive into Korean culture with Arirang TV.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/517f1505-980e-4e3b-8108-1b23cc1afbe5/cover",
-          "start_time": "07:40",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "The Daily Report",
-          "show_description": "A live programme bringing you the latest news and COVID-19 updates from both home and abroad.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bddf94fc-2bc7-45ff-8abf-a16f0c93709c/cover",
-          "start_time": "08:00",
-          "end_time": "08:30"
-        },
-        {
-          "show_name": "Press Perspective",
-          "show_description": "Arirang TV presents an unbiased view and reliable information of Korea to the world through a wide range of programmes.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e04ede93-d653-46a0-94d7-3f1c51a02b6f/cover",
-          "start_time": "08:30",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Gugak: The Music of Korea",
-          "show_description": "Professional traditional music companies perform high-quality gugak performances which are vividly captured and conveyed through this series.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/02fe4bec-416e-42b6-9007-fd812c2ad679/cover",
-          "start_time": "09:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Regional Tastes: Gangwon",
-          "show_description": "An archive video produced to record the local foods in the region of Gangwon.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8238a08e-db56-40fb-aeaa-a951325a8ad6/cover",
-          "start_time": "10:00",
-          "end_time": "10:30"
-        },
-        {
-          "show_name": "Premium Collection",
-          "show_description": "A documentary series comprising an eclectic selection of broad subjects.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1b87bee0-9993-4482-b2c5-a00be39de73b/cover",
-          "start_time": "10:30",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "News Centre",
-          "show_description": "News Center provides up-to-the-minute, objective and in-depth coverage of news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/016a2a10-e673-4800-bd43-634270805390/cover",
-          "start_time": "11:00",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Within The Frame",
-          "show_description": "A news program that analyses issues in Korea and outside of it, such as economy, society, culture and politics, through conversations with experts from related fields.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/84e1f392-8036-4536-a1b2-fe4fd07e1c8a/cover",
-          "start_time": "11:30",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "K-Culture Dive",
-          "show_description": "Welcome to 'K-Culture Dive', where we dive deeper into the heart of Korean culture with daily K-entertainment issues and AI culture news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/35099630-e7fb-4444-9101-82ce9b0425de/cover",
-          "start_time": "12:00",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "K-Culture Minutes: K-People",
-          "show_description": "Dive into Korean culture with Arirang TV.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/25ef0dde-dfd9-4f42-ad9c-52d21b203d35/cover",
-          "start_time": "12:30",
-          "end_time": "12:50"
-        },
-        {
-          "show_name": "The Living Sea Of Jeju",
-          "show_description": "Pathways can be found even beneath the sea, where along Jeju's underwater routes one can behold brilliantly beautiful corals and the marine life that inhabits them.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ded9cc32-b50d-438d-a464-02c2dd98874d/cover",
-          "start_time": "12:50",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "AI Headline News",
-          "show_description": "AI-generated, up-to-the-minute coverage of news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b0886d02-a06c-4d96-848d-4788b1446090/cover",
-          "start_time": "13:00",
-          "end_time": "13:05"
-        },
-        {
-          "show_name": "Trip In Korea",
-          "show_description": "This programme takes you on a five-star local journey with Korean actor Oh Ji-ho and trot singer Shin Seong, exploring hidden gems and unique experiences that reveal a fresh side of Korea.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/62fa3496-88ff-4703-b49c-8815dc5cb907/cover",
-          "start_time": "13:05",
-          "end_time": "13:40"
-        },
-        {
-          "show_name": "Korea Travelogue",
-          "show_description": "Documentary series in which the hidden secrets of Korean history, architecture and culture are revealed.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c341fca1-dd29-4d55-9866-3ab68d2752e2/cover",
-          "start_time": "13:40",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Press Perspective",
-          "show_description": "Arirang TV presents an unbiased view and reliable information of Korea to the world through a wide range of programmes.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/011e1056-31d0-48b0-b854-5f0bc947c54d/cover",
-          "start_time": "14:00",
-          "end_time": "14:30"
-        },
-        {
-          "show_name": "Diplomat's Archive: Hidden Stories",
-          "show_description": "A documentary series that explores hidden stories and forgotten moments in the history of Korean diplomacy.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/638206f4-0d84-4136-829f-4071a5cd4779/cover",
-          "start_time": "14:30",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Gugak: The Music of Korea",
-          "show_description": "Professional traditional music companies perform high-quality gugak performances which are vividly captured and conveyed through this series.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b93cc464-18b1-4647-beeb-b02e2589f9ca/cover",
-          "start_time": "15:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "K-Arts Artists",
-          "show_description": "This programme is part of Arirang TV's efforts to promote Korean culture and provide a window into the country's dynamic art scene for a global audience.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/203eea7d-a361-4bcc-ae30-d90a06718b12/cover",
-          "start_time": "16:00",
-          "end_time": "16:20"
-        },
-        {
-          "show_name": "Exploring Korean Literature",
-          "show_description": "There is a growing interest in Korean literature among readers from around the world and so we bring Korean classics to Korean modern literature to viewers in this special series under three themes.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3630931f-e2b1-48fa-9fe2-c8ab6b7d0111/cover",
-          "start_time": "16:20",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "Premium Collection",
-          "show_description": "A documentary series comprising an eclectic selection of broad subjects.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dbb339a8-dfc3-4fab-966a-f06775b6b454/cover",
-          "start_time": "16:30",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "K-Culture Dive",
-          "show_description": "Welcome to 'K-Culture Dive', where we dive deeper into the heart of Korean culture with daily K-entertainment issues and AI culture news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cc331db3-f58c-4d5f-90cb-517b58ae986e/cover",
-          "start_time": "17:00",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "Within The Frame",
-          "show_description": "A news program that analyses issues in Korea and outside of it, such as economy, society, culture and politics, through conversations with experts from related fields.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d2c94d61-825a-42aa-88c5-3e9709469169/cover",
-          "start_time": "17:30",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "K-Culture Minutes: K-People",
-          "show_description": "Dive into Korean culture with Arirang TV.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6d2b7283-b7bf-466d-bf44-58ae72250f74/cover",
-          "start_time": "18:00",
-          "end_time": "18:15"
-        },
-        {
-          "show_name": "Exploring Korean Literature",
-          "show_description": "There is a growing interest in Korean literature among readers from around the world and so we bring Korean classics to Korean modern literature to viewers in this special series under three themes.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/122fb50b-3bf1-4b9d-9658-31f49360bd35/cover",
-          "start_time": "18:15",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "Korea Travelogue",
-          "show_description": "Documentary series in which the hidden secrets of Korean history, architecture and culture are revealed.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/564413d4-7cd9-4c0d-9aca-c769f4b53b8b/cover",
-          "start_time": "18:30",
-          "end_time": "18:50"
-        },
-        {
-          "show_name": "Discovering Korea: View",
-          "show_description": "A travel information programme that delivers specific tourism information about Korean destinations. It promotes Korean culture and conducts global tourism marketing promotion.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/39c4b27e-349d-4f9b-a01e-b8ddea32efd7/cover",
-          "start_time": "18:50",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Gugak: The Music of Korea",
-          "show_description": "Professional traditional music companies perform high-quality gugak performances which are vividly captured and conveyed through this series.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e98f2a30-4814-41de-b0e6-5d566104275e/cover",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Diplomat's Archive: Hidden Stories",
-          "show_description": "A documentary series that explores hidden stories and forgotten moments in the history of Korean diplomacy.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d8ae1b0d-333d-4c79-ae4e-5af4ecd082b4/cover",
-          "start_time": "20:00",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "Regional Tastes: Gangwon",
-          "show_description": "An archive video produced to record the local foods in the region of Gangwon.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/eb375a2b-3ca5-431d-96ae-db1c30fca594/cover",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Press Perspective",
-          "show_description": "Arirang TV presents an unbiased view and reliable information of Korea to the world through a wide range of programmes.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/26d1e34e-8578-4989-a57f-badec72a9229/cover",
-          "start_time": "21:00",
-          "end_time": "21:30"
-        },
-        {
-          "show_name": "K-Culture Minutes: K-People",
-          "show_description": "Dive into Korean culture with Arirang TV.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e0bf34c2-fed3-4560-a94e-415624f832e0/cover",
-          "start_time": "21:30",
-          "end_time": "21:50"
-        },
-        {
-          "show_name": "Discovering Korea: View",
-          "show_description": "A travel information programme that delivers specific tourism information about Korean destinations. It promotes Korean culture and conducts global tourism marketing promotion.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/511a631c-ade1-47bf-b9e0-3fd1ec0a1a27/cover",
-          "start_time": "21:50",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The Grand Heritage K-ASMR",
-          "show_description": "This programme presents the historical value and hidden stories of Korea's world-famous cultural heritage in an aesthetic format.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ed5f66b1-a648-4ac9-8539-f9938b0472a0/cover",
-          "start_time": "22:00",
-          "end_time": "22:20"
-        },
-        {
-          "show_name": "The Living Sea Of Jeju",
-          "show_description": "Pathways can be found even beneath the sea, where along Jeju's underwater routes one can behold brilliantly beautiful corals and the marine life that inhabits them.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b122df2e-2fcf-4879-a751-1da002613b41/cover",
-          "start_time": "22:20",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "K-Chat: Conversing In Korean",
-          "show_description": "Discover how to express yourself in various everyday situations in Korean, from greetings and making friends to making promises and ordering your favourite food.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1a532fc6-5381-462a-9d47-a25c38ef538d/cover",
-          "start_time": "22:30",
-          "end_time": "22:40"
-        },
-        {
-          "show_name": "K-Chat: Travel In Korea",
-          "show_description": "From arriving at the airport to finding your hotel and exploring popular travel destinations, this programme offers practical expressions for your Korean language journey.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/861dae08-adc3-444e-a290-b9d439df84b3/cover",
-          "start_time": "22:40",
-          "end_time": "22:50"
-        },
-        {
-          "show_name": "Exploring Korean Literature",
-          "show_description": "There is a growing interest in Korean literature among readers from around the world and so we bring Korean classics to Korean modern literature to viewers in this special series under three themes.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dc0e2aa9-cfe7-4470-b5c4-7dc24151737b/cover",
-          "start_time": "22:50",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "K-Arts Artists",
-          "show_description": "This programme is part of Arirang TV's efforts to promote Korean culture and provide a window into the country's dynamic art scene for a global audience.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/406e559d-6a8f-4f0c-8390-af85b269af0a/cover",
-          "start_time": "23:00",
-          "end_time": "23:20"
-        },
-        {
-          "show_name": "Exploring Korean Literature",
-          "show_description": "There is a growing interest in Korean literature among readers from around the world and so we bring Korean classics to Korean modern literature to viewers in this special series under three themes.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cf5b7b21-7334-4ca9-8ade-89a0b8f32314/cover",
-          "start_time": "23:20",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "K-Culture Minutes: K-Story",
-          "show_description": "Dive into Korean culture with Arirang TV.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/74676425-c67d-4863-a616-d1addf2b96f5/cover",
-          "start_time": "23:30",
-          "end_time": "23:50"
-        },
-        {
-          "show_name": "SmartBiz Accelerators",
-          "show_description": "Business documentary series introducing a variety of domestic small and medium-sized companies that have achieved continuous growth based on the smart factory project provided by Samsung Electronics.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/48b07558-606a-4265-9fcd-a2a22acad510/cover",
-          "start_time": "23:50",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "11 March 2026",
       "programmes": [
         {
@@ -791,6 +401,410 @@
           "show_name": "K-Culture Minutes: K-Stage",
           "show_description": "Dive into Korean culture with Arirang TV.",
           "show_logo": "https://images.metadata.sky.com/pd-image/501830d1-a9c0-4bdc-9cab-98b9e4cafd04/cover",
+          "start_time": "23:30",
+          "end_time": "23:50"
+        },
+        {
+          "show_name": "SmartBiz Accelerators",
+          "show_description": "Business documentary series introducing a variety of domestic small and medium-sized companies that have achieved continuous growth based on the smart factory project provided by Samsung Electronics.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1e22e4c3-109f-34d9-b7ea-17cfe1e48b53/cover",
+          "start_time": "23:50",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "12 March 2026",
+      "programmes": [
+        {
+          "show_name": "Bravo K-Scientist",
+          "show_description": "Join us on a journey into the everyday lives of the most outstanding scientists in Korea; what were the joys of science they discovered after repeated failures, and what did they realise from them?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/19d30da6-a18d-4952-aa84-47829cf53459/cover",
+          "start_time": "00:00",
+          "end_time": "00:30"
+        },
+        {
+          "show_name": "Drawing Diary",
+          "show_description": "Take a relaxed stroll around the neighbourhood with Drawing Diary. Exploring the history of familiar places and uncovering hidden gems, the programme captures the everyday scenery of Korea.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ba7da7c0-57bb-4aeb-9441-3e4c98d464d4/cover",
+          "start_time": "00:30",
+          "end_time": "00:50"
+        },
+        {
+          "show_name": "Heritage Walks With Little Friend",
+          "show_description": "A cultural heritage walk accompanied by Maltese Byeol-yi and Yorkshire Terrier Kka-mi.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d03620cf-0012-439a-9fd5-638e89a1b248/cover",
+          "start_time": "00:50",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "New Day at Arirang",
+          "show_description": "A special news programme.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d7579d5d-20d5-4146-bca1-d52cb37cc285/cover",
+          "start_time": "01:00",
+          "end_time": "01:30"
+        },
+        {
+          "show_name": "News Generation",
+          "show_description": "The news talk show covers recent trends and current affairs from people of the Millennium and the Zoomers generation.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9480ef0c-01a9-4705-aa72-2bae7ed7819e/cover",
+          "start_time": "01:30",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "Culture Crunch",
+          "show_description": "Want to know more about K-culture? Crunch on a different flavour of K-culture every day with Su Jung on Culture Crunch!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ee3c6874-2ffa-4b98-b7be-28f8aca4ab50/cover",
+          "start_time": "02:00",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Arirang News",
+          "show_description": "Arirang News provides up-to-the-minute, objective and in-depth coverage of news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f9fe8ba9-afa3-445c-ad49-76d40b171d40/cover",
+          "start_time": "03:00",
+          "end_time": "03:30"
+        },
+        {
+          "show_name": "SmartBiz Accelerators",
+          "show_description": "Business documentary series introducing a variety of domestic small and medium-sized companies that have achieved continuous growth based on the smart factory project provided by Samsung Electronics.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7fe1eb8c-756f-475f-82dd-dd6ca9057fe4/cover",
+          "start_time": "03:30",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Simply K-Pop Gateway To Korea",
+          "show_description": "A music programme on Arirang TV.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1d7a10f2-8d93-4291-b6f7-e2b19c962785/cover",
+          "start_time": "04:00",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "K-Culture Dive",
+          "show_description": "Welcome to 'K-Culture Dive', where we dive deeper into the heart of Korean culture with daily K-entertainment issues and AI culture news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/23ba0dcc-3ce4-4477-a78d-3294906d0ea1/cover",
+          "start_time": "05:00",
+          "end_time": "05:30"
+        },
+        {
+          "show_name": "News Generation",
+          "show_description": "The news talk show covers recent trends and current affairs from people of the Millennium and the Zoomers generation.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/58677969-b14c-4c4e-ac9d-4c27182eca80/cover",
+          "start_time": "05:30",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "K-Food Class",
+          "show_description": "As global interest in Korean culture continues to thrive, K-food has become one of its most compelling pillars. Today, people aren't just curious about how it tastes, they want to learn how it's made.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/05511fd9-e277-4398-83e3-5f1ac500bddc/cover",
+          "start_time": "06:00",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Drawing Diary",
+          "show_description": "Take a relaxed stroll around the neighbourhood with Drawing Diary. Exploring the history of familiar places and uncovering hidden gems, the programme captures the everyday scenery of Korea.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/37ee0148-1e0f-4351-be64-b2e2c67ecaeb/cover",
+          "start_time": "06:30",
+          "end_time": "06:50"
+        },
+        {
+          "show_name": "Heritage Walks With Little Friend",
+          "show_description": "A cultural heritage walk accompanied by Maltese Byeol-yi and Yorkshire Terrier Kka-mi.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3edf56fc-5c1d-41fa-b3c1-b8f44dc1641e/cover",
+          "start_time": "06:50",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "AI Headline News",
+          "show_description": "AI-generated, up-to-the-minute coverage of news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4d82ec75-9497-44a6-be7a-ef4de9ae4781/cover",
+          "start_time": "07:00",
+          "end_time": "07:05"
+        },
+        {
+          "show_name": "SmartBiz Accelerators",
+          "show_description": "Business documentary series introducing a variety of domestic small and medium-sized companies that have achieved continuous growth based on the smart factory project provided by Samsung Electronics.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ca4d72cb-4375-481c-9175-f24e8cf3480e/cover",
+          "start_time": "07:05",
+          "end_time": "07:40"
+        },
+        {
+          "show_name": "K-Culture Minutes: K-Stage",
+          "show_description": "Dive into Korean culture with Arirang TV.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/66e9024f-7b4e-4496-9c48-8d5f8313ce99/cover",
+          "start_time": "07:40",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "The Daily Report",
+          "show_description": "A live programme bringing you the latest news and COVID-19 updates from both home and abroad.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b6f5546c-ab2a-4caf-986e-6f8aa8a7bcea/cover",
+          "start_time": "08:00",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "Press Perspective",
+          "show_description": "Arirang TV presents an unbiased view and reliable information of Korea to the world through a wide range of programmes.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/affbcb97-eb74-444f-909f-48f1b50d5eca/cover",
+          "start_time": "08:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Simply K-Pop Gateway To Korea",
+          "show_description": "A music programme on Arirang TV.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7fda088d-af8c-4c5b-a5d4-d4b50110f0cb/cover",
+          "start_time": "09:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "K-Food Class",
+          "show_description": "As global interest in Korean culture continues to thrive, K-food has become one of its most compelling pillars. Today, people aren't just curious about how it tastes, they want to learn how it's made.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a27bb683-dfa0-4472-885d-5e1f1d914db6/cover",
+          "start_time": "10:00",
+          "end_time": "10:30"
+        },
+        {
+          "show_name": "Bravo K-Scientist",
+          "show_description": "Join us on a journey into the everyday lives of the most outstanding scientists in Korea; what were the joys of science they discovered after repeated failures, and what did they realise from them?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/affcf932-9bdc-4b24-b0df-ef474a759c65/cover",
+          "start_time": "10:30",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "News Centre",
+          "show_description": "News Center provides up-to-the-minute, objective and in-depth coverage of news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/88c5fe16-9204-4550-aa20-95358ec34981/cover",
+          "start_time": "11:00",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Within The Frame",
+          "show_description": "A news program that analyses issues in Korea and outside of it, such as economy, society, culture and politics, through conversations with experts from related fields.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1f378833-1fbe-4634-b078-987dd0979bd8/cover",
+          "start_time": "11:30",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "K-Culture Dive",
+          "show_description": "Welcome to 'K-Culture Dive', where we dive deeper into the heart of Korean culture with daily K-entertainment issues and AI culture news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f63099c5-aacf-455a-a591-bb1f4e6dca94/cover",
+          "start_time": "12:00",
+          "end_time": "12:30"
+        },
+        {
+          "show_name": "K-Culture Minutes: K-Stage",
+          "show_description": "Dive into Korean culture with Arirang TV.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/954eef07-e29c-42bb-8d0f-a7bee969d600/cover",
+          "start_time": "12:30",
+          "end_time": "12:50"
+        },
+        {
+          "show_name": "The Living Sea Of Jeju",
+          "show_description": "Pathways can be found even beneath the sea, where along Jeju's underwater routes one can behold brilliantly beautiful corals and the marine life that inhabits them.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e5861171-84e2-4095-9e60-064b013b2207/cover",
+          "start_time": "12:50",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "AI Headline News",
+          "show_description": "AI-generated, up-to-the-minute coverage of news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/505915f4-c56e-41c9-a320-513b0eefe086/cover",
+          "start_time": "13:00",
+          "end_time": "13:05"
+        },
+        {
+          "show_name": "Drawing Diary",
+          "show_description": "Take a relaxed stroll around the neighbourhood with Drawing Diary. Exploring the history of familiar places and uncovering hidden gems, the programme captures the everyday scenery of Korea.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/44d32de0-0c17-4454-882d-cbcdb29c6f5e/cover",
+          "start_time": "13:05",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Heritage Walks With Little Friend",
+          "show_description": "A cultural heritage walk accompanied by Maltese Byeol-yi and Yorkshire Terrier Kka-mi.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/dd3d74f1-2d33-4e25-ac41-148f33d1df13/cover",
+          "start_time": "13:30",
+          "end_time": "13:40"
+        },
+        {
+          "show_name": "Korea Travelogue",
+          "show_description": "Documentary series in which the hidden secrets of Korean history, architecture and culture are revealed.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8e7cbcbf-c113-43b8-89c5-738cecc9a0d3/cover",
+          "start_time": "13:40",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Press Perspective",
+          "show_description": "Arirang TV presents an unbiased view and reliable information of Korea to the world through a wide range of programmes.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8759c365-f5f9-417e-b669-9e79c9701b53/cover",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "SmartBiz Accelerators",
+          "show_description": "Business documentary series introducing a variety of domestic small and medium-sized companies that have achieved continuous growth based on the smart factory project provided by Samsung Electronics.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ee78b9ba-7101-405c-8c6a-4f50352911cd/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Simply K-Pop Gateway To Korea",
+          "show_description": "A music programme on Arirang TV.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1095e828-efaf-4599-9cfc-440edb99625f/cover",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "K-Arts Artists",
+          "show_description": "This programme is part of Arirang TV's efforts to promote Korean culture and provide a window into the country's dynamic art scene for a global audience.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b9fc7d61-2ef2-4746-895d-43362c4892e8/cover",
+          "start_time": "16:00",
+          "end_time": "16:20"
+        },
+        {
+          "show_name": "Exploring Korean Literature",
+          "show_description": "There is a growing interest in Korean literature among readers from around the world and so we bring Korean classics to Korean modern literature to viewers in this special series under three themes.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/26b61134-8453-4047-b4e9-69a3daf25d5d/cover",
+          "start_time": "16:20",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "Bravo K-Scientist",
+          "show_description": "Join us on a journey into the everyday lives of the most outstanding scientists in Korea; what were the joys of science they discovered after repeated failures, and what did they realise from them?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2edf1f0f-4b59-4aaa-a70d-4b7546f6f4ad/cover",
+          "start_time": "16:30",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "K-Culture Dive",
+          "show_description": "Welcome to 'K-Culture Dive', where we dive deeper into the heart of Korean culture with daily K-entertainment issues and AI culture news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ccba5de0-2e67-485e-a164-d418abdd7e75/cover",
+          "start_time": "17:00",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "Within The Frame",
+          "show_description": "A news program that analyses issues in Korea and outside of it, such as economy, society, culture and politics, through conversations with experts from related fields.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3a39574b-5668-4041-a428-b373ae734436/cover",
+          "start_time": "17:30",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Home Explorers",
+          "show_description": "A documentary series about homes, people and space; this programme shows various houses in Korea and introduces the living culture and architectural technology of the country.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ff8cd5a7-c39c-422c-9d32-b38999745c00/cover",
+          "start_time": "18:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "Korea Travelogue",
+          "show_description": "Documentary series in which the hidden secrets of Korean history, architecture and culture are revealed.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/faf589a3-68ec-4c02-aae4-1ed11120a187/cover",
+          "start_time": "18:30",
+          "end_time": "18:50"
+        },
+        {
+          "show_name": "Discovering Korea: History",
+          "show_description": "A travel information programme that delivers specific tourism information about Korean destinations. It promotes Korean culture and conducts global tourism marketing promotion.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cac9cdd3-7ad0-46e5-b638-b0c463b6bcdd/cover",
+          "start_time": "18:50",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Simply K-Pop Gateway To Korea",
+          "show_description": "A music programme on Arirang TV.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fac986bc-8306-4fb5-b387-be7be07b8015/cover",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "SmartBiz Accelerators",
+          "show_description": "Business documentary series introducing a variety of domestic small and medium-sized companies that have achieved continuous growth based on the smart factory project provided by Samsung Electronics.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d75c4451-d8b4-48b8-b814-4d4ff0414e1f/cover",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "K-Food Class",
+          "show_description": "As global interest in Korean culture continues to thrive, K-food has become one of its most compelling pillars. Today, people aren't just curious about how it tastes, they want to learn how it's made.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c196bbe4-c7d5-4a11-86d5-dd0cde1a3057/cover",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Press Perspective",
+          "show_description": "Arirang TV presents an unbiased view and reliable information of Korea to the world through a wide range of programmes.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/94851687-b671-41c8-8ead-5d1a1bc3d679/cover",
+          "start_time": "21:00",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "K-Culture Minutes: K-Stage",
+          "show_description": "Dive into Korean culture with Arirang TV.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0b621dcd-eba6-4a04-ab50-a2e4f0cff44d/cover",
+          "start_time": "21:30",
+          "end_time": "21:50"
+        },
+        {
+          "show_name": "Discovering Korea: History",
+          "show_description": "A travel information programme that delivers specific tourism information about Korean destinations. It promotes Korean culture and conducts global tourism marketing promotion.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b8c131a3-3ee1-4d3d-b9c3-2201add4de02/cover",
+          "start_time": "21:50",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "The Grand Heritage K-ASMR",
+          "show_description": "This programme presents the historical value and hidden stories of Korea's world-famous cultural heritage in an aesthetic format.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6f94869b-52ac-4c95-b24f-8b68640dadda/cover",
+          "start_time": "22:00",
+          "end_time": "22:20"
+        },
+        {
+          "show_name": "The Living Sea Of Jeju",
+          "show_description": "Pathways can be found even beneath the sea, where along Jeju's underwater routes one can behold brilliantly beautiful corals and the marine life that inhabits them.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/62aed4c7-53fd-4bb3-a317-4cf48a12a81e/cover",
+          "start_time": "22:20",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "K-Chat: Conversing In Korean",
+          "show_description": "Discover how to express yourself in various everyday situations in Korean, from greetings and making friends to making promises and ordering your favourite food.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6fb1070e-52d5-4620-a427-2a972610efe4/cover",
+          "start_time": "22:30",
+          "end_time": "22:40"
+        },
+        {
+          "show_name": "K-Chat: Travel In Korea",
+          "show_description": "From arriving at the airport to finding your hotel and exploring popular travel destinations, this programme offers practical expressions for your Korean language journey.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c3a2dbc2-5ce6-4687-b39f-8534c15b33c6/cover",
+          "start_time": "22:40",
+          "end_time": "22:50"
+        },
+        {
+          "show_name": "Exploring Korean Literature",
+          "show_description": "There is a growing interest in Korean literature among readers from around the world and so we bring Korean classics to Korean modern literature to viewers in this special series under three themes.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/24cdee6d-834d-46de-b0fe-461f7a1a5063/cover",
+          "start_time": "22:50",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "K-Arts Artists",
+          "show_description": "This programme is part of Arirang TV's efforts to promote Korean culture and provide a window into the country's dynamic art scene for a global audience.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c54ecbb5-29ad-4b19-9461-e76a12bf2bc2/cover",
+          "start_time": "23:00",
+          "end_time": "23:20"
+        },
+        {
+          "show_name": "Exploring Korean Literature",
+          "show_description": "There is a growing interest in Korean literature among readers from around the world and so we bring Korean classics to Korean modern literature to viewers in this special series under three themes.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7d6e71c9-1803-4ca6-b502-a23244a5d5b2/cover",
+          "start_time": "23:20",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "RPG",
+          "show_description": "A programme about Korean culture and entertainment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1fb2581e-1e39-473c-939d-6fa93efadfb3/cover",
           "start_time": "23:30",
           "end_time": "23:50"
         },

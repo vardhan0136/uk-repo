@@ -3,270 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Sky-Mix.png",
   "schedule": [
     {
-      "date": "10 March 2026",
-      "programmes": [
-        {
-          "show_name": "Warrior",
-          "show_description": "If You're Going to Bow, Bow Low: As the action-chocked drama concludes, Ah Sahm rejects his warrior roots. Meanwhile, Leary pays Mercer a violent visit. (S1, ep 10)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6a0c37a7-6248-428f-964d-f6d700ea318a/cover",
-          "start_time": "00:00",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "The Force: Manchester",
-          "show_description": "Series shining a new light on modern policing in Manchester and the challenges faced by officers as they come face to face with a range of criminal and social issues. (S1, ep 4)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/89f93710-0eba-4a93-babf-82cbbdc47395/cover",
-          "start_time": "01:00",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "Brit Cops: War On Crime",
-          "show_description": "Continuing the fifth season of the explosive documentary following Lincolnshire cops as they fight crime across one of the UK's largest counties. (S5, ep 7)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d7449a59-9a42-4284-9d02-02614820ad0f/cover",
-          "start_time": "02:00",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Highway Patrol",
-          "show_description": "Slowest Getaway: A driver on the run from police crashes a stop sign and risks a head-on collision with a bus. Can he escape both the police and a serious smash? (S10, ep 1)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6150c978-bc52-4896-91de-d73b240c4c82/cover",
-          "start_time": "03:00",
-          "end_time": "03:30"
-        },
-        {
-          "show_name": "Highway Patrol",
-          "show_description": "Brand New Car: Officers Damien O'Brien and Steve Mottram stop a woman who likes to let her dog ride shotgun - even when her boyfriend is in the car. (S10, ep 2)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ae693185-fcb0-47cb-b6b9-7202c75fb26f/cover",
-          "start_time": "03:30",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "Border Patrol",
-          "show_description": "Reality series following the work of New Zealand's customs agents. (S15, ep 7)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f8f9b50c-da93-4146-9275-df0c5e2b6fd8/cover",
-          "start_time": "04:00",
-          "end_time": "04:30"
-        },
-        {
-          "show_name": "Border Patrol",
-          "show_description": "Reality series following the work of New Zealand's customs agents. (S15, ep 8)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/70c684b7-76a1-422f-b4b8-4843b35514b6/cover",
-          "start_time": "04:30",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "Highway Cops",
-          "show_description": "Documentary following the men and women who help keep motorists safe on some of the most perilous highways and byways of New Zealand. (S5, ep 9)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a8bf8a4d-1d53-4ffd-aa40-885b2e0f7074/cover",
-          "start_time": "05:00",
-          "end_time": "05:30"
-        },
-        {
-          "show_name": "Highway Cops",
-          "show_description": "Documentary following the men and women who help keep motorists safe on some of the most perilous highways and byways of New Zealand. (S5, ep 10)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3710ac9d-b88d-4ee2-a404-865c1b839051/cover",
-          "start_time": "05:30",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Teleshopping.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Teleshopping.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Motorway Patrol",
-          "show_description": "Documentary series from New Zealand following the madness and mayhem faced by intrepid officers as they pull over motorists for a variety of suspected offences. (S21, ep 7)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4d8e4440-4d8a-471b-be93-449d807b9b3a/cover",
-          "start_time": "07:00",
-          "end_time": "07:30"
-        },
-        {
-          "show_name": "Motorway Patrol",
-          "show_description": "Documentary series from New Zealand following the madness and mayhem faced by intrepid officers as they pull over motorists for a variety of suspected offences. (S21, ep 8)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e8c17a55-d190-41c6-8b26-ee002bc0ac92/cover",
-          "start_time": "07:30",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "Border Security: America's Front Line",
-          "show_description": "An American is carrying some cold-blooded companions in his backseat at the Detroit-Windsor tunnel and in New York, a traveller is possibly smuggling. (1, ep 4)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ed35ad0d-d145-4763-b420-1d3552c04d2d/cover",
-          "start_time": "08:00",
-          "end_time": "08:30"
-        },
-        {
-          "show_name": "Border Security: America's Front Line",
-          "show_description": "In Michigan, the canine unit uncovers double trouble. Bloodstained baggage is found at Detroit Metro Airport. (S1, ep 5)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2b8f9208-ee3e-47b7-b5dd-b7303b36d908/cover",
-          "start_time": "08:30",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Nothing To Declare",
-          "show_description": "Fly-on-the-wall documentary series following the men and women who defend Australia from drug runners, illegal immigrants and terrorists. (S2, ep 3)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e2551af2-6e20-48ad-b85e-7cce615e73b2/cover",
-          "start_time": "09:00",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Nothing To Declare",
-          "show_description": "Fly-on-the-wall documentary series following the men and women who defend Australia from drug runners, illegal immigrants and terrorists. (S2, ep 4)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c2b8fd0b-229b-4bbe-8043-91ec63506cf7/cover",
-          "start_time": "09:30",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Nothing To Declare",
-          "show_description": "Fly-on-the-wall documentary series following the men and women who defend Australia from drug runners, illegal immigrants and terrorists. (S2, ep 5)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/47fc2a1a-accb-422b-afce-3b96012485f8/cover",
-          "start_time": "10:00",
-          "end_time": "10:30"
-        },
-        {
-          "show_name": "Nothing To Declare",
-          "show_description": "Fly-on-the-wall documentary series following the men and women who defend Australia from drug runners, illegal immigrants and terrorists. (S2, ep 6)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/940188f4-254d-4d39-b5b3-4cd3eb4c648e/cover",
-          "start_time": "10:30",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "Highway Patrol",
-          "show_description": "Missing Teeth: A marijuana user crashes his motorbike into the back of a car, a learner finds his car is too much to handle and a mishap causes a man to lose his teeth. (S12, ep 3)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/aa5dcc2d-10b1-4e03-a69d-296d42a7fbc0/cover",
-          "start_time": "11:00",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Highway Patrol",
-          "show_description": "Undies. Seatbelt. Simple: A driverless car crashes into a house, a drink driver is pulled over and a speeder accepts his fine with a bit of humour. (S12, ep 4)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7c1c97d9-ad4a-40a0-9882-334b31061028/cover",
-          "start_time": "11:30",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Border Security: Canada's Front Line",
-          "show_description": "Officers suspect an IT consultant has arrived for more than just a holiday, and a surfer returns from Southeast Asia with a dodgy souvenir. (S1, ep 8)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8f4435ef-cfcc-4e53-82be-5c7c3eabd3bb/cover",
-          "start_time": "12:00",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "Border Security: Canada's Front Line",
-          "show_description": "The Inland Enforcement Team track down an alleged German sex offender, while a detector dog sniffs out trouble in an unclaimed suitcase from Dubai. (S1, ep 9)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7ed210b0-2b74-45c0-a555-b9c90c2c07fc/cover",
-          "start_time": "12:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Border Patrol",
-          "show_description": "New Zealand reality series following the work of customs officers as they prevent drug smuggling, illegal immigrants and more. (S9, ep 1)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/46deadf2-067e-4b98-a63d-599f8ab5b8aa/cover",
-          "start_time": "13:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Border Patrol",
-          "show_description": "New Zealand reality series following the work of customs officers as they prevent drug smuggling, illegal immigrants and more. (S9, ep 2)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5411f6e6-31d1-4df8-8f57-3607af0c83fa/cover",
-          "start_time": "13:30",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Nothing To Declare",
-          "show_description": "Identical packages at the mail centre raise alarm bells, a passenger goes missing during a bag search and a young man is distraught after being caught. (S17, ep 12)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ab65c81a-e095-36a8-ab6c-def2f8be643c/cover",
-          "start_time": "14:00",
-          "end_time": "14:30"
-        },
-        {
-          "show_name": "Nothing To Declare",
-          "show_description": "Officers interrogate a popular woman, a religious figurine may be concealing something sinister and a student from China is on the brink of being sent home. (S17, ep 13)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7d99aed9-3f57-3f90-bb9e-1bf7faa0c43a/cover",
-          "start_time": "14:30",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Nothing To Declare",
-          "show_description": "A man is raising red flags when he arrives in Brisbane. A woman tries to smuggle dangerous goods and officers find some strong 'tea' at the air cargo facility. (S17, ep 14)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/057fd878-1e63-31a5-bc60-df530745b15e/cover",
-          "start_time": "15:00",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Nothing To Declare",
-          "show_description": "A woman brings contents of her fridge with her, a suspicious clock at the mail centre has officers worried and a man returning from Cambodia raises alarms. (S17, ep 15)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/82f1f24a-a00b-341a-b5fe-ea8241a599c7/cover",
-          "start_time": "15:30",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Star Trek: Deep Space Nine",
-          "show_description": "The Forsaken: Lwaxana Troi visits DS9 and is fascinated by Odo. Trapped in an elevator with the Chief of Security, she discovers what happens when he reverts to his gelatinous form.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6af3fa87-eebf-4907-9345-ebd0ce16c624/cover",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Stargate SG-1",
-          "show_description": "Urgo: The minds of SG-1 are invaded by a curious being. (S3, ep 16)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c5eb27ad-9d4c-4654-8527-c1266ef45428/cover",
-          "start_time": "17:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Star Trek: Voyager",
-          "show_description": "Inside Man: A hologram of Barclay, direct from Starfleet, arrives with instructions to get Voyager home within three days. The Doctor's suspicions are aroused. (S7, ep 6)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/aa454adc-9a64-43ab-b05e-f224b781a7d7/cover",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Star Trek: The Next Generation",
-          "show_description": "All Good Things - Part 1: Picard finds himself travelling between the past, present and future while attempting to prevent the destruction of mankind.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/efa685cb-69fd-4907-9ed5-9be7654cbb01/cover",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Primeval",
-          "show_description": "Medical Mayhem: The team must capture Diictodons that have come through an anomaly and are wreaking havoc at a hospital. Helen sends a clone of Cutter to infiltrate the ARC. (S3, ep 3)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2b1910c4-935e-3174-ab3d-74ae4baedd04/cover",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Fire Country",
-          "show_description": "Get Your Hopes Up: A truck crashes into the station, causing a power outage and starting a fire. Bode's ex-girlfriend, Cara, faces multiple medical emergencies. (S1, ep 10)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9b1fb0d0-8e89-34c4-909d-0c2e1da4e864/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "FBI: International",
-          "show_description": "Get that Revolution Started: The team works to hunt the sniper responsible for killing an American during a Belgian biomedical lab attack. (S1, ep 19)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/127e1f6c-9b93-422a-a491-8bc571b70d73/cover",
-          "start_time": "22:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Grimm",
-          "show_description": "Breakfast in Bed: After a vicious murder, Nick and Hank hunt a dream-eating Wesen who appears to be preying on the guests of a cheap hotel. (S6, ep 6)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/19ce0ba7-ab61-453d-b87b-e44db25635f6/cover",
-          "start_time": "23:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "11 March 2026",
       "programmes": [
         {
@@ -527,6 +263,270 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/23251dbc-31fd-4657-8dc7-9e4ddf474dc3/cover",
           "start_time": "23:00",
           "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "12 March 2026",
+      "programmes": [
+        {
+          "show_name": "Warrior",
+          "show_description": "The Chinese Connection: Ah Sahm and Young Jun search for a discreet place to hide their product. Penny asks for help in protecting her factory. (S2, ep 2)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/80c18b61-54ed-41d9-a5d6-4db1e5fceb57/cover",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "Brit Cops: War On Crime",
+          "show_description": "Explosive documentary following Lincolnshire cops as they fight crime across one of the UK's largest counties. (S5, ep 9)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9c90e862-025b-4acb-984b-0db097955ddd/cover",
+          "start_time": "01:00",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "The Force: Manchester",
+          "show_description": "Series shining a new light on modern policing in Manchester and the challenges faced by officers as they come face to face with a range of criminal and social issues. (S1, ep 6)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e7dba48b-468d-485c-ac41-4fe5b8fb294c/cover",
+          "start_time": "02:00",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Highway Patrol",
+          "show_description": "Follow Australia's traffic enforcers as they face high-speed chases, defiant hooligans, explosive crashes and out-of-control drunk drivers. (S10, ep 5)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/192d6183-1b1a-44f3-adcd-cc78108d9ec2/cover",
+          "start_time": "03:00",
+          "end_time": "03:30"
+        },
+        {
+          "show_name": "Highway Patrol",
+          "show_description": "Follow Australia's traffic enforcers as they face high-speed chases, defiant hooligans, explosive crashes and out-of-control drunk drivers. (S10, ep 6)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0b74cbf2-c0f0-46a3-8aeb-44558a14e41c/cover",
+          "start_time": "03:30",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Border Patrol",
+          "show_description": "Reality series following the work of New Zealand's customs agents. (S15, ep 11)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/68416c35-9902-4065-9b3f-b646b8673072/cover",
+          "start_time": "04:00",
+          "end_time": "04:30"
+        },
+        {
+          "show_name": "Border Patrol",
+          "show_description": "Reality series following the work of New Zealand's customs agents. (S15, ep 12)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/071804ba-cb30-4a8e-a7a8-6b6a8f6d6650/cover",
+          "start_time": "04:30",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "Highway Cops",
+          "show_description": "Documentary following the men and women who help keep motorists safe on some of the most perilous highways and byways of New Zealand. (S6, ep 3)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1158cdfa-55da-365f-aa31-30cd1a690e17/cover",
+          "start_time": "05:00",
+          "end_time": "05:30"
+        },
+        {
+          "show_name": "Highway Cops",
+          "show_description": "Documentary following the men and women who help keep motorists safe on some of the most perilous highways and byways of New Zealand. (S6, ep 4)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/aea1c4c6-461f-3b05-bc0e-a58db9b55e3a/cover",
+          "start_time": "05:30",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Teleshopping.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Teleshopping.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Motorway Patrol",
+          "show_description": "Documentary series from New Zealand following the madness and mayhem faced by intrepid officers as they keep the roads safe. (S22, ep 1)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/13a4fafb-a9be-421f-8274-da4709eca3ed/cover",
+          "start_time": "07:00",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "Motorway Patrol",
+          "show_description": "Documentary series from New Zealand following the madness and mayhem faced by intrepid officers as they keep the roads safe. (S22, ep 2)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/78f233c1-8361-44d0-ae98-ebdaa95b44a2/cover",
+          "start_time": "07:30",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Border Security: America's Front Line",
+          "show_description": "An inside smuggling job is suspected at JFK Airport. Food couriers could be carriers and in Detroit, a wrong turn separates some buds. (S1, ep 8)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d0d42682-fb57-4da4-840d-53e2b780986f/cover",
+          "start_time": "08:00",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "Border Security: America's Front Line",
+          "show_description": "A frequent visitor of drug source countries is questioned in New York and a Canadian cowboy may be a mule. (S1, ep 9)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bb856503-d8e0-44c0-8e5a-86069b9fcb40/cover",
+          "start_time": "08:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Nothing To Declare",
+          "show_description": "Fly-on-the-wall documentary following the men and women who defend Australia from drug runners, smugglers and terrorists. (S2, ep 11)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/16f1bf04-8c95-4460-9319-232da8869aac/cover",
+          "start_time": "09:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Nothing To Declare",
+          "show_description": "Fly-on-the-wall documentary following the men and women who defend Australia from drug runners, smugglers and terrorists. (S2, ep 12)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ea8fdab8-16a5-4725-aea0-0f07cd01fade/cover",
+          "start_time": "09:30",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Nothing To Declare",
+          "show_description": "Fly-on-the-wall documentary following the men and women who defend Australia from drug runners, smugglers and terrorists. (S2, ep 13)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3b070337-ba28-41b6-a82d-28f107033593/cover",
+          "start_time": "10:00",
+          "end_time": "10:30"
+        },
+        {
+          "show_name": "Nothing To Declare",
+          "show_description": "Fly-on-the-wall documentary following the men and women who defend Australia from drug runners, smugglers and terrorists. (S2, ep 14)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e37b2d76-b68a-466a-9b3b-a8a9bec2f285/cover",
+          "start_time": "10:30",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "Highway Patrol",
+          "show_description": "Bourbon Blues: Officers pull over a suspended driver with a box of bourbons by his side, a late night takeaway run turns sour and a gymnastics coach stretches himself thin. (S12, ep 7)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/682e0caf-5a56-43d4-9354-73e39c44fe22/cover",
+          "start_time": "11:00",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Highway Patrol",
+          "show_description": "Old But Gold: An elderly woman drives with a suspended license, a young family's day turns from bad to worse and a driver has a terrible burnout. (S12, ep 8)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0a2af3fb-4b46-4ca9-be64-ee60890b7030/cover",
+          "start_time": "11:30",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Border Security: Canada's Front Line",
+          "show_description": "The Inland Enforcement Unit tracks a pair of Honduran drug runners, while an American tourist seems to have already put down roots in Canada. (S1, ep 12)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4592c1d1-8511-480b-96d9-f90e2fb2378e/cover",
+          "start_time": "12:00",
+          "end_time": "12:30"
+        },
+        {
+          "show_name": "Border Security: Canada's Front Line",
+          "show_description": "Trouble looms for a young Asian woman carrying someone else's bag, and a pair of Canadians return from a concert in California with more than a T-shirt. (S1, ep 13)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f2a824e0-74fb-44f4-922c-26e6c4ed94e6/cover",
+          "start_time": "12:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Border Patrol",
+          "show_description": "New Zealand reality series following the work of customs officers as they prevent drug smuggling, illegal immigrants and more. (S9, ep 5)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/99eab149-9566-4e7a-bbbd-3e2c47ec1968/cover",
+          "start_time": "13:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Border Patrol",
+          "show_description": "New Zealand reality series following the work of customs officers as they prevent drug smuggling, illegal immigrants and more. (S9, ep 6)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/34ece07d-4f45-442b-888e-fbd9bec4477d/cover",
+          "start_time": "13:30",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Nothing To Declare",
+          "show_description": "Officers are shocked when they find syringes in a man's luggage, a suspicious container arrives in Brisbane and a shipment of lollies is not what it seems. (S17, ep 20)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ffd00e13-fc86-36ea-8fe4-9ca844c2a69b/cover",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "Nothing To Declare",
+          "show_description": "Fly-on-the-wall documentary series following the men and women who defend Australia from drug runners, illegal immigrants and terrorists. (S2, ep 1)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/030e9f21-cdc7-455b-af70-1ec028dc49bb/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Nothing To Declare",
+          "show_description": "Fly-on-the-wall documentary series following the men and women who defend Australia from drug runners, illegal immigrants and terrorists. (S2, ep 2)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4f501941-32f3-4acb-a8e1-7a3581839c49/cover",
+          "start_time": "15:00",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "Nothing To Declare",
+          "show_description": "Fly-on-the-wall documentary series following the men and women who defend Australia from drug runners, illegal immigrants and terrorists. (S2, ep 3)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e2551af2-6e20-48ad-b85e-7cce615e73b2/cover",
+          "start_time": "15:30",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Star Trek: Deep Space Nine",
+          "show_description": "Duet: A Kobeerian freighter transports a sick Cardassian visitor to DS9. Kira, however, suspects that he could actually be a notorious war criminal.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/15e5bb58-c5d3-4585-808a-76372af2f140/cover",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Stargate SG-1",
+          "show_description": "Shades Of Grey: O'Neill commits an indiscretion which jeopardises Earth's diplomatic relations with its allies. (S3, ep 18)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8ed375a9-29a6-47bd-94a7-c84085178c26/cover",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Star Trek: Voyager",
+          "show_description": "Nightingale: While searching for dilithium, the Delta Flyer, under Harry's command, comes to the aid of a ship under attack. (S7, ep 8)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a92dfcf4-1d7c-4c72-a018-9da173617641/cover",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Star Trek: The Next Generation",
+          "show_description": "Encounter at Farpoint - Part 1: The crew of the Enterprise are put on trial, for all the crimes of mankind, by a mysterious force called 'Q'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6f4d3e3a-efeb-4e96-81b6-8222d3cc2794/cover",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Primeval",
+          "show_description": "A Gigantic Problem: An anomaly opens at an aircraft hanger and reporter Mick Harper turns up with a TV crew. To make matters worse, a giant Giganotosaurus arrives on the scene. (S3, ep 4)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2cf0a5ff-468b-32fa-b9e1-76efab74a23f/cover",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Band Of Brothers",
+          "show_description": "Crossroads: After leading a tricky mission, Lt Winters is promoted. As Easy Co struggle in the cold, Winters is haunted by the innocents he has killed. Contains flashing images. (5 of 10)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cec06ba3-1504-4d40-b7d3-6cbc958efcb5/cover",
+          "start_time": "21:00",
+          "end_time": "22:10"
+        },
+        {
+          "show_name": "Band Of Brothers",
+          "show_description": "Bastogne: Woefully undermanned and short on supplies, Easy Company dig foxholes around the Belgian town of Bastogne as they attempt to hold the line. Contains flashing images. (6 of 10)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f4a04094-454c-4871-bbb3-477d2880f182/cover",
+          "start_time": "22:10",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "Grimm",
+          "show_description": "The Son Also Rises: After Nick rushes to help Eve, Hank and Wu are left to investigate an attack on a group of scientists. (S6, ep 8)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2efc2b9d-8cc7-42b9-8723-23eb434ede39/cover",
+          "start_time": "23:30",
+          "end_time": "00:30"
         }
       ]
     }
