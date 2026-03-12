@@ -3,93 +3,11 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Scotland.png",
   "schedule": [
     {
-      "date": "11 March 2026",
-      "programmes": [
-        {
-          "show_name": "Scotcast",
-          "show_description": "Scottish Liberal Democrat leader Alex Cole-Hamilton speaks to Martin Geissler ahead of May's Holyrood election.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "00:50"
-        },
-        {
-          "show_name": "As BBC Radio 5 Live",
-          "show_description": "Joining Radio 5 Live.",
-          "show_logo": "",
-          "start_time": "00:50",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Radio Scotland Breakfast",
-          "show_description": "News from across Scotland and the world, plus sport, weather, entertainment and big name interviews.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Mornings",
-          "show_description": "Connie McLaughlin gets to the heart of the stories making the news.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Lunchtime Live",
-          "show_description": "News updates from Scotland and beyond, plus all your lunchtime sport, travel and weather.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Afternoons",
-          "show_description": "Michelle McManus brings you feel-good music and chat with celebrity guests.",
-          "show_logo": "",
-          "start_time": "13:30",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Afternoons",
-          "show_description": "Len Pennie keeps you up to date on what's happening in the arts and culture scene across Scotland.",
-          "show_logo": "",
-          "start_time": "15:30",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Drivetime",
-          "show_description": "Breaking down the day's talking points with comment and opinion, plus sport, travel and weather.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Get It On with Bryan Burnett",
-          "show_description": "Thirty-five years ago, The Clash's Should I Stay or Should I Go was reissued after it was used in a jeans commercial. Which other songs reached fresh ears after appearing on an ad?",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "The Quay Sessions",
-          "show_description": "An archive set from Chvrches' Lauren Mayberry, with songs from her solo album, Vicious Creature, and music and gig news from Lola Young, Idlewild, Elvis Costello and Grace Jones.",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Up Late",
-          "show_description": "The best company to end the day, with lively chat and some of your favourite tunes.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "12 March 2026",
       "programmes": [
         {
           "show_name": "Scotcast",
-          "show_description": "Martin Geissler and the team bring you thoughtful conversation and expert analysis covering the most interesting news stories in Scotland.",
+          "show_description": "Laura Miller and Natalie Higgins hear how the Glasgow fire provokes questions over who should be in charge of our national heritage.",
           "show_logo": "",
           "start_time": "00:00",
           "end_time": "00:30"
@@ -153,6 +71,88 @@
         {
           "show_name": "Travelling Folk",
           "show_description": "Anna Massie with a special concert recorded at Celtic Connections, True and Bold: A Night for Dick Gaughan.",
+          "show_logo": "",
+          "start_time": "20:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Up Late",
+          "show_description": "The best company to end the day, with lively chat and some of your favourite tunes.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "13 March 2026",
+      "programmes": [
+        {
+          "show_name": "Scotcast",
+          "show_description": "Martin Geissler and the team bring you thoughtful conversation and expert analysis covering the most interesting news stories in Scotland.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "00:30"
+        },
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "Joining Radio 5 Live.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Radio Scotland Breakfast",
+          "show_description": "News from across Scotland and the world, plus sport, weather, entertainment and big name interviews.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Mornings",
+          "show_description": "Stephen Jardine gets to the heart of the stories making the news.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Lunchtime Live",
+          "show_description": "News updates from Scotland and beyond, plus all your lunchtime sport, travel and weather.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Breaking the News",
+          "show_description": "Des Clarke hosts Scotland's award-winning satirical news quiz.",
+          "show_logo": "",
+          "start_time": "13:30",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Afternoons",
+          "show_description": "Nicola Meighan brings you feel-good music and chat with celebrity guests.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Drivetime",
+          "show_description": "Breaking down the day's talking points with comment and opinion, plus sport, travel and weather.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Grant Stott's Vinyl Collective",
+          "show_description": "New and classic cuts all played from 7', 12' and vinyl LPs. Grant shares the treasures from his own shopping adventures and discovers the stories about your record collections.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "BBC Introducing in Scotland",
+          "show_description": "Phoebe and Steph reveal the artists that have made it through to the final of BBC Introducing's Scottish Act of the Year. Plus all the ticket info for the live event.",
           "show_logo": "",
           "start_time": "20:00",
           "end_time": "22:00"

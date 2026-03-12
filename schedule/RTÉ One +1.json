@@ -3,228 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/rte-one-plus-ie.png",
   "schedule": [
     {
-      "date": "11 March 2026",
-      "programmes": [
-        {
-          "show_name": "Annika",
-          "show_description": "Annika's family minibreak is interrupted when she and the team must investigate a body found in a stream local to her resort.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dcbf0cea-8064-314b-ba05-30afeac713ff/cover",
-          "start_time": "00:20",
-          "end_time": "01:20"
-        },
-        {
-          "show_name": "Silent Witness",
-          "show_description": "The Lyell team investigate another gruesome murder, and the identity of the shooter at the restaurant leads to an unsettling discovery.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b49d1514-1362-4c1b-806c-bd0ef6132fb4/cover",
-          "start_time": "01:20",
-          "end_time": "02:20"
-        },
-        {
-          "show_name": "Prime Time",
-          "show_description": "Where are prices headed, if there is no end in sight for the war in Iran. Inside Ireland's tent on the French Riviera, as housing investment funds try to identify where to spend.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ca8d6625-f946-4f55-bb59-8b8c155a0a4f/cover",
-          "start_time": "02:20",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Telly Bingo",
-          "show_description": "National lottery game show.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/97b733a0-673a-40d6-8951-c97ecbb74d80/cover",
-          "start_time": "03:00",
-          "end_time": "03:10"
-        },
-        {
-          "show_name": "The Kelly Clarkson Show",
-          "show_description": "Kelly is joined by Tyler Perry, Alicia Vikander and Mau y Ricky.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/13a20eaa-7dce-4927-88af-6cc5308b7919/cover",
-          "start_time": "03:10",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "Euronews",
-          "show_description": "The latest international news headlines.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2b466d74-c7cc-4213-b042-bcaaae138417/cover",
-          "start_time": "04:00",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Euronews",
-          "show_description": "The latest international news headlines.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c11be9bd-7838-4a3d-b113-91f6daeac785/cover",
-          "start_time": "07:00",
-          "end_time": "07:45"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Buying goods from the comfort of home.",
-          "show_logo": "",
-          "start_time": "07:45",
-          "end_time": "08:15"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Buying goods from the comfort of home.",
-          "show_logo": "",
-          "start_time": "08:15",
-          "end_time": "08:50"
-        },
-        {
-          "show_name": "Today",
-          "show_description": "Daily magazine show featuring entertainment and celebrity news, consumer advice, and Ireland's biggest giveaways.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cca491fc-2951-40de-a937-8dda270c0940/cover",
-          "start_time": "08:50",
-          "end_time": "10:50"
-        },
-        {
-          "show_name": "The Drew Barrymore Show",
-          "show_description": "Giggly Squad podcast hosts Hannah Berner and Paige DeSorbo are hitting the headlines with Drew",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1eb0ae3c-d056-489b-a114-847d9c931e75/cover",
-          "start_time": "10:50",
-          "end_time": "11:15"
-        },
-        {
-          "show_name": "The Drew Barrymore Show",
-          "show_description": "CBS Mornings' Nate Burleson is joining the news desk to help Drew hit the headlines. Ross Mathews has a celeb favorite dish from Bad Roman.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d7e01590-f0b0-4f03-a3f3-8608e6895901/cover",
-          "start_time": "11:15",
-          "end_time": "11:40"
-        },
-        {
-          "show_name": "The Kelly Clarkson Show",
-          "show_description": "With guests Ellen Pompeo, David Blaine and Crystle Stewart.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7cf26b48-38cc-4ee5-8d8f-203a093c82b5/cover",
-          "start_time": "11:40",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "Father Brown",
-          "show_description": "Father Brown joins forces with Chief Inspector Valentine to uncover a dark secret at Helmsley House. Mark Williams and Hugo Speer star in the crime drama.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1dd64ea7-bd60-4c91-b3bf-183a46d6025d/cover",
-          "start_time": "12:30",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "10 Things To Know About",
-          "show_description": "We rarely consider how the environment around where we live could affect our health. In this episode, it's all about Location, Location, Location.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6eb9dc05-0d95-3f2c-b68d-6fb9bf648ef3/cover",
-          "start_time": "13:30",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "RTÉ News: One O'Clock",
-          "show_description": "The latest national and international headlines.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6b24bc95-752d-4c29-aef2-3cf732e38c5f/cover",
-          "start_time": "14:00",
-          "end_time": "14:30"
-        },
-        {
-          "show_name": "Home and Away",
-          "show_description": "Kerrie catches Dana in a whirlwind of emotions, and in her vulnerable state, Dana finally opens up to her a little, sharing about her struggles with Sonny.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4a0a6490-7dc4-4713-af7d-4c940b93844b/cover",
-          "start_time": "14:30",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Shortland Street",
-          "show_description": "Nicole and Leanne battle over beliefs. Harper and Drew know they must try harder.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ec6a7766-e34f-493f-8c3c-c03865b07849/cover",
-          "start_time": "15:00",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Fair City",
-          "show_description": "When Lily innocently befriends a returning Georgie, Gwen accuses her of encroaching upon her life. Max believes he's struck lucky with an attractive stranger.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2d5e4af2-0300-403e-af7d-831f62c81865/cover",
-          "start_time": "15:30",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "EastEnders",
-          "show_description": "A situation escalates for two Walford residents and Vicki learns a worrying truth.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c18403d2-e225-4589-ae8a-b3778c9862ac/cover",
-          "start_time": "16:00",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "Today",
-          "show_description": "Daily magazine show featuring entertainment and celebrity news, consumer advice, and Ireland's biggest giveaways.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/08979ec1-a800-4569-bb6a-51afa5fa73bd/cover",
-          "start_time": "16:30",
-          "end_time": "18:40"
-        },
-        {
-          "show_name": "Nuacht RTÉ",
-          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3b7fb844-cc68-4ec6-b978-2b5894b03871/cover",
-          "start_time": "18:40",
-          "end_time": "18:55"
-        },
-        {
-          "show_name": "RTÉ News with Signing",
-          "show_description": "The latest national and international headlines with Irish Sign Language (ISL). (SL)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7e862574-9925-44a8-9618-b871e80557b4/cover",
-          "start_time": "18:55",
-          "end_time": "19:01"
-        },
-        {
-          "show_name": "RTÉ News: Six One",
-          "show_description": "The latest national and international headlines.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3f081bf7-b696-43d0-bf33-cd111298aace/cover",
-          "start_time": "19:01",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Nationwide",
-          "show_description": "Presenter Anne Cassin heads to the Dublin mountains for National Tree Week.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4fcc9849-2583-42b4-9d79-f346f4486682/cover",
-          "start_time": "20:00",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "EastEnders",
-          "show_description": "Priya gives an ultimatum for the sake of her family and Ross tries to help with a situation.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/46b63ce2-65b0-4d9a-9b43-da9f101e8d4d/cover",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Eva Pau's Asian Kitchen",
-          "show_description": "Perfect for relaxed gatherings, Eva shows how to impress without stress. With Black Sesame Yuzu Tart, a striking dessert that balances nutty and citrus flavours beautifully.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/77b41251-0671-4bbc-9bdf-9b421a1e3984/cover",
-          "start_time": "21:00",
-          "end_time": "21:30"
-        },
-        {
-          "show_name": "Neven's Ulster Food Tour",
-          "show_description": "Armagh & Antrim, Down: In Armagh, he discovers astronomy at the world-renowned Armagh Observatory & Planetarium, before tasting some cider at the family-run Armagh Cider Company.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/25a50b78-9c1f-4685-b6de-e561223e8f03/cover",
-          "start_time": "21:30",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "RTÉ News: Nine O'Clock",
-          "show_description": "The latest national and international headlines.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/17d7a289-992f-4935-9b10-d0268c0f1ae4/cover",
-          "start_time": "22:00",
-          "end_time": "22:35"
-        },
-        {
-          "show_name": "All That Remains with Niall Breslin",
-          "show_description": "Profile of forensic anthropologist Dr Sue Black.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3c3de03f-daa6-4617-97ab-97d070b0d4ec/cover",
-          "start_time": "22:35",
-          "end_time": "23:35"
-        },
-        {
-          "show_name": "Goodman : Too Big To Fail",
-          "show_description": "Documentary revealing how Larry Goodman fought his way through financial ruin and public controversy to reclaim his empire.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d7d9729b-554f-4574-853d-b9ce8b10a91e/cover",
-          "start_time": "23:35",
-          "end_time": "00:50"
-        }
-      ]
-    },
-    {
       "date": "12 March 2026",
       "programmes": [
         {
@@ -404,7 +182,7 @@
         },
         {
           "show_name": "EastEnders",
-          "show_description": "Mark comes to Lauren's aid and Oscar plays Ian and Elaine at their own game.",
+          "show_description": "Mark comes to Lauren's aid, Vicki asks Phil for help, and Oscar plays Ian and Elaine at their own game.",
           "show_logo": "https://images.metadata.sky.com/pd-image/29620af5-d51e-452f-9dcb-0d77d6be1d70/cover",
           "start_time": "20:30",
           "end_time": "21:00"
@@ -443,6 +221,228 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/5996f06c-b5c0-41e1-ab91-fee7e611e34c/cover",
           "start_time": "23:15",
           "end_time": "00:15"
+        }
+      ]
+    },
+    {
+      "date": "13 March 2026",
+      "programmes": [
+        {
+          "show_name": "We Hunt Together",
+          "show_description": "Freddy's games with the Birdman take an unexpected turn, as Jackson is confronted with a personal and professional crisis and Lola's suspicions of Liam intensify.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/87cc04d2-2f4e-4ae4-aebf-88d5ba7d8126/cover",
+          "start_time": "00:15",
+          "end_time": "01:10"
+        },
+        {
+          "show_name": "Harry Wild",
+          "show_description": "A business meeting in a restaurant takes a bad turn when the chef's entrée has been replaced and the guests make a gruesome discovery.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/85fb1fd4-19b2-4284-b2fd-8f4019ce7079/cover",
+          "start_time": "01:10",
+          "end_time": "02:15"
+        },
+        {
+          "show_name": "Prime Time",
+          "show_description": "An in-depth analysis of current issues and topical reports.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7f507df8-0307-4d62-abee-5cdf22f02ac2/cover",
+          "start_time": "02:15",
+          "end_time": "02:55"
+        },
+        {
+          "show_name": "Telly Bingo",
+          "show_description": "National lottery game show.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bec58a7b-03c7-4f2d-9f77-32685aa190e4/cover",
+          "start_time": "02:55",
+          "end_time": "03:05"
+        },
+        {
+          "show_name": "The Kelly Clarkson Show",
+          "show_description": "Kelly is joined by Joe Manganiello, Andrew Burnap, Barbie Ferreira and Matt Iseman.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bc0caba1-6a0b-4023-a735-e8007a89baba/cover",
+          "start_time": "03:05",
+          "end_time": "03:55"
+        },
+        {
+          "show_name": "Euronews",
+          "show_description": "The latest international news headlines.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5b1cbcfd-b38f-4c6c-8a15-e45fc707ffa5/cover",
+          "start_time": "03:55",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Euronews",
+          "show_description": "The latest international news headlines.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ed63a4f2-6f26-4d9c-a1b3-77be3033488e/cover",
+          "start_time": "07:00",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Buying goods from the comfort of home.",
+          "show_logo": "",
+          "start_time": "07:30",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Buying goods from the comfort of home.",
+          "show_logo": "",
+          "start_time": "08:00",
+          "end_time": "08:35"
+        },
+        {
+          "show_name": "Today",
+          "show_description": "Daily magazine show featuring entertainment and celebrity news, consumer advice, and Ireland's biggest giveaways.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7989994d-583e-4e6f-99f9-dd7faa54ac4a/cover",
+          "start_time": "08:35",
+          "end_time": "10:35"
+        },
+        {
+          "show_name": "The Drew Barrymore Show",
+          "show_description": "It's Drew's Spring cleaning show and Valerie Bertinelli is joining her for a special edition of Drew's News with cleaning headlines.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3a8e3a13-fae8-4279-9362-ba4990f509a1/cover",
+          "start_time": "10:35",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "The Drew Barrymore Show",
+          "show_description": "Pilar Valdes has another pro tip for Drew, this time from popular NYC restaurant Thai Diner.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/10474e2d-80a2-4c5d-a210-4125c76425c0/cover",
+          "start_time": "11:00",
+          "end_time": "11:25"
+        },
+        {
+          "show_name": "The Kelly Clarkson Show",
+          "show_description": "With Brian Tyree Henry, Sofia Carson and Vicky Nguyen.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a058e93c-4901-4900-9ea2-e7182b3953b0/cover",
+          "start_time": "11:25",
+          "end_time": "12:20"
+        },
+        {
+          "show_name": "Father Brown",
+          "show_description": "Father Brown investigates when his old friend Sister Boniface is implicated in the murder of a renowned artist",
+          "show_logo": "https://images.metadata.sky.com/pd-image/548b9b6b-0622-3b16-bf33-b11780c860b6/cover",
+          "start_time": "12:20",
+          "end_time": "13:15"
+        },
+        {
+          "show_name": "10 Things To Know About",
+          "show_description": "We check out the latest Irish research monitoring changes in the Gulfstream and meet the scientists using satellite technology and supercomputers to produce climate models.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e2f5b8c9-1d9d-3567-9821-dc335bb72edb/cover",
+          "start_time": "13:15",
+          "end_time": "13:45"
+        },
+        {
+          "show_name": "Telly Bingo",
+          "show_description": "National lottery game show.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/982c0904-5e69-487a-8f11-a8a6b7aebe0a/cover",
+          "start_time": "13:45",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "RTÉ News: One O'Clock",
+          "show_description": "The latest national and international headlines.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/00d6ff14-f563-446b-9cc4-4337f566ec72/cover",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "Home and Away",
+          "show_description": "Lacey runs into Tane and decides to fill him in on what's happening with Jo, since her sister hasn't made any effort to reach out to him herself.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d58d7a26-f361-472e-88fa-e738095619b4/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Shortland Street",
+          "show_description": "Madonna cuts off her nose to spite her face. Viv has a heartbreaking realisation. Dawn scores a timely win.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cd446599-a382-49eb-9e41-194cd1956d82/cover",
+          "start_time": "15:00",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "Fair City",
+          "show_description": "As Pete desperately tries to track down the missing photos, a guilty Doug denies all knowledge. Max gets a land when the new practice nurse turns out to be all too familiar.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ec3dc5c4-bd17-492d-af05-9eba3828f904/cover",
+          "start_time": "15:30",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "EastEnders",
+          "show_description": "Mark comes to Lauren's aid, Vicki asks Phil for help, and Oscar plays Ian and Elaine at their own game.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/29620af5-d51e-452f-9dcb-0d77d6be1d70/cover",
+          "start_time": "16:00",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "Today",
+          "show_description": "Daily magazine show featuring entertainment and celebrity news, consumer advice, and Ireland's biggest giveaways.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a6e2554d-c66c-4bd7-84e3-b0147fb648c9/cover",
+          "start_time": "16:30",
+          "end_time": "18:40"
+        },
+        {
+          "show_name": "Nuacht RTÉ",
+          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/862da3b9-ba17-4086-a67e-853110b3c769/cover",
+          "start_time": "18:40",
+          "end_time": "18:55"
+        },
+        {
+          "show_name": "RTÉ News with Signing",
+          "show_description": "The latest national and international headlines with Irish Sign Language (ISL). (SL)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c1afdced-fe26-4bc5-b1ea-c7cc67a69f3b/cover",
+          "start_time": "18:55",
+          "end_time": "19:01"
+        },
+        {
+          "show_name": "RTÉ News: Six One",
+          "show_description": "The latest national and international headlines.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fff76ded-8de6-4edb-81cb-c3b685d35d9f/cover",
+          "start_time": "19:01",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Nationwide",
+          "show_description": "Nationwide takes a look at life in the coastal village of Howth in north County Dublin. Presented by Richard Downes.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b1c7736f-9e77-4c3c-ac19-84eefc63c036/cover",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Fair City",
+          "show_description": "Hayley goes low to make Holly testify, while Max and Tara struggle as colleagues. Gwen forces Lily to reconsider her stay in Carrigstown.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/da08b8cd-22d7-44ec-838e-634fde8bf930/cover",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Catherine Fulvio's St Patrick's Way",
+          "show_description": "Rostrevor to Downpatrick: Catherine takes viewers through County Down, from the village of Rostrevor with guide Peter Rafferty.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/75687604-f5df-4999-a8fe-7fdbfba99817/cover",
+          "start_time": "21:00",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "Seisiun",
+          "show_description": "Join renowned singer and presenter Muireann Nic Amhlaoibh in the Róisín Dubh in the heart of Galway City.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6be1b798-50d3-4ac5-bb38-45dfde210e95/cover",
+          "start_time": "21:30",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "RTÉ News: Nine O'Clock",
+          "show_description": "The latest national and international headlines.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c687fabd-e71c-4e86-b9b0-781ebb65d700/cover",
+          "start_time": "22:00",
+          "end_time": "22:35"
+        },
+        {
+          "show_name": "The Late Late Show",
+          "show_description": "Host Patrick Kielty brings his own inimitable style to the world's longest-running live chat show and the best in Irish entertainment, music, and comedy.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ee24fe26-d247-4f44-8318-04d375e97268/cover",
+          "start_time": "22:35",
+          "end_time": "00:20"
         }
       ]
     }

@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-6-Music.png",
   "schedule": [
     {
-      "date": "11 March 2026",
-      "programmes": [
-        {
-          "show_name": "Cillian Murphy's Limited Edition",
-          "show_description": "Cillian handpicks music by The Beatles, PJ Harvey, Aretha Franklin, Feist and Nick Cave & The Bad Seeds.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "Cillian Murphy's Limited Edition",
-          "show_description": "Cillian hand-picks music by Irma Thomas, Mac DeMarco, Julie Byrne, John Francis Flynn and Brian Eno.",
-          "show_logo": "",
-          "start_time": "02:00",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "The 6 Music Playlist",
-          "show_description": "Want to hear the latest tracks 6 Music have added to their playlist? Then listen here!",
-          "show_logo": "",
-          "start_time": "04:00",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "Chris Hawkins",
-          "show_description": "Names in Songs returns. Can you hear your name in a well-known song?",
-          "show_logo": "",
-          "start_time": "05:00",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Nick Grimshaw",
-          "show_description": "Wonderful music to start your day, including the Cloudbusting mix to banish the grey skies.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Lauren Laverne",
-          "show_description": "Rebecca Lucy Taylor aka Self Esteem joins around her role as Maggie Frisby in the 50th anniversary of Teeth 'N' Smiles play by Sir David Hare.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Craig Charles",
-          "show_description": "Craig celebrates your midweek wins for Wednesday, I'm In Love, and we hear another of your left-field music suggestions as we turn Left At The Lights.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Huw Stephens",
-          "show_description": "Belfast trio Chalk join Huw in session from Maida Vale ahead of their debut album Crystalpunk coming out this Friday. Plus, we get to know 100 Rabbits in this week's Huw Are You.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "New Music Fix Daily",
-          "show_description": "Deb chats to rapper, singer and producer Miso Extra about some of her favourite tracks, following the release of her latest single Right Here.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Riley & Coe",
-          "show_description": "Marc Riley plays his music loves from every era and genre.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "6 Music Artist in Residence",
-          "show_description": "Ahead of their performance at the 6 Music Festival in Greater Manchester, Lynks is this week's Artist in Residence with shows centred on four basic human needs.",
-          "show_logo": "",
-          "start_time": "23:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "12 March 2026",
       "programmes": [
         {
@@ -167,6 +85,116 @@
         {
           "show_name": "6 Music Artist in Residence",
           "show_description": "Ahead of their performance at the 6 Music Festival in Greater Manchester, Lynks is this week's Artist in Residence with shows centred on four basic human needs.",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "13 March 2026",
+      "programmes": [
+        {
+          "show_name": "New Music Fix Playlist",
+          "show_description": "Get your fix of all the best new releases in one handy playlist.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "New Album Fix",
+          "show_description": "James Blake talks new records and a year of change, and Kim Gordon chats to Mary Anne Hobbs. Plus, Matt Everitt hosts packages from The Sophs and Art School Girlfriend.",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "6 Music Jukebox",
+          "show_description": "6 Music takes you through the early hours playing back-to-back music.",
+          "show_logo": "",
+          "start_time": "02:00",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "6 Music's 90s Forever",
+          "show_description": "6 Music goes back to the 90s!",
+          "show_logo": "",
+          "start_time": "03:00",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "6 Music's 00s Forever",
+          "show_description": "6 Music goes back to the 00s!",
+          "show_logo": "",
+          "start_time": "04:00",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "The Remix - Chris Hawkins",
+          "show_description": "Chris takes you through 30 minutes of remixed, re-versioned and re-imagined tracks to help you chill. With Nightmares on Wax, Massive Attack, Unknown Mortal Orchestra and more.",
+          "show_logo": "",
+          "start_time": "05:00",
+          "end_time": "05:30"
+        },
+        {
+          "show_name": "Chris Hawkins",
+          "show_description": "Chris with the early morning breakfast show.",
+          "show_logo": "",
+          "start_time": "05:30",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Nick Grimshaw",
+          "show_description": "Wonderful music to start your day, including the Cloudbusting mix to banish the grey skies.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Lauren Laverne",
+          "show_description": "Lauren brings a great selection of tunes to kick-start your weekend.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Craig Charles",
+          "show_description": "Craig spins some joyous tunes to get your weekend started, before giving YOU the chance to pick the last song of the show!",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Huw Stephens",
+          "show_description": "It's Friday, so Huw is out to prove that any song sounds better when it's played on 6 Music by Huw Stephens - so let us know what you want to hear.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "The People's Party with Femi Koleoso",
+          "show_description": "Ease from the end of your working week with joyful global selections. A place where people come together through their shared love of music.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "6 Music's Indie Forever",
+          "show_description": "Nathan plays indie classics from Two Door Cinema Club and Los Campesinos!",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "6 Music's Indie Forever",
+          "show_description": "Nath plays an hour of Slacker Indie from Mac DeMarco, Courtney Barnett and Pavement!",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "The 6 Mix with Mary Anne Hobbs",
+          "show_description": "The Cure frontman Robert Smith takes over the 6 Mix ahead of his 'Cureation' of this year's Teenage Cancer Trust concerts at the at the Royal Albert Hall featuring MBV and Mogwai.",
           "show_logo": "",
           "start_time": "23:00",
           "end_time": "00:00"
