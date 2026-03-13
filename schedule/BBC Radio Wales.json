@@ -3,102 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Wales.png",
   "schedule": [
     {
-      "date": "12 March 2026",
-      "programmes": [
-        {
-          "show_name": "Relax with Radio Wales",
-          "show_description": "Relax, unwind and chill out with an hour of classic and contemporary tunes.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "As BBC Radio 5 Live",
-          "show_description": "See programme schedules for BBC Radio 5 Live.",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Radio Wales News Update",
-          "show_description": "The latest news and weather for Wales and a look ahead to this morning's Radio Wales Breakfast.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "06:05"
-        },
-        {
-          "show_name": "Wake Up with Radio Wales",
-          "show_description": "A lively mix of music to start the day. Perfect for your pod!",
-          "show_logo": "",
-          "start_time": "06:05",
-          "end_time": "06:31"
-        },
-        {
-          "show_name": "Country Focus",
-          "show_description": "Para dressage riders and an island wildlife warden feature as we mark International Women's Day. We also hear about a Welsh farmer developing an AI platform for farm management.",
-          "show_logo": "",
-          "start_time": "06:31",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Radio Wales Breakfast",
-          "show_description": "Everything you need to know as you wake up.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Bronwen Lewis",
-          "show_description": "Bronwen brightens your morning with great music and entertainment. Call 03700 100 110 Text 81012 or message via X @bbcradiowales.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "11:59"
-        },
-        {
-          "show_name": "The Phone In",
-          "show_description": "Be part of the nation's conversation.",
-          "show_logo": "",
-          "start_time": "11:59",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Behnaz Akhgar",
-          "show_description": "Celebrity guests, expert advice, and we test your anagram-solving skills in The Name Game. Call or WhatsApp 03700 100 110 Text 81012.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Radio Wales Drive",
-          "show_description": "Everything you need to know as you head home.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "Kiri's Comedy Club",
-          "show_description": "Sara Pascoe, Cariad Lloyd, Lou Sanders and Sofie Hagen tell Kiri how they became authors.",
-          "show_logo": "",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Aleighcia Scott",
-          "show_description": "Aleighcia Scott with a show mixing old school, new school and in-between school.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Eleri Siôn",
-          "show_description": "Eleri brightens your night-time with great music and chat. Call 03700 100 110 Text 81012 or via X @bbcradiowales.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "13 March 2026",
       "programmes": [
         {
@@ -190,6 +94,67 @@
           "show_description": "H from Steps takes you into the weekend with great music and chat.",
           "show_logo": "",
           "start_time": "22:30",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "14 March 2026",
+      "programmes": [
+        {
+          "show_name": "The Party Playlist with H",
+          "show_description": "H from Steps has your ultimate party playlist. Not just for Fridays!",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "See programme schedules for BBC Radio 5 Live.",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Radio Wales Breakfast",
+          "show_description": "Everything you need to know as you wake up.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Money For Nothing",
+          "show_description": "Your dedications and song requests from the 1950s-90s.  Can you guess the Stuck in the Middle song? Text 81012, email moneyfornothing@bbc.co.uk or call 03700 100 110.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Lucy Owen",
+          "show_description": "Lucy Owen brings great music and guests to your Saturday.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Radio Wales Sport",
+          "show_description": "All the day's Welsh football and live commentary from The Six Nations: Wales v Italy. Kick-off 4.40pm.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Bethan Elfyn",
+          "show_description": "Top tunes, classic and new, for your Saturday night. Plus, the Wales Mix.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "BBC Introducing with Adam Walton",
+          "show_description": "A chat with Huw Marc Bennett, the best new Welsh music, and archive from Andrew Falkous.",
+          "show_logo": "",
+          "start_time": "21:00",
           "end_time": "00:00"
         }
       ]

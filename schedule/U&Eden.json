@@ -3,235 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/U%26eden.png",
   "schedule": [
     {
-      "date": "12 March 2026",
-      "programmes": [
-        {
-          "show_name": "Doctor Who: Frontier in Space",
-          "show_description": "The Doctor and Jo escape the Master and the Daleks, warn both Earth and Draconia of the real threat, and set off in pursuit of the Daleks to stop their larger invasion plan.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0747b927-3393-3146-a068-21f91469884c/cover",
-          "start_time": "00:15",
-          "end_time": "00:50"
-        },
-        {
-          "show_name": "Doctor Who: Planet of the Daleks",
-          "show_description": "After the Doctor collapses from injuries sustained on Spiridon, Jo seeks help from a group of Thals who reveal the Daleks are secretly forming an invasion force on the planet.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/67c4edf0-ad66-3002-9cad-59c2579d689e/cover",
-          "start_time": "00:50",
-          "end_time": "01:20"
-        },
-        {
-          "show_name": "Doctor Who: Planet of the Daleks",
-          "show_description": "The Doctor, revived by the Thals, discovers that the Daleks are experimenting with invisibility and preparing to unleash a deadly bacterial weapon.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e4b0645c-3e7c-3112-9c1d-3169f5b41275/cover",
-          "start_time": "01:20",
-          "end_time": "01:55"
-        },
-        {
-          "show_name": "Doctor Who: Planet of the Daleks",
-          "show_description": "Jo evades capture while the Doctor and the Thals infiltrate a Dalek base, learning of a vast Dalek army hidden in suspended animation.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a9cce3a1-d7bb-4f0c-be20-80e6b488b69a/cover",
-          "start_time": "01:55",
-          "end_time": "02:25"
-        },
-        {
-          "show_name": "Doctor Who: Frontier in Space",
-          "show_description": "After escaping and being recaptured by Draconians, the Doctor convinces the Draconian prince of the Ogron involvement just as the true manipulator is revealed.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/afbd8a28-0951-33c3-a807-c9946c9a9bbc/cover",
-          "start_time": "02:25",
-          "end_time": "02:55"
-        },
-        {
-          "show_name": "Doctor Who: Frontier in Space",
-          "show_description": "The Master captures the Doctor and Jo and takes them to the Ogron planet to show off his alliance with the Daleks, who plan to exploit the coming interplanetary war.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/02551f8d-6e4b-394a-838e-970ce5991fe8/cover",
-          "start_time": "02:55",
-          "end_time": "03:20"
-        },
-        {
-          "show_name": "Doctor Who: Frontier in Space",
-          "show_description": "The Doctor and Jo escape the Master and the Daleks, warn both Earth and Draconia of the real threat, and set off in pursuit of the Daleks to stop their larger invasion plan.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0747b927-3393-3146-a068-21f91469884c/cover",
-          "start_time": "03:20",
-          "end_time": "03:50"
-        },
-        {
-          "show_name": "Doctor Who: Planet of the Daleks",
-          "show_description": "After the Doctor collapses from injuries sustained on Spiridon, Jo seeks help from a group of Thals who reveal the Daleks are secretly forming an invasion force on the planet.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/67c4edf0-ad66-3002-9cad-59c2579d689e/cover",
-          "start_time": "03:50",
-          "end_time": "04:15"
-        },
-        {
-          "show_name": "Doctor Who: Planet of the Daleks",
-          "show_description": "The Doctor, revived by the Thals, discovers that the Daleks are experimenting with invisibility and preparing to unleash a deadly bacterial weapon.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e4b0645c-3e7c-3112-9c1d-3169f5b41275/cover",
-          "start_time": "04:15",
-          "end_time": "04:40"
-        },
-        {
-          "show_name": "Doctor Who: Planet of the Daleks",
-          "show_description": "Jo evades capture while the Doctor and the Thals infiltrate a Dalek base, learning of a vast Dalek army hidden in suspended animation.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a9cce3a1-d7bb-4f0c-be20-80e6b488b69a/cover",
-          "start_time": "04:40",
-          "end_time": "05:05"
-        },
-        {
-          "show_name": "Doctor Who: Frontier in Space",
-          "show_description": "After escaping and being recaptured by Draconians, the Doctor convinces the Draconian prince of the Ogron involvement just as the true manipulator is revealed.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/afbd8a28-0951-33c3-a807-c9946c9a9bbc/cover",
-          "start_time": "05:05",
-          "end_time": "05:30"
-        },
-        {
-          "show_name": "Doctor Who: Frontier in Space",
-          "show_description": "The Master captures the Doctor and Jo and takes them to the Ogron planet to show off his alliance with the Daleks, who plan to exploit the coming interplanetary war.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/02551f8d-6e4b-394a-838e-970ce5991fe8/cover",
-          "start_time": "05:30",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Shopping from Home.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Inside the Ambulance",
-          "show_description": "Paramedics help a patient who fears he's having his third heart attack, and an elderly woman who had a fall at home and may have been lying on the floor all night.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9720a1ce-6e37-4c64-b578-cb0ef0b5d560/cover",
-          "start_time": "09:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Inside the Ambulance",
-          "show_description": "Paramedics need to get a sick baby to hospital. They also treat a man who suffers from epilepsy and has had a suspected stroke, and an elderly lady who needs to take her medication.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c48a2b49-9a32-4063-9377-aadcf6556a2c/cover",
-          "start_time": "10:00",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "Inside the Ambulance",
-          "show_description": "Adam and Jenine try to help a woman who's fallen from a first-floor window, while Laura and Natalie deal with a former paramedic who appears to have had a stroke.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b8aed59d-6e97-499a-93e8-332158203824/cover",
-          "start_time": "11:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Inside the Ambulance",
-          "show_description": "Paramedics help a patient who fears he's having his third heart attack, and an elderly woman who had a fall at home and may have been lying on the floor all night.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9720a1ce-6e37-4c64-b578-cb0ef0b5d560/cover",
-          "start_time": "12:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Inside the Ambulance",
-          "show_description": "Paramedics need to get a sick baby to hospital. They also treat a man who suffers from epilepsy and has had a suspected stroke, and an elderly lady who needs to take her medication.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c48a2b49-9a32-4063-9377-aadcf6556a2c/cover",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Inside the Ambulance",
-          "show_description": "Adam and Jenine try to help a woman who's fallen from a first-floor window, while Laura and Natalie deal with a former paramedic who appears to have had a stroke.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b8aed59d-6e97-499a-93e8-332158203824/cover",
-          "start_time": "14:00",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Inside the Ambulance",
-          "show_description": "Paramedics help a patient who fears he's having his third heart attack, and an elderly woman who had a fall at home and may have been lying on the floor all night.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9720a1ce-6e37-4c64-b578-cb0ef0b5d560/cover",
-          "start_time": "15:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Inside the Ambulance",
-          "show_description": "Paramedics need to get a sick baby to hospital. They also treat a man who suffers from epilepsy and has had a suspected stroke, and an elderly lady who needs to take her medication.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c48a2b49-9a32-4063-9377-aadcf6556a2c/cover",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Three Up, Two Down",
-          "show_description": "Passionfruit: The final series of the sitcom about odd couple Daphne and Sam. Daphne finds it hard to come to terms with Sam's growing friendship with Rhonda.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/863e5144-4bcf-3e64-83df-3c8ca256bb0b/cover",
-          "start_time": "17:00",
-          "end_time": "17:40"
-        },
-        {
-          "show_name": "Three Up, Two Down",
-          "show_description": "On the Radio: Series four of the sitcom about flat-sharing in-laws. Daphne confronts Sam's new girlfriend, while Angie gets a screen test for a TV commercial.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4eba42cb-be05-3789-a18d-ea1155716335/cover",
-          "start_time": "17:40",
-          "end_time": "18:20"
-        },
-        {
-          "show_name": "Three Up, Two Down",
-          "show_description": "Omelettes and Optimism: British domestic sitcom. Sam and Daphne's newly discovered friendship creates a problem for Sam and Rhonda.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f18efefc-412a-3797-9909-a39c67d8a9b5/cover",
-          "start_time": "18:20",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Three Up, Two Down",
-          "show_description": "Golf: Domestic sitcom. Sam has arranged a surprise for Daphne, but when she tells him that she is not free, he is disappointed and decides to find out why.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fe59e251-6363-32db-ac0e-600378853b9b/cover",
-          "start_time": "19:00",
-          "end_time": "19:40"
-        },
-        {
-          "show_name": "Three Up, Two Down",
-          "show_description": "The Driving Test: British domestic sitcom. While Angie prepares for her test, Daphne is busy with her own project.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/00b4f30f-00ea-34ed-a85c-ff0aa2f814f4/cover",
-          "start_time": "19:40",
-          "end_time": "20:20"
-        },
-        {
-          "show_name": "Three Up, Two Down",
-          "show_description": "Passionfruit: The final series of the sitcom about odd couple Daphne and Sam. Daphne finds it hard to come to terms with Sam's growing friendship with Rhonda.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/863e5144-4bcf-3e64-83df-3c8ca256bb0b/cover",
-          "start_time": "20:20",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Three Up, Two Down",
-          "show_description": "On the Radio: Series four of the sitcom about flat-sharing in-laws. Daphne confronts Sam's new girlfriend, while Angie gets a screen test for a TV commercial.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4eba42cb-be05-3789-a18d-ea1155716335/cover",
-          "start_time": "21:00",
-          "end_time": "21:40"
-        },
-        {
-          "show_name": "Three Up, Two Down",
-          "show_description": "Omelettes and Optimism: British domestic sitcom. Sam and Daphne's newly discovered friendship creates a problem for Sam and Rhonda.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f18efefc-412a-3797-9909-a39c67d8a9b5/cover",
-          "start_time": "21:40",
-          "end_time": "22:20"
-        },
-        {
-          "show_name": "Three Up, Two Down",
-          "show_description": "Golf: Domestic sitcom. Sam has arranged a surprise for Daphne, but when she tells him that she is not free, he is disappointed and decides to find out why.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fe59e251-6363-32db-ac0e-600378853b9b/cover",
-          "start_time": "22:20",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Three Up, Two Down",
-          "show_description": "The Driving Test: British domestic sitcom. While Angie prepares for her test, Daphne is busy with her own project.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/00b4f30f-00ea-34ed-a85c-ff0aa2f814f4/cover",
-          "start_time": "23:00",
-          "end_time": "23:40"
-        },
-        {
-          "show_name": "Three Up, Two Down",
-          "show_description": "Passionfruit: The final series of the sitcom about odd couple Daphne and Sam. Daphne finds it hard to come to terms with Sam's growing friendship with Rhonda.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/863e5144-4bcf-3e64-83df-3c8ca256bb0b/cover",
-          "start_time": "23:40",
-          "end_time": "00:20"
-        }
-      ]
-    },
-    {
       "date": "13 March 2026",
       "programmes": [
         {
@@ -443,6 +214,179 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/724b20e7-b859-30d4-8c2e-9f1bb0f96e66/cover",
           "start_time": "23:40",
           "end_time": "00:20"
+        }
+      ]
+    },
+    {
+      "date": "14 March 2026",
+      "programmes": [
+        {
+          "show_name": "Yes, Prime Minister",
+          "show_description": "A Real Partnership: With a financial crisis looming just as MPs are due for a pay rise, Humphrey needs all his flair to dress up his claim and push it through. Smart political comedy.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1f77cf63-c949-48ca-b20d-697265e153e1/cover",
+          "start_time": "00:20",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "Yes, Prime Minister",
+          "show_description": "A Victory for Democracy: Classic political sitcom. After a series of difficult encounters, Jim Hacker begins to wonder whether the government runs the Foreign Office, or vice versa.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a75b2f37-7144-4473-955a-684869f4f3f5/cover",
+          "start_time": "01:00",
+          "end_time": "01:40"
+        },
+        {
+          "show_name": "Yes, Prime Minister",
+          "show_description": "The Bishop's Gambit: Classic comedy. Jim must recommend the appointment of bishops to the Queen, but is not keen on the two offered by the Church. Humphrey prefers a third candidate.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/83014869-c82a-413d-83f8-c06889543ff7/cover",
+          "start_time": "01:40",
+          "end_time": "02:20"
+        },
+        {
+          "show_name": "Yes, Prime Minister",
+          "show_description": "One of Us: It's Sir Humphrey in trouble for a change when it's revealed he wrongly cleared an MI5 agent accused of spying. Naturally, Jim Hacker is very sympathetic. Vintage laughs.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6d23229c-d146-47bc-b87b-d6bf0731f640/cover",
+          "start_time": "02:20",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Three Up, Two Down",
+          "show_description": "Cheltenham: Final episode of the domestic sitcom. Sam's visit to Cheltenham for lunch with Nanny Parker is a big hit, but things start to go downhill on the way back to London.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/724b20e7-b859-30d4-8c2e-9f1bb0f96e66/cover",
+          "start_time": "03:00",
+          "end_time": "03:30"
+        },
+        {
+          "show_name": "Yes, Prime Minister",
+          "show_description": "A Real Partnership: With a financial crisis looming just as MPs are due for a pay rise, Humphrey needs all his flair to dress up his claim and push it through. Smart political comedy.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1f77cf63-c949-48ca-b20d-697265e153e1/cover",
+          "start_time": "03:30",
+          "end_time": "04:05"
+        },
+        {
+          "show_name": "Yes, Prime Minister",
+          "show_description": "A Victory for Democracy: Classic political sitcom. After a series of difficult encounters, Jim Hacker begins to wonder whether the government runs the Foreign Office, or vice versa.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a75b2f37-7144-4473-955a-684869f4f3f5/cover",
+          "start_time": "04:05",
+          "end_time": "04:40"
+        },
+        {
+          "show_name": "Yes, Prime Minister",
+          "show_description": "The Bishop's Gambit: Classic comedy. Jim must recommend the appointment of bishops to the Queen, but is not keen on the two offered by the Church. Humphrey prefers a third candidate.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/83014869-c82a-413d-83f8-c06889543ff7/cover",
+          "start_time": "04:40",
+          "end_time": "05:15"
+        },
+        {
+          "show_name": "Yes, Prime Minister",
+          "show_description": "One of Us: It's Sir Humphrey in trouble for a change when it's revealed he wrongly cleared an MI5 agent accused of spying. Naturally, Jim Hacker is very sympathetic. Vintage laughs.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6d23229c-d146-47bc-b87b-d6bf0731f640/cover",
+          "start_time": "05:15",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Shopping from Home.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Upstairs Downstairs",
+          "show_description": "The Fledgling: Drama, starring Ed Stoppard and Keeley Hawes. Diplomat Sir Hallam Holland and his wife Lady Agnes move into 165 Eaton Place and begin the search for new staff.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5ffc9647-848e-450d-a9cf-3e8fa59c0e69/cover",
+          "start_time": "09:00",
+          "end_time": "10:20"
+        },
+        {
+          "show_name": "Upstairs Downstairs",
+          "show_description": "The Ladybird: The house celebrates when Lady Agnes discovers she is pregnant, while Lady Persie falls under the spell of Oswald Mosley and his British Union of Fascists.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9209219f-c2e4-4d3a-bea7-306cca9f3863/cover",
+          "start_time": "10:20",
+          "end_time": "11:40"
+        },
+        {
+          "show_name": "Upstairs Downstairs",
+          "show_description": "The Cuckoo: Lady Persie pursues her political interests with little regard to her family, while Sir Hallam gets dragged into the crisis facing the British monarchy.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b34c89bc-06e0-49f7-8219-d4a5eb69ebaf/cover",
+          "start_time": "11:40",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Upstairs Downstairs",
+          "show_description": "The Fledgling: Drama, starring Ed Stoppard and Keeley Hawes. Diplomat Sir Hallam Holland and his wife Lady Agnes move into 165 Eaton Place and begin the search for new staff.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5ffc9647-848e-450d-a9cf-3e8fa59c0e69/cover",
+          "start_time": "13:00",
+          "end_time": "14:20"
+        },
+        {
+          "show_name": "Upstairs Downstairs",
+          "show_description": "The Ladybird: The house celebrates when Lady Agnes discovers she is pregnant, while Lady Persie falls under the spell of Oswald Mosley and his British Union of Fascists.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9209219f-c2e4-4d3a-bea7-306cca9f3863/cover",
+          "start_time": "14:20",
+          "end_time": "15:40"
+        },
+        {
+          "show_name": "Upstairs Downstairs",
+          "show_description": "The Cuckoo: Lady Persie pursues her political interests with little regard to her family, while Sir Hallam gets dragged into the crisis facing the British monarchy.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b34c89bc-06e0-49f7-8219-d4a5eb69ebaf/cover",
+          "start_time": "15:40",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "The Two Ronnies",
+          "show_description": "Featuring the Sweet Shop sketch. Join Ronnies Barker and Corbett for more sparkling comedy from the 1980s, featuring classics like Nothing's Too Much Trouble and Star Flaws.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d4ab142a-034b-47b7-b6c0-73276058f36a/cover",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "The Two Ronnies",
+          "show_description": "Join the much-missed kings of comedy, Ronnie Barker and Ronnie Corbett, with a special Christmas programme of spoofs, sketches and songs from 1980.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/50e7bc6a-53ac-470f-9cb3-bfab38136714/cover",
+          "start_time": "18:00",
+          "end_time": "19:10"
+        },
+        {
+          "show_name": "The Two Ronnies",
+          "show_description": "Featuring the Crossed Lines sketch. Inspired farce from Barker and Corbett, including the graduates' river picnic and the men whose names are derived from where they were conceived.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9df0e04e-6941-4bb8-8030-62aa8eec111c/cover",
+          "start_time": "19:10",
+          "end_time": "19:50"
+        },
+        {
+          "show_name": "The Two Ronnies",
+          "show_description": "Timeless comedy with the bifocal duo. Sketches include Pismonounciation, Short-sighted Daughter and Band of Slaves.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7adfaf75-a54c-476e-830e-def12f65dd36/cover",
+          "start_time": "19:50",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "The Two Ronnies",
+          "show_description": "Featuring the Sweet Shop sketch. Join Ronnies Barker and Corbett for more sparkling comedy from the 1980s, featuring classics like Nothing's Too Much Trouble and Star Flaws.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d4ab142a-034b-47b7-b6c0-73276058f36a/cover",
+          "start_time": "20:30",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "The Two Ronnies",
+          "show_description": "Join the much-missed kings of comedy, Ronnie Barker and Ronnie Corbett, with a special Christmas programme of spoofs, sketches and songs from 1980.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/50e7bc6a-53ac-470f-9cb3-bfab38136714/cover",
+          "start_time": "21:30",
+          "end_time": "22:35"
+        },
+        {
+          "show_name": "The Two Ronnies",
+          "show_description": "Featuring the Crossed Lines sketch. Inspired farce from Barker and Corbett, including the graduates' river picnic and the men whose names are derived from where they were conceived.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9df0e04e-6941-4bb8-8030-62aa8eec111c/cover",
+          "start_time": "22:35",
+          "end_time": "23:20"
+        },
+        {
+          "show_name": "The Two Ronnies",
+          "show_description": "Timeless comedy with the bifocal duo. Sketches include Pismonounciation, Short-sighted Daughter and Band of Slaves.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7adfaf75-a54c-476e-830e-def12f65dd36/cover",
+          "start_time": "23:20",
+          "end_time": "00:00"
         }
       ]
     }

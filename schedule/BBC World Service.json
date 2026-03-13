@@ -3,564 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-World-Service.png",
   "schedule": [
     {
-      "date": "12 March 2026",
-      "programmes": [
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "00:06"
-        },
-        {
-          "show_name": "World Book Club",
-          "show_description": "Harriett Gilbert welcomes the French author Laurent Binet to the World Book Club studio to answer your questions about his acclaimed novel HHhH.",
-          "show_logo": "",
-          "start_time": "00:06",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "01:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "01:06",
-          "end_time": "01:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "01:30",
-          "end_time": "01:32"
-        },
-        {
-          "show_name": "The Global Story",
-          "show_description": "A former State Department official on the chances of a negotiated peace with Iran.",
-          "show_logo": "",
-          "start_time": "01:32",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "02:00",
-          "end_time": "02:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "02:06",
-          "end_time": "02:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "02:30",
-          "end_time": "02:32"
-        },
-        {
-          "show_name": "The Documentary",
-          "show_description": "Namibia's pristine desert landscape may host a green hydrogen project. Johannes Dell asks what it means for the region's plant and animal life - and for jobs for young Namibians.",
-          "show_logo": "",
-          "start_time": "02:32",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "03:00",
-          "end_time": "03:06"
-        },
-        {
-          "show_name": "Outlook",
-          "show_description": "Zinda Laash was Pakistan's first horror film. But then it just disappeared. Movie buff Omar Ali Khan spent years searching for a copy, determined to resurrect the desi Dracula.",
-          "show_logo": "",
-          "start_time": "03:06",
-          "end_time": "03:50"
-        },
-        {
-          "show_name": "Witness History",
-          "show_description": "Ivana Baquero was 11 when she starred in Guillermo del Toro's film which won awards around the world.",
-          "show_logo": "",
-          "start_time": "03:50",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "04:00",
-          "end_time": "04:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "04:06",
-          "end_time": "04:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "04:30",
-          "end_time": "04:32"
-        },
-        {
-          "show_name": "The Food Chain",
-          "show_description": "The Food Chain examines the business, science and cultural significance of food, and what it takes to put food on your plate.",
-          "show_logo": "",
-          "start_time": "04:32",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "05:00",
-          "end_time": "05:06"
-        },
-        {
-          "show_name": "Newsday",
-          "show_description": "Live news, business and sport from around the world.",
-          "show_logo": "",
-          "start_time": "05:06",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "06:06"
-        },
-        {
-          "show_name": "Newsday",
-          "show_description": "Live news, business and sport from around the world.",
-          "show_logo": "",
-          "start_time": "06:06",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "07:06"
-        },
-        {
-          "show_name": "Newsday",
-          "show_description": "Live news, business and sport from around the world.",
-          "show_logo": "",
-          "start_time": "07:06",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "08:00",
-          "end_time": "08:06"
-        },
-        {
-          "show_name": "The Inquiry",
-          "show_description": "Poland's economy is booming. What's behind its economic rise and can it maintain its momentum?",
-          "show_logo": "",
-          "start_time": "08:06",
-          "end_time": "08:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "08:30",
-          "end_time": "08:32"
-        },
-        {
-          "show_name": "Business Daily",
-          "show_description": "Ever since the US and Israel began their war against Iran, economies around the world have been coping with the impacts of energy prices and food security.",
-          "show_logo": "",
-          "start_time": "08:32",
-          "end_time": "08:50"
-        },
-        {
-          "show_name": "Witness History",
-          "show_description": "Hindi film Rang De Basanti exploded onto the cultural landscape in India when it was released in 2006. It shattered box office records and inspired thousands to fight for change.",
-          "show_logo": "",
-          "start_time": "08:50",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "09:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "09:06",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "09:32"
-        },
-        {
-          "show_name": "The Documentary",
-          "show_description": "Namibia's pristine desert landscape may host a green hydrogen project. Johannes Dell asks what it means for the region's plant and animal life - and for jobs for young Namibians.",
-          "show_logo": "",
-          "start_time": "09:32",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "10:06"
-        },
-        {
-          "show_name": "The Explanation",
-          "show_description": "Ros Atkins is in Washington DC speaking to some of the most influential voices in American journalism. Who's shaping US media?",
-          "show_logo": "",
-          "start_time": "10:06",
-          "end_time": "10:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "10:30",
-          "end_time": "10:32"
-        },
-        {
-          "show_name": "The Global Jigsaw",
-          "show_description": "What do developments in the Middle East mean for those in Syrian detention camps?",
-          "show_logo": "",
-          "start_time": "10:32",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "11:00",
-          "end_time": "11:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "11:06",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "11:30",
-          "end_time": "11:32"
-        },
-        {
-          "show_name": "The Global Story",
-          "show_description": "The Global Story: Where the world meets America.",
-          "show_logo": "",
-          "start_time": "11:32",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "12:06"
-        },
-        {
-          "show_name": "Outlook",
-          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
-          "show_logo": "",
-          "start_time": "12:06",
-          "end_time": "12:50"
-        },
-        {
-          "show_name": "Witness History",
-          "show_description": "Hindi film Rang De Basanti exploded onto the cultural landscape in India when it was released in 2006. It shattered box office records and inspired thousands to fight for change.",
-          "show_logo": "",
-          "start_time": "12:50",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "13:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "13:06",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "13:30",
-          "end_time": "13:32"
-        },
-        {
-          "show_name": "The Food Chain",
-          "show_description": "The Food Chain examines the business, science and cultural significance of food, and what it takes to put food on your plate.",
-          "show_logo": "",
-          "start_time": "13:32",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "14:06"
-        },
-        {
-          "show_name": "Newshour",
-          "show_description": "Interviews, news and analysis of the day's global events.",
-          "show_logo": "",
-          "start_time": "14:06",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "15:00",
-          "end_time": "15:06"
-        },
-        {
-          "show_name": "The Inquiry",
-          "show_description": "Poland's economy is booming. What's behind its economic rise and can it maintain its momentum?",
-          "show_logo": "",
-          "start_time": "15:06",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "15:30",
-          "end_time": "15:32"
-        },
-        {
-          "show_name": "Business Daily",
-          "show_description": "Ever since the US and Israel began their war against Iran, economies around the world have been coping with the impacts of energy prices and food security.",
-          "show_logo": "",
-          "start_time": "15:32",
-          "end_time": "15:50"
-        },
-        {
-          "show_name": "World Business Express",
-          "show_description": "Finance, economy and business news from BBC journalists around the world.",
-          "show_logo": "",
-          "start_time": "15:50",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "16:06"
-        },
-        {
-          "show_name": "Outside Source",
-          "show_description": "A vibrant account of the day's events with explanation and reaction from those involved.",
-          "show_logo": "",
-          "start_time": "16:06",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "17:06"
-        },
-        {
-          "show_name": "Outside Source",
-          "show_description": "A vibrant account of the day's events with explanation and reaction from those involved.",
-          "show_logo": "",
-          "start_time": "17:06",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "18:06"
-        },
-        {
-          "show_name": "Outlook",
-          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
-          "show_logo": "",
-          "start_time": "18:06",
-          "end_time": "18:50"
-        },
-        {
-          "show_name": "Witness History",
-          "show_description": "Hindi film Rang De Basanti exploded onto the cultural landscape in India when it was released in 2006. It shattered box office records and inspired thousands to fight for change.",
-          "show_logo": "",
-          "start_time": "18:50",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "19:06",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "19:32"
-        },
-        {
-          "show_name": "Sport Today",
-          "show_description": "BBC sports correspondents tell the story behind today's top sporting news, with interviews and reports from across the world.",
-          "show_logo": "",
-          "start_time": "19:32",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "20:06"
-        },
-        {
-          "show_name": "The Documentary",
-          "show_description": "Namibia's pristine desert landscape may host a green hydrogen project. Johannes Dell asks what it means for the region's plant and animal life - and for jobs for young Namibians.",
-          "show_logo": "",
-          "start_time": "20:06",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "20:30",
-          "end_time": "20:32"
-        },
-        {
-          "show_name": "BBC Inside Science",
-          "show_description": "A weekly programme that illuminates the mysteries and challenges the controversies behind the science that's changing our world.",
-          "show_logo": "",
-          "start_time": "20:32",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "21:06"
-        },
-        {
-          "show_name": "Newshour",
-          "show_description": "Interviews, news and analysis of the day's global events.",
-          "show_logo": "",
-          "start_time": "21:06",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "22:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "22:06",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "22:30",
-          "end_time": "22:32"
-        },
-        {
-          "show_name": "World Business Report",
-          "show_description": "The latest business and finance news from around the world, on the BBC.",
-          "show_logo": "",
-          "start_time": "22:32",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "23:00",
-          "end_time": "23:06"
-        },
-        {
-          "show_name": "The Inquiry",
-          "show_description": "Poland's economy is booming. What's behind its economic rise and can it maintain its momentum?",
-          "show_logo": "",
-          "start_time": "23:06",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "23:32"
-        },
-        {
-          "show_name": "The Food Chain",
-          "show_description": "The Food Chain examines the business, science and cultural significance of food, and what it takes to put food on your plate.",
-          "show_logo": "",
-          "start_time": "23:32",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "13 March 2026",
       "programmes": [
         {
@@ -586,7 +28,7 @@
         },
         {
           "show_name": "Unspun World with John Simpson",
-          "show_description": ".",
+          "show_description": "Caroline Hawley explores what life in Iran is like as the war intensifies, and analyses what the US objectives are for the war and whether they are obtainable.",
           "show_logo": "",
           "start_time": "00:32",
           "end_time": "01:00"
@@ -614,7 +56,7 @@
         },
         {
           "show_name": "The Global Story",
-          "show_description": "The Global Story: Where the world meets America.",
+          "show_description": "Trump, Starmer, and the mysterious islands fracturing the 'special relationship'.",
           "show_logo": "",
           "start_time": "01:32",
           "end_time": "02:00"
@@ -656,7 +98,7 @@
         },
         {
           "show_name": "Outlook",
-          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
+          "show_description": "Artist Murray Siple was always drawn to outsiders breaking rules. The men racing shopping carts were no different. His personal challenges were his passport into this new world.",
           "show_logo": "",
           "start_time": "03:06",
           "end_time": "03:50"
@@ -747,7 +189,7 @@
         },
         {
           "show_name": "The Interview",
-          "show_description": "Conversations with people shaping our world. The best interviews from the BBC.",
+          "show_description": "Jonathan Josephs speaks to Vincent Clerc, CEO of Maersk about the disruption to oil supplies and global trade caused by the Iran war.",
           "show_logo": "",
           "start_time": "08:06",
           "end_time": "08:30"
@@ -761,7 +203,7 @@
         },
         {
           "show_name": "Business Daily",
-          "show_description": "The daily drama of money and work from the BBC.",
+          "show_description": "We meet the founder of JetSetGo, one of India's largest private aviation companies.",
           "show_logo": "",
           "start_time": "08:32",
           "end_time": "08:50"
@@ -796,7 +238,7 @@
         },
         {
           "show_name": "BBC Inside Science",
-          "show_description": "A weekly programme that illuminates the mysteries and challenges the controversies behind the science that's changing our world.",
+          "show_description": "Does data on the last three hot years show that the climate is warming faster than we thought? And we mark a decade since AI triumphed over humans in the strategy game Go.",
           "show_logo": "",
           "start_time": "09:32",
           "end_time": "10:00"
@@ -810,7 +252,7 @@
         },
         {
           "show_name": "Unexpected Elements",
-          "show_description": "The news you know, the science you don't.",
+          "show_description": "With Sinners expected to sweep the Oscars, we're inspired to sink our teeth into some bloodthirsty vampire science.",
           "show_logo": "",
           "start_time": "10:06",
           "end_time": "11:00"
@@ -852,7 +294,7 @@
         },
         {
           "show_name": "Outlook",
-          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
+          "show_description": "From the actor who played psychokiller Jason Voorhees, to the 'Queen of African Horror', to a woman labelled a witch: stories to mark Friday the 13th.",
           "show_logo": "",
           "start_time": "12:06",
           "end_time": "12:50"
@@ -915,7 +357,7 @@
         },
         {
           "show_name": "The Interview",
-          "show_description": "Conversations with people shaping our world. The best interviews from the BBC.",
+          "show_description": "Jonathan Josephs speaks to Vincent Clerc, CEO of Maersk about the disruption to oil supplies and global trade caused by the Iran war.",
           "show_logo": "",
           "start_time": "15:06",
           "end_time": "15:30"
@@ -929,7 +371,7 @@
         },
         {
           "show_name": "Business Daily",
-          "show_description": "The daily drama of money and work from the BBC.",
+          "show_description": "We meet the founder of JetSetGo, one of India's largest private aviation companies.",
           "show_logo": "",
           "start_time": "15:32",
           "end_time": "15:50"
@@ -978,7 +420,7 @@
         },
         {
           "show_name": "Outlook",
-          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
+          "show_description": "From the actor who played psychokiller Jason Voorhees, to the 'Queen of African Horror', to a woman labelled a witch: stories to mark Friday the 13th.",
           "show_logo": "",
           "start_time": "18:06",
           "end_time": "18:50"
@@ -1041,7 +483,7 @@
         },
         {
           "show_name": "CrowdScience",
-          "show_description": "Answering your questions about life, Earth and the universe.",
+          "show_description": "Is there any science to support the belief that you can turn your goals into reality just by waiting for the universe to manifest them?",
           "show_logo": "",
           "start_time": "20:32",
           "end_time": "21:00"
@@ -1097,7 +539,7 @@
         },
         {
           "show_name": "The Interview",
-          "show_description": "Conversations with people shaping our world. The best interviews from the BBC.",
+          "show_description": "Jonathan Josephs speaks to Vincent Clerc, CEO of Maersk about the disruption to oil supplies and global trade caused by the Iran war.",
           "show_logo": "",
           "start_time": "23:06",
           "end_time": "23:30"
@@ -1114,6 +556,438 @@
           "show_description": "Why would someone live publicly nude for their faith? In parts of India, Jain monks belonging to the Digambara sect permanently renounce all possessions, including clothes.",
           "show_logo": "",
           "start_time": "23:32",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "14 March 2026",
+      "programmes": [
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "00:06"
+        },
+        {
+          "show_name": "Unexpected Elements",
+          "show_description": "With Sinners expected to sweep the Oscars, we're inspired to sink our teeth into some bloodthirsty vampire science.",
+          "show_logo": "",
+          "start_time": "00:06",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "01:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "01:06",
+          "end_time": "01:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "01:30",
+          "end_time": "01:32"
+        },
+        {
+          "show_name": "The Global Story",
+          "show_description": "The Global Story: Where the world meets America.",
+          "show_logo": "",
+          "start_time": "01:32",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "02:00",
+          "end_time": "02:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "02:06",
+          "end_time": "02:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "02:30",
+          "end_time": "02:32"
+        },
+        {
+          "show_name": "Stumped",
+          "show_description": "India became the first team to retain the Men's T20 World Cup, plus we hear from Afghanistan cricketer Tooba Khan Sarwari on how life has been over the last 12 months.",
+          "show_logo": "",
+          "start_time": "02:32",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "03:00",
+          "end_time": "03:06"
+        },
+        {
+          "show_name": "Outlook",
+          "show_description": "From the actor who played psychokiller Jason Voorhees, to the 'Queen of African Horror', to a woman labelled a witch: stories to mark Friday the 13th.",
+          "show_logo": "",
+          "start_time": "03:06",
+          "end_time": "03:50"
+        },
+        {
+          "show_name": "Witness History",
+          "show_description": "On 26 November 1942, Casablanca premiered and went on to become one of the most recognisable and quoted films ever made in Hollywood.",
+          "show_logo": "",
+          "start_time": "03:50",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "04:00",
+          "end_time": "04:06"
+        },
+        {
+          "show_name": "Unexpected Elements",
+          "show_description": "With Sinners expected to sweep the Oscars, we're inspired to sink our teeth into some bloodthirsty vampire science.",
+          "show_logo": "",
+          "start_time": "04:06",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "05:00",
+          "end_time": "05:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "05:06",
+          "end_time": "05:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "05:30",
+          "end_time": "05:32"
+        },
+        {
+          "show_name": "Dear Daughter",
+          "show_description": "Brenda's daughter, Kielah, donated a kidney to a stranger so that her mother could receive a transplant.",
+          "show_logo": "",
+          "start_time": "05:32",
+          "end_time": "05:50"
+        },
+        {
+          "show_name": "More or Less",
+          "show_description": "Tim Harford explains the numbers and statistics in the news and in life.",
+          "show_logo": "",
+          "start_time": "05:50",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "06:06"
+        },
+        {
+          "show_name": "Weekend",
+          "show_description": "A review of the week with the latest news.",
+          "show_logo": "",
+          "start_time": "06:06",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "07:06"
+        },
+        {
+          "show_name": "Weekend",
+          "show_description": "A review of the week with the latest news.",
+          "show_logo": "",
+          "start_time": "07:06",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "08:00",
+          "end_time": "08:06"
+        },
+        {
+          "show_name": "Weekend",
+          "show_description": "A review of the week with the latest news.",
+          "show_logo": "",
+          "start_time": "08:06",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "09:06"
+        },
+        {
+          "show_name": "BBC Conversations",
+          "show_description": "How major news stories are affecting the lives of people around the world.",
+          "show_logo": "",
+          "start_time": "09:06",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "09:32"
+        },
+        {
+          "show_name": "Americast",
+          "show_description": "The US president threatens Cuba with a \"friendly takeover\".",
+          "show_logo": "",
+          "start_time": "09:32",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "10:06"
+        },
+        {
+          "show_name": "Not by the Playbook",
+          "show_description": "Double leg amputee Hari Budha Magar on becoming the first para athlete to complete the \"Seven Summits\" by ascending the highest summit on each of the seven continents.",
+          "show_logo": "",
+          "start_time": "10:06",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "11:00",
+          "end_time": "11:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "11:06",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "11:30",
+          "end_time": "11:32"
+        },
+        {
+          "show_name": "Unspun World with John Simpson",
+          "show_description": "Caroline Hawley explores what life in Iran is like as the war intensifies, and analyses what the US objectives are for the war and whether they are obtainable.",
+          "show_logo": "",
+          "start_time": "11:32",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "12:06"
+        },
+        {
+          "show_name": "World Questions",
+          "show_description": "The world's fastest growing economy.",
+          "show_logo": "",
+          "start_time": "12:06",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "13:06"
+        },
+        {
+          "show_name": "Newshour",
+          "show_description": "Interviews, news and analysis of the day's global events.",
+          "show_logo": "",
+          "start_time": "13:06",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "14:06"
+        },
+        {
+          "show_name": "Sportsworld",
+          "show_description": "Live sport from around the world with news, interviews and analysis.",
+          "show_logo": "",
+          "start_time": "14:06",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "18:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "18:06",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "18:30",
+          "end_time": "18:32"
+        },
+        {
+          "show_name": "Dear Daughter",
+          "show_description": "Brenda's daughter, Kielah, donated a kidney to a stranger so that her mother could receive a transplant.",
+          "show_logo": "",
+          "start_time": "18:32",
+          "end_time": "18:50"
+        },
+        {
+          "show_name": "Sporting Witness",
+          "show_description": "French rugby star Nathalie Amiel reflects on winning the first Women's Six Nations in 2002.",
+          "show_logo": "",
+          "start_time": "18:50",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:06"
+        },
+        {
+          "show_name": "The Inquiry",
+          "show_description": "Poland's economy is booming. What's behind its economic rise and can it maintain its momentum?",
+          "show_logo": "",
+          "start_time": "19:06",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "19:30",
+          "end_time": "19:32"
+        },
+        {
+          "show_name": "Good Bad Billionaire",
+          "show_description": "The relentless ascent of Larry Ellison, from winning the 'database wars' to becoming one of Silicon Valley's most combative and controversial billionaires.",
+          "show_logo": "",
+          "start_time": "19:32",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "20:00",
+          "end_time": "20:06"
+        },
+        {
+          "show_name": "The Arts Hour",
+          "show_description": "Nikki Bedi talks to Italian director Alessio Rigo de Righi about his offbeat take on the Western genre in his film, Heads or Tails starring French rising star Nadia Tereszkiewicz.",
+          "show_logo": "",
+          "start_time": "20:06",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "21:06"
+        },
+        {
+          "show_name": "Newshour",
+          "show_description": "Interviews, news and analysis of the day's global events.",
+          "show_logo": "",
+          "start_time": "21:06",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "22:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "22:06",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "22:30",
+          "end_time": "22:32"
+        },
+        {
+          "show_name": "This Is Africa",
+          "show_description": "DJ Edu's pan-African music show for the BBC World Service.",
+          "show_logo": "",
+          "start_time": "22:32",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "23:06"
+        },
+        {
+          "show_name": "Not by the Playbook",
+          "show_description": "Double leg amputee Hari Budha Magar on becoming the first para athlete to complete the \"Seven Summits\" by ascending the highest summit on each of the seven continents.",
+          "show_logo": "",
+          "start_time": "23:06",
           "end_time": "00:00"
         }
       ]
