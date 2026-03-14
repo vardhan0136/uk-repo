@@ -3,74 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-5-Sports-Extra.png",
   "schedule": [
     {
-      "date": "13 March 2026",
-      "programmes": [
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "03:25"
-        },
-        {
-          "show_name": "Formula 1",
-          "show_description": "Live F1 commentary of Practice 1 at the 2026 Chinese Grand Prix at the Shanghai International Circuit.",
-          "show_logo": "",
-          "start_time": "03:25",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "05:00",
-          "end_time": "07:25"
-        },
-        {
-          "show_name": "Formula 1",
-          "show_description": "Live F1 commentary of Sprint Qualifying at the 2026 Chinese Grand Prix at the Shanghai International Circuit.",
-          "show_logo": "",
-          "start_time": "07:25",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "The Cheltenham Festival",
-          "show_description": "Live horse racing commentary of Gold Cup Day on the final day of the Cheltenham Festival.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "17:45"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "17:45",
-          "end_time": "19:03"
-        },
-        {
-          "show_name": "Rugby League",
-          "show_description": "Live rugby league commentary from BBC Radio Leeds of Wakefield Trinity v Leeds Rhinos in the 4th round of the Challenge Cup.",
-          "show_logo": "",
-          "start_time": "19:03",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "14 March 2026",
       "programmes": [
         {
@@ -82,21 +14,21 @@
         },
         {
           "show_name": "Formula 1",
-          "show_description": "Live F1 commentary of the sprint race at the 2026 Chinese Grand Prix at the Shanghai International Circuit.",
+          "show_description": "Live F1 commentary of the sprint race at the Chinese Grand Prix at the Shanghai International Circuit.",
           "show_logo": "",
           "start_time": "02:55",
-          "end_time": "04:15"
+          "end_time": "05:00"
         },
         {
           "show_name": "This Is Sports Extra",
           "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
           "show_logo": "",
-          "start_time": "04:15",
+          "start_time": "05:00",
           "end_time": "06:55"
         },
         {
           "show_name": "Formula 1",
-          "show_description": "Live F1 commentary of Qualifying at the 2026 Chinese Grand Prix at the Shanghai International Circuit.",
+          "show_description": "Live F1 commentary of Qualifying at the Chinese Grand Prix at the Shanghai International Circuit.",
           "show_logo": "",
           "start_time": "06:55",
           "end_time": "09:00"
@@ -127,13 +59,6 @@
           "show_description": "Live football commentary of Burnley v Bournemouth in the Premier League.",
           "show_logo": "",
           "start_time": "14:55",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "17:00",
           "end_time": "17:25"
         },
         {
@@ -148,6 +73,53 @@
           "show_description": "Live golf commentary of the 3rd round of The Players Championship at TPC Sawgrass.",
           "show_logo": "",
           "start_time": "19:30",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "15 March 2026",
+      "programmes": [
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Premier League Football",
+          "show_description": "Live football commentary of Nottingham Forest v Fulham in the Premier League.",
+          "show_logo": "",
+          "start_time": "13:30",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "The Players Championship Golf",
+          "show_description": "Live golf commentary of the 4th round of The Players Championship at TPC Sawgrass.",
+          "show_logo": "",
+          "start_time": "17:30",
           "end_time": "01:00"
         }
       ]

@@ -3,158 +3,13 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
   "schedule": [
     {
-      "date": "13 March 2026",
-      "programmes": [
-        {
-          "show_name": "Who Wants to Be a...",
-          "show_description": "...Millionaire? There's drama, nail-biting tension, and Jeremy Clarkson on hand to give away one million pounds - find out if anyone has got what it takes to win it.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/01fc0ffa-c727-48ac-9585-7b431f6015e6/cover",
-          "start_time": "00:15",
-          "end_time": "01:15"
-        },
-        {
-          "show_name": "Shop on TV",
-          "show_description": "Teleshopping.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0012d8c9-2157-4e8b-a946-24d9bba25d4b/cover",
-          "start_time": "01:15",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "Jimmy and Shivi's Farmhouse Breakfast",
-          "show_description": "Juliet Sear: Jimmy and Shivi are joined by 'cake maker to the stars' Juliet Sear for chicken sculptures, beekeeping lessons, and a carrot cake masterclass.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/999ca2a8-f127-49b2-964c-938fc933f231/cover",
-          "start_time": "04:00",
-          "end_time": "04:50"
-        },
-        {
-          "show_name": "Unwind with ITV",
-          "show_description": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a228bcf7-b313-4e6f-9764-a1e0113c0af7/cover",
-          "start_time": "04:50",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "The Floor",
-          "show_description": "Only 57 contestants remain on The Floor - Rob Brydon hosts as the duels get sharper and the competition starts heating up.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9cef8d6d-cc9b-4a3c-90ca-9e90d6de5b3c/cover",
-          "start_time": "06:00",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Good Morning Britain",
-          "show_description": "News, current affairs and lively debate.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7dfbddd1-85a3-495b-8c82-22ad3c0b528e/cover",
-          "start_time": "07:00",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "This Morning",
-          "show_description": "The Coupon King has last-minute deals for Mother's Day and former Vogue editor Edward Enninful joins Alison and Dermot in the studio.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d6a91611-42e9-4adc-a9bd-5aaf0497b2ac/cover",
-          "start_time": "11:00",
-          "end_time": "13:15"
-        },
-        {
-          "show_name": "ITV Lunchtime News",
-          "show_description": "The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0edf0df8-9f94-4866-b4e9-2184df5a241c/cover",
-          "start_time": "13:15",
-          "end_time": "13:35"
-        },
-        {
-          "show_name": "ITV News Central",
-          "show_description": "The latest news and weather from the Midlands.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e71497c3-68c5-4e7e-b5f4-e35a987b629e/cover",
-          "start_time": "13:35",
-          "end_time": "13:45"
-        },
-        {
-          "show_name": "ITV Racing: Cheltenham Festival Live",
-          "show_description": "Ed Chamberlin presents coverage of six races on the fourth and final day of the 2026 Cheltenham Festival - the highlight is the Cheltenham Gold Cup, the week's feature race.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b3228b16-b681-4f42-ab91-84b26987f3a8/cover",
-          "start_time": "13:45",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "New: The Chase",
-          "show_description": "All that stands between John from Manchester, Miriam from Middlesex, Tori from Chesterfield, Frankie from Hull and thousands of pounds is the not-so-small matter of a Chaser.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a84f7e3a-ded3-4810-b75b-d64719a57416/cover",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "ITV News Central",
-          "show_description": "The latest news and weather from the Midlands.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9cab19db-2fc5-486a-bdc6-3486c9007a0c/cover",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "ITV Evening News",
-          "show_description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7c8d9bd8-d055-43f2-bf23-19da3f882610/cover",
-          "start_time": "19:30",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "New: It'll Be Alright on the Night",
-          "show_description": "Tom Allen uncovers hilarious cock-ups featuring the nation's favourite TV shows and stars including Greg Davies, Vernon Kay, Alan Carr, Judi Love, Ant and Dec and many more.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b067d333-9dca-439d-a206-711f71bd2db5/cover",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Emmerdale",
-          "show_description": "Timing is everything, Paddy gets better news, and Gabby gives Arthur a new strategy.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1151b49b-5519-4732-954b-0cabb34b3e3a/cover",
-          "start_time": "21:00",
-          "end_time": "21:30"
-        },
-        {
-          "show_name": "Coronation Street",
-          "show_description": "Maggie frets over Ben's hospital appointment, a defamatory article upsets George, Alya meets with her former boss, and Hope urges Sam to stand up to his bully.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8d715296-b4ad-49a9-a3f0-a26e2b55e679/cover",
-          "start_time": "21:30",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The Affair",
-          "show_description": "The first episode of the critically-lauded US drama. A chance encounter during a break in Long Island leads a man with a wife and four children to begin an affair with a waitress.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a6e689c1-87d8-4229-aec6-6bdf154209c9/cover",
-          "start_time": "22:00",
-          "end_time": "23:10"
-        },
-        {
-          "show_name": "ITV News at Ten",
-          "show_description": "ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f1366108-9a5b-49bf-b8a0-dd0ed954a648/cover",
-          "start_time": "23:10",
-          "end_time": "23:40"
-        },
-        {
-          "show_name": "ITV News Central",
-          "show_description": "The latest news and weather from the Midlands.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/eeee067b-24eb-4e91-8d97-c2da503c0a03/cover",
-          "start_time": "23:40",
-          "end_time": "23:55"
-        },
-        {
-          "show_name": "New: Devil in Disguise: John Wayne Gacy",
-          "show_description": "Tim, John and Rob: US drama based on real events. In a flashback to the past, an inebriated Gacy confesses to Sam about how he killed countless boys and young men.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/367be157-aa94-4238-a843-24005c97dc47/cover",
-          "start_time": "23:55",
-          "end_time": "01:10"
-        }
-      ]
-    },
-    {
       "date": "14 March 2026",
       "programmes": [
         {
           "show_name": "Shop on TV",
           "show_description": "Teleshopping.",
           "show_logo": "https://images.metadata.sky.com/pd-image/46ff2c6a-004b-414b-a88a-5fcf3bbb5c8e/cover",
-          "start_time": "01:10",
+          "start_time": "01:00",
           "end_time": "04:00"
         },
         {
@@ -282,6 +137,179 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/348ba8a5-5945-4489-a8c8-bc7552b15f19/cover",
           "start_time": "23:50",
           "end_time": "00:05"
+        }
+      ]
+    },
+    {
+      "date": "15 March 2026",
+      "programmes": [
+        {
+          "show_name": "It'll Be Alright on the Night",
+          "show_description": "Tom Allen uncovers hilarious cock-ups featuring the nation's favourite TV shows and stars including Greg Davies, Vernon Kay, Alan Carr, Judi Love, Ant and Dec and many more.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b067d333-9dca-439d-a206-711f71bd2db5/cover",
+          "start_time": "00:05",
+          "end_time": "00:35"
+        },
+        {
+          "show_name": "English Football League Highlights",
+          "show_description": "Action from the day's games in the Football League including Coventry City v Southampton, Middlesbrough v Bristol City, and Millwall v Blackburn Rovers in the Championship.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8d20256e-cf5c-4cf8-8c7a-67754a984db0/cover",
+          "start_time": "00:35",
+          "end_time": "01:55"
+        },
+        {
+          "show_name": "Shop on TV",
+          "show_description": "Teleshopping.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/430b0864-0c00-497f-9aa9-339a31a25625/cover",
+          "start_time": "01:55",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Devil in Disguise: John Wayne Gacy",
+          "show_description": "Tim, John and Rob: US drama based on real events. In a flashback to the past, an inebriated Gacy confesses to Sam about how he killed countless boys and young men.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/367be157-aa94-4238-a843-24005c97dc47/cover",
+          "start_time": "04:00",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "Unwind with ITV",
+          "show_description": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7880882a-7a2d-4fcd-a2ed-8ecbb72994c3/cover",
+          "start_time": "05:00",
+          "end_time": "06:05"
+        },
+        {
+          "show_name": "Julia Bradbury's Wonders of the Frozen South",
+          "show_description": "Falklands: Documentary series. Julia Bradbury meets huge albatrosses, countless rockhopper penguins, and one of the world's largest icebergs in the Falklands.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/60f4b4fb-6809-469c-b9c4-65b729f0ca6b/cover",
+          "start_time": "06:05",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "James Martin's Saturday Morning",
+          "show_description": "James is back in the kitchen and is joined by singer and presenter Jane McDonald, chefs Judy Joo and Curtis Stone, and master mixologist Merlin Griffiths.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/54ee228e-205d-46a5-8e3b-174de14c351b/cover",
+          "start_time": "07:00",
+          "end_time": "09:25"
+        },
+        {
+          "show_name": "New: Jimmy and Shivi's Farmhouse Breakfast",
+          "show_description": "Kevin Bishop: Jimmy and Shivi are joined by actor and comedian Kevin Bishop for cooking, houseplant tips, bushcraft projects and snappy wildlife encounters.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b48808e8-8f6e-4bc1-a62e-ef7a58506155/cover",
+          "start_time": "09:25",
+          "end_time": "10:25"
+        },
+        {
+          "show_name": "ITV News",
+          "show_description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9f24c8f1-b4c3-447a-b2c7-90806f844a78/cover",
+          "start_time": "10:25",
+          "end_time": "10:30"
+        },
+        {
+          "show_name": "New: Love Your Weekend with Alan Titchmarsh",
+          "show_description": "Joining Alan at Manor Farm are actor James Murray, Lynda La Plante, florist Jonathan Moseley with innovative ideas for Mothering Sunday and a rare UK sheep breed.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/71dbbc09-df54-46da-b16b-94fd99fdd293/cover",
+          "start_time": "10:30",
+          "end_time": "12:25"
+        },
+        {
+          "show_name": "New: Fletchers' Family Farm",
+          "show_description": "Documentary series. Friends and family are called in to lend a hand as the Fletchers' biggest event of the year, a six-day-long Christmas Celebrations event, draws ever nearer.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cd8d2c0d-de1e-4a7f-a09f-5064dda5fe07/cover",
+          "start_time": "12:25",
+          "end_time": "13:25"
+        },
+        {
+          "show_name": "New: Talking Royals",
+          "show_description": "A round-up of royal news with expert analysis from ITV News Royal Editor Chris Ship, ITV News royal expert Lizzie Robinson and a host of guests.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ea9b35f0-61c9-4309-abed-4a9c32919502/cover",
+          "start_time": "13:25",
+          "end_time": "13:55"
+        },
+        {
+          "show_name": "ITV News",
+          "show_description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ec186e90-a933-4ef7-b79e-145d3c7b141a/cover",
+          "start_time": "13:55",
+          "end_time": "14:10"
+        },
+        {
+          "show_name": "Love Your Garden",
+          "show_description": "The team create two very different styles of family garden for an ex-Army soldier in Barry in Wales and a single mum and her two young kids in Berkhamsted.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4af2fab6-91df-4554-b5b8-2186837c4ef3/cover",
+          "start_time": "14:10",
+          "end_time": "15:10"
+        },
+        {
+          "show_name": "Wheel of Fortune",
+          "show_description": "Graham Norton invites barrister Daniel, site manager Lorraine, and software sales rep Nicole to take on the iconic Wheel and tackle a series of puzzles for a shot at 50,000 pounds.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/62047c66-9728-4c97-a213-6d86a3e646b9/cover",
+          "start_time": "15:10",
+          "end_time": "16:15"
+        },
+        {
+          "show_name": "Indiana Jones and the Last Crusade",
+          "show_description": "Classic Oscar-winning action-adventure film sequel starring Harrison Ford and Sean Connery, 1989. Indiana Jones goes up against the Nazis again while in pursuit of the Holy Grail.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fcf425fa-7e06-4d12-90a4-f44a3805cea9/cover",
+          "start_time": "16:15",
+          "end_time": "18:35"
+        },
+        {
+          "show_name": "Tipping Point: Lucky Stars",
+          "show_description": "Ben Shephard hosts as TV presenter Anna Williamson, doctor Amir Khan, and footballing legend Stuart Pearce put their wits to the test in aid of charity.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/65e7e938-90eb-3356-b5ff-df05329bfc9b/cover",
+          "start_time": "18:35",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "ITV Evening News",
+          "show_description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/01b572f9-4c82-4990-9f26-deec022a2f80/cover",
+          "start_time": "19:30",
+          "end_time": "19:45"
+        },
+        {
+          "show_name": "ITV News Central",
+          "show_description": "The latest news and weather from the Midlands.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/63d3711c-5d7c-48f0-891d-2d92a7ef2a9a/cover",
+          "start_time": "19:45",
+          "end_time": "19:55"
+        },
+        {
+          "show_name": "The Chase Celebrity Special",
+          "show_description": "Bradley Walsh hosts as actress Sunetra Sarker, Olympic diving champion Matty Lee, film composer David Arnold and the legendary Basil Brush take on the challenge for charity.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7d2d7fe0-95fd-4203-b48a-92ddb3239a22/cover",
+          "start_time": "19:55",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "New: Who Wants to Be a...",
+          "show_description": "...Millionaire? Jeremy Clarkson is on hand as we find out if any of the six contestants in this edition have the 15 correct answers they need to win one million pounds.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/387c1a72-4acc-4533-82e6-932dfaa5468c/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "New: Gone",
+          "show_description": "Chilling mystery drama. Michael expresses his discontent with the investigation during questioning, and Annie alights on a new suspect with a surprising connection to the school.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0055dba9-f06a-4230-82e0-5bdc845fa35d/cover",
+          "start_time": "22:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "ITV News",
+          "show_description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3ff248bf-3e11-4b17-baa6-40ebe515df3f/cover",
+          "start_time": "23:00",
+          "end_time": "23:15"
+        },
+        {
+          "show_name": "New: Oscars Live",
+          "show_description": "Jonathan Ross is joined by star guests for the ultimate Oscars party covering all of the red carpet action, winning speeches, and biggest moments of the 98th Academy Awards.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/25073bd5-9989-4e1d-b0c9-1db5268d408a/cover",
+          "start_time": "23:15",
+          "end_time": "03:35"
         }
       ]
     }
