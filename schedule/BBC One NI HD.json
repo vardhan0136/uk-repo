@@ -3,158 +3,6 @@
   "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
   "schedule": [
     {
-      "date": "14 March 2026",
-      "programmes": [
-        {
-          "show_name": "BBC News",
-          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b6961ddd-4322-3081-b084-d33df356fe41/cover",
-          "start_time": "01:10",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/93c0e124-085a-4ffe-a289-afe2de4b25a4/cover",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Saturday Kitchen Live",
-          "show_description": "Matt Tebbutt is joined by chefs Paul Ainsworth, Jess Filbey and Tom Parker Bowles, and by special guest Alex Kingston. Drinks expert Olly Smith picks the wines to go with the studio dishes.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4eeed4b0-e820-4629-8d7a-bace38810a55/cover",
-          "start_time": "10:00",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Homes Under the Hammer",
-          "show_description": "A flat in Wiltshire has some great potential, including a quirky cupboard with a lovely view, although Martin is concerned about access to the outside space.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f86605f3-a879-4adb-9392-b5cbf166b403/cover",
-          "start_time": "11:30",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Football Focus",
-          "show_description": "Alex Scott presents the show 'on the road' from the Stadium of Light.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4d3db45f-0266-4847-99b6-0ed4ba347b83/cover",
-          "start_time": "12:00",
-          "end_time": "12:45"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bb20aabe-0a35-4aba-8484-e72fc1384cee/cover",
-          "start_time": "12:45",
-          "end_time": "12:55"
-        },
-        {
-          "show_name": "Weather",
-          "show_description": "The latest weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f539dc1e-230e-4800-b402-80eac0a5bf4e/cover",
-          "start_time": "12:55",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Bargain Hunt",
-          "show_description": "Natasha Raskin Sharp presents today's show from Shepton Mallet in Somerset, with John Cameron and Stephanie Connell.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c25dd836-f3c9-3d00-9233-0c8e5d5d60fe/cover",
-          "start_time": "13:00",
-          "end_time": "13:25"
-        },
-        {
-          "show_name": "Escape to the Country",
-          "show_description": "14/55. Sonali Shah tours Lincolnshire with a couple looking to relocate there from Scotland, showing them the very best property the county has to offer for their £220,000 budget.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/aec594e9-0c6f-3d81-b28a-a4d704df535a/cover",
-          "start_time": "13:25",
-          "end_time": "13:55"
-        },
-        {
-          "show_name": "Spider-Man: Into the Spider-Verse",
-          "show_description": "High school student Miles is catapulted into conflict when he gets powers like his hero Spider-Man and a device accessing parallel universes goes dangerously wrong. [2018]",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e0603e63-d2f8-4e2a-8505-bf9be9a3a15f/cover",
-          "start_time": "13:55",
-          "end_time": "15:40"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7842802a-6a62-4e89-8695-357c78e8e157/cover",
-          "start_time": "15:40",
-          "end_time": "15:50"
-        },
-        {
-          "show_name": "BBC Newsline",
-          "show_description": "Local news from across Northern Ireland with Tara Mills and Declan Harvey.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d6dd5995-a64e-4565-8089-aae2e04cf83d/cover",
-          "start_time": "15:50",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Six Nations: Wales v Italy",
-          "show_description": "Coverage from the Principality Stadium, Cardiff, of Wales v Italy on the final day of the 2026 Six Nations.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bd448b48-4b0e-43a7-b973-100035741bc3/cover",
-          "start_time": "16:00",
-          "end_time": "19:15"
-        },
-        {
-          "show_name": "Gladiators",
-          "show_description": "9/11. In the first semi-final, Bradley and Barney Walsh welcome back four more battle-hardened Contenders to take on the awesome Gladiators as they fight for a place in the grand final.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2dda8774-febc-449d-b724-3299846596f1/cover",
-          "start_time": "19:15",
-          "end_time": "20:15"
-        },
-        {
-          "show_name": "Casualty",
-          "show_description": "9/12. Siobhan wrestles with a crisis of morality, Kim continues to keep secrets from Stevie, and Teddy is forced to face what's important.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d754a8a5-1dcd-481d-a158-1fca4af8cb0e/cover",
-          "start_time": "20:15",
-          "end_time": "21:10"
-        },
-        {
-          "show_name": "The Walsh Sisters",
-          "show_description": "4/6. Anna struggles with her emotions, while Rachel is desperate to quiet her racing thoughts. Contains some strong language.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/18d26247-75bb-4869-b3b7-c8d5ed7cd6f5/cover",
-          "start_time": "21:10",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0ef08f55-ebca-4bb2-92e1-f0649a13fb07/cover",
-          "start_time": "22:00",
-          "end_time": "22:15"
-        },
-        {
-          "show_name": "Weather",
-          "show_description": "The latest weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1c9a8a33-120d-44e5-9d32-21b96e3b1421/cover",
-          "start_time": "22:15",
-          "end_time": "22:20"
-        },
-        {
-          "show_name": "Match of the Day",
-          "show_description": "Kelly Cates presents highlights of five Premier League games, including Arsenal versus Everton and West Ham against Manchester City.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ba780102-26a1-4496-8822-4d4e6a57791b/cover",
-          "start_time": "22:20",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "Nathan Collins: The Football Interview",
-          "show_description": "In this week's edition, Kelly Somers speaks to the Brentford and Republic of Ireland captain Nathan Collins.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6554e6fe-d9b2-401b-899c-d4355fa6591c/cover",
-          "start_time": "23:30",
-          "end_time": "23:45"
-        },
-        {
-          "show_name": "Alan Partridge: Alpha Papa",
-          "show_description": "Comedy. Local radio DJ and former talk show presenter Alan Partridge ends up in a siege when a disgruntled colleague decides to take the staff hostage. Contains strong language. [2013]",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b6b4c882-3ca4-4ecb-a622-c3365f11645d/cover",
-          "start_time": "23:45",
-          "end_time": "01:10"
-        }
-      ]
-    },
-    {
       "date": "15 March 2026",
       "programmes": [
         {
@@ -187,7 +35,7 @@
         },
         {
           "show_name": "Sunday with Laura Kuenssberg",
-          "show_description": "The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.",
+          "show_description": "Laura Kuenssberg's guests are energy secretary Ed Miliband, shadow energy secretary Claire Coutinho, Lib Dem Leader Ed Davey and musician and actor Self Esteem.",
           "show_logo": "https://images.metadata.sky.com/pd-image/48ca59be-bfca-469d-bd16-094e3755e352/cover",
           "start_time": "09:00",
           "end_time": "10:00"
@@ -331,6 +179,186 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/0f3e1667-4fc6-4d69-b889-681c600e9928/cover",
           "start_time": "23:40",
           "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "16 March 2026",
+      "programmes": [
+        {
+          "show_name": "The Claudia Winkleman Show",
+          "show_description": "Claudia's guests are Jeff Goldblum, Vanessa Williams, Jennifer Saunders and Tom Allen. Contains some strong language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1fe7255d-55cd-4272-8d91-820234af66f9/cover",
+          "start_time": "00:30",
+          "end_time": "01:15"
+        },
+        {
+          "show_name": "Weather for the Week Ahead",
+          "show_description": "Detailed weather forecast.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/066eb1d2-47c8-4287-9cbc-9d1ad2dc593c/cover",
+          "start_time": "01:15",
+          "end_time": "01:20"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/29663b8e-0686-45ea-896b-6eda1a83f6c6/cover",
+          "start_time": "01:20",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2587a472-22fb-49d3-8368-795844d19c9b/cover",
+          "start_time": "06:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Morning Live",
+          "show_description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/624bbb4a-28c1-4c60-8928-774c1cf1a6cd/cover",
+          "start_time": "09:30",
+          "end_time": "10:45"
+        },
+        {
+          "show_name": "Crimewatch Live",
+          "show_description": "11/15. In 2005, two best friends died in an arson attack while sleeping - but who lit the fire?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5c1803f8-f07a-4848-81fa-8516a9c7ec1d/cover",
+          "start_time": "10:45",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Homes Under the Hammer",
+          "show_description": "33/80. Dion is channelling his inner Hilda Ogden at a house in Stoke, and in Leeds, he's confused by the layout of a 'higgledy-piggledy' house.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/14209a0d-8761-4c23-bc77-0e1bd75581a7/cover",
+          "start_time": "11:30",
+          "end_time": "12:15"
+        },
+        {
+          "show_name": "Bargain Hunt",
+          "show_description": "Experts Izzie Balmer and Nick Hall shop alongside today's red and blue teams, and presenter Christina Trevanion meets the relative of an unassuming First World War hero.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/220e4612-cec4-472f-98df-d6a8953ef348/cover",
+          "start_time": "12:15",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "BBC News at One including Newsline",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/96e01dd0-059b-4197-baf4-cc34f3b84671/cover",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Bear Grylls - Wild Reckoning",
+          "show_description": "Ben and his parents are at loggerheads over his decision to drop out of university to work full-time on his gaming channel.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/58652fec-467a-4b90-bbeb-94a7b6b52906/cover",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "Amanda & Alan's Spanish Job",
+          "show_description": "5/8. The best friends divide and conquer as Amanda transforms the second guest bedroom into a wallpapered spectacle, while Alan goes tile-crazy with a hammam-inspired bathroom.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bb5539c4-3ec0-49f8-b63d-ac46f3a62b7c/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Escape to the Country",
+          "show_description": "35/50. Alistair Appleton helps globetrotter Sabiha find an Argyll and Bute retreat with a line-up that includes a magical home on an island, just a short ferry ride from the mainland.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3e03af80-b105-424e-a1f8-2e047793ef3b/cover",
+          "start_time": "15:00",
+          "end_time": "15:45"
+        },
+        {
+          "show_name": "The Repair Shop on the Road",
+          "show_description": "Dom hopes to get a tune out of an Edwardian pianola at the world's oldest surviving music hall, while Will and Kirsten team up to make a handmade chess set playable once again.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4b711aec-6eca-4a87-8e52-889b05aa073a/cover",
+          "start_time": "15:45",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "The Finish Line",
+          "show_description": "6/25. Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/eb757f39-4cfc-4301-917c-0a717b8b8fe8/cover",
+          "start_time": "16:30",
+          "end_time": "17:15"
+        },
+        {
+          "show_name": "Pointless",
+          "show_description": "6/54. The quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2c4a9317-7cd1-3af6-be92-b73d44774dbb/cover",
+          "start_time": "17:15",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8f534f45-3971-4748-979c-b38f9c59d617/cover",
+          "start_time": "18:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "BBC Newsline",
+          "show_description": "Local news from across Northern Ireland with Tara Mills and Declan Harvey.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d0cba19a-3e0b-48f7-9da1-05d7fdfe0a82/cover",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "The One Show",
+          "show_description": "Alex Jones and Roman Kemp bring you the stories that matter from across the country.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6b431fec-3643-4833-bae8-6301577c3cdd/cover",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "EastEnders",
+          "show_description": "There's drama for the Brannings as they spend Mother's Day with the Beales, Bea plays with fire, and Jean extends an olive branch.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1ef6fdea-e26e-4d29-9516-23d64edcda4e/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Ronan Keating's Wild Atlantic",
+          "show_description": "Ronan heads to Ireland's southernmost and largest county to meet up with family, compete in the ancient sport of road bowling and explore a Tibetan Buddhist temple on the coast.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ff53c577-c819-4141-821d-5c5612f342cb/cover",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Assisted Dying: What Next? - Panorama",
+          "show_description": "Will assisted dying ever happen in the UK, and how would it work if it did? The BBC's medical editor, Fergus Walsh, talks to leading supporters and opponents.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cbdaffd2-7581-441a-8f8d-2ef0d9cf2b6b/cover",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "MasterChef: The Professionals",
+          "show_description": "16/21. The semi-finals begin with the remaining eight chefs challenged to deliver a dish that uses all the chosen ingredients, with absolutely nothing wasted.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/354f77b8-1a47-42e4-ba59-bcd58c1bc8cc/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "BBC News and Weather",
+          "show_description": "The latest national and international news, with reports from BBC correspondents worldwide.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c8a41f23-00ba-4b4c-a6a9-10810078cdfb/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "BBC Newsline",
+          "show_description": "Local news from across Northern Ireland with Tara Mills and Declan Harvey.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d6995c78-3b3a-48e6-959d-0cc3faced6fb/cover",
+          "start_time": "22:30",
+          "end_time": "22:40"
+        },
+        {
+          "show_name": "Aontas",
+          "show_description": "Three women rob a rural credit union. A backwards chronology unravels what went wrong. [2024]",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1bcd0c22-ed1a-4825-b5d6-da55a358be92/cover",
+          "start_time": "22:40",
+          "end_time": "00:10"
         }
       ]
     }

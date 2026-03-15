@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
   "schedule": [
     {
-      "date": "14 March 2026",
-      "programmes": [
-        {
-          "show_name": "Through the Night",
-          "show_description": "Romanian pianist Andrei Licaret conducts and performs with the 'Magic Summer' Festival Orchestra in a concert from Bucharest featuring Beethoven's 2nd, 3rd and 4th piano concertos.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "Hannah French presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Saturday Morning",
-          "show_description": "Tom with an all-star composer line up! Nico Muhly chats about his new album of choral music, plus composer Hildur GuDnadóttir on her Oscar winning score for Joker.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Earlier... with Jools Holland",
-          "show_description": "Jools is joined by singer-songwriter Beth Rowley, with music by Brahms, Hildegard of Bingen and Ennio Morricone.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Music Matters: Turning the Page",
-          "show_description": "Violinist Tasmin Little looks at how, when and why musicians retire from performance. Featuring pianist Maria João Pires, violinist Lyn Fletcher and conductor Herbert Blomstedt.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Record Review",
-          "show_description": "Andrew McGregor with the best new classical releases, with guest reviewers Katy Hamilton and Nigel Simeone, who surveys recordings of Janacek's Sinfonietta and makes a top choice.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Sound Of Cinema",
-          "show_description": "Edith Bowman presents an awards special, building up to Hollywood's biggest and most dazzling night with music from some of cinema's most celebrated and critically acclaimed scores.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "This Classical Life",
-          "show_description": "Jess Gillam swaps music choices with the multi-award-winning opera and music theatre composer Conor Mitchell.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Opera on 3",
-          "show_description": "From the Metropolitan Opera in New York, Puccini's Madama Butterfly starring Aleksandra Kurzak and Adam Smith. Carlo Rizzi conducts.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "21:30"
-        },
-        {
-          "show_name": "Music Planet",
-          "show_description": "Broadcaster, writer and DJ Zakia Sewell curates a rich selection of global roots-based music, exploring connections between identity, folk culture and myth.",
-          "show_logo": "",
-          "start_time": "21:30",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "New Music Show",
-          "show_description": "Kate Molleson talks to the composer Rhodri Davies about the new music that he's discovering now, and Kate showcases the best and latest in cutting-edge and experimental new music.",
-          "show_logo": "",
-          "start_time": "22:30",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "15 March 2026",
       "programmes": [
         {
@@ -188,6 +106,88 @@
         {
           "show_name": "Unclassified",
           "show_description": "Elizabeth Alker with a late-night journey through new music from today's most exciting genre-defying artists.",
+          "show_logo": "",
+          "start_time": "23:30",
+          "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "16 March 2026",
+      "programmes": [
+        {
+          "show_name": "Through the Night",
+          "show_description": "The Orchestre de la Suisse Romande is joined by violinist Midori for Sibelius's Violin Concerto in D minor. Jonathan Swain presents.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Essential Classics",
+          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Classical Live",
+          "show_description": "Elizabeth Alker with a week of exclusive music-making including a live concert from the Brentano Quartet from Wigmore Hall, and a focus on a world of opera without words.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Composer of the Week: Donizetti",
+          "show_description": "1/5. Donald Macleod follows the irresistible rise of Italian opera composer Gaetano Donizetti. Today, a musical father figure transforms young Gaetano's prospects.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "In Tune",
+          "show_description": "Live music and interviews from the world's finest classical musicians.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Classical Mixtape",
+          "show_description": "Take time out with a 30-minute soundscape of classical music.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Radio 3 in Concert",
+          "show_description": "The BBC Symphony Orchestra conducted by Kristiina Poska in Rachmaninov's Piano Concerto No.2, with soloist Gabriela Montero, Tchaikovsky's Symphony No.5 and music by Julia Adolphe.",
+          "show_logo": "",
+          "start_time": "19:30",
+          "end_time": "21:45"
+        },
+        {
+          "show_name": "The Essay: Scotland Rocks",
+          "show_description": "1/5. Kenneth Steven combines Scottish landscape and geological history with his own poetry.",
+          "show_logo": "",
+          "start_time": "21:45",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Night Tracks",
+          "show_description": "Sara Mohr-Pietsch presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "'Round Midnight",
+          "show_description": "From Monday to Thursday, Soweto is joined by French-Syrian flautist Naïssam Jalal who has four favourite jazz albums to share.",
           "show_logo": "",
           "start_time": "23:30",
           "end_time": "00:30"
