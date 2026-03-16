@@ -3,200 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-uk.png",
   "schedule": [
     {
-      "date": "15 March 2026",
-      "programmes": [
-        {
-          "show_name": "Aussie Gold Hunters: Mine SOS",
-          "show_description": "The Bates. Paul Mackie and his expert team must haul a crew of first-time gold miners out of an epic three-year gold drought before their operation and family legacy ends in ruin.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1cb7aeea-f586-46bf-ac7d-97bdef037097/cover",
-          "start_time": "00:00",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "Ancient Unexplained Files",
-          "show_description": "Secrets Of Skull Grave. Archaeologists use state-of-the-art digital technology to uncover the mystery behind human skulls from Chile. What happened to these discarded skulls?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/91bb93fc-871c-4c15-ab73-a0660e88e1af/cover",
-          "start_time": "01:00",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "Ancient Unexplained Files",
-          "show_description": "War Of The Ancients. Archaeologists use new digital technology to try and solve the mystery behind an ancient burial ground filled with bones, swords, an axe and more in Germany.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d0395ba7-ddd2-4d22-b73e-5dbee2194e03/cover",
-          "start_time": "02:00",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "How It's Made",
-          "show_description": "Everyday items go under the spotlight. How pharmaceutical blister packs, deli slicers and weather vanes are made.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5f185347-6946-3fd1-bf8e-faebfb802e6e/cover",
-          "start_time": "03:00",
-          "end_time": "03:30"
-        },
-        {
-          "show_name": "How It's Made",
-          "show_description": "Top and bowler hats, solar water heaters, sticky buns and electrostatic speakers go under the microscope.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7c01dfd7-28d5-33d4-96e7-2292017cf29b/cover",
-          "start_time": "03:30",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "How It's Made",
-          "show_description": "More everyday items go under the microscope, revealing their production. How are objects such as electric boats and fencing foils made?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b5b03492-97ee-4b09-9cff-d0e1fddf58c8/cover",
-          "start_time": "04:00",
-          "end_time": "04:30"
-        },
-        {
-          "show_name": "How It's Made",
-          "show_description": "Follow the production process of aluminium foil, snowboards, soft polymer contact lenses and bread and find out how each of these items is made.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5c58d60e-746f-49c1-8ad2-71ab084850a0/cover",
-          "start_time": "04:30",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Teleshopping.",
-          "show_logo": "",
-          "start_time": "05:00",
-          "end_time": "05:30"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Teleshopping.",
-          "show_logo": "",
-          "start_time": "05:30",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Find It, Fix It, Flog It",
-          "show_description": "Max McMurdo and Simon O'Brien travel across the UK to find unique items lost in people's homes and fix them up for a profit. They turn trash into treasure!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/610f429a-8df5-47ad-b745-5fa3a4040c04/cover",
-          "start_time": "06:00",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Find It, Fix It, Flog It",
-          "show_description": "Max McMurdo and Simon O'Brien travel across the UK to find unique items lost in people's homes and fix them up for a profit. They turn trash into treasure!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3dfd3727-9ee6-4ea7-a870-6de9e5868ede/cover",
-          "start_time": "07:00",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "Find It, Fix It, Flog It",
-          "show_description": "Max McMurdo and Simon O'Brien travel across the UK to find unique items lost in people's homes and fix them up for a profit. They turn trash into treasure!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/91bf413c-63a2-4ed7-9a87-0c8b0250bc9b/cover",
-          "start_time": "08:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Antiques Road Trip",
-          "show_description": "Charlie Ross and Izzie Balmer begin their hunt for antiques in Stow-on-the-Wold. Izzie buys a toast rack, while Charlie eyes a military first aid kit.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c26e40a0-89b1-4880-8d52-86846472aae8/cover",
-          "start_time": "09:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Antiques Road Trip",
-          "show_description": "Izzie Balmer and Charlie Ross hunt for hidden gems in Gloucester. Plus, Izzie learns about the incredible story of Britain's first female astronomer.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5c0fa481-7334-4e89-809d-f6b13310e366/cover",
-          "start_time": "10:00",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "Antiques Road Trip",
-          "show_description": "Izzie Balmer and Charlie Ross continue their road trip in Hartley Wintney. Charlie buys a cut glass sugar shaker, while Izzie eyes three bronze pigs.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d8110e01-65bd-4804-b0cd-0ec8900ef3c8/cover",
-          "start_time": "11:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Antiques Road Trip",
-          "show_description": "Charlie Ross and Izzie Balmer search for interesting items in Salisbury. Plus, Izzie travels to Selborne to learn about one of the world's first ecologists.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/47195fa4-3f7c-4599-afb5-b6182d1da279/cover",
-          "start_time": "12:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Antiques Road Trip",
-          "show_description": "Charlie Ross and Izzie Balmer scour the Isle of Wight for profitable antiques. Plus, Charlie heads to Blackgang to explore Britain's oldest amusement park.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3a185900-c3e1-4536-ba62-bdb50ae9ec6f/cover",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "The Repair Shop",
-          "show_description": "First up, the team bring a well-loved Indian guitar back to life. Plus, leather expert Suzie is challenged with restoring a vintage RAF-issued flying jacket.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7822c533-cdd1-3d42-81d5-36fe7426494c/cover",
-          "start_time": "14:00",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "The Repair Shop",
-          "show_description": "Silversmith Brenton is challenged with restoring a battered, old trophy. Plus, wood expert Will revives an impressive birdcage with a remarkable backstory.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f54b8e77-bbe2-48f1-b1ef-a180b0dde916/cover",
-          "start_time": "15:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "The Repair Shop",
-          "show_description": "Metal expert Dominic restores a 1940's snail riding toy. Plus, silversmith Brenton works on a treasured trophy won in a 1949 ballroom dancing competition.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f229223d-6819-327f-abed-ef349cff0c96/cover",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "The Yorkshire Auction House",
-          "show_description": "Angus is in Newcastle to clear out a home that's full of books. He takes an interest in a Bechstein piano, a scary vase and a silver loving cup.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c7cb2b4d-a2b9-4ebc-a1f4-26c9c7b3b214/cover",
-          "start_time": "17:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "The Yorkshire Auction House",
-          "show_description": "Sacred Secret & Saucy Surprise. Angus sells the treasures of an Abbey to fund the monks' retirement, and a motoring fanatic's cheeky sculpture sets pulses racing on sale day.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8f3604fa-7ed6-45fb-8633-c859e5312406/cover",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Celebrity Yorkshire Auction House",
-          "show_description": "Susannah Constantine & Leslie Ash. Angus raids TV presenter Susannah's couture stash, then helps actress Leslie uncover treasures, memories, and a few famous surprises!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bdbb6b89-682c-4c2f-be7e-d15f60a99396/cover",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "The Repair Shop",
-          "show_description": "Metal expert Dominic gives a rare, old pedal aeroplane a new lease of life. Plus, luthier Julian works on a ukulele made from a box of cigars in 1926.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2c8e9b31-6b88-4638-abf8-ac7eb45976b8/cover",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "The Repair Shop",
-          "show_description": "An ancestor of famous philosopher Simone de Beauvoir brings in a painting for a new lick of paint, and a beloved silver bracelet gets its charm back.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ec00d371-4c84-4f9f-b004-8f99e1c985e5/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The Repair Shop",
-          "show_description": "First up, the team bring a well-loved Indian guitar back to life. Plus, leather expert Suzie is challenged with restoring a vintage RAF-issued flying jacket.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7822c533-cdd1-3d42-81d5-36fe7426494c/cover",
-          "start_time": "22:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "The Repair Shop",
-          "show_description": "Silversmith Brenton is challenged with restoring a battered, old trophy. Plus, wood expert Will revives an impressive birdcage with a remarkable backstory.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f54b8e77-bbe2-48f1-b1ef-a180b0dde916/cover",
-          "start_time": "23:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "16 March 2026",
       "programmes": [
         {
@@ -407,6 +213,221 @@
           "show_description": "How do they cultivate green salad on scorching desert plains, how do they make rigging for ships and how do they produce lifesaving insulin from bread?",
           "show_logo": "https://images.metadata.sky.com/pd-image/0618580b-c8cd-39fa-9a59-fa118c54607f/cover",
           "start_time": "23:30",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "17 March 2026",
+      "programmes": [
+        {
+          "show_name": "How Do They Do It?",
+          "show_description": "How do they build one of the world's most powerful locomotives? And how do they turn cows' milk into clotted cream?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/028bdda0-d491-4323-b39d-1aef608f62b5/cover",
+          "start_time": "00:00",
+          "end_time": "00:30"
+        },
+        {
+          "show_name": "How Do They Do It?",
+          "show_description": "A look at how products are manufactured around the world. Looking at sardine fishing, Piaggio scooters and erector sets.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/49e15b8a-6915-4011-951e-53c144e62f86/cover",
+          "start_time": "00:30",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "Wheeler Dealers: Dream Car",
+          "show_description": "Carl's Fiesta RS Turbo. Carl would love to own a classic Fiesta RS Turbo, but he spends all his spare cash on his family. Mike takes big gamble to secure this dream car.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/16c4f2e3-9c15-49ec-bafb-6a777be3f74f/cover",
+          "start_time": "01:00",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "Wheeler Dealers: Dream Car",
+          "show_description": "Kerry's Nissan Patrol. The guys try to hunt down a classic Nissan Patrol for surfer Kerry. She hands over her daily motor, a VW Touran, which breaks down en route to the garage.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2bddea71-8dae-4a28-8848-6dc5fd584ce0/cover",
+          "start_time": "02:00",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Shed And Buried",
+          "show_description": "Stumpie's American Take Away. In the New Forest, Hampshire, Henry and Sam visit a collector of Americana. What rare bicycles and classic sportsters will they find in his sheds?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/895da994-0b28-4f25-883c-44e1ddcacd2c/cover",
+          "start_time": "03:00",
+          "end_time": "03:30"
+        },
+        {
+          "show_name": "Shed And Buried",
+          "show_description": "Chiller Thriller. In the Midlands, Henry and Sam visit the sheds of a bike builder. He has a collection of rare bikes, but it's the surprise in his freezer that attracts the duo.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e69cffed-facd-46c0-91d0-fcf3e4bd3e84/cover",
+          "start_time": "03:30",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "How It's Made",
+          "show_description": "Follow the production process of hearing aids, 3D puzzles and toilets, and find out how each of these items is made.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d7c01cdf-5d6c-4d24-9483-378a90a08a71/cover",
+          "start_time": "04:00",
+          "end_time": "04:30"
+        },
+        {
+          "show_name": "How It's Made",
+          "show_description": "Follow the production process of copy paper, jeans and computers, and find out how each of these items is made.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5a79bad7-edf3-44aa-a1b1-86b627596745/cover",
+          "start_time": "04:30",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Teleshopping.",
+          "show_logo": "",
+          "start_time": "05:00",
+          "end_time": "05:30"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Teleshopping.",
+          "show_logo": "",
+          "start_time": "05:30",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "The Repair Shop",
+          "show_description": "Mark uncovers an 80-year-old radio with a notable history. Meanwhile, Suzie restores a beloved games kit and Steve works on a grandfather clock with sentimental value.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b4c2c2b1-50b9-3140-9287-4b13e60484c2/cover",
+          "start_time": "06:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Salvage Hunters",
+          "show_description": "Masters Of The Trade. On a trip from Manchester to Hampshire, Drew visits expert dealers, snapping up a campaign chair, a Georgian bookcase, and a 19th-century carved deer.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/22ed99ef-80c1-308c-98b3-190f0797f910/cover",
+          "start_time": "07:00",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Salvage Hunters",
+          "show_description": "In The Family. Drew seeks out a combination of knowledge and experience when he visits four family businesses. He discovers an exciting array of items to sell on.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5f2aa1c3-7317-3534-aaf4-49bbd04d95b5/cover",
+          "start_time": "08:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Aussie Gold Hunters",
+          "show_description": "The Scrappers launch their season determined to find a huge gold haul. Meanwhile, new crew the Victoria Diggers may have stumbled on a million-dollar motherlode.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/02d13b13-dc69-49cc-b02a-7aba65820816/cover",
+          "start_time": "09:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Aussie Gold Hunters",
+          "show_description": "One team breaks all records, unearthing the biggest gold nugget ever found on television. Neville and Mick are hampered by a run-in with one of the deadliest snakes on the planet.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7e98e0ef-4673-466a-affa-ee4c74b8f73e/cover",
+          "start_time": "10:00",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "Antiques Road Trip",
+          "show_description": "On Tim and Irita's second trip, Irita's on top and in the Suffolk pink, while he breaks down before giving her a fright. Will bidders love the sweetheart brooch?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/13e9560c-b018-4dac-bdf9-e5b4ee963e83/cover",
+          "start_time": "11:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "The Yorkshire Auction House",
+          "show_description": "Angus and the team are in Derbyshire to help a widow clear out her home. They uncover a riding crop, a 19th century stool and a jewellery collection.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d717d73e-79b8-457f-84e1-e9dec35138a5/cover",
+          "start_time": "12:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "The Repair Shop",
+          "show_description": "Mark uncovers an 80-year-old radio with a notable history. Meanwhile, Suzie restores a beloved games kit and Steve works on a grandfather clock with sentimental value.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b4c2c2b1-50b9-3140-9287-4b13e60484c2/cover",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Shed And Buried",
+          "show_description": "The Need For Speed. Henry and Sam are in Lancashire, visiting a petrol head with a collection of vintage bikes and rare British and American four-wheelers.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b4cfbc92-d9b2-4469-b5fc-33cb085d47d4/cover",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "Shed And Buried",
+          "show_description": "Bicycles And Stationary Engines. In Oxfordshire, Henry and Sam find a shed full of different items. Sam has his eye on some model trains while Henry finds a vintage bike.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bbd8fb43-4b9c-4755-af4e-3916dd08e61b/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Shed And Buried",
+          "show_description": "Nir And Olivia. Henry and Fuzz check out Nir's collection of vehicles, including American air taxis, 1920s Citroen saloons and 1980s Japanese Superbikes.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4c802c5a-c2db-32d4-a9ed-3299563e8108/cover",
+          "start_time": "15:00",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "Shed And Buried",
+          "show_description": "Norman. Henry and Fuzz meet Norman, a lifetime petrolhead. His shed is filled with vintage cars, film props, bikes, and classic Mercedes saloons.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a4fc1e67-4876-3a57-a420-f315829838a3/cover",
+          "start_time": "15:30",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Celebrity Yorkshire Auction House",
+          "show_description": "Angus helps Craig Revel Horwood auction off items from his glamorous house. Later, the team explore the home of legendary broadcaster John Sergeant.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c68ebf22-944b-43bb-a0dc-f2c509f66cc7/cover",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Celebrity Yorkshire Auction House",
+          "show_description": "Brian enlists Angus to help his singer daughter Lucy raise money for a mixing desk. And Angus visits Edwina's home to help raise funds for Ukraine.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/50b3f4ae-db28-3290-9b10-52f4a7388817/cover",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Antiques Road Trip",
+          "show_description": "Antiques experts travel the UK with a budget of £200 each in a competition to find and buy antiques or rare items and sell them for a profit.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0accdf2a-116e-4a48-a362-5b2e6440a90d/cover",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Antiques Road Trip",
+          "show_description": "Antiques experts travel the UK with a budget of £200 each in a competition to find and buy antiques or rare items and sell them for a profit.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a291cf66-5c43-4e31-9a69-0c4d5ac0a776/cover",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Shed And Buried",
+          "show_description": "Dino / Morgan Sports Car. Henry and Fuzz are in West Sussex at Dino's mega-shed. He's got buses, vintage sports cars, rare motorbikes and oodles of motoring ephemera.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4c38b225-9fb6-37dc-84e1-1097dbf3b0f4/cover",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Shed And Buried",
+          "show_description": "Chopper Roy / Triton And Bantam. Henry and Fuzz head to 'Chopper Roy's' place. His vintage British motorbikes and a classic seventies sports coupé catch their eye.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e8bff53f-2834-3ec6-8518-16209645008f/cover",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "New: Richard Hammond's Workshop",
+          "show_description": "Old Mates And Motor-Racing. Richard gets into hot water as he tries to upgrade his racing licence and the Cogs head to the Isle of Man TT to help launch a new British motorbike.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f7102296-174a-42cb-b062-065ee2a1beeb/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Shed And Buried: Classic Helicopter",
+          "show_description": "Henry tackles his biggest project, restoring a Bell 47 helicopter for the 80th Anniversary Flight. It's a race against time to get it off the ground.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/39f7ad5c-1888-4edf-a1aa-3bfb5ef26c3d/cover",
+          "start_time": "22:00",
           "end_time": "00:00"
         }
       ]

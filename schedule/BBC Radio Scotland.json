@@ -3,81 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Scotland.png",
   "schedule": [
     {
-      "date": "15 March 2026",
-      "programmes": [
-        {
-          "show_name": "As BBC Radio 5 Live",
-          "show_description": "Joining Radio 5 Live.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Scotcast",
-          "show_description": "Martin Geissler and the team bring you thoughtful conversation and expert analysis covering the most interesting news stories in Scotland.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "07:30"
-        },
-        {
-          "show_name": "New Every Sunday",
-          "show_description": "An act of worship with Church of Scotland minister Rev Gillean Maclean in Inverness.",
-          "show_logo": "",
-          "start_time": "07:30",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "Sunday Morning",
-          "show_description": "Poet and musician John Hegley shares his Spiritual Life, marking the Dunblane tragedy 30 years on, Louis Theroux's Inside the Manosphere and political posturing at the Oscars.",
-          "show_logo": "",
-          "start_time": "08:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "The Sunday Show",
-          "show_description": "News, discussion and interviews from politics and beyond.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Sportsound",
-          "show_description": "Richard Gordon presents Sunday's Premiership action, with full commentary of St Mirren v Rangers (12:00 ko) followed by the Dundee derby live from Dens Park (14:00 ko).",
-          "show_logo": "",
-          "start_time": "11:30",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Your Requests with Gary Innes",
-          "show_description": "Join Gary as he shares your special messages and dedications and plays your favourite Scottish Music requests.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Classical Now",
-          "show_description": "Jamie MacDougall has a concert recording from the BBC Scottish Symphony Orchestra, and we remember composer Sir Peter Maxwell Davies, who passed away ten years ago this month.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Roddy Hart's Mix Tape",
-          "show_description": "Roddy Hart plays handpicked tracks from Scotland and beyond. Featuring Belfast-based alternative-folk singer-songwriter Dani Larkin.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "As BBC Radio 5 Live",
-          "show_description": "Joining Radio 5 Live.",
-          "show_logo": "",
-          "start_time": "23:00",
-          "end_time": "06:00"
-        }
-      ]
-    },
-    {
       "date": "16 March 2026",
       "programmes": [
         {
@@ -132,6 +57,88 @@
         {
           "show_name": "Vic Galloway",
           "show_description": "90s rave from Liquid and The Prodigy, classics from The Clash, Supergrass, David Bowie, and Scottish anthems from Biffy Clyro and Young Fathers.",
+          "show_logo": "",
+          "start_time": "20:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Up Late",
+          "show_description": "The best company to end the day, with lively chat and some of your favourite tunes.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "17 March 2026",
+      "programmes": [
+        {
+          "show_name": "Scotcast",
+          "show_description": "Martin Geissler and the team bring you thoughtful conversation and expert analysis covering the most interesting news stories in Scotland.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "00:30"
+        },
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "Joining Radio 5 Live.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Radio Scotland Breakfast",
+          "show_description": "News from across Scotland and the world, plus sport, weather, entertainment and big name interviews.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Mornings",
+          "show_description": "Connie McLaughlin gets to the heart of the stories making the news.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Lunchtime Live",
+          "show_description": "News updates from Scotland and beyond, plus all your lunchtime sport, travel and weather.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Afternoons",
+          "show_description": "Michelle McManus brings you feel-good music and chat with celebrity guests.",
+          "show_logo": "",
+          "start_time": "13:30",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "Afternoons",
+          "show_description": "Len Pennie keeps you up to date on what's happening in the arts and culture scene across Scotland.",
+          "show_logo": "",
+          "start_time": "15:30",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Drivetime",
+          "show_description": "Breaking down the day's talking points with comment and opinion, plus sport, travel and weather.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Get It On with Bryan Burnett",
+          "show_description": "It's the best of the 70s tonight - we could Play That Funky Music, join a Band on the Run, and we Won't Stop 'Til We Get Enough. Let's hear it for the 1970s.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Another Country with Ricky Ross",
+          "show_description": "Live music and conversations with the world's biggest names at C2C: Country To Country, a 3-day festival in Scotland. Featuring Keith Urban, Drake Milligan, Ashley Cooke and more.",
           "show_logo": "",
           "start_time": "20:00",
           "end_time": "22:00"

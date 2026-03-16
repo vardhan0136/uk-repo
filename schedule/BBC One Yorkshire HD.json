@@ -3,193 +3,6 @@
   "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
   "schedule": [
     {
-      "date": "15 March 2026",
-      "programmes": [
-        {
-          "show_name": "Weather for the Week Ahead",
-          "show_description": "Detailed weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/061f0751-0b75-47e1-b2b0-f908be08dacd/cover",
-          "start_time": "01:10",
-          "end_time": "01:15"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/92526704-1684-4a93-83aa-0ff4d38d8e8e/cover",
-          "start_time": "01:15",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c22a6404-86b9-4cd4-8104-feed8eaa230f/cover",
-          "start_time": "06:00",
-          "end_time": "07:50"
-        },
-        {
-          "show_name": "Match of the Day",
-          "show_description": "Kelly Cates presents highlights of five Premier League games, including Arsenal versus Everton and West Ham against Manchester City.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ba780102-26a1-4496-8822-4d4e6a57791b/cover",
-          "start_time": "07:50",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Sunday with Laura Kuenssberg",
-          "show_description": "Laura Kuenssberg's guests are energy secretary Ed Miliband, shadow energy secretary Claire Coutinho, Lib Dem Leader Ed Davey and musician and actor Self Esteem.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/48ca59be-bfca-469d-bd16-094e3755e352/cover",
-          "start_time": "09:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Politics North (Yorkshire and Lincolnshire)",
-          "show_description": "Tim Iredale with the latest political news, interviews and debate.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/084a93a6-f27f-4ed7-be87-1b6cf373f92a/cover",
-          "start_time": "10:00",
-          "end_time": "10:30"
-        },
-        {
-          "show_name": "Pilgrimage: The Road to the Scottish Isles",
-          "show_description": "1/3. Seven celebrities of differing faiths search out the life and legacy of St Columba.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/50379df3-7d52-4e47-8aae-612886332336/cover",
-          "start_time": "10:30",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Celebration Kitchen: Eid",
-          "show_description": "Matt Tebbutt is joined by chefs and guests to celebrate the festival of Eid al-Fitr.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/466c7755-30f8-47d4-b135-e975f974fec5/cover",
-          "start_time": "11:30",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "Bargain Hunt",
-          "show_description": "Join Charlie Ross for today's show in Powys. Experts Kate Bliss and Tim Weeks lead the reds and the blues as they battle it out in Builth Wells.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7a7e98ec-2221-3697-922d-59c67c361ecd/cover",
-          "start_time": "12:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/266d5730-5c46-4863-aadd-0e045dd236d3/cover",
-          "start_time": "13:00",
-          "end_time": "13:10"
-        },
-        {
-          "show_name": "Weather for the Week Ahead",
-          "show_description": "Detailed weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a3900b41-6b49-4a1e-a975-fbfcdfdf40be/cover",
-          "start_time": "13:10",
-          "end_time": "13:15"
-        },
-        {
-          "show_name": "Songs of Praise: Mothering Sunday",
-          "show_description": "To mark Mothering Sunday, Claire McCollum is in Liverpool celebrating 150 years of the Mothers' Union and meeting mums inspired by faith to show God's love and care to those in need.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/415eec2b-6b05-481e-a84e-894cf0b8ec3a/cover",
-          "start_time": "13:15",
-          "end_time": "13:50"
-        },
-        {
-          "show_name": "MOTD Live: Women's League Cup...",
-          "show_description": "...Final: Chelsea v Manchester United. Coverage of Chelsea v Manchester United in the final of the Women's League Cup.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9055aeff-88e4-4928-a2a1-0a5c02974505/cover",
-          "start_time": "13:50",
-          "end_time": "16:35"
-        },
-        {
-          "show_name": "Gladiators",
-          "show_description": "9/11. In the first semi-final, Bradley and Barney Walsh welcome back four more battle-hardened Contenders to take on the awesome Gladiators as they fight for a place in the grand final.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2dda8774-febc-449d-b724-3299846596f1/cover",
-          "start_time": "16:35",
-          "end_time": "17:35"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/76c49b1e-4352-47fd-9a3d-c6bbf5c1e546/cover",
-          "start_time": "17:35",
-          "end_time": "17:50"
-        },
-        {
-          "show_name": "Look North (Yorkshire)",
-          "show_description": "The latest news, sport and weather for Yorkshire.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3feb4f06-cdf1-45c0-99a7-82345b0d6299/cover",
-          "start_time": "17:50",
-          "end_time": "17:55"
-        },
-        {
-          "show_name": "Weather",
-          "show_description": "The latest weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f14ba52d-6aa1-483f-b4dc-be30f25bdbc7/cover",
-          "start_time": "17:55",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Countryfile",
-          "show_description": "Adam Henson and Anita Rani head to Devon to look at all stages of lambing, the success of which can shape a farm's fortunes for months to come.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/17f29de2-9b24-4e80-a48a-d25d30b8cd78/cover",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Antiques Roadshow",
-          "show_description": "The roadshow visits Thirlestane Castle in the Scottish Borders, where treasures include a silver chalice, a Rod Stewart gold disc and a beautiful snuffbox gifted by a Russian tsar.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3391e532-2155-3495-8232-128aaba3d360/cover",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "The Other Bennet Sister",
-          "show_description": "1/10. Mary Bennet longs to shine as brightly as her sisters but often feels overlooked. She hopes to finally win her family's approval at the upcoming Meryton assembly.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4cc97342-36aa-4d30-bf5b-6ac22db3532e/cover",
-          "start_time": "20:00",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "The Other Bennet Sister",
-          "show_description": "2/10. After a disappointing night at the ball, Mary sets aside hopes of finding a match. But when a visitor arrives at Longbourn with a surprising proposal, she must rethink her plan.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2d26af78-e3f3-4120-8143-3b0c73af32c6/cover",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "The Capture",
-          "show_description": "2/6. With pressure building to find the assassin, Carey looks for allies in unlikely places. Contains some strong language.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0c6d3898-8dd2-4845-89df-3ac56323d480/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "BBC News and Weather",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2129d8eb-eefa-4043-a49e-c7fc25a98ba8/cover",
-          "start_time": "22:00",
-          "end_time": "22:25"
-        },
-        {
-          "show_name": "Look North (Yorkshire)",
-          "show_description": "The latest news, sport and weather for Yorkshire.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/369d1a49-6385-410b-8520-d16c72a60ccd/cover",
-          "start_time": "22:25",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "Match of the Day",
-          "show_description": "Mark Chapman presents highlights of the day's four Premier League games: Manchester United v Aston Villa, Liverpool v Tottenham Hotspur, Crystal Palace v Leeds and Nottingham Forest v Fulham.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d720a929-2a74-4b75-be9d-beebf2302f5a/cover",
-          "start_time": "22:30",
-          "end_time": "23:40"
-        },
-        {
-          "show_name": "The Women's Football Show",
-          "show_description": "The big names and the big games from the Women's Super League, with highlights and analysis of all the action.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0f3e1667-4fc6-4d69-b889-681c600e9928/cover",
-          "start_time": "23:40",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "16 March 2026",
       "programmes": [
         {
@@ -327,7 +140,7 @@
         },
         {
           "show_name": "Assisted Dying: What Next? - Panorama",
-          "show_description": "Will assisted dying ever happen in the UK, and how would it work if it did? The BBC's medical editor, Fergus Walsh, talks to leading supporters and opponents.",
+          "show_description": "Will assisted dying ever happen in the UK, and how would it work if it did? Contains some scenes which some viewers may find upsetting.",
           "show_logo": "https://images.metadata.sky.com/pd-image/cbdaffd2-7581-441a-8f8d-2ef0d9cf2b6b/cover",
           "start_time": "20:00",
           "end_time": "20:30"
@@ -380,6 +193,186 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/0aa81165-92bf-4cbf-b747-8fd179499046/cover",
           "start_time": "23:35",
           "end_time": "00:05"
+        }
+      ]
+    },
+    {
+      "date": "17 March 2026",
+      "programmes": [
+        {
+          "show_name": "Far from the Madding Crowd (2015)",
+          "show_description": "Romantic drama based on the classic novel by Thomas Hardy. An independent young woman preparing to take over her uncle's farm attracts the attention of three very different men. [2015]",
+          "show_logo": "https://images.metadata.sky.com/pd-image/15455527-c254-4892-8b5d-917210a938a3/cover",
+          "start_time": "00:05",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "Weather for the Week Ahead",
+          "show_description": "Detailed weather forecast.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d95a6ca1-01f5-420b-81c6-d6d45c7cfd75/cover",
+          "start_time": "02:00",
+          "end_time": "02:05"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/67a1f3f5-34c4-45f8-8cd8-24fb51d90e02/cover",
+          "start_time": "02:05",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b90ff282-5be2-4d9c-8508-49e45cb6a283/cover",
+          "start_time": "06:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Morning Live",
+          "show_description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/112fdc02-f8f1-4fb9-abe2-60afd2462744/cover",
+          "start_time": "09:30",
+          "end_time": "10:45"
+        },
+        {
+          "show_name": "Crimewatch Live",
+          "show_description": "12/15. How a far-right extremist, who had printed his own 3D gun, was jailed for terror offences. And can you help find the driver in a hit-and-run in Runcorn?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1c5aebd3-f4d8-4e34-9c4e-bd0a42cd9d5a/cover",
+          "start_time": "10:45",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Homes Under the Hammer",
+          "show_description": "35/80. Martin is in the wars in Suffolk, with rotting floorboards and jaggy brambles out to get him! He's also playing detective in the West Midlands.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ff51e96b-3d52-4ece-904d-68de72d2f25a/cover",
+          "start_time": "11:30",
+          "end_time": "12:15"
+        },
+        {
+          "show_name": "Bargain Hunt",
+          "show_description": "Natasha Raskin Sharp heads to Cheltenham, where the red and blue teams try to find a right royal bargain with expert help from Danny Sebastian and Caroline Hawley.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b446255d-1814-4a21-b1db-8d33bcc089c0/cover",
+          "start_time": "12:15",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "BBC News at One including Look North (Yorkshire)",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2cbd4e81-c463-4e5c-92fe-40d03d0589ee/cover",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Bear Grylls - Wild Reckoning",
+          "show_description": "After four years together, couple Lisha and Jenna's different communication styles mean they are constantly fighting. Can time in the wild help them repair their relationship?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b5a246e5-d1dd-4c5b-9ce9-773c0e6ddfaa/cover",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "Amanda & Alan's Spanish Job",
+          "show_description": "6/8. With a crumbling outbuilding and an overgrown vine out of control, Amanda and Alan raise the curtain on their biggest challenge yet as they take on the courtyard.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2d3d13f2-3448-42e7-9dc9-a7de50c5d367/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Escape to the Country",
+          "show_description": "36/50. Briony May Williams helps a Canadian couple find a Peak District cottage to call home and meets an octogenarian volunteer ranger who has spent decades caring for the National Park.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4e40f11e-c4d3-4033-bb35-93c4068ae01e/cover",
+          "start_time": "15:00",
+          "end_time": "15:45"
+        },
+        {
+          "show_name": "The Repair Shop on the Road",
+          "show_description": "Dom lends a hand with an 8,000-litre paint job and fixes a department store's pneumatic tube system. Will brings a shattered wedding bowl to Kirsten for a delicate restoration.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/006f1a88-91b2-4053-9778-15cc5a9afa6a/cover",
+          "start_time": "15:45",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "The Finish Line",
+          "show_description": "7/25. Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fd3742e4-bf82-4c94-9578-d7eb06212995/cover",
+          "start_time": "16:30",
+          "end_time": "17:15"
+        },
+        {
+          "show_name": "Pointless",
+          "show_description": "7/54. The quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d5e0b65a-6dd7-3970-8387-1eb03450c158/cover",
+          "start_time": "17:15",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e51d98ce-4c17-4cda-a04f-a43b383a70e2/cover",
+          "start_time": "18:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "Look North (Yorkshire)",
+          "show_description": "The latest news, sport and weather for Yorkshire.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bc078e78-f9cd-4366-8e56-39e0f7422c75/cover",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "The One Show",
+          "show_description": "Lauren Laverne and Alex Jones bring you the stories that matter from across the country.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/66c8a430-09e4-40cb-9a5f-e43282b5906e/cover",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "EastEnders",
+          "show_description": "Lauren gets her stride back, Denise and Kim have an unexpected visitor, and Suki receives a shock.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a1cb1fe9-e685-4128-a26c-dfadcfde0e2d/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Sort Your Life Out with Stacey Solomon",
+          "show_description": "2/6. Stacey and her team tackle the memory-filled home of single mum Almarie.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6e837801-23dc-4f1b-b8d9-cdebf241fe0d/cover",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "MasterChef: The Professionals",
+          "show_description": "17/21. The six semi-finalists are asked to cook their own Thai-style dish from a larder of ingredients selected by John Chantarasak.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/02846ba7-11ef-4233-9ef1-029fecdc37a8/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "BBC News and Weather",
+          "show_description": "The latest national and international news, with reports from BBC correspondents worldwide.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6a263470-402c-4bc0-8e70-0a96aad61ae7/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Look North (Yorkshire)",
+          "show_description": "The latest news, sport and weather for Yorkshire.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/23a46549-035a-4b99-8fc1-73ef853b6eca/cover",
+          "start_time": "22:30",
+          "end_time": "22:40"
+        },
+        {
+          "show_name": "Boarders",
+          "show_description": "1/6. It's the boarders' final term, but vandals unleash chaos. Who's behind the destruction? Contains some strong language and some scenes of a sexual nature.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5898a9c7-1a89-40dd-aae0-f4595f75c2bc/cover",
+          "start_time": "22:40",
+          "end_time": "23:25"
+        },
+        {
+          "show_name": "Boarders",
+          "show_description": "2/6. The vandals are discovered, and tensions escalate. Toby is caught in the middle. Contains some strong language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/af8e5aff-e121-4eca-b636-e4acfe3ba20a/cover",
+          "start_time": "23:25",
+          "end_time": "00:15"
         }
       ]
     }
