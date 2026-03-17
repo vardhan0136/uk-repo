@@ -3,172 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png",
   "schedule": [
     {
-      "date": "16 March 2026",
-      "programmes": [
-        {
-          "show_name": "New: Black Sails",
-          "show_description": "IV: Swashbuckling action-adventure drama. The Walrus crew take on a mission that ends in disaster, Silver warns Flint about Billy, and a figure from Vane's past pays him a visit.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c0ac7537-0e86-448c-9d71-e023bcfdaf9a/cover",
-          "start_time": "00:10",
-          "end_time": "01:10"
-        },
-        {
-          "show_name": "Lost Car Rescue",
-          "show_description": "Reality series following an ambitious team of classic car hunters. Tension grows among the squad as they try to fill their trailer with pre-war vehicles from railway ghost towns.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e7606357-31de-3975-bd75-874f18850c2e/cover",
-          "start_time": "01:10",
-          "end_time": "02:05"
-        },
-        {
-          "show_name": "Minder",
-          "show_description": "The Car Lot Baggers: Drama series about a loveable rogue. When an unscrupulous builder wants a piece of land occupied by a friend of Arthur, he hires thugs to put the frighteners on.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b1cbbc9a-951a-42a2-be5e-647304494389/cover",
-          "start_time": "02:05",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Shopping from home.",
-          "show_logo": "",
-          "start_time": "03:00",
-          "end_time": "03:30"
-        },
-        {
-          "show_name": "Auto Mundial",
-          "show_description": "The latest news and reviews from the world of cars.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f81b1942-f2eb-4288-ac72-6c1edd018174/cover",
-          "start_time": "03:30",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Shopping from home.",
-          "show_logo": "",
-          "start_time": "04:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "The Big Match Revisited",
-          "show_description": "Brian Moore presents a special FA Cup Fourth Round edition from January 1978 as West Ham United face QPR, Bristol Rovers challenge Southampton, and Middlesbrough take on Everton.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8eef6430-041a-3dba-88b9-d7f0c3d0dc31/cover",
-          "start_time": "06:00",
-          "end_time": "07:05"
-        },
-        {
-          "show_name": "The Big Match Revisited",
-          "show_description": "An edition from February 1978 with Fulham taking on Tottenham Hotspur, Blackpool and Blackburn Rovers battling in a seven-goal thriller, and Nottingham Forest hosting Wolves.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7e262f5f-2d13-3621-8074-3f4b6cb391e5/cover",
-          "start_time": "07:05",
-          "end_time": "08:10"
-        },
-        {
-          "show_name": "Magnum, P.I.",
-          "show_description": "The Hotel Dick: Classic US action drama series. When he takes a job as a hotel detective, Thomas's bids to catch a cat burglar are complicated by his relationship with a hooker.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6c8f579c-a196-3638-add7-aef292530d6b/cover",
-          "start_time": "08:10",
-          "end_time": "09:10"
-        },
-        {
-          "show_name": "Kojak",
-          "show_description": "A Summer Madness: Classic US detective drama. Theo investigates the bombing of a restaurant while unaware that one of his fellow detectives has a vested interest in the case.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/85dc1c91-8849-3374-8815-399e38d3a3a1/cover",
-          "start_time": "09:10",
-          "end_time": "10:10"
-        },
-        {
-          "show_name": "Boon",
-          "show_description": "Burning Ambition: Classic drama starring Michael Elphick. Ken finds himself being interrogated about a crime he did not commit thanks to a jilted lover and a lying husband.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/50b689bf-c33e-42a2-a97b-b0614bcf200b/cover",
-          "start_time": "10:10",
-          "end_time": "11:25"
-        },
-        {
-          "show_name": "The Sweeney",
-          "show_description": "On the Run: Classic crime drama. A convicted armed robber escapes from jail and goes gunning for Regan.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c9ca84ae-b2f7-4308-bc5c-394347b2660c/cover",
-          "start_time": "11:25",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "Dempsey and Makepeace",
-          "show_description": "The Prizefighter: Classic detective series. Dempsey and Makepeace find themselves in grave danger when an injured bare-knuckle boxer sparks off an investigation into counterfeiters.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/100db3ce-4165-4d32-a511-a8ba19c7b7d8/cover",
-          "start_time": "12:30",
-          "end_time": "13:35"
-        },
-        {
-          "show_name": "Magnum, P.I.",
-          "show_description": "Going Home: Classic US action drama series. Thomas returns home to Virginia to attend his grandfather's funeral but gets caught up in the search for a valuable family heirloom.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7e5015ce-70db-32fc-8bda-145e1f4dcae8/cover",
-          "start_time": "13:35",
-          "end_time": "14:35"
-        },
-        {
-          "show_name": "Kojak",
-          "show_description": "Law Dance: Classic US detective drama. A convicted murderer exploits a legal loophole to get a second trial and may walk free when the key witness in the case is then killed.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a0fd8739-f5ad-338a-ac98-9905ddb9a778/cover",
-          "start_time": "14:35",
-          "end_time": "15:35"
-        },
-        {
-          "show_name": "Boon",
-          "show_description": "Bully Boys: Classic drama. Ken and Harry are shocked when they delve into the affairs of a local landlord, and Laura and Rocky teach a schoolteacher who is also a bully a lesson.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c5f181c3-7cb6-478a-a30a-c7d9e2647417/cover",
-          "start_time": "15:35",
-          "end_time": "16:40"
-        },
-        {
-          "show_name": "The Sweeney",
-          "show_description": "Messenger of the Gods: Classic 1970s police series. Regan and Carter believe Lukey Rix to be a suspect when a consignment of mercury is stolen, but Lukey has an alibi.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a0945bed-cbd1-4d40-9980-ff701ff8b81a/cover",
-          "start_time": "16:40",
-          "end_time": "17:50"
-        },
-        {
-          "show_name": "Minder",
-          "show_description": "Get Daley: Drama series about a rogue. Arthur is not even safe in hospital when he witnesses the death of a business associate and a friend of Terry's is in the frame for it.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/19e6976e-58e9-43d5-972b-0d64e472d903/cover",
-          "start_time": "17:50",
-          "end_time": "18:55"
-        },
-        {
-          "show_name": "Sharpe",
-          "show_description": "Sharpe's Rifles: Napoleonic War-based action-adventure. After saving the life of Sir Arthur Wellesley, Sergeant Richard Sharpe is rewarded with a mission to locate a missing agent.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d8eba969-befe-4bed-8701-23389332fc76/cover",
-          "start_time": "18:55",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Expend4bles",
-          "show_description": "Action-adventure film sequel starring Jason Statham and Curtis '50 Cent' Jackson, 2023. The team of elite mercenaries reunites - with new blood - to tackle an arms dealer in Libya.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fc6300af-5477-380e-8acd-f30061ec1ae6/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "FYI Daily",
-          "show_description": "Latest news from the world of entertainment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cfb50aae-013b-4caa-a3ab-760b07b3b35f/cover",
-          "start_time": "22:00",
-          "end_time": "22:05"
-        },
-        {
-          "show_name": "Expend4bles",
-          "show_description": "Action-adventure film sequel starring Jason Statham and Curtis '50 Cent' Jackson, 2023. The team of elite mercenaries reunites - with new blood - to tackle an arms dealer in Libya.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fc6300af-5477-380e-8acd-f30061ec1ae6/cover",
-          "start_time": "22:05",
-          "end_time": "23:05"
-        },
-        {
-          "show_name": "The Taking of Pelham 123",
-          "show_description": "Thrilling crime action film remake starring Denzel Washington and John Travolta, 2009. Armed men hijack a New York City subway train to hold its passengers hostage for a ransom.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7aa9164a-b293-40d1-9df8-029ba2587ded/cover",
-          "start_time": "23:05",
-          "end_time": "00:05"
-        }
-      ]
-    },
-    {
       "date": "17 March 2026",
       "programmes": [
         {
@@ -331,6 +165,179 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/abed55fa-815f-4860-b29c-9d6e68a77682/cover",
           "start_time": "22:00",
           "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "18 March 2026",
+      "programmes": [
+        {
+          "show_name": "Dark Side of the Ring",
+          "show_description": "The Final Days of Owen Hart: Wrestling documentary series. Owen Hart fell 80 feet to his death in a stunt that went badly wrong - now his widow reveals the mistakes that took his life.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cfe2dc7a-28d8-4695-9e67-1c65896be92b/cover",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "Auf Wiedersehen, Pet",
+          "show_description": "The Lovers: Classic comedy-drama series. Barry talks the lads into redecorating the hut using 'redistributed' paint, and Oz pretends to be a rich man's son to impress a German girl.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cc10ffa1-230a-4c6c-b973-7b613a0f83e3/cover",
+          "start_time": "01:00",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "Minder",
+          "show_description": "Willesden Suite: Drama series about the dealings of a rogue. Terry's job as security for the local Rotary Club offers Arthur a chance to gain some much-needed respectability.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9a4f06f0-c94f-48fd-be17-9acfcd958029/cover",
+          "start_time": "02:00",
+          "end_time": "02:50"
+        },
+        {
+          "show_name": "Unwind with ITV",
+          "show_description": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cfc86b86-b286-4145-9288-c8544973b683/cover",
+          "start_time": "02:50",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Shopping from home.",
+          "show_logo": "",
+          "start_time": "03:00",
+          "end_time": "03:30"
+        },
+        {
+          "show_name": "Auto Mundial",
+          "show_description": "The latest news and reviews from the world of cars.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f81b1942-f2eb-4288-ac72-6c1edd018174/cover",
+          "start_time": "03:30",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Shopping from home.",
+          "show_logo": "",
+          "start_time": "04:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Auto Mundial",
+          "show_description": "The latest news and reviews from the world of cars.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f81b1942-f2eb-4288-ac72-6c1edd018174/cover",
+          "start_time": "06:00",
+          "end_time": "06:35"
+        },
+        {
+          "show_name": "The Big Match Revisited",
+          "show_description": "Brian Moore hosts highlights from March 1978 as Oldham Athletic have a tough test against Spurs, Coventry City host Birmingham City, and Ipswich Town take on West Brom.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5f59c4ca-68a6-3e33-a504-7e74947cab28/cover",
+          "start_time": "06:35",
+          "end_time": "07:35"
+        },
+        {
+          "show_name": "Magnum, P.I.",
+          "show_description": "Paniolo: Classic US action drama series. A harassed rancher hires Thomas to investigate a crime not normally associated with Hawaii - an outbreak of cattle rustling.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/50884a93-2c42-3ee4-bc58-23cd5cd349a1/cover",
+          "start_time": "07:35",
+          "end_time": "08:45"
+        },
+        {
+          "show_name": "Kojak",
+          "show_description": "Out of the Shadows: Classic US detective drama. When a serial killer terrorises Manhattan, a graffiti artist admits to the crimes but causes Theo to have his doubts about his story.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e8180cd6-eee6-3af6-9537-0253cf7c18f4/cover",
+          "start_time": "08:45",
+          "end_time": "09:50"
+        },
+        {
+          "show_name": "Boon",
+          "show_description": "A Night at the Ballet: Classic drama. Ken and the gang are kept on their toes when they spend a night as security detail at a ballet and discover more than they bargained for.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a555da79-9eba-42af-8ea2-b52ad99fd2aa/cover",
+          "start_time": "09:50",
+          "end_time": "11:05"
+        },
+        {
+          "show_name": "The Sweeney",
+          "show_description": "Hard Men: Classic '70s police drama series. Regan and Carter are reluctantly teamed up with a Scottish officer to help them pursue Scottish villains around London.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2c42df55-2642-4da1-85ff-e8b82158912d/cover",
+          "start_time": "11:05",
+          "end_time": "12:15"
+        },
+        {
+          "show_name": "Dempsey and Makepeace",
+          "show_description": "Bird of Prey: Classic detective series. When drug dealers kidnap a woman's child to deter her from testifying against them, Dempsey must turn to the villainous Bogeyman for help.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/05b2c499-01e8-4807-8130-bcdd3d9d3eea/cover",
+          "start_time": "12:15",
+          "end_time": "13:20"
+        },
+        {
+          "show_name": "Magnum, P.I.",
+          "show_description": "The Treasure of Kalaniopu'u: Robin's publishers sponsor a million-dollar treasure hunt to plug his new book, but two participants engage in cheating.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2cb45645-bbc5-30a0-ba33-08315b4d1124/cover",
+          "start_time": "13:20",
+          "end_time": "14:20"
+        },
+        {
+          "show_name": "Kojak",
+          "show_description": "A Need to Know: Classic US detective drama. Theo tries to stop a child molester with diplomatic immunity before he strikes again, but the FBI are determined to avoid an incident.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0af6b2fa-785d-3373-8532-7b5b07b7a441/cover",
+          "start_time": "14:20",
+          "end_time": "15:25"
+        },
+        {
+          "show_name": "Boon",
+          "show_description": "Undercover: Classic drama. Laura and Rocky are given the task of tailing a man who has recently been released from prison, and the owner of a motorbike shop enlists Ken's help.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/503c7736-3cdd-4424-a5b5-c5fdd580058e/cover",
+          "start_time": "15:25",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "The Sweeney",
+          "show_description": "Drag Act: Classic '70s police drama series. A group of villains succeed in making off with a batch of contraband alcohol due to incorrect information from informants.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d8f8eef5-1017-4273-a816-9ba216980c33/cover",
+          "start_time": "16:30",
+          "end_time": "17:40"
+        },
+        {
+          "show_name": "Minder",
+          "show_description": "A Well Fashioned Fit Up: Drama series about a loveable rogue. Arthur's sortie into haute couture lacks the glamour he anticipated when he and not Terry ends up minding the frocks.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/13f7538a-f842-4eff-8014-6e9e206d2843/cover",
+          "start_time": "17:40",
+          "end_time": "18:45"
+        },
+        {
+          "show_name": "Sharpe",
+          "show_description": "Sharpe's Company: Napoleonic War-based action-adventure. Spain 1812 - Wellesley, who is now the Duke of Wellington, sets his sights on Badajoz as Sharpe is reunited with Teresa.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/53bfa4dc-7f87-48bf-a339-9e4bf9875d13/cover",
+          "start_time": "18:45",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "The Spy Who Loved Me",
+          "show_description": "Bond film starring Roger Moore and Barbara Bach, 1977. 007 investigates when a British submarine that is holding nuclear warheads vanishes suddenly while on a routine patrol.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3a544aec-ac01-49d9-b270-305ebd1de130/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "FYI Daily",
+          "show_description": "Latest news from the world of entertainment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9ee508db-4291-416e-9f35-5c73cf6200c5/cover",
+          "start_time": "22:00",
+          "end_time": "22:05"
+        },
+        {
+          "show_name": "The Spy Who Loved Me",
+          "show_description": "Bond film starring Roger Moore and Barbara Bach, 1977. 007 investigates when a British submarine that is holding nuclear warheads vanishes suddenly while on a routine patrol.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3a544aec-ac01-49d9-b270-305ebd1de130/cover",
+          "start_time": "22:05",
+          "end_time": "23:35"
+        },
+        {
+          "show_name": "All Elite Wrestling: Collision",
+          "show_description": "Hard-hitting action from AEW's newest show, featuring stars including Ricochet, Chris Jericho, Kris Statlander, Darby Allin and Claudio Castagnoli.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/abed55fa-815f-4860-b29c-9d6e68a77682/cover",
+          "start_time": "23:35",
+          "end_time": "01:30"
         }
       ]
     }
