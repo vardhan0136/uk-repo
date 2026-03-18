@@ -3,102 +3,20 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Scotland.png",
   "schedule": [
     {
-      "date": "17 March 2026",
-      "programmes": [
-        {
-          "show_name": "Scotcast",
-          "show_description": "Natalie Higgins and David Wallace Lockhart discuss whether the UK government can afford to step in if the US-Israel war with Iran fuels further price hikes.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "00:25"
-        },
-        {
-          "show_name": "As BBC Radio 5 Live",
-          "show_description": "Joining Radio 5 Live.",
-          "show_logo": "",
-          "start_time": "00:25",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Radio Scotland Breakfast",
-          "show_description": "News from across Scotland and the world, plus sport, weather, entertainment and big name interviews.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Mornings",
-          "show_description": "Connie McLaughlin gets to the heart of the stories making the news.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Lunchtime Live",
-          "show_description": "News updates from Scotland and beyond, plus all your lunchtime sport, travel and weather.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Afternoons",
-          "show_description": "Michelle McManus brings you feel-good music and chat with celebrity guests.",
-          "show_logo": "",
-          "start_time": "13:30",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Afternoons",
-          "show_description": "Len Pennie keeps you up to date on what's happening in the arts and culture scene across Scotland.",
-          "show_logo": "",
-          "start_time": "15:30",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Drivetime",
-          "show_description": "Breaking down the day's talking points with comment and opinion, plus sport, travel and weather.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Get It On with Bryan Burnett",
-          "show_description": "It's the best of the 70s tonight - we could Play That Funky Music, join a Band on the Run, and we Won't Stop 'Til We Get Enough. Let's hear it for the 1970s.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Another Country with Ricky Ross",
-          "show_description": "Live music and conversations with the world's biggest names at C2C: Country To Country, a 3-day festival in Scotland. Featuring Keith Urban, Drake Milligan, Ashley Cooke and more.",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Up Late",
-          "show_description": "The best company to end the day, with lively chat and some of your favourite tunes.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "18 March 2026",
       "programmes": [
         {
           "show_name": "Scotcast",
-          "show_description": "Martin Geissler and the team bring you thoughtful conversation and expert analysis covering the most interesting news stories in Scotland.",
+          "show_description": "Scottish Green co-leader Gillian Mackay speaks to Martin Geissler ahead of May's Holyrood election.",
           "show_logo": "",
           "start_time": "00:00",
-          "end_time": "00:30"
+          "end_time": "00:50"
         },
         {
           "show_name": "As BBC Radio 5 Live",
           "show_description": "Joining Radio 5 Live.",
           "show_logo": "",
-          "start_time": "00:30",
+          "start_time": "00:50",
           "end_time": "06:00"
         },
         {
@@ -152,7 +70,89 @@
         },
         {
           "show_name": "The Quay Sessions",
-          "show_description": "Live sessions and archive performances from Pacific Quay alongside news of upcoming gigs and festivals with upfront releases and classic tracks from some of your favourite artists.",
+          "show_description": "A chance to hear Hamish Hawk making his debut on the show in 2023, playing songs from his album Angel Numbers, plus music & gig news from Heaven 17, Arlo Parks, Robyn & Starsailor.",
+          "show_logo": "",
+          "start_time": "20:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Up Late",
+          "show_description": "The best company to end the day, with lively chat and some of your favourite tunes.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "19 March 2026",
+      "programmes": [
+        {
+          "show_name": "Scotcast",
+          "show_description": "Martin Geissler and the team bring you thoughtful conversation and expert analysis covering the most interesting news stories in Scotland.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "00:30"
+        },
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "Joining Radio 5 Live.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Radio Scotland Breakfast",
+          "show_description": "News from across Scotland and the world, plus sport, weather, entertainment and big name interviews.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Mornings",
+          "show_description": "Stephen Jardine gets to the heart of the stories making the news.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Lunchtime Live",
+          "show_description": "News updates from Scotland and beyond, plus all your lunchtime sport, travel and weather.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Afternoons",
+          "show_description": "Michelle McManus brings you feel-good music and chat with celebrity guests.",
+          "show_logo": "",
+          "start_time": "13:30",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "Afternoons",
+          "show_description": "Len Pennie keeps you up to date on what's happening in the arts and culture scene across Scotland.",
+          "show_logo": "",
+          "start_time": "15:30",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Drivetime",
+          "show_description": "Breaking down the day's talking points with comment and opinion, plus sport, travel and weather.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Get It On with Bryan Burnett",
+          "show_description": "What song sums up your day? Were you Shopping with the Pet Shop Boys, maybe you've just had a bit of a Bad Day, or was it a sneaky day off enjoying nothing more than Coffee and TV?",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Travelling Folk",
+          "show_description": "Anna Massie with the very best of folk and roots music from Scotland and beyond.",
           "show_logo": "",
           "start_time": "20:00",
           "end_time": "22:00"
