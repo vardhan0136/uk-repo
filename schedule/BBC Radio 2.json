@@ -3,107 +3,11 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-2.png",
   "schedule": [
     {
-      "date": "18 March 2026",
-      "programmes": [
-        {
-          "show_name": "OJ Borg",
-          "show_description": "OJ is live through the night from Salford, with an Irish based Punderland XI in aid of St. Patrick's Day! Plus, Midnight Mastermind, Wish You Were There and Shiftfaced.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Sounds of the 90s with Fearne Cotton",
-          "show_description": "Wind the windows down for an hour of belt-along 90s classics! Featuring The Cranberries, The Corrs, and Foo Fighters.",
-          "show_logo": "",
-          "start_time": "03:00",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "Owain Wyn Evans",
-          "show_description": "Welcome! It's Early Breakfast with Owain Wyn Evans, featuring Airdrum Anthems and our musical mystery game - Step Back in time. This week we want the songs that make you smile!",
-          "show_logo": "",
-          "start_time": "04:00",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "The Scott Mills Breakfast Show",
-          "show_description": "Scott's got your morning sorted... with Louis Tomlinson playing Real Or No Real! Come and play the Birthday Game or take on the Easiest Quiz on the Radio.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Vernon Kay",
-          "show_description": "Vernon hears about what's making you smile on Good News Wednesday. Plus, more from comedian and writer Bob Mortimer who is choosing his Tracks Of My Years all this week.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Jeremy Vine",
-          "show_description": "Jeremy and guests discuss the news headlines and talk to the people making them.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Trevor Nelson",
-          "show_description": "Trevor is bringing you some of the best music from across the decades to get you through the afternoon.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Sara Cox",
-          "show_description": "Sara gets you through teatime with plenty of giggles and some fab music. Plus Totally Teavoted, the SARA Awards, Bunch of 5s and Hatched, Matched and Dispatched.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "Sara Cox's Half Wower",
-          "show_description": "Sara plays the biggest and best tunes to get you up dancing!",
-          "show_logo": "",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Edith Bowman's Shiny Happy Playlist",
-          "show_description": "Edith Bowman brings her Shiny Happy Playlist, 30 minutes of feel-good music from 7-7.30pm to soundtrack listeners' weekday evening.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Edith Bowman",
-          "show_description": "Antony Genn and Jenny from Girl In The Year Above chat to Edith about their work on the soundtrack to Peaky Blinders: The Immortal Man.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "The Folk Show with Mark Radcliffe",
-          "show_description": "The best folk and acoustic music. Mark speaks to the winner of Folk Album of the Year.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The Good Groove with DJ Spoony",
-          "show_description": "Feel-good tunes to make you groove, from soulful house to RnB, disco to doo-wop and everything else in-between. Join in with addictive guessing game 'Music Is The Answer'.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "19 March 2026",
       "programmes": [
         {
           "show_name": "OJ Borg",
-          "show_description": "OJ Borg is live through the night from the Salford Riviera with Midnight Mastermind, Wish You Were There and another dial of the Midnight Caller phone.",
+          "show_description": "OJ Borg is live through the night from Salford as he asks for your pointless skills. Plus, Midnight Mastermind, Wish You Were There and another dial of the Midnight Caller phone.",
           "show_logo": "",
           "start_time": "00:00",
           "end_time": "03:00"
@@ -173,7 +77,7 @@
         },
         {
           "show_name": "Edith Bowman",
-          "show_description": "Edith Bowman sits in, handpicking her favourite new music from all genres of the musical spectrum and quality vintage songs too.",
+          "show_description": "Edith Bowman sits in and has the Thursday Theme: songs related to Toy Story, to mark 30 years since the film's UK release! Send your song suggestions to: edith.bowman@bbc.co.uk.",
           "show_logo": "",
           "start_time": "19:30",
           "end_time": "21:00"
@@ -190,6 +94,95 @@
           "show_description": "Feel-good dance floor favourites to make you groove, and DJ Spoony hits the decks for a live mix!",
           "show_logo": "",
           "start_time": "22:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "20 March 2026",
+      "programmes": [
+        {
+          "show_name": "OJ Borg",
+          "show_description": "OJ Borg is live through the night from the Salford Riviera with Midnight Mastermind, Wish You Were There, Midnight Caller and a huge Ravio 2 to end the week.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Dance Sounds of the 90s with Vernon Kay",
+          "show_description": "Vernon Kay takes you on a nostalgic trip back to the 90s dance floor with music and memories to get you moving.",
+          "show_logo": "",
+          "start_time": "03:00",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Owain Wyn Evans",
+          "show_description": "Welcome! It's Early Breakfast with Owain Wyn Evans, featuring Airdrum Anthems and Step Back in Time. It's your weekend warm up! Owain asks what you cant wait for this weekend!",
+          "show_logo": "",
+          "start_time": "04:00",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "The Scott Mills Breakfast Show",
+          "show_description": "It's Big Guest Friday with Claire Foy, Jane McDonald and Les Dennis in the studio! Plus, the Wonder Years start in 1993.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Vernon Kay",
+          "show_description": "Comedian and writer Bob Mortimer selects his final two Tracks Of My Years of the week and two listeners take on our quiz, Ten To The Top.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Jeremy Vine",
+          "show_description": "Jeremy and guests discuss the news headlines and talk to the people making them.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Trevor Nelson",
+          "show_description": "Trevor is bringing you some of the best music from across the decades to get you through the afternoon.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Sara Cox",
+          "show_description": "It's All Request Friday, and Sara wants to hear from you on 88291 or sara.cox@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Michelle Visage",
+          "show_description": "You've found the place where you can boogie tonight... Michelle's Fabulous Friday party!",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Michelle Visage's Handbag Hits",
+          "show_description": "Michelle's Mood is...DIANA ROSS! 30 minutes of non-stop bops from The Boss.",
+          "show_logo": "",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Sophie Ellis-Bextor's Kitchen Disco",
+          "show_description": "There's party tunes all the way and with the 2026 MOBO Awards coming up, Sophie plays some of her favourite winners from down the years in the Disco Wonderland.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "The Rock Show with Shaun Keaveny",
+          "show_description": "Shaun salutes Motörhead guitarist Phil Campbell, who died last week, with another chance to hear Phil's Rock God from 2019.",
+          "show_logo": "",
+          "start_time": "23:00",
           "end_time": "00:00"
         }
       ]

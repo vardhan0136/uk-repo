@@ -3,151 +3,55 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-parliament-uk.png",
   "schedule": [
     {
-      "date": "18 March 2026",
-      "programmes": [
-        {
-          "show_name": "House of Lords - Mandelson Files Statement",
-          "show_description": "Coverage of a statement in the House of Lords on the release of files relating to the appointment of Peter Mandelson as UK ambassador to the USA, on Tuesday 17 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f0f1aba1-1710-4b68-ac01-ded2bf14f724/cover",
-          "start_time": "00:00",
-          "end_time": "00:45"
-        },
-        {
-          "show_name": "House of Lords - Victims and Courts Bill",
-          "show_description": "Coverage of a debate in the House of Lords on the third reading of the Victims and Courts Bill, on Tuesday 17 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b17c75ec-bf74-4e30-b813-e10830f0f63a/cover",
-          "start_time": "00:45",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "House of Lords - Spring...",
-          "show_description": "...Forecast and Finance Bill Debate, Part 1. Coverage of a debate in the House of Lords on the government's economic Spring Statement and the Finance (No.2) Bill, on Tuesday 17 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0a458528-3ec0-4eca-a1e9-e5590edfbe7b/cover",
-          "start_time": "01:00",
-          "end_time": "02:55"
-        },
-        {
-          "show_name": "House of Lords - Spring...",
-          "show_description": "...Forecast and Finance Bill Debate, Part 2. Coverage of a debate in the House of Lords on the government's economic Spring Statement and the Finance (No.2) Bill, on Tuesday 17 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/45d98786-051b-4d3b-876b-beacdd5078de/cover",
-          "start_time": "02:55",
-          "end_time": "04:45"
-        },
-        {
-          "show_name": "House of Lords - National Minimum Wage Regulations",
-          "show_description": "Coverage of a debate in the House of Lords on the National Minimum Wage (Amendment) Regulations 2026, on Tuesday 17 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cfb4eb8a-1d52-4e4e-88c9-d5e94490df42/cover",
-          "start_time": "04:45",
-          "end_time": "05:40"
-        },
-        {
-          "show_name": "Middle East Statement",
-          "show_description": "Coverage of a statement in the House of Commons by foreign secretary Yvette Cooper to update MPs on the latest developments in the US/Israeli war with Iran, on Tuesday 17 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5debb93e-09ec-433d-9ef3-2adcc60a4bb3/cover",
-          "start_time": "05:40",
-          "end_time": "06:50"
-        },
-        {
-          "show_name": "Justice Questions",
-          "show_description": "Coverage of questions in the House of Commons to David Lammy, the justice secretary, and his team of ministers on Tuesday 17 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3a560b91-68a9-4b56-b330-4c6caec70aef/cover",
-          "start_time": "06:50",
-          "end_time": "07:55"
-        },
-        {
-          "show_name": "Meningitis Statement",
-          "show_description": "Coverage of a statement in the House of Commons by health secretary Wes Streeting on the recent outbreak of meningococcal disease in Kent, on Tuesday 17 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/40a2b399-3ea1-4de3-8124-3d2dd26c1a7f/cover",
-          "start_time": "07:55",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Senedd Cymru - Covid-19 Inquiry Statement",
-          "show_description": "A statement by Eluned Morgan on the Welsh government's response to the second report from the UK Covid-19 inquiry, which looked at political decision-making during the pandemic.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e46217b7-ccdf-4430-be12-8b310041a288/cover",
-          "start_time": "09:00",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Live Health and Social Care Committee",
-          "show_description": "Coverage of the Health and Social Care select committee session on delivering the healthcare aspects of Education, Health and Care Plans, on Wednesday 18 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fb63bd1d-ca31-4030-bd87-449511af0516/cover",
-          "start_time": "09:30",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Live Science, Innovation and Technology Questions",
-          "show_description": "Coverage of questions in the House of Commons to Liz Kendall, the science, innovation and technology secretary, and her team of ministers on Wednesday 18 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6c953f50-c014-472e-9a08-a8b0f77385b1/cover",
-          "start_time": "11:30",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Live Prime Minister's Questions",
-          "show_description": "Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 18 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/36d1a817-6852-441d-a6d7-d29e76c16c8f/cover",
-          "start_time": "12:00",
-          "end_time": "12:35"
-        },
-        {
-          "show_name": "Live House of Commons",
-          "show_description": "Coverage of the day's proceedings in the House of Commons, including a ten minute rule bill on menstrual and gynaecological health followed by two Opposition debates.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ca44036c-6b84-490b-a26e-0114493f6fed/cover",
-          "start_time": "12:35",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Live House of Lords",
-          "show_description": "Coverage of proceedings in the House of Lords, including the sixth day of debate on the Crime and Policing Bill, on Wednesday 18 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5b7af4ed-5c09-46fe-802d-acaf6c2a6149/cover",
-          "start_time": "19:30",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Prime Minister's Questions",
-          "show_description": "Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 18 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/36d1a817-6852-441d-a6d7-d29e76c16c8f/cover",
-          "start_time": "22:00",
-          "end_time": "22:35"
-        },
-        {
-          "show_name": "Lords Questions",
-          "show_description": "Questions in the House of Lords to government ministers covering trail hunting, the EU directive on adequate minimum wages, and on regenerating high streets and towns, on Wednesday 18 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f5bceee3-bbb2-4797-82c7-4ea294040588/cover",
-          "start_time": "22:35",
-          "end_time": "23:20"
-        },
-        {
-          "show_name": "House of Lords",
-          "show_description": "Business in the House of Lords, including the sixth day of debate on the report stage of the Crime and Policing Bill, on Wednesday 18 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3810a57f-5f7a-458d-99d7-5a9f8c6d1d36/cover",
-          "start_time": "23:20",
-          "end_time": "07:00"
-        }
-      ]
-    },
-    {
       "date": "19 March 2026",
       "programmes": [
+        {
+          "show_name": "House of Lords - Crime and Policing Bill, Part 2",
+          "show_description": "Coverage of the sixth day of debate in the House of Lords on the report stage of the Crime and Policing Bill, on Wednesday 18 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2c473fd8-fb4c-4f30-8611-58afeb0ad740/cover",
+          "start_time": "01:20",
+          "end_time": "03:20"
+        },
+        {
+          "show_name": "House of Lords - Crime and Policing Bill, Part 3",
+          "show_description": "Coverage of the sixth day of debate in the House of Lords on the report stage of the Crime and Policing Bill, on Wednesday 18 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/22b0a283-8490-4720-baa0-c169a3edefe6/cover",
+          "start_time": "03:20",
+          "end_time": "05:20"
+        },
+        {
+          "show_name": "House of Lords - Digital ID Statement",
+          "show_description": "Coverage of a statement in the House of Lords by cabinet office minister Lord Collins of Highbury on the public consultation on Digital ID, from Wednesday 18 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4cca263a-c9a0-4fda-823c-935096f6d806/cover",
+          "start_time": "05:20",
+          "end_time": "07:00"
+        },
         {
           "show_name": "Science, Innovation and Technology Questions",
           "show_description": "Coverage of questions in the House of Commons to Liz Kendall, the science, innovation and technology secretary, and her team of ministers on Wednesday 18 March.",
           "show_logo": "https://images.metadata.sky.com/pd-image/6c953f50-c014-472e-9a08-a8b0f77385b1/cover",
           "start_time": "07:00",
-          "end_time": "07:30"
+          "end_time": "07:25"
         },
         {
           "show_name": "Prime Minister's Questions",
           "show_description": "Coverage of questions in the House of Commons to Keir Starmer, the prime minister, on Wednesday 18 March.",
           "show_logo": "https://images.metadata.sky.com/pd-image/36d1a817-6852-441d-a6d7-d29e76c16c8f/cover",
-          "start_time": "07:30",
+          "start_time": "07:25",
           "end_time": "08:05"
         },
         {
-          "show_name": "House of Commons",
-          "show_description": "Highlights of proceedings in the House of Commons from Wednesday 18 March.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4a54940d-27cd-460d-81ee-b885201b4210/cover",
+          "show_name": "Youth Unemployment Statement",
+          "show_description": "Coverage of a statement in the House of Commons on youth unemployment by work and pensions secretary Pat McFadden, on Tuesday 17 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bd312b9d-c2c6-4a80-b8d5-a85f11749968/cover",
           "start_time": "08:05",
+          "end_time": "09:20"
+        },
+        {
+          "show_name": "Ten Minute Rule Bill -...",
+          "show_description": "...Menstrual and Gynaecological Health. The introduction of a Bill on menstrual and gynaecological health, on Wednesday 18 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5678f5f4-189b-4787-a2f2-a168ae8e86c1/cover",
+          "start_time": "09:20",
           "end_time": "09:30"
         },
         {
@@ -198,6 +102,74 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/f9e70b4e-d3eb-4cf3-8bfa-3507f2478a15/cover",
           "start_time": "19:00",
           "end_time": "02:15"
+        }
+      ]
+    },
+    {
+      "date": "20 March 2026",
+      "programmes": [
+        {
+          "show_name": "Environment, Food and Rural Affairs Questions",
+          "show_description": "Coverage of questions in the House of Commons to Emma Reynolds, the environment, food and rural affairs secretary, and her team of ministers on Thursday 19 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/54d158a6-d186-4c82-a74c-59522980dd76/cover",
+          "start_time": "02:15",
+          "end_time": "02:55"
+        },
+        {
+          "show_name": "Solicitor General Questions",
+          "show_description": "Coverage of questions in the House of Commons to the solicitor general, Ellie Reeves, on Thursday 19 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a729f8b1-a31f-43ff-bef6-d4510f38001d/cover",
+          "start_time": "02:55",
+          "end_time": "03:15"
+        },
+        {
+          "show_name": "Commons Business Questions",
+          "show_description": "Coverage of the announcement of future Commons business and questions to Alan Campbell, the leader of the Commons, on Thursday 19 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6dd87455-5b69-4f28-a513-4ebf24146778/cover",
+          "start_time": "03:15",
+          "end_time": "04:15"
+        },
+        {
+          "show_name": "House of Commons",
+          "show_description": "Highlights of proceedings in the House of Commons from Thursday 19 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b93d4d83-a856-4b73-ab9e-723a43238405/cover",
+          "start_time": "04:15",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Westminster Hall",
+          "show_description": "House of Commons proceedings in Westminster Hall, including a debate on an e-petition relating to automatic by-elections following Member defections, from Monday 16 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/edf4103c-6293-4769-9dc8-3ceeb8813570/cover",
+          "start_time": "07:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Live House of Lords - Assisted Dying Bill",
+          "show_description": "Coverage of the twelfth day of debate on the Terminally Ill Adults (End of Life) Bill.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f118a047-0423-4b3b-afe6-ab7001a82335/cover",
+          "start_time": "10:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Select Committees",
+          "show_description": "Recorded coverage of select committee proceedings.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/774a4f4b-0062-4c59-9b03-71ee6380c31c/cover",
+          "start_time": "18:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Scottish First Minister's Questions",
+          "show_description": "Questions in the Scottish Parliament to John Swinney, the first minister, on Thursday 19 March.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ccc72f7e-f526-444c-bd6e-94c4cff5cc45/cover",
+          "start_time": "21:00",
+          "end_time": "21:45"
+        },
+        {
+          "show_name": "Scottish Parliament",
+          "show_description": "Highlights from the Scottish Parliament.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/599052f7-6e57-4066-a9b7-0c29ec67bb7d/cover",
+          "start_time": "21:45",
+          "end_time": "01:00"
         }
       ]
     }

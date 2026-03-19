@@ -3,102 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Wales.png",
   "schedule": [
     {
-      "date": "18 March 2026",
-      "programmes": [
-        {
-          "show_name": "Relax with Radio Wales",
-          "show_description": "Relax, unwind and chill out with an hour of classic and contemporary tunes.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "As BBC Radio 5 Live",
-          "show_description": "See programme schedules for BBC Radio 5 Live.",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Radio Wales News Update",
-          "show_description": "The latest news and weather for Wales and a look ahead to this morning's Radio Wales Breakfast.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "06:05"
-        },
-        {
-          "show_name": "Wake Up with Radio Wales",
-          "show_description": "A lively mix of music to start the day. Perfect for your pod!",
-          "show_logo": "",
-          "start_time": "06:05",
-          "end_time": "06:31"
-        },
-        {
-          "show_name": "We Can't Go On Eating Like This!",
-          "show_description": "The way our children eat will go a long way to determining their future. How concerned should we about their diets and the lure of fast food? What can be done to reverse the trend?",
-          "show_logo": "",
-          "start_time": "06:31",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Radio Wales Breakfast",
-          "show_description": "Everything you need to know as you wake up.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Bronwen Lewis",
-          "show_description": "Bronwen brightens your morning with great music and entertainment. Call 03700 100 110 Text 81012 or message via X @bbcradiowales.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "11:59"
-        },
-        {
-          "show_name": "The Phone In",
-          "show_description": "Be part of the nation's conversation.",
-          "show_logo": "",
-          "start_time": "11:59",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Behnaz Akhgar",
-          "show_description": "Celebrity guests, Midweek Menu recipes and kitchen tips - can you solve The Name Game anagram today? Call or WhatsApp 03700 100 110 Text 81012.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Radio Wales Drive",
-          "show_description": "Everything you need to know as you head home.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "Country Focus",
-          "show_description": "Megan Williams visits an award-winning arable farm near St Ishmaels in Pembrokeshire. We also hear how new legislation aims to better protect livestock from dog attacks.",
-          "show_logo": "",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Country with Bronwen Lewis",
-          "show_description": "Bronwen Lewis showcases new and classic country music from Wales and the world.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Eleri Siôn",
-          "show_description": "Eleri brightens your night time with great music and chat. Call 03700 100 110 Text 81012 or via X @bbcradiowales.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "19 March 2026",
       "programmes": [
         {
@@ -145,7 +49,7 @@
         },
         {
           "show_name": "Bronwen Lewis",
-          "show_description": "Bronwen brightens your morning with great music and entertainment. Call 03700 100 110 Text 81012 or message via X @bbcradiowales.",
+          "show_description": "Bronwen is joined by nine-year-old Elsie for a singalong, Alphabelters is the letter J, and it's your chance to win a smart speaker in Smarty Pants.",
           "show_logo": "",
           "start_time": "09:00",
           "end_time": "11:59"
@@ -172,8 +76,8 @@
           "end_time": "18:30"
         },
         {
-          "show_name": "Kiri's Comedy Club",
-          "show_description": "Welsh comedian, broadcaster and national treasure Tudur Owen sits down for a deep dive chat with Kiri about his enviable career in comedy.",
+          "show_name": "Radio Wales Arts Show",
+          "show_description": "Gary Raymond and guests bring you the Welsh arts scene.",
           "show_logo": "",
           "start_time": "18:30",
           "end_time": "19:00"
@@ -188,6 +92,116 @@
         {
           "show_name": "Eleri Siôn",
           "show_description": "Eleri brightens your night time with great music and chat. Call 03700 100 110 Text 81012 or via X @bbcradiowales.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "20 March 2026",
+      "programmes": [
+        {
+          "show_name": "Relax with Radio Wales",
+          "show_description": "Relax, unwind and chill out with an hour of classic and contemporary tunes.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "See programme schedules for BBC Radio 5 Live.",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Radio Wales News Update",
+          "show_description": "The latest news and weather for Wales and a look ahead to this morning's Radio Wales Breakfast.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "06:05"
+        },
+        {
+          "show_name": "Wake Up with Radio Wales",
+          "show_description": "A lively mix of music to start the day. Perfect for your pod!",
+          "show_logo": "",
+          "start_time": "06:05",
+          "end_time": "06:31"
+        },
+        {
+          "show_name": "Walescast",
+          "show_description": "Your weekly dive into Welsh politics with Felicity Evans and James Williams.",
+          "show_logo": "",
+          "start_time": "06:31",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Radio Wales Breakfast",
+          "show_description": "Everything you need to know as you wake up.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Lucy Owen",
+          "show_description": "Lucy brightens your morning with great music and entertainment. Call 03700 100 110 Text 81012 or message via X @bbcradiowales.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "The Phone In",
+          "show_description": "Be part of the nation's conversation.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Eleri Siôn",
+          "show_description": "Celebrity guests, the latest films reviewed - can you solve The Name Game anagram today? Call or WhatsApp 03700 100 110 Text 81012.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Radio Wales Drive",
+          "show_description": "Everything you need to know as you head home.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "Eid Prayers with Jason Mohammad and Azim Ahmed",
+          "show_description": "Jason Mohammad and Azim Ahmed guide us through Eid prayers, recorded live at the South Wales Islamic Centre in Cardiff.",
+          "show_logo": "",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Elin Fflur's 70s Playlist",
+          "show_description": "Elin Fflur gets your weekend started with party classics from the 70s and the biggest Welsh anthems.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Elin Fflur's 80s Playlist",
+          "show_description": "Elin Fflur gets your weekend started with party classics from the 80s and the biggest Welsh anthems.",
+          "show_logo": "",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Elin Fflur's 90s Playlist",
+          "show_description": "Elin Fflur gets your weekend started with party classics from the 90s and the biggest Welsh anthems.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Friday Night H",
+          "show_description": "H from Steps takes you into the weekend with great music and chat.",
           "show_logo": "",
           "start_time": "22:00",
           "end_time": "00:00"

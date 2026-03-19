@@ -3,95 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
   "schedule": [
     {
-      "date": "18 March 2026",
-      "programmes": [
-        {
-          "show_name": "Through the Night",
-          "show_description": "Pablo Ferrández performs Schumann's Cello Concerto with the WDR Symphony Orchestra, Cologne. Tchaikovsky's Fifth Symphony and Beethoven's 'Egmont' Overture complete the programme.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Essential Classics",
-          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Classical Live",
-          "show_description": "Elizabeth Alker introduces performances from the UK and beyond including a live concert broadcast from Media City UK in Salford by the BBC Philharmonic Orchestra.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Choral Evensong",
-          "show_description": "From St Michael's Church, Barnes, London, with the choir of Tiffin School and music by Oliver Tarney and Howells.",
-          "show_logo": "",
-          "start_time": "15:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Composer of the Week: Donizetti",
-          "show_description": "3/5. Donald Macleod follows the irresistible rise of Italian opera composer Gaetano Donizetti. Today, antagonising censors, two tragic losses and the writing of his most iconic scene.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "In Tune",
-          "show_description": "The Elmore Quartet and Vista Quartet perform live ahead of their performance at the Guildhall Chamber Festival. Also, Michael Waldron talks to Katie Derham about Britten and Oldham.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Classical Mixtape",
-          "show_description": "Take time out with a 30-minute soundscape of classical music.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Radio 3 in Concert",
-          "show_description": "Cellist Laura van der Heijden teams up with Sinfonia Cymru for a thrilling programme of folk-inspired music for strings, including Dobrinka Tabakova's Cello Concerto.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "The Essay: Scotland Rocks",
-          "show_description": "3/5. Kenneth Steven combines Scottish landscape and geological history with his own poetry. In this Essay he searches for the elusive blue of aquamarine.",
-          "show_logo": "",
-          "start_time": "21:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Night Tracks",
-          "show_description": "Sara Mohr-Pietsch presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "'Round Midnight",
-          "show_description": "Soweto is back with more of the best in jazz from the UK and around the world.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "19 March 2026",
       "programmes": [
         {
@@ -138,7 +49,7 @@
         },
         {
           "show_name": "Classical Mixtape",
-          "show_description": "Take time out with a 30-minute soundscape of classical music.",
+          "show_description": "Take time out with a 30-minute soundscape of classical music including works by Amy Beach, Villa-Lobos, Debussy, Malcolm Arnold, and Adolphus Hailstork amongst others.",
           "show_logo": "",
           "start_time": "19:00",
           "end_time": "19:30"
@@ -167,6 +78,88 @@
         {
           "show_name": "'Round Midnight",
           "show_description": "Soweto's guest Naïssam Jalal is back to share her fourth and final jazz album pick for 4/4.",
+          "show_logo": "",
+          "start_time": "23:30",
+          "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "20 March 2026",
+      "programmes": [
+        {
+          "show_name": "Through the Night",
+          "show_description": "Alban Gerhardt performs the Cello Concerto by Mieczyslaw Weinberg with the RTVE Symphony Orchestra in Madrid. Prokofiev's Fifth Symphony completes the programme.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Essential Classics",
+          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Classical Live",
+          "show_description": "Elizabeth Alker showcases the concert performances from the UK & beyond, with Richard Strauss's Ein Heldenleben and highlights from the orchestral suite of Wagner's Götterdämmerung.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Composer of the Week: Donizetti",
+          "show_description": "5/5. Donald Macleod follows the irresistible rise of Italian opera composer Gaetano Donizetti. Today, he tells the story of Donizetti's prolific and dramatic late years.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "In Tune",
+          "show_description": "Kate Derham is joined in studio for live performances from Tunde Jegede to promote his Wigmore Hall Concert. Also, Kitty Whately and Julius Drake promote their new album.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Classical Mixtape",
+          "show_description": "Take time out with a 30-minute soundscape of classical music.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Friday Night is Music Night",
+          "show_description": "A French theme to a concert featuring Radio 3 New Generation Artist Julius Asal, who joins conductor Michael Seal and the BBC Concert Orchestra in Ravel's Piano Concerto.",
+          "show_logo": "",
+          "start_time": "19:30",
+          "end_time": "21:45"
+        },
+        {
+          "show_name": "The Essay: Scotland Rocks",
+          "show_description": "5/5. Scotland has been blessed with the most exciting of gemstones, but knowing where to find them is the secret. Kenneth Steven combines Scottish geological history with his poetry.",
+          "show_logo": "",
+          "start_time": "21:45",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Late Junction",
+          "show_description": "The vernal equinox is upon us! Jennifer Lucy Allan shares surprising sounds and fresh cuts to celebrate the new season.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "'Round Midnight",
+          "show_description": "Tonight, Soweto has concert highlights from Sligo pianist Nils Kavanagh and his trio, recorded live at JPN late last year.",
           "show_logo": "",
           "start_time": "23:30",
           "end_time": "00:30"
