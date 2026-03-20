@@ -3,298 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-4-LW.png",
   "schedule": [
     {
-      "date": "19 March 2026",
-      "programmes": [
-        {
-          "show_name": "Midnight News",
-          "show_description": "National and international news from BBC Radio 4.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "00:30"
-        },
-        {
-          "show_name": "Shock and War: Iraq 20 Years On",
-          "show_description": "The failures in post-war Iraq have far reaching and unexpected consequences.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "00:48"
-        },
-        {
-          "show_name": "Shipping Forecast",
-          "show_description": "The latest weather reports and forecasts for UK shipping.",
-          "show_logo": "",
-          "start_time": "00:48",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "World Service",
-          "show_description": "BBC Radio 4 presents a selection of news and current affairs, arts and science programmes from the BBC World Service.",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "News Summary",
-          "show_description": "National and international news from BBC Radio 4.",
-          "show_logo": "",
-          "start_time": "05:00",
-          "end_time": "05:04"
-        },
-        {
-          "show_name": "Yesterday in Parliament",
-          "show_description": "News, views and features on yesterday's stories in Parliament.",
-          "show_logo": "",
-          "start_time": "05:04",
-          "end_time": "05:34"
-        },
-        {
-          "show_name": "Shipping Forecast",
-          "show_description": "The latest weather reports and forecasts for UK shipping.",
-          "show_logo": "",
-          "start_time": "05:34",
-          "end_time": "05:43"
-        },
-        {
-          "show_name": "Prayer for the Day",
-          "show_description": "A reflection and prayer to start the day with Father Martin Magill.",
-          "show_logo": "",
-          "start_time": "05:43",
-          "end_time": "05:45"
-        },
-        {
-          "show_name": "Farming Today",
-          "show_description": "What difference will England's Land Use Framework make?",
-          "show_logo": "",
-          "start_time": "05:45",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Today",
-          "show_description": "News and current affairs, including Sports Desk, Weather and Thought for the Day.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "In Our Time",
-          "show_description": "Misha Glenny and guests discuss the spirit of the art phenomenon that began in Zurich in 1916 inspired by what the Dadas saw as the absurdity of the war then consuming the world.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "09:45"
-        },
-        {
-          "show_name": "Strong Message Here",
-          "show_description": "Has 'the power of positive thinking' gone too far? Can we take solace in the upbeat language of Trump's cabinet, or should we, in fact, worry after all?",
-          "show_logo": "",
-          "start_time": "09:45",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Woman's Hour",
-          "show_description": "Women's voices and women's lives - topical conversations to inform, challenge and inspire.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "The Second Map",
-          "show_description": "A 'Jungle Queen', a 'Forgotten Army', and a Japanese kamikaze pilot. As the Second World War on the Asian front enters a new phase, everything changes.",
-          "show_logo": "",
-          "start_time": "11:00",
-          "end_time": "11:45"
-        },
-        {
-          "show_name": "Shock and War: Iraq 20 Years On",
-          "show_description": "As public trust disappears, deep scars begin to take their toll.",
-          "show_logo": "",
-          "start_time": "11:45",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "News Summary",
-          "show_description": "The latest national and international news from BBC Radio 4.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "12:04"
-        },
-        {
-          "show_name": "Evan Davis's Heat Pump Challenge",
-          "show_description": "2/3. Evan finds out why electricity is so expensive and why that's putting some of us off heat pumps. Can the government bring down the cost of electricity by going greener?",
-          "show_logo": "",
-          "start_time": "12:04",
-          "end_time": "12:32"
-        },
-        {
-          "show_name": "Dough",
-          "show_description": "Could smart glasses with built-in video cameras become widely accepted? Greg Foot examines the rise of future wonder products.",
-          "show_logo": "",
-          "start_time": "12:32",
-          "end_time": "12:57"
-        },
-        {
-          "show_name": "Weather Forecast",
-          "show_description": "The latest weather forecast.",
-          "show_logo": "",
-          "start_time": "12:57",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "The World at One",
-          "show_description": "News, analysis and comment from BBC Radio 4.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "13:45"
-        },
-        {
-          "show_name": "The Race to Control the World",
-          "show_description": "4/5. Satellite technology is driving a new space race, benefiting commerce, communications - and warfare. Space X has given the US the huge advantage - but China is keen to catch-up.",
-          "show_logo": "",
-          "start_time": "13:45",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "The Archers",
-          "show_description": "Brian learns something new, and Lynda helps Azra out.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "14:15"
-        },
-        {
-          "show_name": "Good People",
-          "show_description": "6/6. Back at Faith's home for the final time, a reckoning awaits. The concluding part of the state-of-the-nation series from award-winning writer Steve Waters.",
-          "show_logo": "",
-          "start_time": "14:15",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Open Country",
-          "show_description": "Martha Kearney explores the Stroudwater canal in Gloucestershire, where ambitious restoration plans are underway.",
-          "show_logo": "",
-          "start_time": "15:00",
-          "end_time": "15:27"
-        },
-        {
-          "show_name": "The Radio 4 Appeal",
-          "show_description": "Supporter Ben Phelps makes the Radio 4 Appeal on behalf of Bone Cancer Research Trust.",
-          "show_logo": "",
-          "start_time": "15:27",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Feedback",
-          "show_description": "The programme that holds the BBC to account on behalf of the radio audience.",
-          "show_logo": "",
-          "start_time": "15:30",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "The Briefing Room",
-          "show_description": "David Aaronovitch and guests discuss how ready the UK's armed forces are for war?",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "BBC Inside Science",
-          "show_description": "A weekly programme that illuminates the mysteries and challenges the controversies behind the science that's changing our world.",
-          "show_logo": "",
-          "start_time": "16:30",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "PM",
-          "show_description": "News and current affairs, reporting on breaking stories and summing up the day's headlines.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Six O'Clock News",
-          "show_description": "National and international news from BBC Radio 4.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "The Matt Forde Focus Group",
-          "show_description": "2/6. Baroness Ayesha Hazarika, former MP Dehenna Davison and Green Party MP Siân Berry join comedian Matt Forde to explore incentives - and why they so often backfire spectacularly.",
-          "show_logo": "",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "The Archers",
-          "show_description": "Esme gets an important message, and Justin gets unexpected help from Tracy.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:15"
-        },
-        {
-          "show_name": "Front Row",
-          "show_description": "Live magazine programme on the worlds of arts, literature, film, media and music.",
-          "show_logo": "",
-          "start_time": "19:15",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "When It Hits the Fan",
-          "show_description": "David Yelland and Lauren Beeching take a deep dive into the world of AI and discuss the secretive world of influencing the chatbots.",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "20:15"
-        },
-        {
-          "show_name": "The Media Show",
-          "show_description": "Culture secretary Lisa Nandy on saving local news and the future of the BBC, reporting from inside Iran and what this year's Oscars reveal about the state of Hollywood.",
-          "show_logo": "",
-          "start_time": "20:15",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Loose Ends",
-          "show_description": "Kiri Pritchard-McLean and guests with an eclectic mix of conversation, music and comedy.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "Strong Message Here",
-          "show_description": "Has 'the power of positive thinking' gone too far? Can we take solace in the upbeat language of Trump's cabinet, or should we, in fact, worry after all?",
-          "show_logo": "",
-          "start_time": "21:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The World Tonight",
-          "show_description": "In depth reporting, intelligent analysis and breaking news from a global perspective.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "22:45"
-        },
-        {
-          "show_name": "Banshee",
-          "show_description": "Finny recalls how a mysterious woman arrived at his door one night and decided to stay, until she was forced to accept a dangerous challenge.",
-          "show_logo": "",
-          "start_time": "22:45",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Radical with Amol Rajan",
-          "show_description": "Is removing statues and decolonising the curriculum the answer?",
-          "show_logo": "",
-          "start_time": "23:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "Today in Parliament",
-          "show_description": "News, views and features on today's stories in Parliament.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "20 March 2026",
       "programmes": [
         {
@@ -334,7 +42,7 @@
         },
         {
           "show_name": "Yesterday in Parliament",
-          "show_description": "News, views and features on yesterday's stories in Parliament.",
+          "show_description": "Susan Hulme reports as MPs question the foreign secretary about her priorities for overseas aid.",
           "show_logo": "",
           "start_time": "05:04",
           "end_time": "05:34"
@@ -355,7 +63,7 @@
         },
         {
           "show_name": "Farming Today",
-          "show_description": "The latest news about food, farming and the countryside.",
+          "show_description": "Computer says no - why nearly 4,000 farmers are excluded from the government's new environmental support schemes.",
           "show_logo": "",
           "start_time": "05:45",
           "end_time": "06:00"
@@ -467,7 +175,7 @@
         },
         {
           "show_name": "Last Word",
-          "show_description": "Matthew Bannister tells the life stories of people who have recently died, from the rich and famous to unsung but significant.",
+          "show_description": "Matthew Bannister on campaigner Yanar Mohammed, MP Phil Woolas, virologist Professor Robin Weiss and actor Jane Lapotaire.",
           "show_logo": "",
           "start_time": "16:00",
           "end_time": "16:30"
@@ -516,7 +224,7 @@
         },
         {
           "show_name": "Any Questions?",
-          "show_description": "Alex Forsyth presents political debate from The Point Theatre in Eastleigh.",
+          "show_description": "Alex Forsyth presents political debate from The Point Theatre in Eastleigh with Jess Brown-Fuller MP, Dame Meg Hillier MP, Paul Holmes MP, Peter Hitchens.",
           "show_logo": "",
           "start_time": "20:00",
           "end_time": "20:55"
@@ -551,7 +259,7 @@
         },
         {
           "show_name": "Americast",
-          "show_description": "Join Americast for insights and analysis on what's happening inside Trump's White House.",
+          "show_description": "The AI company Anthropic is in a battle with the Pentagon over how its technology is used. Anthropic insists its red lines can't be crossed. The Trump administration disagrees.",
           "show_logo": "",
           "start_time": "23:00",
           "end_time": "23:30"
@@ -559,6 +267,305 @@
         {
           "show_name": "Today in Parliament",
           "show_description": "News, views and features on today's stories in Parliament.",
+          "show_logo": "",
+          "start_time": "23:30",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "21 March 2026",
+      "programmes": [
+        {
+          "show_name": "Midnight News",
+          "show_description": "National and international news from BBC Radio 4.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "00:30"
+        },
+        {
+          "show_name": "Shock and War: Iraq 20 Years On",
+          "show_description": "Have new generations of Iraqis got the freedom they were promised?",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "00:48"
+        },
+        {
+          "show_name": "Shipping Forecast",
+          "show_description": "The latest weather reports and forecasts for UK shipping.",
+          "show_logo": "",
+          "start_time": "00:48",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "World Service",
+          "show_description": "BBC Radio 4 presents a selection of news and current affairs, arts and science programmes from the BBC World Service.",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "05:30"
+        },
+        {
+          "show_name": "News Summary",
+          "show_description": "National and international news from BBC Radio 4.",
+          "show_logo": "",
+          "start_time": "05:30",
+          "end_time": "05:34"
+        },
+        {
+          "show_name": "Shipping Forecast",
+          "show_description": "The latest weather reports and forecasts for UK shipping.",
+          "show_logo": "",
+          "start_time": "05:34",
+          "end_time": "05:43"
+        },
+        {
+          "show_name": "Prayer for the Day",
+          "show_description": "A spiritual comment and prayer to start the day Fleur Dorrell.",
+          "show_logo": "",
+          "start_time": "05:43",
+          "end_time": "05:45"
+        },
+        {
+          "show_name": "Lent Talks",
+          "show_description": "A series of personal reflections on power.",
+          "show_logo": "",
+          "start_time": "05:45",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "News, Weather and Papers",
+          "show_description": "The news headlines, including a look at the newspapers.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "06:07"
+        },
+        {
+          "show_name": "Open Country",
+          "show_description": "Martha Kearney explores the Stroudwater canal in Gloucestershire, where ambitious restoration plans are underway.",
+          "show_logo": "",
+          "start_time": "06:07",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Farming Today This Week",
+          "show_description": "The latest news about food, farming and the countryside.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "06:57"
+        },
+        {
+          "show_name": "Weather Forecast",
+          "show_description": "The latest weather reports and forecast.",
+          "show_logo": "",
+          "start_time": "06:57",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Today",
+          "show_description": "Today (Saturday).",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Saturday Live",
+          "show_description": "John Lloyd joins Adrian for extraordinary stories from remarkable people.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "You're Dead to Me",
+          "show_description": "Greg Jenner is joined by Dr Gillian Kenny and comedian Seán Burke at the Hay Festival to learn about medieval Irish folklore.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "10:30"
+        },
+        {
+          "show_name": "The Kitchen Cabinet",
+          "show_description": "5/6. Jay Rayner hosts a culinary panel show packed full of tasty titbits.",
+          "show_logo": "",
+          "start_time": "10:30",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "The Week in Westminster",
+          "show_description": "Radio 4's assessment of developments at Westminster.",
+          "show_logo": "",
+          "start_time": "11:00",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "From Our Own Correspondent",
+          "show_description": "Insight, wit and analysis from BBC correspondents, journalists and writers from around the world.",
+          "show_logo": "",
+          "start_time": "11:30",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "News Summary",
+          "show_description": "The latest national and international news from BBC Radio 4.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "12:04"
+        },
+        {
+          "show_name": "Money Box",
+          "show_description": "The latest news from the world of personal finance.",
+          "show_logo": "",
+          "start_time": "12:04",
+          "end_time": "12:30"
+        },
+        {
+          "show_name": "The Naked Week",
+          "show_description": "3/6. Andrew Hunter Murray and Jon Holmes return with a bold, audacious take on the week's news.",
+          "show_logo": "",
+          "start_time": "12:30",
+          "end_time": "12:57"
+        },
+        {
+          "show_name": "Weather Forecast",
+          "show_description": "The latest weather forecast.",
+          "show_logo": "",
+          "start_time": "12:57",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "News Bulletin",
+          "show_description": "National and international news from BBC Radio 4.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "13:10"
+        },
+        {
+          "show_name": "Any Questions?",
+          "show_description": "Alex Forsyth presents political debate from The Point Theatre in Eastleigh with Jess Brown-Fuller MP, Dame Meg Hillier MP, Paul Holmes MP, Peter Hitchens.",
+          "show_logo": "",
+          "start_time": "13:10",
+          "end_time": "14:05"
+        },
+        {
+          "show_name": "Any Answers?",
+          "show_description": "Listeners respond to the issues raised in the preceding edition of Any Questions?",
+          "show_logo": "",
+          "start_time": "14:05",
+          "end_time": "14:45"
+        },
+        {
+          "show_name": "The Archers",
+          "show_description": "Brian tries to cut a deal, and Alan visits Carol.",
+          "show_logo": "",
+          "start_time": "14:45",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "The Bacchae",
+          "show_description": "Euripides' Greek tragedy reimagined by Katherine Soper to explore the root causes of rebellion. A group of young women fall under the spell of the charming Bacchus online.",
+          "show_logo": "",
+          "start_time": "15:00",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "Weekend Woman's Hour",
+          "show_description": "Highlights from the Woman's Hour week.",
+          "show_logo": "",
+          "start_time": "16:30",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Saturday PM",
+          "show_description": "Full coverage of the day's news.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "Political Thinking with Nick Robinson",
+          "show_description": "The Green Party Leader Zack Polanski talks to Nick Robinson in a Political Thinking debut.",
+          "show_logo": "",
+          "start_time": "17:30",
+          "end_time": "17:54"
+        },
+        {
+          "show_name": "Shipping Forecast",
+          "show_description": "The latest weather reports and forecasts for UK shipping.",
+          "show_logo": "",
+          "start_time": "17:54",
+          "end_time": "17:57"
+        },
+        {
+          "show_name": "Weather Forecast",
+          "show_description": "The latest weather reports and forecast.",
+          "show_logo": "",
+          "start_time": "17:57",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Six O'Clock News",
+          "show_description": "National and international news from BBC Radio 4.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "18:15"
+        },
+        {
+          "show_name": "Loose Ends",
+          "show_description": "Stuart Maconie enjoys music from Bridgerton and a new One Day musical, a memoir filled with the love of food, and guests from Glasgow International Comedy Festival.",
+          "show_logo": "",
+          "start_time": "18:15",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Profile",
+          "show_description": "An insight into the character of an influential person making the news headlines.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:15"
+        },
+        {
+          "show_name": "The Second Map",
+          "show_description": "A 'Jungle Queen', a 'Forgotten Army', and a Japanese kamikaze pilot. As the Second World War on the Asian front enters a new phase, everything changes.",
+          "show_logo": "",
+          "start_time": "19:15",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Into the Ether",
+          "show_description": "What happens to a documentary medium which evaporates into the air? In this Archive on 4, we explore how our memory for radio documentaries might shape the sound of their future.",
+          "show_logo": "",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "The Moral Maze",
+          "show_description": "Michael Buerk chairs a live debate examining the moral issues behind one of the week's news stories. With panellists: Matthew Taylor, Ash Sarkar, James Orr and Ella Whelan.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "News Bulletin",
+          "show_description": "National and international news from BBC Radio 4.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "22:15"
+        },
+        {
+          "show_name": "The Food Programme",
+          "show_description": "Is the missing link in increasing the UK's food self sufficiency actually food processing?",
+          "show_logo": "",
+          "start_time": "22:15",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "The Matt Forde Focus Group",
+          "show_description": "2/6. Baroness Ayesha Hazarika, former MP Dehenna Davison and Green Party MP Siân Berry join comedian Matt Forde to explore incentives - and why they so often backfire spectacularly.",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "Counterpoint",
+          "show_description": "11/13. Paul Gambaccini is in the chair as the ultimate music quiz returns, with questions on music of all varieties and eras.",
           "show_logo": "",
           "start_time": "23:30",
           "end_time": "00:00"

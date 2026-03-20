@@ -3,205 +3,11 @@
   "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
   "schedule": [
     {
-      "date": "19 March 2026",
-      "programmes": [
-        {
-          "show_name": "Debate Night",
-          "show_description": "23/24. Debate Night comes from Grangemouth for the first time. Hosted by Stephen Jardine.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/16a9de4f-ff20-46b7-9ab2-7b14a241573f/cover",
-          "start_time": "00:00",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "Scotcast",
-          "show_description": "Laura Miller and Natalie Higgins discuss why MSPs rejected a proposal to legalise assisted dying.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ac711532-185b-43f1-aab6-7f53ae90a7b2/cover",
-          "start_time": "01:00",
-          "end_time": "01:30"
-        },
-        {
-          "show_name": "Would I Lie to You? The Unseen Bits",
-          "show_description": "11/12. Rob Brydon, Lee Mack and David Mitchell return for an episode of previously unseen material from the hit comedy panel show.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ef3c2c4e-b78d-4d72-bd33-fa88e3035695/cover",
-          "start_time": "01:30",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "Weather for the Week Ahead",
-          "show_description": "Detailed weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/99779ca9-6a58-44a9-8d6b-b0d9258cc695/cover",
-          "start_time": "02:00",
-          "end_time": "02:05"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/68bfd793-6014-4fa5-a9d7-02ae27305246/cover",
-          "start_time": "02:05",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d43170ec-0817-4406-8385-b8a0f5bf82bf/cover",
-          "start_time": "06:00",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Morning Live",
-          "show_description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2259d025-91f8-4950-be96-0483f65e0ee6/cover",
-          "start_time": "09:30",
-          "end_time": "10:45"
-        },
-        {
-          "show_name": "Crimewatch Live",
-          "show_description": "14/15. How police jailed three organised crime groups in one swoop for their roles in a £53m drug empire.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/56c15a3e-624c-40ae-9bc4-80988845e640/cover",
-          "start_time": "10:45",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Bear Grylls - Wild Reckoning",
-          "show_description": "Bear goes behind the scenes of the making of Wild Reckoning to explain the ideas and planning behind the series and what happened on location.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/42246346-af57-4d5f-8c22-cd5c67870f9a/cover",
-          "start_time": "11:30",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "First Minister's Questions",
-          "show_description": "Kirsten Campbell introduces First Minister's Questions from the Scottish Parliament.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/979e1917-0ec6-4f96-9b6b-4da8105ea27d/cover",
-          "start_time": "12:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "BBC News at One including Reporting Scotland",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5073bda9-9b82-4430-8753-a986e8316f28/cover",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Amanda & Alan's Spanish Job",
-          "show_description": "7/8. Amanda and Alan fight against their maximalist taste to create a calming Balearic bedroom, but their design skills are put to the test as the renovation is anything but zen.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fa6220d5-fe17-4ac5-b9aa-1a9e9ac8f328/cover",
-          "start_time": "14:00",
-          "end_time": "14:30"
-        },
-        {
-          "show_name": "Amanda & Alan's Spanish Job",
-          "show_description": "8/8. Amanda and Alan go all out for their last room, designing a lavish Moorish-themed bar, and reveal their labour of love with a big farewell party for their friends and family.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3f84f73a-8345-4a8c-aca6-ce2410d2f88d/cover",
-          "start_time": "14:30",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Escape to the Country",
-          "show_description": "36/55. Denise Nurse helps newlyweds from London, who want to swap the chaos of the city for the serenity of the Surrey countryside and finally get the dog they've been dreaming of.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6f5fc680-ae89-409b-809d-4ab8e9db5efe/cover",
-          "start_time": "15:00",
-          "end_time": "15:45"
-        },
-        {
-          "show_name": "The Repair Shop on the Road",
-          "show_description": "A Loch Ness Monster-hunting camera resurfaces after 55 years, a shattered stained-glass window is made whole again, and Will builds a bespoke bike frame.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/94f79a66-a4c6-4c76-864a-462935b23212/cover",
-          "start_time": "15:45",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "The Finish Line",
-          "show_description": "9/25. Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b7e52944-1b9d-4e70-bf29-f92d141e9307/cover",
-          "start_time": "16:30",
-          "end_time": "17:15"
-        },
-        {
-          "show_name": "Pointless",
-          "show_description": "9/54. The quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ee79a0f8-d64b-3ee0-bb1c-535c1c73d948/cover",
-          "start_time": "17:15",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/10bd3d8d-5fe9-46e2-a406-6e691819dd52/cover",
-          "start_time": "18:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "Reporting Scotland",
-          "show_description": "The latest news and weather from BBC News Scotland. Presented by Laura Goodwin.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/01af1e9a-5702-41f5-8446-7bda3c7cd4d9/cover",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "River City",
-          "show_description": "Tensions between Gillian and Roisin come to a head, fracturing their friendship. Meanwhile, a stunned Chris is torn over whether to tell Kelly-Marie about Callum's behaviour.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ac3e7daf-fe8b-4d61-8219-483dde2d15ad/cover",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "EastEnders",
-          "show_description": "Denise and Kim come up with a plan to fix things, Max makes an effort with Linda, and Billy's approach causes upset.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/aa7bd411-0a5a-4cab-9f93-6e57a8869489/cover",
-          "start_time": "19:30",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "MasterChef: The Professionals",
-          "show_description": "18/21. The semi-finalists are whisked off to the stunning Scottish Highlands, where maestro Mark Donald puts them to work at the Glenturret Lalique, a two-Michelin-star restaurant.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/800fa062-536c-41ea-b9d0-46f21b91d7ae/cover",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "The Apprentice",
-          "show_description": "8/12. It's week 8, and the candidates are sent to the Isle of Wight to secure nine items for the best price. A last-minute dash to the finish sets up a close race in the boardroom.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c1ad96d1-1e8e-4492-8e40-9258b6a98a7c/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "BBC News and Weather",
-          "show_description": "The latest national and international news, with reports from BBC correspondents worldwide.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bce55adb-46e5-494d-971e-4b9f3f85a276/cover",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "Reporting Scotland",
-          "show_description": "The latest news and weather from BBC News Scotland.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/802e6991-5839-4128-8b44-71fe2804eb77/cover",
-          "start_time": "22:30",
-          "end_time": "22:40"
-        },
-        {
-          "show_name": "Question Time",
-          "show_description": "Fiona Bruce presents an hour of topical debate from Croydon. On the panel are Wes Streeting, Helen Whately, Josh Babarinde, Caroline Lucas and James Orr.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/967765c4-973e-4208-b6d7-62b9a1601f37/cover",
-          "start_time": "22:40",
-          "end_time": "23:40"
-        },
-        {
-          "show_name": "Newscast",
-          "show_description": "Lighthearted discussion of the week's political events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/72570c3e-20dd-42f2-aa27-576dc1781e58/cover",
-          "start_time": "23:40",
-          "end_time": "00:10"
-        }
-      ]
-    },
-    {
       "date": "20 March 2026",
       "programmes": [
         {
           "show_name": "Scotcast",
-          "show_description": "Conversation about Scotland's biggest news stories, hosted by Martin Geissler.",
+          "show_description": "SNP leader and first minister John Swinney speaks to Martin Geissler ahead of May's Holyrood election.",
           "show_logo": "https://images.metadata.sky.com/pd-image/0c8c30bc-ed20-44ea-8064-f0f16a2ec39e/cover",
           "start_time": "00:10",
           "end_time": "00:40"
@@ -345,6 +151,193 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/c7d3b82b-d159-48d7-8ef8-da11687d0c0f/cover",
           "start_time": "23:25",
           "end_time": "00:10"
+        }
+      ]
+    },
+    {
+      "date": "21 March 2026",
+      "programmes": [
+        {
+          "show_name": "RuPaul's Drag Race UK vs the World",
+          "show_description": "8/8. It's the final! The queens battle it out in a fierce Lip-Sync Smackdown for the crown. Contains some strong language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/116b583a-d35d-4110-a750-1ed28ffbef1b/cover",
+          "start_time": "00:10",
+          "end_time": "01:20"
+        },
+        {
+          "show_name": "Weather for the Week Ahead",
+          "show_description": "Detailed weather forecast.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c7ccfdcb-7ef4-4508-b24e-071d678ceb8a/cover",
+          "start_time": "01:20",
+          "end_time": "01:25"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ca16684a-db49-4eba-8ad2-0de57f072c4f/cover",
+          "start_time": "01:25",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c46f987f-f557-40c5-b77b-1cf2c54bba02/cover",
+          "start_time": "06:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Saturday Kitchen Live",
+          "show_description": "Matt is joined by Owen Morgan, Leyli Homayoonfar, Elliott Grover and Kiell Smith-Bynoe.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ebc84a0d-3878-40bd-aadf-4f8d126ce0da/cover",
+          "start_time": "10:00",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Homes Under the Hammer",
+          "show_description": "Owain Wyn Evans finds an old fish tank and some fishing rods at a house in Worcestershire. Jacqui Joseph tackles a pair of terraces in Milton Keynes and Kent.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7b959ee2-e6d7-4fcf-acb0-37885dcd5a9d/cover",
+          "start_time": "11:30",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Football Focus",
+          "show_description": "Alex Scott and guests preview the League Cup Final between Arsenal and Manchester City, and look ahead to the big World Cup play-off games for Wales and Northern Ireland.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/415dd709-8287-4c6d-931e-96f56c53213a/cover",
+          "start_time": "12:00",
+          "end_time": "12:45"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/51fa17de-91ff-4555-9518-a74831b46639/cover",
+          "start_time": "12:45",
+          "end_time": "12:55"
+        },
+        {
+          "show_name": "Weather",
+          "show_description": "The latest weather forecast.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7ec43668-01a0-4560-a7be-0fc2065ae8fd/cover",
+          "start_time": "12:55",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Bargain Hunt",
+          "show_description": "Natasha Raskin Sharp goes bargain hunting at Cheltenham racecourse, where experts Danny Sebastian and Caroline Hawley help the teams find the best items to sell at auction.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/27ac58f2-8772-4342-be9f-df5dbeed0164/cover",
+          "start_time": "13:00",
+          "end_time": "13:45"
+        },
+        {
+          "show_name": "Escape to the Country",
+          "show_description": "51/55. A house with as much natural light as possible is top of today's property shopping list, and Jules Hudson is just the chap to find it in the region of the Bedfordshire borders.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6d0b4f0c-ac3d-3fca-a395-c5a5bb7a7efd/cover",
+          "start_time": "13:45",
+          "end_time": "14:15"
+        },
+        {
+          "show_name": "Money for Nothing",
+          "show_description": "10/20. When is a trunk not a trunk? Sarah Moore needs to find a way to make a vintage trunk pack a profit, and upholsterer Ollie tries to nurse a dated chair back from the brink.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/561710a3-11b4-45a4-b527-f437d5f2747e/cover",
+          "start_time": "14:15",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "The Addams Family 2",
+          "show_description": "Animated sequel. Gomez takes the Addams on an impromptu and diverting trip around America, but Wednesday is haunted by doubt. Why is she so different from the rest of her family? [2019]",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d6d74af0-a8a6-4aea-90d6-724b1810f97a/cover",
+          "start_time": "15:00",
+          "end_time": "16:25"
+        },
+        {
+          "show_name": "Asia",
+          "show_description": "7/7. The stories of the passionate people who are dedicated to saving the wild animals of Asia - including sun bears in Borneo, Javan green magpies and Sunda pangolins in Singapore.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/45c49545-310e-3a67-9937-f35fbc64a209/cover",
+          "start_time": "16:25",
+          "end_time": "17:25"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ce62890c-292d-4da9-bc2a-9aa53f81ba16/cover",
+          "start_time": "17:25",
+          "end_time": "17:35"
+        },
+        {
+          "show_name": "Reporting Scotland",
+          "show_description": "The latest news and weather from BBC News Scotland.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/207958af-c7d4-4240-b727-d64eda49f58e/cover",
+          "start_time": "17:35",
+          "end_time": "17:40"
+        },
+        {
+          "show_name": "Weather",
+          "show_description": "The latest weather forecast.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3ab5661f-9a7a-4d4e-afba-519dd5c17280/cover",
+          "start_time": "17:40",
+          "end_time": "17:45"
+        },
+        {
+          "show_name": "Gladiators",
+          "show_description": "10/11. In the last semi-final, Bradley and Barney Walsh welcome four more determined Contenders to take on the formidable Gladiators, and each other, for a place in the grand final.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5b478c57-073d-414c-a875-6f5e89092d4f/cover",
+          "start_time": "17:45",
+          "end_time": "18:45"
+        },
+        {
+          "show_name": "Michael McIntyre's The Wheel",
+          "show_description": "3/10. Anita Rani, Babatunde Aleshe and Ekin-Su try to help contestants win big cash.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bb8810f1-717a-3357-931f-f36bf604cbae/cover",
+          "start_time": "18:45",
+          "end_time": "19:45"
+        },
+        {
+          "show_name": "The Weakest Link: Gladiators Special",
+          "show_description": "6/14. A Gladiators special, featuring Bionic, Sabre, Giant, Diamond, Fire and Athena, referee Mark Clattenburg and commentator Guy Mowbray.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/59c084af-79dc-4571-b1ad-e792f30e0712/cover",
+          "start_time": "19:45",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Casualty",
+          "show_description": "10/12. Cam, Indie and Siobhan face the devastating consequences of retribution. Kim's secret comes close to spilling out, while Iain's hopes of fatherhood are dashed.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ff4200f2-10a3-4c20-96df-f88a4ff807b5/cover",
+          "start_time": "20:30",
+          "end_time": "21:15"
+        },
+        {
+          "show_name": "The Walsh Sisters",
+          "show_description": "5/6. Rachel faces some uncomfortable truths, and the sisters help with Anna's upcoming event. Contains strong language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/40196e55-5672-4cc7-adb3-a8922c3f97f0/cover",
+          "start_time": "21:15",
+          "end_time": "22:10"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0c0250ea-9e47-4b9d-8ee0-93ca0ceb6dee/cover",
+          "start_time": "22:10",
+          "end_time": "22:25"
+        },
+        {
+          "show_name": "Weather",
+          "show_description": "The latest weather forecast.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1db26321-bf68-4706-bffb-b8b8cac450c4/cover",
+          "start_time": "22:25",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Match of the Day",
+          "show_description": "Highlights from five Premier League games, including a number of teams in the hunt for a place in Europe next season.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9ef4c8dc-b690-498e-94f0-afa9aa100759/cover",
+          "start_time": "22:30",
+          "end_time": "23:40"
+        },
+        {
+          "show_name": "Sportscene: Premiership Highlights",
+          "show_description": "Steven Thompson presents highlights of Falkirk v St Mirren, Hearts v Dundee, Kilmarnock v Livingston, Motherwell v Hibernian and Rangers v Aberdeen.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c3da116c-ea73-492c-aa36-33750a44ea09/cover",
+          "start_time": "23:40",
+          "end_time": "00:55"
         }
       ]
     }
