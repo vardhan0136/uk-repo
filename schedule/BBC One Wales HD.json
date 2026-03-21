@@ -3,158 +3,6 @@
   "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
   "schedule": [
     {
-      "date": "20 March 2026",
-      "programmes": [
-        {
-          "show_name": "Weather for the Week Ahead",
-          "show_description": "Detailed weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/46376e79-d1cb-4644-ae5c-db1c3409f275/cover",
-          "start_time": "00:10",
-          "end_time": "00:15"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/22707538-26f7-4bde-a402-796a84ab3533/cover",
-          "start_time": "00:15",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3843758b-fc7e-446d-98fa-b3f20ea7cab3/cover",
-          "start_time": "06:00",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Morning Live",
-          "show_description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3eed44ef-7957-4510-9135-636b0ee817b9/cover",
-          "start_time": "09:30",
-          "end_time": "10:45"
-        },
-        {
-          "show_name": "Crimewatch Live",
-          "show_description": "15/15. How a bookkeeper took nearly £900,000 from an elderly couple she had befriended. And police want to identify a man they believe was killed in a forest in north Wales.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cfe4c58a-96bf-49dd-97d9-f06689d745f7/cover",
-          "start_time": "10:45",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Homes Under the Hammer",
-          "show_description": "54/80. In Carlisle, Martel meets a well-dressed developer and his wife, who are looking to turn around a two-bedroom semi.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3c13b1ee-8c01-46fd-ace0-ab83f54e363b/cover",
-          "start_time": "11:30",
-          "end_time": "12:15"
-        },
-        {
-          "show_name": "Bargain Hunt: On Doctor's Orders",
-          "show_description": "Dr Eric Knowles will see you as he looks back at some of the most profitable medical purchases on the show.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5a1e97f4-77f4-4f32-8154-0d7b30d9ad24/cover",
-          "start_time": "12:15",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "BBC News at One",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/506e210d-0ab0-4737-ba62-d8a23136668a/cover",
-          "start_time": "13:00",
-          "end_time": "13:35"
-        },
-        {
-          "show_name": "BBC Wales Today",
-          "show_description": "News and weather from BBC Wales.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/500b9f92-c3a7-4ecd-8c15-438c62545825/cover",
-          "start_time": "13:35",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Father Brown",
-          "show_description": "9/10. Father Brown investigates when a Hollywood starlet is murdered while filming an advert for washing powder.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/18208761-cb09-4c6f-a230-7a90f994c774/cover",
-          "start_time": "14:00",
-          "end_time": "14:45"
-        },
-        {
-          "show_name": "Escape to the Country",
-          "show_description": "In West Yorkshire, Steve Brown supports an artist who is looking to leave London to realise her ambition of living life in the countryside.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/50e80350-6a80-3740-bc13-2b21dc2f02a8/cover",
-          "start_time": "14:45",
-          "end_time": "15:45"
-        },
-        {
-          "show_name": "The Repair Shop on the Road",
-          "show_description": "Dom and Steve resurrect a dead cat, star of an iconic mechanical exhibit at the Eden Project. Will tackles the woodworm that has ravaged a traditional Welsh love spoon.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b2f1d805-d1d9-4b8a-bc02-e94c3647c443/cover",
-          "start_time": "15:45",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "The Finish Line",
-          "show_description": "10/25. Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6da48732-ee8f-46f9-abe8-2c3b21b6fb5a/cover",
-          "start_time": "16:30",
-          "end_time": "17:15"
-        },
-        {
-          "show_name": "Pointless",
-          "show_description": "10/54. The quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7add5e3e-a383-37b6-a0d1-feb4b68d319f/cover",
-          "start_time": "17:15",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c3520bca-03dc-4c41-b90b-9607852fe924/cover",
-          "start_time": "18:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "BBC Wales Today",
-          "show_description": "News and weather from BBC Wales.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c9cf0763-ef76-44da-822c-3d495f491ff7/cover",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Comic Relief: Funny for Money",
-          "show_description": "The UK's biggest night of comedy and entertainment is back, ready to entertain the nation whilst raising much-needed cash for good causes at home and across the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1eae9104-8332-4457-a400-839bcec6e4a2/cover",
-          "start_time": "19:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "BBC News and Weather",
-          "show_description": "The latest national and international news, with reports from BBC correspondents worldwide.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c78f16a2-e0bd-4e89-ac4f-df0cdce8c6aa/cover",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "BBC Wales Today",
-          "show_description": "News and weather from BBC Wales.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0124ce2a-043c-4f41-99f7-826350196c54/cover",
-          "start_time": "22:30",
-          "end_time": "22:40"
-        },
-        {
-          "show_name": "The Claudia Winkleman Show",
-          "show_description": "Claudia's guests are comedians Joanne Mcnally and Guz Khan, Rachel Zegler and singer-songwriter Niall Horan.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e8d9ed52-fa70-4951-9faf-020955ab93d8/cover",
-          "start_time": "22:40",
-          "end_time": "23:25"
-        },
-        {
-          "show_name": "RuPaul's Drag Race UK vs the World",
-          "show_description": "8/8. It's the final! The queens battle it out in a fierce Lip-Sync Smackdown for the crown. Contains some strong language.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/116b583a-d35d-4110-a750-1ed28ffbef1b/cover",
-          "start_time": "23:25",
-          "end_time": "00:35"
-        }
-      ]
-    },
-    {
       "date": "21 March 2026",
       "programmes": [
         {
@@ -194,7 +42,7 @@
         },
         {
           "show_name": "Football Focus",
-          "show_description": "Alex Scott and guests preview the League Cup Final between Arsenal and Manchester City, and look ahead to the big World Cup play-off games for Wales and Northern Ireland.",
+          "show_description": "Alex Scott and guests preview the League Cup final, the World Cup play-offs and the Women's Champions League quarter-final. We also hear from Premier League record breaker James Milner.",
           "show_logo": "https://images.metadata.sky.com/pd-image/415dd709-8287-4c6d-931e-96f56c53213a/cover",
           "start_time": "12:00",
           "end_time": "12:45"
@@ -292,7 +140,7 @@
         },
         {
           "show_name": "Casualty",
-          "show_description": "10/12. Cam, Indie and Siobhan face the devastating consequences of retribution. Kim's secret comes close to spilling out, while Iain's hopes of fatherhood are dashed.",
+          "show_description": "10/12. Cam, Indie and Siobhan face the devastating consequences of retribution. Kim struggles to open up about her eating disorder, while Iain's hopes of fatherhood are dashed.",
           "show_logo": "https://images.metadata.sky.com/pd-image/ff4200f2-10a3-4c20-96df-f88a4ff807b5/cover",
           "start_time": "20:30",
           "end_time": "21:15"
@@ -327,10 +175,211 @@
         },
         {
           "show_name": "James Milner: The Football Interview",
-          "show_description": "Kelly Somers in conversation with James Milner.",
+          "show_description": "Kelly Somers speaks to Brighton midfielder James Milner about his football journey and how the game has changed during his career.",
           "show_logo": "https://images.metadata.sky.com/pd-image/e9e47338-c876-4bd1-ae49-d08d37a5a146/cover",
           "start_time": "23:40",
           "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "22 March 2026",
+      "programmes": [
+        {
+          "show_name": "Weather for the Week Ahead",
+          "show_description": "Detailed weather forecast.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4041e99e-dd99-4678-bf78-abfe072896aa/cover",
+          "start_time": "00:00",
+          "end_time": "00:05"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/18cdeb55-1694-423f-80a4-95cbb1f359c2/cover",
+          "start_time": "00:05",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/35768ce9-784e-486a-95c7-a4c83b535b0c/cover",
+          "start_time": "06:00",
+          "end_time": "07:50"
+        },
+        {
+          "show_name": "Match of the Day",
+          "show_description": "Highlights from five Premier League games, including a number of teams in the hunt for a place in Europe next season.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9ef4c8dc-b690-498e-94f0-afa9aa100759/cover",
+          "start_time": "07:50",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Sunday with Laura Kuenssberg",
+          "show_description": "The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e5ccd770-74dc-4b7e-94d7-5e4fb2a1f8da/cover",
+          "start_time": "09:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Politics Wales",
+          "show_description": "Teleri Glyn Jones is joined by Eluned Morgan MS, Laura Anne Jones MS, Tom Giffard MS, Cefin Campbell MS and Lynne Neagle MS.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7563bb6e-be2a-486d-9860-6420c2898f15/cover",
+          "start_time": "10:00",
+          "end_time": "10:35"
+        },
+        {
+          "show_name": "Pilgrimage: The Road to the Scottish Isles",
+          "show_description": "2/3. Life on the pilgrimage begins to challenge the celebrities physically and spiritually.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/55841b12-6b12-48d9-97fe-4d95734564b8/cover",
+          "start_time": "10:35",
+          "end_time": "11:35"
+        },
+        {
+          "show_name": "Homes Under the Hammer",
+          "show_description": "A plot of land in Leeds could be a goldmine - that is, if the new owner can obtain planning permission.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0a06bc9a-8294-40b5-bcb5-cbd2f29c1608/cover",
+          "start_time": "11:35",
+          "end_time": "12:35"
+        },
+        {
+          "show_name": "Bargain Hunt",
+          "show_description": "Mother and son take on a mother and daughter in today's Bargain Hunt at the Royal Highland Centre in Edinburgh. Anita Manning and experts Paul Laidlaw and John Cameron are on hand.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/48314c95-2bb6-4c5a-af47-56919d0cee0c/cover",
+          "start_time": "12:35",
+          "end_time": "13:15"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1dd0290b-7a77-4773-955e-7dea69e35d18/cover",
+          "start_time": "13:15",
+          "end_time": "13:25"
+        },
+        {
+          "show_name": "Weather for the Week Ahead",
+          "show_description": "Detailed weather forecast.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/62dba2a0-67e4-4368-872b-ae5845d74153/cover",
+          "start_time": "13:25",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Songs of Praise: Faith and Money",
+          "show_description": "Sean Fletcher is in London to explore how Christians should approach the topic of money and wealth and meets a businessman who turned his back on earning millions due to his faith.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/dba490c1-2e3d-4bbc-8d42-da751165d330/cover",
+          "start_time": "13:30",
+          "end_time": "14:05"
+        },
+        {
+          "show_name": "Gladiators",
+          "show_description": "10/11. In the last semi-final, Bradley and Barney Walsh welcome four more determined Contenders to take on the formidable Gladiators, and each other, for a place in the grand final.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5b478c57-073d-414c-a875-6f5e89092d4f/cover",
+          "start_time": "14:05",
+          "end_time": "15:05"
+        },
+        {
+          "show_name": "Crookhaven",
+          "show_description": "1/8. Pickpocket Gabriel Avery faces a new secret life when he is recruited to Crookhaven, a school for crooks where students are taught to beat criminals at their own game.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2a151954-5130-4ecb-9540-c6fee93ae624/cover",
+          "start_time": "15:05",
+          "end_time": "15:50"
+        },
+        {
+          "show_name": "Crookhaven",
+          "show_description": "2/8. School rivalries intensify when the Merits and Legacies attempt the break-in challenge.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/25336d29-ee0b-4d87-9eb2-a39b19e9d9d4/cover",
+          "start_time": "15:50",
+          "end_time": "16:35"
+        },
+        {
+          "show_name": "Comic Relief: More Funny for Money",
+          "show_description": "Jill Scott and La Voix take a look back at the highlights of this year's charity extravaganza, reliving an incredible night of fundraising, comedy and entertainment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/613be05a-1ded-4d21-a29e-24dceac6dcee/cover",
+          "start_time": "16:35",
+          "end_time": "17:35"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a5df5bf1-6eba-48c4-9c32-068759fe64c9/cover",
+          "start_time": "17:35",
+          "end_time": "17:50"
+        },
+        {
+          "show_name": "BBC Wales Today",
+          "show_description": "News and weather from BBC Wales.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6edbb436-3ba0-41cd-8950-e921f9c5649d/cover",
+          "start_time": "17:50",
+          "end_time": "17:55"
+        },
+        {
+          "show_name": "Weather",
+          "show_description": "The latest weather forecast.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0bddf5c5-1aab-4a65-9e42-d09e741be5a2/cover",
+          "start_time": "17:55",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Countryfile",
+          "show_description": "Countryfile explores life after dark on the North York Moors, one of the UK's Dark Sky Reserves.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/40e994ba-377a-4462-8720-2c79c3e73642/cover",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Antiques Roadshow",
+          "show_description": "The roadshow travels to Beaumaris Castle in north Wales, where finds include a rare ballerina brooch, a first edition of Winnie the Pooh and a sculpture by a Nigerian artist.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ad20bae3-6ae2-3470-a2b7-b8ed2c9100e8/cover",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "The Other Bennet Sister",
+          "show_description": "3/10. After a family tragedy, Mary and her mother are left facing an uncertain future - until Mary receives an unexpected offer from her aunt and uncle.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d7437183-36f6-425d-a693-1e400e0d3248/cover",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "The Other Bennet Sister",
+          "show_description": "4/10. Troubling new feelings and a knock to Mary's confidence complicate her life in London.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a39242d7-1b68-4a29-aa25-61c7f11950be/cover",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "The Capture",
+          "show_description": "3/6. Carey searches for one suspect, whilst Frank Napier deals with another. Contains strong language, graphic violence and upsetting scenes.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a5fa23c4-bb72-4a6b-afe8-8ec41ddea17c/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "BBC News and Weather",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/59a7fa34-1673-4b93-99a8-4cb8d28a67fe/cover",
+          "start_time": "22:00",
+          "end_time": "22:25"
+        },
+        {
+          "show_name": "BBC Wales Today",
+          "show_description": "News and weather from BBC Wales.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cead5e1e-0def-415c-8430-b6297a28a9db/cover",
+          "start_time": "22:25",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Match of the Day",
+          "show_description": "Kelly Cates presents highlights from the day's three Premier League games, including the Tyne-Wear derby between Newcastle and Sunderland.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d00c4ea9-3a97-4d33-8cea-321b07a3080a/cover",
+          "start_time": "22:30",
+          "end_time": "23:35"
+        },
+        {
+          "show_name": "The Women's Football Show",
+          "show_description": "The big names and the big games from the Women's Super League, with highlights and analysis of all the action.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/87d82c9f-fefe-4563-9f2b-e90857262f4a/cover",
+          "start_time": "23:35",
+          "end_time": "00:25"
         }
       ]
     }

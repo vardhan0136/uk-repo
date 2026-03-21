@@ -3,81 +3,6 @@
   "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png",
   "schedule": [
     {
-      "date": "20 March 2026",
-      "programmes": [
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Reporting Scotland: News at Seven",
-          "show_description": "More from the day's top stories and communities across Scotland.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/622b75b8-2db1-4a7f-af6f-ea09a3ffcc05/cover",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Sportscene: Championship Live",
-          "show_description": "Live coverage from the Scottish Championship as Partick host St Johnstone in a top-of-the-table clash.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a1c190b3-6d07-4a5d-85fb-38efecda5697/cover",
-          "start_time": "19:30",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Still Game",
-          "show_description": "2/6. A creepy new undertaker moves into Craiglang and everyone becomes spooked. Contains some strong language.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4d8509c0-04d7-4f38-8189-e52ba800f996/cover",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "A View from the Terrace",
-          "show_description": "12/18. Every ounce of Scottish football, from the SPFL to the Sunday league ringers. It means everything, it means nothing, and this is the view of the fans on the terrace.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c7d3b82b-d159-48d7-8ef8-da11687d0c0f/cover",
-          "start_time": "22:30",
-          "end_time": "23:15"
-        },
-        {
-          "show_name": "Two Doors Down",
-          "show_description": "5/6. Technophobe Christine faces a computer crisis. Contains some strong language.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/68a214a5-1984-49d8-bdd8-bf0415933a61/cover",
-          "start_time": "23:15",
-          "end_time": "23:45"
-        },
-        {
-          "show_name": "Pineapple",
-          "show_description": "Lonely and disaffected Mabel finds connection over a pineapple in the local supermarket.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/304a5312-3606-4d24-80b8-ec6f92e2d60a/cover",
-          "start_time": "23:45",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "21 March 2026",
       "programmes": [
         {
@@ -130,9 +55,9 @@
           "end_time": "21:00"
         },
         {
-          "show_name": "JLB: The Man Who Saw the Future",
+          "show_name": "John Logie Baird: The Man Who Saw the Future",
           "show_description": "Profile of John Logie Baird, the man who invented television, presented by his son Malcolm. Contains scenes of flashing images.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c7d3ddd9-b3d9-43ff-a7cb-0905582584fe/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ef9045f0-2aec-4fc7-b137-d8e4e52fe00d/cover",
           "start_time": "21:00",
           "end_time": "22:15"
         },
@@ -155,6 +80,102 @@
           "show_description": "...Turning Waste Plastic into Art. Artist couple Donna and Carl go scouting for buoys as they transform Skye's washed-up plastic into beautiful pieces of art.",
           "show_logo": "https://images.metadata.sky.com/pd-image/f47ced16-0c59-4d11-979d-d69f3f449977/cover",
           "start_time": "23:50",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "22 March 2026",
+      "programmes": [
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Reporting Scotland: News at Seven",
+          "show_description": "All the weekend national, UK-wide and international news on Sunday evening at 7.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d90ab89b-6142-44ef-b2b9-8b7b4782e02c/cover",
+          "start_time": "19:00",
+          "end_time": "19:15"
+        },
+        {
+          "show_name": "Sportscene: Premiership Highlights",
+          "show_description": "Extended highlights of Dundee United v Celtic, and a look back at the best of Saturday's action.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/86f56a08-d0b5-4b6a-bb6b-40ee6eba2d33/cover",
+          "start_time": "19:15",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Sacked in the Morning",
+          "show_description": "4/10. Craig Levein and Amy Irons are joined by Arsenal legend Lee Dixon, who talks imposter syndrome, fighting Dennis Bergkamp and celebrating in a chip shop.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1d526528-278e-4371-b506-a9847fae7d12/cover",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "The Entertainment Mix",
+          "show_description": "15/16. Michelle is joined by Sir Lenny Henry, Katherine Jenkins, and comedians Alan Davies and Iain Anderson. Plus music from Gaïa and Scotland's Silent Film Festival, Hippfest.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/951e0448-fc66-4d2a-b811-cd0c58deb0a1/cover",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Paramedics on Scene",
+          "show_description": "5/10. A man calls the emergency services, threatening to detonate a bomb.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/206651d6-c11c-4203-8b6f-8998d91b8b88/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Still Game",
+          "show_description": "2/6. A creepy new undertaker moves into Craiglang and everyone becomes spooked. Contains some strong language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4d8509c0-04d7-4f38-8189-e52ba800f996/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Scot Squad",
+          "show_description": "4/5. An extra-special finale to the series sees Scotland's favourite cops stepping up and moving on.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/05e6d734-2526-438b-9313-447b1ffa3ebd/cover",
+          "start_time": "22:30",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Situationships with Sophie and Christine",
+          "show_description": "5/8. To sex or not to sex? Sophie and Christine talk about celibacy. Contains some strong language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/255631ff-a487-4859-a36e-cf2cd3435f92/cover",
+          "start_time": "23:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "The Sunday Show",
+          "show_description": "Gary Robertson brings you all the main issues from the world of politics and beyond. Big interviews, discussion and analysis of the stories that matter to Scotland.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d7c74a28-5574-44ee-8b8c-f6a60519fb8a/cover",
+          "start_time": "23:30",
           "end_time": "00:00"
         }
       ]

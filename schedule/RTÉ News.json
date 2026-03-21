@@ -3,216 +3,8 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/RTE-News.png",
   "schedule": [
     {
-      "date": "20 March 2026",
-      "programmes": [
-        {
-          "show_name": "EuroNews",
-          "show_description": "The latest International and European news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b0e82697-3225-4a19-8ae5-adb0c8b40402/cover",
-          "start_time": "00:00",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Morning Ireland",
-          "show_description": "Morning news programme.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c1a7717b-0839-464b-b1a1-aab6b58cc83a/cover",
-          "start_time": "07:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Today with David McCullagh",
-          "show_description": "The Today show live from RTÉ Radio 1.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/09c8f03e-a171-4fd4-b07c-e71f27536354/cover",
-          "start_time": "09:00",
-          "end_time": "10:30"
-        },
-        {
-          "show_name": "Mass",
-          "show_description": "Mass",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9d9695c3-83b2-4820-83a6-dd5977180388/cover",
-          "start_time": "10:30",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "Latest News and Weather",
-          "show_description": "The latest news from RTÉ. Followed by Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9ae5696f-80de-4f05-85a9-41f7b3c78846/cover",
-          "start_time": "11:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Latest News and Weather",
-          "show_description": "The latest news from RTÉ. Followed by Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/11b8941f-8bee-4dbb-a713-66ff68f1929e/cover",
-          "start_time": "12:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "RTE News: One O'clock",
-          "show_description": "(And Weather)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5e68cf2b-d430-43e4-89a6-d9a23984f5e6/cover",
-          "start_time": "13:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Latest News and Weather",
-          "show_description": "The latest news from RTÉ. Followed by Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a0d9d633-1ca6-4ad7-b6f5-26dcb4322313/cover",
-          "start_time": "13:30",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Latest News and Weather",
-          "show_description": "The latest news from RTÉ. Followed by Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d1677df8-7907-4ce4-a50c-ccb2718d680a/cover",
-          "start_time": "14:00",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Latest News and Weather",
-          "show_description": "Latest News and Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bac3ac86-aa68-4725-9324-e22db1d80fc9/cover",
-          "start_time": "15:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Latest News and Weather",
-          "show_description": "The latest news from RTÉ. Followed by Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/793208b4-3dd4-4d85-935f-cef01e93012c/cover",
-          "start_time": "16:00",
-          "end_time": "16:20"
-        },
-        {
-          "show_name": "news2day",
-          "show_description": "Domestic and international news items of interest to younger viewers.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/54522eec-7f3d-4c28-8b60-499cf66edd93/cover",
-          "start_time": "16:20",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "Latest News and Weather",
-          "show_description": "The latest news from RTÉ. Followed by Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0cca53fc-bc64-4121-a133-c50911c468fa/cover",
-          "start_time": "16:30",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Nuacht RTÉ",
-          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ff2dbbd8-bacc-4498-a9e1-5077be804c7c/cover",
-          "start_time": "17:00",
-          "end_time": "17:10"
-        },
-        {
-          "show_name": "Latest News and Weather",
-          "show_description": "The latest news from RTÉ. Followed by Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3cd776ca-0d51-4df3-8ed8-635ffee101ee/cover",
-          "start_time": "17:10",
-          "end_time": "17:40"
-        },
-        {
-          "show_name": "Nuacht RTÉ",
-          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f3c27ef7-980e-4892-be0a-b6044e1c4abf/cover",
-          "start_time": "17:40",
-          "end_time": "18:01"
-        },
-        {
-          "show_name": "RTÉ News: Six One",
-          "show_description": "(And Weather)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c203ebe3-08fc-426c-99f9-bce570bcd268/cover",
-          "start_time": "18:01",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Latest News and Weather",
-          "show_description": "The latest news from RTÉ. Followed by Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d933a7ed-3e6b-4a02-8f41-1456ec400903/cover",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Latest News and Weather",
-          "show_description": "The latest news from RTÉ. Followed by Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8e44be9c-1531-4931-9996-ac9e1c441648/cover",
-          "start_time": "20:00",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "Nuacht RTÉ",
-          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1e1f27a1-3fd9-498e-a495-ac54535b7f1d/cover",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "RTÉ News: Nine O'Clock",
-          "show_description": "(And Weather)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/566dc6db-c838-498b-b15a-20f7cc59e710/cover",
-          "start_time": "21:00",
-          "end_time": "21:30"
-        },
-        {
-          "show_name": "Latest News and Weather",
-          "show_description": "The latest news from RTÉ. Followed by Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e102aad1-4733-4b44-ad50-ff3433c53279/cover",
-          "start_time": "21:30",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Latest News and Weather",
-          "show_description": "The latest news from RTÉ. Followed by Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6b81012c-02a5-4335-8380-78537530788e/cover",
-          "start_time": "22:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Nuacht RTÉ",
-          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c520cc3a-9cec-407c-a7d7-3cfa1665b503/cover",
-          "start_time": "23:00",
-          "end_time": "23:25"
-        },
-        {
-          "show_name": "EuroNews",
-          "show_description": "The latest International and European news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/040ec60b-e5b3-47b1-ba96-a8274fca5ea5/cover",
-          "start_time": "23:25",
-          "end_time": "06:00"
-        }
-      ]
-    },
-    {
       "date": "21 March 2026",
       "programmes": [
-        {
-          "show_name": "This is RTE News",
-          "show_description": "This is RTE News",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f45bedc7-907f-4960-b625-fe9ab48cd20b/cover",
-          "start_time": "06:00",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "This is RTE News",
-          "show_description": "This is RTE News",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bac5ea44-f205-4933-b13e-0047156d6ea0/cover",
-          "start_time": "06:30",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "This is RTE News",
-          "show_description": "This is RTE News",
-          "show_logo": "https://images.metadata.sky.com/pd-image/74d91f32-d0af-4476-bef7-95069d7bd105/cover",
-          "start_time": "07:00",
-          "end_time": "07:30"
-        },
-        {
-          "show_name": "This is RTE News",
-          "show_description": "This is RTE News",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dabaf965-b632-4791-9cdd-bf637158a4b4/cover",
-          "start_time": "07:30",
-          "end_time": "08:00"
-        },
         {
           "show_name": "Current Affairs Round Up",
           "show_description": "News and Current Affairs highlights from the past week.",
@@ -359,6 +151,172 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/69375434-d05d-438c-9a37-4d9957c74443/cover",
           "start_time": "23:15",
           "end_time": "08:00"
+        }
+      ]
+    },
+    {
+      "date": "22 March 2026",
+      "programmes": [
+        {
+          "show_name": "Current Affairs Round Up",
+          "show_description": "News and Current Affairs highlights from the past week.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c18ce869-6ea8-41cb-84df-f0214a3c2199/cover",
+          "start_time": "08:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Current Affairs Round Up",
+          "show_description": "News and Current Affairs highlights from the past week.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e80049a8-9144-443d-bf62-a58e8cb13f1a/cover",
+          "start_time": "09:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Current Affairs Round Up",
+          "show_description": "News and Current Affairs highlights from the past week.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/06ae8cd9-f189-447d-a65e-40fcecec006a/cover",
+          "start_time": "10:00",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "Current Affairs Round Up",
+          "show_description": "News and Current Affairs highlights from the past week.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/080290ed-531b-474a-83d1-9aa77d76a085/cover",
+          "start_time": "11:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "The Week In Politics",
+          "show_description": "Reflections on the political week.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a3f6a7ef-b179-48a3-8dda-c1d6676be8ff/cover",
+          "start_time": "12:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "This Week",
+          "show_description": "Catch up on the events making the news in the past week.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8dbf952b-32b3-4265-a808-c47a9bb7b2e7/cover",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "Latest News and Weather.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/44419776-0475-4918-af7a-cae7d8c580ce/cover",
+          "start_time": "14:00",
+          "end_time": "14:15"
+        },
+        {
+          "show_name": "Sunday Service",
+          "show_description": "Morning worship and song",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f7af97d4-671d-469d-8838-9aaa068a1f95/cover",
+          "start_time": "14:15",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "The Week In Politics",
+          "show_description": "Reflections on the political week.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/59a800f3-e9a6-44da-8d5e-17a16b620f91/cover",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "This Week",
+          "show_description": "Catch up on the events making the news in the past week.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/36cd8573-8890-4c64-af98-bb0f89298e8e/cover",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "Latest News and Weather.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/90abe7e3-6a83-4bd4-a668-ded2ecec62af/cover",
+          "start_time": "17:00",
+          "end_time": "17:40"
+        },
+        {
+          "show_name": "Nuacht RTÉ",
+          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/eb0b4846-1eb2-4b8d-8a2a-9248ad614707/cover",
+          "start_time": "17:40",
+          "end_time": "17:55"
+        },
+        {
+          "show_name": "ISL Weekly Weather",
+          "show_description": "The latest national weather forecast with Irish Sign Language (ISL).",
+          "show_logo": "https://images.metadata.sky.com/pd-image/50f9a450-b320-43d6-92f8-8347e2201195/cover",
+          "start_time": "17:55",
+          "end_time": "18:01"
+        },
+        {
+          "show_name": "RTÉ News: Six One",
+          "show_description": "(And Weather)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9433c8b3-80d6-489d-963e-b3f1112ed396/cover",
+          "start_time": "18:01",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "The Week In Politics",
+          "show_description": "Reflections on the political week.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ee05ac05-4a49-4bff-9bf3-6c408230de6d/cover",
+          "start_time": "18:30",
+          "end_time": "19:15"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "Latest News and Weather.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0dad310b-18b5-4083-9bd3-62fd0cba7052/cover",
+          "start_time": "19:15",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "Latest News and Weather.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d3bad417-bf64-48eb-a6c9-03b4339f046e/cover",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Nuacht RTÉ",
+          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/63bddd50-33ee-4e30-a1e5-2cf4f323212e/cover",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "RTÉ News: Nine O'Clock",
+          "show_description": "(And Weather)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/58469019-d7ff-44e3-b056-07a67dbf6f3d/cover",
+          "start_time": "21:00",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "Latest News and Weather.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/aba175a1-d556-4d44-b569-429a37ed6354/cover",
+          "start_time": "21:30",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "The Week In Politics",
+          "show_description": "Reflections on the political week.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cb37e822-24cf-43c3-ad3f-364902e96f82/cover",
+          "start_time": "22:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Nuacht RTÉ",
+          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b32fe71f-c10d-42ad-8dd9-041af34e63d7/cover",
+          "start_time": "23:00",
+          "end_time": "23:15"
+        },
+        {
+          "show_name": "EuroNews",
+          "show_description": "The latest International and European news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/743b89fb-883b-4370-94d9-0c679cdd1834/cover",
+          "start_time": "23:15",
+          "end_time": "07:00"
         }
       ]
     }

@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Scotland.png",
   "schedule": [
     {
-      "date": "20 March 2026",
-      "programmes": [
-        {
-          "show_name": "Scotcast",
-          "show_description": "SNP leader and First Minister John Swinney speaks to Martin Geissler ahead of May's Holyrood election.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "00:55"
-        },
-        {
-          "show_name": "As BBC Radio 5 Live",
-          "show_description": "Joining Radio 5 Live.",
-          "show_logo": "",
-          "start_time": "00:55",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Radio Scotland Breakfast",
-          "show_description": "News from across Scotland and the world, plus sport, weather, entertainment and big name interviews.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Mornings",
-          "show_description": "Stephen Jardine gets to the heart of the stories making the news.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Lunchtime Live",
-          "show_description": "News updates from Scotland and beyond, plus all your lunchtime sport, travel and weather.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Breaking the News",
-          "show_description": "Des Clarke hosts Scotland's award-winning satirical news quiz.",
-          "show_logo": "",
-          "start_time": "13:30",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Afternoons",
-          "show_description": "Nicola Meighan brings you feel-good music and chat with celebrity guests.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Drivetime",
-          "show_description": "Breaking down the day's talking points with comment and opinion, plus sport, travel and weather.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Grant Stott's Vinyl Collective",
-          "show_description": "Soul star Omar shares a favourite album, Grant celebrates George Benson's birthday and counts down the Top 10 Album Chart from this week in 1987.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "BBC Introducing in Scotland",
-          "show_description": "Phoebe reveals who will be judging the five finalists in BBC Introducing Scottish Act of the Year next week. And 2025's winner, Becky Sikasa, is in conversation about her year.",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Up Late",
-          "show_description": "The best company to end the day, with lively chat and some of your favourite tunes.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "21 March 2026",
       "programmes": [
         {
@@ -96,7 +14,7 @@
         },
         {
           "show_name": "Out of Doors",
-          "show_description": "Mark Stephen and Rachel Stewart with stories from the great outdoors.",
+          "show_description": "Mark Stephen and Rachel Stewart with stories from the great outdoors, including white hens and their eggs, growing bere barley and migrating toads in Edinburgh.",
           "show_logo": "",
           "start_time": "06:30",
           "end_time": "08:00"
@@ -124,23 +42,30 @@
         },
         {
           "show_name": "Sportsound",
-          "show_description": "Comprehensive coverage of Scottish sport, including live and exclusive commentary.",
+          "show_description": "Live commentary of Hearts v Dundee in the Scottish Premiership.",
           "show_logo": "",
           "start_time": "14:00",
           "end_time": "17:30"
         },
         {
           "show_name": "Sportsound",
-          "show_description": "Fans react to the day's big football stories.",
+          "show_description": "Live commentary of Rangers v Aberdeen in the Scottish Premiership.",
           "show_logo": "",
           "start_time": "17:30",
           "end_time": "19:00"
         },
         {
+          "show_name": "Sportsound",
+          "show_description": "Live commentary of Rangers v Aberdeen in the Scottish Premiership.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        },
+        {
           "show_name": "Take the Floor",
           "show_description": "For the very best in traditional music, join Gary Innes for Take the Floor. We have a favourite programme as we share a compilation of our leading dance bands.",
           "show_logo": "",
-          "start_time": "19:00",
+          "start_time": "20:00",
           "end_time": "21:00"
         },
         {
@@ -156,6 +81,88 @@
           "show_logo": "",
           "start_time": "22:00",
           "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "22 March 2026",
+      "programmes": [
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "Joining Radio 5 Live.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Scotcast",
+          "show_description": "Martin Geissler and the team bring you thoughtful conversation and expert analysis covering the most interesting news stories in Scotland.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "New Every Sunday",
+          "show_description": "An act of worship with Church of Scotland minister Rev Gillean Maclean in Inverness.",
+          "show_logo": "",
+          "start_time": "07:30",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Sunday Morning",
+          "show_description": "Two hours of music and conversation with a faith and ethical perspective. Taking the week's events to ask what they say about our values and beliefs.",
+          "show_logo": "",
+          "start_time": "08:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "The Sunday Show",
+          "show_description": "News, discussion and interviews from politics and beyond.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Sportsound",
+          "show_description": "Live commentary of Dundee United v Celtic in the Scottish Premiership.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Off the Ball",
+          "show_description": "The most petty and ill-informed football show on radio.",
+          "show_logo": "",
+          "start_time": "15:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Your Requests with Gary Innes",
+          "show_description": "Join Gary as he shares your special messages and dedications and plays your favourite Scottish Music requests.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Classical Now",
+          "show_description": "Jamie MacDougall features a performance of Mendelssohn's Violin Concerto by Nicola Benedetti and the Scottish Chamber Orchestra, and the BBC SSO perform music by Benjamin Britten.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Roddy Hart's Mix Tape",
+          "show_description": "Stephanie Cheape describes her perfect weekend and DO Gallagher provides our Sunday Soundwave, plus new music from Little Acres, Radhika featuring Mitch Mitchell and Jesca Hoop.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "Joining Radio 5 Live.",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "06:00"
         }
       ]
     }

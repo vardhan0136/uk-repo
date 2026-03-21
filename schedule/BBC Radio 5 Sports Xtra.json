@@ -3,53 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-5-Sports-Extra.png",
   "schedule": [
     {
-      "date": "20 March 2026",
-      "programmes": [
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "17:55"
-        },
-        {
-          "show_name": "Rugby League",
-          "show_description": "Live rugby league commentary from BBC Radio Merseyside of Toulouse Olympique v St Helens in the Super League.",
-          "show_logo": "",
-          "start_time": "17:55",
-          "end_time": "19:45"
-        },
-        {
-          "show_name": "Rugby League",
-          "show_description": "Live rugby league commentary of Wakefield Trinity v Leigh Leopards in the Super League.",
-          "show_logo": "",
-          "start_time": "19:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "21 March 2026",
       "programmes": [
         {
@@ -106,6 +59,53 @@
           "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
           "show_logo": "",
           "start_time": "19:30",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "22 March 2026",
+      "programmes": [
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "11:55"
+        },
+        {
+          "show_name": "Women's Super League",
+          "show_description": "Live football commentary from BBC Radio Sussex of Brighton & Hove Albion v Liverpool in the Women's Super League.",
+          "show_logo": "",
+          "start_time": "11:55",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Premier League Football",
+          "show_description": "Live football commentary of Aston Villa v West Ham United in the Premier League.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "16:15"
+        },
+        {
+          "show_name": "Rugby Union",
+          "show_description": "Live rugby union commentary from BBC Radio Leicester of Leicester Tigers v Bristol Bears in the PREM.",
+          "show_logo": "",
+          "start_time": "16:15",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "17:00",
           "end_time": "00:00"
         }
       ]
