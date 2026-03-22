@@ -3,186 +3,6 @@
   "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
   "schedule": [
     {
-      "date": "21 March 2026",
-      "programmes": [
-        {
-          "show_name": "Weather for the Week Ahead",
-          "show_description": "Detailed weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/21f0a534-967c-4e35-9c11-08da5dd56627/cover",
-          "start_time": "00:35",
-          "end_time": "00:40"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f2f6e7c8-e4f1-4d44-ae5e-9f7f956ba2db/cover",
-          "start_time": "00:40",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b254d3bf-be55-4755-a830-64f1184ada22/cover",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Saturday Kitchen Live",
-          "show_description": "Matt is joined by Owen Morgan, Leyli Homayoonfar, Elliott Grover and Kiell Smith-Bynoe.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ebc84a0d-3878-40bd-aadf-4f8d126ce0da/cover",
-          "start_time": "10:00",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Homes Under the Hammer",
-          "show_description": "Owain Wyn Evans finds an old fish tank and some fishing rods at a house in Worcestershire. Jacqui Joseph tackles a pair of terraces in Milton Keynes and Kent.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7b959ee2-e6d7-4fcf-acb0-37885dcd5a9d/cover",
-          "start_time": "11:30",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Football Focus",
-          "show_description": "Alex Scott and guests preview the League Cup final, the World Cup play-offs and the Women's Champions League quarter-final. We also hear from Premier League record breaker James Milner.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/415dd709-8287-4c6d-931e-96f56c53213a/cover",
-          "start_time": "12:00",
-          "end_time": "12:45"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5681fbee-c4bf-41f3-ac0b-06b76470ba66/cover",
-          "start_time": "12:45",
-          "end_time": "12:55"
-        },
-        {
-          "show_name": "Weather",
-          "show_description": "The latest weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1bf32616-7e81-4742-8431-49565e94a4c1/cover",
-          "start_time": "12:55",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Bargain Hunt",
-          "show_description": "Natasha Raskin Sharp goes bargain hunting at Cheltenham racecourse, where experts Danny Sebastian and Caroline Hawley help the teams find the best items to sell at auction.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/27ac58f2-8772-4342-be9f-df5dbeed0164/cover",
-          "start_time": "13:00",
-          "end_time": "13:45"
-        },
-        {
-          "show_name": "Escape to the Country",
-          "show_description": "51/55. A house with as much natural light as possible is top of today's property shopping list, and Jules Hudson is just the chap to find it in the region of the Bedfordshire borders.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6d0b4f0c-ac3d-3fca-a395-c5a5bb7a7efd/cover",
-          "start_time": "13:45",
-          "end_time": "14:15"
-        },
-        {
-          "show_name": "Money for Nothing",
-          "show_description": "10/20. When is a trunk not a trunk? Sarah Moore needs to find a way to make a vintage trunk pack a profit, and upholsterer Ollie tries to nurse a dated chair back from the brink.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/561710a3-11b4-45a4-b527-f437d5f2747e/cover",
-          "start_time": "14:15",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "The Addams Family 2",
-          "show_description": "Animated sequel. Gomez takes the Addams on an impromptu and diverting trip around America, but Wednesday is haunted by doubt. Why is she so different from the rest of her family? [2019]",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d6d74af0-a8a6-4aea-90d6-724b1810f97a/cover",
-          "start_time": "15:00",
-          "end_time": "16:25"
-        },
-        {
-          "show_name": "Asia",
-          "show_description": "7/7. The stories of the passionate people who are dedicated to saving the wild animals of Asia - including sun bears in Borneo, Javan green magpies and Sunda pangolins in Singapore.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/45c49545-310e-3a67-9937-f35fbc64a209/cover",
-          "start_time": "16:25",
-          "end_time": "17:25"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/35b604e3-4312-43c7-9ff4-e0c686cdb1f9/cover",
-          "start_time": "17:25",
-          "end_time": "17:35"
-        },
-        {
-          "show_name": "East Midlands Today",
-          "show_description": "The latest news, sport and weather for the East Midlands.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/364ce98e-8c39-49f1-abf2-49fb8caa2c00/cover",
-          "start_time": "17:35",
-          "end_time": "17:40"
-        },
-        {
-          "show_name": "Weather",
-          "show_description": "The latest weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6a15bbe3-08be-4f07-804e-39cfa4974f4b/cover",
-          "start_time": "17:40",
-          "end_time": "17:45"
-        },
-        {
-          "show_name": "Gladiators",
-          "show_description": "10/11. In the last semi-final, Bradley and Barney Walsh welcome four more determined Contenders to take on the formidable Gladiators, and each other, for a place in the grand final.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5b478c57-073d-414c-a875-6f5e89092d4f/cover",
-          "start_time": "17:45",
-          "end_time": "18:45"
-        },
-        {
-          "show_name": "Michael McIntyre's The Wheel",
-          "show_description": "3/10. Anita Rani, Babatunde Aleshe and Ekin-Su try to help contestants win big cash.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bb8810f1-717a-3357-931f-f36bf604cbae/cover",
-          "start_time": "18:45",
-          "end_time": "19:45"
-        },
-        {
-          "show_name": "The Weakest Link: Gladiators Special",
-          "show_description": "6/14. A Gladiators special, featuring Bionic, Sabre, Giant, Diamond, Fire and Athena, referee Mark Clattenburg and commentator Guy Mowbray.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/59c084af-79dc-4571-b1ad-e792f30e0712/cover",
-          "start_time": "19:45",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "Casualty",
-          "show_description": "10/12. Cam, Indie and Siobhan face the devastating consequences of retribution. Kim struggles to open up about her eating disorder, while Iain's hopes of fatherhood are dashed.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ff4200f2-10a3-4c20-96df-f88a4ff807b5/cover",
-          "start_time": "20:30",
-          "end_time": "21:15"
-        },
-        {
-          "show_name": "The Walsh Sisters",
-          "show_description": "5/6. Rachel faces some uncomfortable truths, and the sisters help with Anna's upcoming event. Contains strong language.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/40196e55-5672-4cc7-adb3-a8922c3f97f0/cover",
-          "start_time": "21:15",
-          "end_time": "22:10"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0defb2b0-36ab-41c5-8296-e728491dab59/cover",
-          "start_time": "22:10",
-          "end_time": "22:25"
-        },
-        {
-          "show_name": "Weather",
-          "show_description": "The latest weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/97cf496c-904c-479e-9214-09d6616e055e/cover",
-          "start_time": "22:25",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "Match of the Day",
-          "show_description": "Highlights from five Premier League games, including a number of teams in the hunt for a place in Europe next season.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9ef4c8dc-b690-498e-94f0-afa9aa100759/cover",
-          "start_time": "22:30",
-          "end_time": "23:40"
-        },
-        {
-          "show_name": "James Milner: The Football Interview",
-          "show_description": "Kelly Somers speaks to Brighton midfielder James Milner about his football journey and how the game has changed during his career.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e9e47338-c876-4bd1-ae49-d08d37a5a146/cover",
-          "start_time": "23:40",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "22 March 2026",
       "programmes": [
         {
@@ -215,7 +35,7 @@
         },
         {
           "show_name": "Sunday with Laura Kuenssberg",
-          "show_description": "The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.",
+          "show_description": "Guests are Steve Reed, Sir James Cleverly, Chris O'Shea and President Volodymyr Zelensky.",
           "show_logo": "https://images.metadata.sky.com/pd-image/e5ccd770-74dc-4b7e-94d7-5e4fb2a1f8da/cover",
           "start_time": "09:00",
           "end_time": "10:00"
@@ -380,6 +200,200 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/87d82c9f-fefe-4563-9f2b-e90857262f4a/cover",
           "start_time": "23:35",
           "end_time": "00:25"
+        }
+      ]
+    },
+    {
+      "date": "23 March 2026",
+      "programmes": [
+        {
+          "show_name": "The Claudia Winkleman Show",
+          "show_description": "Claudia's guests are comedians Joanne Mcnally and Guz Khan, Rachel Zegler and singer-songwriter Niall Horan. Contains some strong language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e8d9ed52-fa70-4951-9faf-020955ab93d8/cover",
+          "start_time": "00:25",
+          "end_time": "01:10"
+        },
+        {
+          "show_name": "Weather for the Week Ahead",
+          "show_description": "Detailed weather forecast.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/05fbb9c8-1db0-4ffd-989a-15389396a643/cover",
+          "start_time": "01:10",
+          "end_time": "01:15"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ce20feaf-eeac-4996-a67f-3dee3788ae09/cover",
+          "start_time": "01:15",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9e8e2c89-15b5-4656-a06a-9bcb9148b70e/cover",
+          "start_time": "06:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Morning Live",
+          "show_description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/045a8702-8a66-44d2-83ce-f1017f2692f3/cover",
+          "start_time": "09:30",
+          "end_time": "10:45"
+        },
+        {
+          "show_name": "Crimewatch Caught",
+          "show_description": "How CCTV of a change of tracksuit unlocked the truth about the senseless murder of a loved son. And South Wales Police disrupt a huge drugs gang.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b57e192b-755b-4101-9ad5-612a0f04a000/cover",
+          "start_time": "10:45",
+          "end_time": "11:15"
+        },
+        {
+          "show_name": "Homes Under the Hammer",
+          "show_description": "In Bournemouth, Martin warns the buyer to beware, as a huge crack in a three-bedroom house requires urgent attention.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6fd46630-bd39-4288-8aef-d4bb98805780/cover",
+          "start_time": "11:15",
+          "end_time": "12:15"
+        },
+        {
+          "show_name": "Bargain Hunt",
+          "show_description": "Put on your thinking caps to guess the use of Roo's mysterious silver object. Experts Irita Marriott and David Harper guide the teams on an animal-themed shop around an antiques fair.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6e066d64-ece4-4453-8be0-09c8bd87536b/cover",
+          "start_time": "12:15",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "BBC News at One including East Midlands Today",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f41c0521-b855-4778-a580-5ce34e15720f/cover",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Just One Thing",
+          "show_description": "1/12. Clive Myrie advocates the health benefits of eating fish that are rich in omega-3.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f7e3a5c2-a70c-4185-89a7-4273ab3880d5/cover",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "The Travelling Auctioneers",
+          "show_description": "2/20. When a 90-year-old RAF veteran sells his antiques to fund nursing care, everyone hopes for an auction day miracle. But a life-size Jesus statue raises eyebrows and a lot of money.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/19156b5f-a5f5-361f-b650-c824d0cea06c/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Escape to the Country",
+          "show_description": "37/50. Jules Hudson has a line-up of beautiful Cambridgeshire houses for a retired couple who want to relocate to be closer to family. Jules also visits the inspiring Great Fen Project.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/92d026a4-052b-4c04-9606-f758ca27393b/cover",
+          "start_time": "15:00",
+          "end_time": "15:45"
+        },
+        {
+          "show_name": "The Repair Shop on the Road",
+          "show_description": "Chris restores a secret journal from Captain Cook's first voyage, while upholsterer Ray revives a chair belonging to Trevor Baylis, inventor of the wind-up radio.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5f32c8b6-34fe-4582-831c-e241c119435c/cover",
+          "start_time": "15:45",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "The Finish Line",
+          "show_description": "11/25. Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/04344dd0-7e93-4ee4-a9c6-039a0d92e3fe/cover",
+          "start_time": "16:30",
+          "end_time": "17:15"
+        },
+        {
+          "show_name": "Pointless",
+          "show_description": "11/54. The quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/43d07622-9668-3d0e-8e72-b3eadec3d7d8/cover",
+          "start_time": "17:15",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f2a8339f-2605-451e-a7d7-bcebb6585597/cover",
+          "start_time": "18:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "East Midlands Today",
+          "show_description": "The latest news, sport and weather for the East Midlands.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/54970988-4a58-4d6d-8615-192c3a6ae2d5/cover",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "The One Show",
+          "show_description": "Alex Jones and JB Gill bring you the stories that matter from across the country.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f4bf4b78-9c88-40a6-86eb-c47e006b35a0/cover",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "EastEnders",
+          "show_description": "The Truemans prepare to welcome a visitor, Suki dismisses Vinny's olive branch, and Bea continues to overfamiliarise herself.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/187ba0fe-ea55-4dfc-8071-2eb6765f81bb/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Living without Life's Little Luxuries - Panorama",
+          "show_description": "With the cost-of-living crisis still squeezing household budgets, Colletta Smith investigates the consequences for communities, jobs and everyday life.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/793d135a-cf64-4d63-bfad-bb895d87c261/cover",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Trace, Track, Get My Car Back",
+          "show_description": "3/16. Former police officer Neil plays a tense waiting game after tracking a Toyota Hilux stolen from outside Aston Villa's football ground on match day.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f42cf9b6-164c-43df-9676-f63bc4424bd2/cover",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "MasterChef: The Professionals",
+          "show_description": "19/21. The final four in the competition cook for 27 of the UK and Ireland's leading chefs.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/33f7f777-61be-4009-aca0-f1fb920b1473/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "BBC News and Weather",
+          "show_description": "The latest national and international news, with reports from BBC correspondents worldwide.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8a3f72fe-86bc-4cf3-a866-07e19c451cde/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "East Midlands Today",
+          "show_description": "The latest news, sport and weather for the East Midlands.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/29c07b70-9717-4b1f-a282-c20cabca0ceb/cover",
+          "start_time": "22:30",
+          "end_time": "22:40"
+        },
+        {
+          "show_name": "Trying",
+          "show_description": "5/8. As Jason and Tyler watch the Arsenal v Spurs game in a pub, Nikki takes Princess shopping.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/570f85d3-50b8-3b7a-916d-1526bb701314/cover",
+          "start_time": "22:40",
+          "end_time": "23:10"
+        },
+        {
+          "show_name": "Trying",
+          "show_description": "6/8. Noah is alarmed that Princess and Tyler's grandmother Bev has tracked them down.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b737bc57-ceab-382e-bff0-8a91509438d4/cover",
+          "start_time": "23:10",
+          "end_time": "23:40"
+        },
+        {
+          "show_name": "Have I Got News for You",
+          "show_description": "3/10. Katherine Parkinson is host, with guest panellists comedian Julian Clary and journalist Jemima Kelly joining team captains Paul Merton and Ian Hislop.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a07e7615-8ad8-450e-9e98-6b41efc99f2d/cover",
+          "start_time": "23:40",
+          "end_time": "00:10"
         }
       ]
     }

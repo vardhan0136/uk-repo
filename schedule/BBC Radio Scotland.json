@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Scotland.png",
   "schedule": [
     {
-      "date": "21 March 2026",
-      "programmes": [
-        {
-          "show_name": "As BBC Radio 5 Live",
-          "show_description": "Joining Radio 5 Live.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Out of Doors",
-          "show_description": "Mark Stephen and Rachel Stewart with stories from the great outdoors, including white hens and their eggs, growing bere barley and migrating toads in Edinburgh.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "Radio Scotland Breakfast",
-          "show_description": "The stories that matter across Scotland and the world.",
-          "show_logo": "",
-          "start_time": "08:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "The Saturday Show",
-          "show_description": "Amy Irons and Steven Mill kick-start your Saturday with lots of laughs, great guests and timeless tunes as we look back on the week's news and preview the day's football fixtures.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Off the Ball",
-          "show_description": "The most petty and ill-informed football show on radio.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Sportsound",
-          "show_description": "Live commentary of Hearts v Dundee in the Scottish Premiership.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "Sportsound",
-          "show_description": "Live commentary of Rangers v Aberdeen in the Scottish Premiership.",
-          "show_logo": "",
-          "start_time": "17:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Sportsound",
-          "show_description": "Live commentary of Rangers v Aberdeen in the Scottish Premiership.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Take the Floor",
-          "show_description": "For the very best in traditional music, join Gary Innes for Take the Floor. We have a favourite programme as we share a compilation of our leading dance bands.",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Piping Sounds",
-          "show_description": "Mìcheal Steele with a selection of the best in pipe music. This week, he features sets with tunes from the Scots Guards Volume 1 Collection.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Roddy Hart's Mix Tape",
-          "show_description": "Roddy Hart with a mix of classic tracks and new discoveries.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "22 March 2026",
       "programmes": [
         {
@@ -124,7 +42,7 @@
         },
         {
           "show_name": "Sportsound",
-          "show_description": "Live commentary of Dundee United v Celtic in the Scottish Premiership.",
+          "show_description": "Live commentary from Tannadice as Dundee Utd take on Celtic in the Premiership (KO 1230).",
           "show_logo": "",
           "start_time": "12:00",
           "end_time": "15:00"
@@ -163,6 +81,74 @@
           "show_logo": "",
           "start_time": "23:00",
           "end_time": "06:00"
+        }
+      ]
+    },
+    {
+      "date": "23 March 2026",
+      "programmes": [
+        {
+          "show_name": "Radio Scotland Breakfast",
+          "show_description": "News from across Scotland and the world, plus sport, weather, entertainment and big name interviews.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Mornings",
+          "show_description": "Connie McLaughlin gets to the heart of the stories making the news.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Lunchtime Live",
+          "show_description": "News updates from Scotland and beyond, plus all your lunchtime sport, travel and weather.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Afternoons",
+          "show_description": "Michelle McManus brings you feel-good music and chat with celebrity guests.",
+          "show_logo": "",
+          "start_time": "13:30",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "Afternoons",
+          "show_description": "Actor Tom Chambers, Matt Hickman on Brownbear's show at Queens Hall, Edinburgh, and singer-songwriter Étáin.",
+          "show_logo": "",
+          "start_time": "15:30",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Drivetime",
+          "show_description": "Breaking down the day's talking points with comment and opinion, plus sport, travel and weather.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Get It On",
+          "show_description": "Tonight we could be stomping 500 miles, perhaps have Miles to Go or simply So Far Away. We're after the songs that mention distances.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Vic Galloway",
+          "show_description": "Indie anthems from The Verve and The Jesus & Mary Chain, and new Scottish music from Hollie Cook and Siobhan Wilson. Tonight's Slow Club features Aphex Twin and Squarepusher.",
+          "show_logo": "",
+          "start_time": "20:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Up Late",
+          "show_description": "1/4. The best company to end the day, with lively chat and some of your favourite tunes.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "00:00"
         }
       ]
     }
