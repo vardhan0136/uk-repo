@@ -3,235 +3,6 @@
   "channel_logo": "/public/DMAX/dmax.webp",
   "schedule": [
     {
-      "date": "22 March 2026",
-      "programmes": [
-        {
-          "show_name": "Burning Inside Out: Body Bizarre",
-          "show_description": "Burning Inside Out. Ylena's neck painfully dislocates at the slightest movement. Kayla has an extremely rare and painful condition where her arm burns on the inside. S6, Ep1",
-          "show_logo": "/public/DMAX/burning-inside-out-body-bizarre.webp",
-          "start_time": "00:00",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "My Body Is Eating My Bones Body Bizarre",
-          "show_description": "My Body Is Eating My Bones. Ignacia suffers from a facial tumour that could asphyxiate her. Thomas has a rare bone eating disease that has ruined the left side of his torso. S6, Ep2",
-          "show_logo": "/public/DMAX/my-body-is-eating-my-bones-body-bizarre.webp",
-          "start_time": "01:00",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Teleshopping.",
-          "show_logo": "/public/DMAX/teleshopping.webp",
-          "start_time": "02:00",
-          "end_time": "02:30"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Teleshopping.",
-          "show_logo": "/public/DMAX/teleshopping.webp",
-          "start_time": "02:30",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Teleshopping.",
-          "show_logo": "/public/DMAX/teleshopping.webp",
-          "start_time": "03:00",
-          "end_time": "03:30"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Teleshopping.",
-          "show_logo": "/public/DMAX/teleshopping.webp",
-          "start_time": "03:30",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Teleshopping.",
-          "show_logo": "/public/DMAX/teleshopping.webp",
-          "start_time": "04:00",
-          "end_time": "04:30"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Teleshopping.",
-          "show_logo": "/public/DMAX/teleshopping.webp",
-          "start_time": "04:30",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "Baggage Battles",
-          "show_description": "What a Dummy. The Baggage Battlers head to a police auction in Stockton, California. There are plenty of valuable items to choose from, including a vintage slot machine. S3, Ep2",
-          "show_logo": "/public/DMAX/baggage-battles.webp",
-          "start_time": "05:00",
-          "end_time": "05:30"
-        },
-        {
-          "show_name": "Baggage Battles",
-          "show_description": "Lady Luck. The baggage battlers head to an esteemed estate sale in St. Paul, where they bid on items ranging from automotive parts and a rare doll to a hockey mascot costume. S3, Ep3",
-          "show_logo": "/public/DMAX/baggage-battles.webp",
-          "start_time": "05:30",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Baggage Battles",
-          "show_description": "Cash Is King. The Baggage Battlers head to London, home to six airports, where Billy, Mark and the Martins compete for the lost and unclaimed bags of the rich passengers. S2, Ep3",
-          "show_logo": "/public/DMAX/baggage-battles.webp",
-          "start_time": "06:00",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Baggage Battles",
-          "show_description": "California Scheming. The Baggage Battlers wage war at the crazy, eclectic Santa Cruz Lost Property Auction, where Mark brings in reinforcements to battle Billy over antique toys. S2, Ep9",
-          "show_logo": "/public/DMAX/baggage-battles.webp",
-          "start_time": "06:30",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Baggage Battles",
-          "show_description": "Grand Theft Auto. The Baggage Battlers head to the Tampa Machinery Auction to bid on 1000's of lost or seized vehicles. But will they unearth any gems amongst the lot? S2, Ep10",
-          "show_logo": "/public/DMAX/baggage-battles.webp",
-          "start_time": "07:00",
-          "end_time": "07:30"
-        },
-        {
-          "show_name": "Baggage Battles",
-          "show_description": "Eye for an Eye. The Baggage Battlers are in Toronto for one of Canada's largest freight and baggage auctions. Billy makes one of his most shocking discoveries inside his winnings. S2, Ep11",
-          "show_logo": "/public/DMAX/baggage-battles.webp",
-          "start_time": "07:30",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "Baggage Battles",
-          "show_description": "Daredevils. The Baggage Battlers travel to Toronto to bid on international freight and baggage. One of the experts finds an item manufactured by legendary daredevil, Evel Knievel. S2, Ep12",
-          "show_logo": "/public/DMAX/baggage-battles.webp",
-          "start_time": "08:00",
-          "end_time": "08:30"
-        },
-        {
-          "show_name": "Baggage Battles",
-          "show_description": "Liar Liar. The Baggage Battlers attend a well-kept secret sheriff's auction in Shreveport, LA. Billy scores a touchdown with his winnings, while a local sheriff interrogates Mark. S2, Ep13",
-          "show_logo": "/public/DMAX/baggage-battles.webp",
-          "start_time": "08:30",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Baggage Battles",
-          "show_description": "Shock & Awe. The Baggage Battlers heads to the Louisiana Farm auction to bid on Americana collected for over 50 years. Mark misfires when he bids on the wrong item. S2, Ep14",
-          "show_logo": "/public/DMAX/baggage-battles.webp",
-          "start_time": "09:00",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Baggage Battles",
-          "show_description": "Bad Blood. The Baggage Battlers are back. Today they visit an auction in Red Hook, N.Y., to try to take home a piece of history. Will they succeed? S3, Ep1",
-          "show_logo": "/public/DMAX/baggage-battles.webp",
-          "start_time": "09:30",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Chasing Classic Cars",
-          "show_description": "Commander In Chief. Wayne's all-original 1954 Studebaker Commander Starliner Coupe is invited to compete in a prestigious car show. And, he gambles on a 1938 Lincoln Model K Coupe. S10, Ep7",
-          "show_logo": "/public/DMAX/chasing-classic-cars.webp",
-          "start_time": "10:00",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "Chasing Classic Cars",
-          "show_description": "Wheels And Deals. Wayne transforms a 1931 Packard 840 Roadster Packard and meets an unexpected buyer. Plus, he loans 'Wheeler Dealers' star Mike Brewer a '57 Ferrari Testa Rossa. S10, Ep8",
-          "show_logo": "/public/DMAX/chasing-classic-cars.webp",
-          "start_time": "11:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Chasing Classic Cars",
-          "show_description": "XKE Marks the Spot. Wayne resurrects a 1962 Jaguar XKE SI 3.8 Flat Floor Roadster that had been hidden for decades. And, he and the crew spruce up an OSCA for an exclusive car show. S10, Ep9",
-          "show_logo": "/public/DMAX/chasing-classic-cars.webp",
-          "start_time": "12:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Chasing Classic Cars",
-          "show_description": "Hurray For Jollywood! Wayne Carini unearths a low-mileage 1965 Shelby GT350, brings a famous 1950's Southern Californian hot rod to auction and is wowed by a Packard. S10, Ep10",
-          "show_logo": "/public/DMAX/chasing-classic-cars.webp",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Kindig Customs",
-          "show_description": "Fiberglass, Fiberglass And More Fiberglass. One of Dave's favourite designs is the Mercedes Gul-Wing, and a client has a kit version. But it has many flaws which need addressed. S5, Ep6",
-          "show_logo": "/public/DMAX/kindig-customs.webp",
-          "start_time": "14:00",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Kindig Customs",
-          "show_description": "The Snowball Episode. A '41 Chevy that has bounced around numerous shops rolls in for a quick trunk lid fix, but the team quickly discover a lot more wrong with the car. S5, Ep7",
-          "show_logo": "/public/DMAX/kindig-customs.webp",
-          "start_time": "15:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Kindig Customs",
-          "show_description": "Green For The Money. Every defect with the Mercedes Gul-Wing has finally been addressed, but questions and challenges remain. Will the client pick Kevin or Dave's vision? S5, Ep8",
-          "show_logo": "/public/DMAX/kindig-customs.webp",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Shorty's Dream Shop",
-          "show_description": "Supercharged Nova. A classic Nova gets a rebuilt supercharged 6.2 LS, and the crew revives a 1924 LaFrance fire truck for the nearby Cedar Hill Fire Department. S2, Ep3",
-          "show_logo": "/public/DMAX/shortys-dream-shop.webp",
-          "start_time": "17:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Shorty's Dream Shop",
-          "show_description": "Laid-Out Dually. Shorty's friend Monty wants to rebuild the car of his youth, an Ember Glow 1955 DeSoto. The car might be pink, but it has a hemi under the hood. S2, Ep4",
-          "show_logo": "/public/DMAX/shortys-dream-shop.webp",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Mysteries Of The Deep",
-          "show_description": "Jeremy looks at a puzzling military defeat - the Battle of Actium. Next, he examines what could be the first recorded case of a whale rescuing a human. S2, Ep3",
-          "show_logo": "/public/DMAX/mysteries-of-the-deep.webp",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Mysteries Of The Deep",
-          "show_description": "Secrets Of The MS Estonia. Jeremy Wade explores the tragic sinking of the cruise ferry MS Estonia. He investigates new footage that casts doubt on the official version of events. S2, Ep4",
-          "show_logo": "/public/DMAX/mysteries-of-the-deep.webp",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Cooper's Treasure",
-          "show_description": "Dragon's Teeth. Darrell focuses on a multi-million-dollar wreck tied to Sir Francis Drake. He and his team race to locate a treacherous area identified on the map as Dragon's Teeth. S2, Ep5",
-          "show_logo": "/public/DMAX/coopers-treasure.webp",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Cooper's Treasure",
-          "show_description": "Island Of Fortune. Darrell and the team head to a mysterious island where they discover valuable clues that lead them closer in the hunt to a 500-year-old shipwreck. S2, Ep6",
-          "show_logo": "/public/DMAX/coopers-treasure.webp",
-          "start_time": "22:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Expedition X",
-          "show_description": "Monster Of The Amazon. Deep in the Peruvian jungle, a supersized beast is terrifying locals. Jess hunts for evidence that a legendary creature known as Yacumama is on the prowl. S3, Ep11",
-          "show_logo": "/public/DMAX/expedition-x.webp",
-          "start_time": "23:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "23 March 2026",
       "programmes": [
         {
@@ -426,6 +197,207 @@
         {
           "show_name": "Aussie Gold Hunters",
           "show_description": "Permit delays ruin the Poseidon Crew's hopes of a massive payday on their famed ground. A torrential downpour forces Shane and Russell to evacuate their dig site. S7, Ep11",
+          "show_logo": "/public/DMAX/aussie-gold-hunters.webp",
+          "start_time": "23:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "24 March 2026",
+      "programmes": [
+        {
+          "show_name": "Naked and Afraid XL",
+          "show_description": "Crossbow And A Cross To Bear. Desperate for food, Gwen and Sarah lead the charge to build a crossbow in the bush while Ryan feels the pressure. And, a fire pushes Bulent to the edge. S5, Ep10",
+          "show_logo": "/public/DMAX/naked-and-afraid-xl.webp",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "Naked And Afraid",
+          "show_description": "Strength In Pain. An adventuress teams up with a wilderness instructor to take on the tropical rainforests of Honduras. But will they survive a close encounter with a deadly snake? S2, Ep28",
+          "show_logo": "/public/DMAX/naked-and-afraid.webp",
+          "start_time": "01:00",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Teleshopping.",
+          "show_logo": "/public/DMAX/teleshopping.webp",
+          "start_time": "02:00",
+          "end_time": "02:30"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Teleshopping.",
+          "show_logo": "/public/DMAX/teleshopping.webp",
+          "start_time": "02:30",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Teleshopping.",
+          "show_logo": "/public/DMAX/teleshopping.webp",
+          "start_time": "03:00",
+          "end_time": "03:30"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Teleshopping.",
+          "show_logo": "/public/DMAX/teleshopping.webp",
+          "start_time": "03:30",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Teleshopping.",
+          "show_logo": "/public/DMAX/teleshopping.webp",
+          "start_time": "04:00",
+          "end_time": "04:30"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Teleshopping.",
+          "show_logo": "/public/DMAX/teleshopping.webp",
+          "start_time": "04:30",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "Salvage Dawgs",
+          "show_description": "Trenton Central High School. The team take on a huge high school in Trenton, New Jersey. Key items include fireclay sinks and oak cabinets. Plus, Mike and Tay build an N-shaped desk. S5, Ep5",
+          "show_logo": "/public/DMAX/salvage-dawgs.webp",
+          "start_time": "05:00",
+          "end_time": "05:30"
+        },
+        {
+          "show_name": "Salvage Dawgs",
+          "show_description": "Portside Marina. The guys save the bow and stern of a boat on Smith Mountain Lake in Moneta, Virginia. And, new team members Molly May and Stella make their debut. S5, Ep6",
+          "show_logo": "/public/DMAX/salvage-dawgs.webp",
+          "start_time": "05:30",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Gold Divers",
+          "show_description": "Hail Mary. Desperate to find new gold, Shawn pushes himself and his equipment to the limit. At Sledge Island, the deeper water triggers dangerous side effects for Zeke. S6, Ep3",
+          "show_logo": "/public/DMAX/gold-divers.webp",
+          "start_time": "06:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Gold Divers",
+          "show_description": "Proving Day. Shawn's obsession with the bluff hits breaking point. Zeke and Emily take a last trip to Sledge Island, and novice George Young seeks riches on the Bering Sea floor. S6, Ep4",
+          "show_logo": "/public/DMAX/gold-divers.webp",
+          "start_time": "07:00",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Aussie Gold Hunters",
+          "show_description": "Scrappers boss Alex Stead gambles his remaining cash on bigger machinery, pushing his marriage to the edge. And, the Victoria Diggers unearth a rare artefact. S4, Ep11",
+          "show_logo": "/public/DMAX/aussie-gold-hunters.webp",
+          "start_time": "08:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Extinct Or Alive",
+          "show_description": "The Great Auk. Forrest is in the Faroe Islands looking for a trace of the great auk, a large flightless seabird that was declared extinct over 175 years ago. S1, Ep5",
+          "show_logo": "/public/DMAX/extinct-or-alive.webp",
+          "start_time": "09:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Deadliest Catch",
+          "show_description": "Frontier Medicine. Ice and injuries have the captains considering desperate measures as the fleet battles for survival in the face of an epic arctic hurricane. S7, Ep10",
+          "show_logo": "/public/DMAX/deadliest-catch.webp",
+          "start_time": "10:00",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "Deadliest Catch",
+          "show_description": "Birds, Bones And Blood. As winter storms rip through the crab grounds, the Ramblin' Rose takes a big risk and the Time Bandit courts danger at the dock. S7, Ep11",
+          "show_logo": "/public/DMAX/deadliest-catch.webp",
+          "start_time": "11:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Curse of the Frozen Gold",
+          "show_description": "Weathering the Storm. Deep in the mountains of British Columbia, there's a legend - a fortune in gold guarded by a dangerous curse. Now, six adventurers return to go for gold. S1, Ep4",
+          "show_logo": "/public/DMAX/curse-of-the-frozen-gold.webp",
+          "start_time": "12:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Expedition Unknown",
+          "show_description": "Journey To The Ice Age. Josh treks deep into Siberia for a site where priceless mammoth bones are mined out of the permafrost. Then, he takes the DNA samples back to the lab. S3, Ep6",
+          "show_logo": "/public/DMAX/expedition-unknown.webp",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Expedition Unknown",
+          "show_description": "Cracking The D.B. Cooper Case. Josh Gates sets off on an expedition to crack the mystery behind the perpetrator of the only unsolved plane hijacking in US history. S3, Ep7",
+          "show_logo": "/public/DMAX/expedition-unknown.webp",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Alaska: Homestead Rescue",
+          "show_description": "Arizona Washout. A daughter pleads for help from the Raneys to rescue her mother and step-father whose failing homestead is threatened by deadly monsoon floods and a menacing cougar. S3, Ep11",
+          "show_logo": "/public/DMAX/alaska-homestead-rescue.webp",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Alaska: Homestead Rescue",
+          "show_description": "Smoky Mountain Fury. In the Smoky Mountains, the Raneys visit a wind-ravaged homestead on the brink of total collapse. They race to shore up key structures before the next big storm. S3, Ep12",
+          "show_logo": "/public/DMAX/alaska-homestead-rescue.webp",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Outback Opal Hunters",
+          "show_description": "Succession Of Opal Joe. The Blacklighters discover opalised sea creatures in an ancient seabed. The Cheals close in on their biggest opal haul ever, but all is not as it seems. S6, Ep8",
+          "show_logo": "/public/DMAX/outback-opal-hunters.webp",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Outback Opal Hunters",
+          "show_description": "A Glimmer Of Hope. The Mooka Boys attempt to reach a new mine on a treacherous opal field. Plus, the Blacklighters are almost buried alive mining opal in unstable tunnels. S6, Ep9",
+          "show_logo": "/public/DMAX/outback-opal-hunters.webp",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Deadliest Catch",
+          "show_description": "40-Foot Monsters. As fall season ends, its biggest storm hits. Wild Bill fights to pilot his new boat in big seas and Johnathan tackles a huge swell in the perilous False Pass. S13, Ep8",
+          "show_logo": "/public/DMAX/deadliest-catch.webp",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Deadliest Catch",
+          "show_description": "The Russian Line. Competition doubles when the quota is halved. Three captains arrive early for the winter season, but Johnathan plots a dangerous, 600-mile course to Russia. S13, Ep9",
+          "show_logo": "/public/DMAX/deadliest-catch.webp",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Hoffman Family Gold",
+          "show_description": "Jack Knows Best. When the Black Pearl's trommel motor catches fire, Todd's crew attempts to modify the smaller wash plant Jack built decades ago to run more pay dirt. S2, Ep10",
+          "show_logo": "/public/DMAX/hoffman-family-gold.webp",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Deadliest Catch",
+          "show_description": "Under The Gun. Sig devises a way to speed up his crew. Wild Bill promotes Landon to the wheelhouse while he goes under the knife. Keith helps Jack but is suspicious. S20, Ep10",
+          "show_logo": "/public/DMAX/deadliest-catch.webp",
+          "start_time": "22:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Aussie Gold Hunters",
+          "show_description": "Jacqui and Andrew are targeted by potential gold thieves. Marcus and Linden hunt ground close to the site of the biggest nugget ever found in Western Australia. S7, Ep12",
           "show_logo": "/public/DMAX/aussie-gold-hunters.webp",
           "start_time": "23:00",
           "end_time": "00:00"

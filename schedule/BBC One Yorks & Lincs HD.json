@@ -3,212 +3,11 @@
   "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
   "schedule": [
     {
-      "date": "22 March 2026",
-      "programmes": [
-        {
-          "show_name": "Weather for the Week Ahead",
-          "show_description": "Detailed weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7294c78a-e668-468e-90d8-62449bae982f/cover",
-          "start_time": "00:00",
-          "end_time": "00:05"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d6da02a5-0c7f-4693-8c9a-9e124b18d2ef/cover",
-          "start_time": "00:05",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/35768ce9-784e-486a-95c7-a4c83b535b0c/cover",
-          "start_time": "06:00",
-          "end_time": "07:50"
-        },
-        {
-          "show_name": "Match of the Day",
-          "show_description": "Highlights from five Premier League games, including a number of teams in the hunt for a place in Europe next season.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9ef4c8dc-b690-498e-94f0-afa9aa100759/cover",
-          "start_time": "07:50",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Sunday with Laura Kuenssberg",
-          "show_description": "Guests are Steve Reed, Sir James Cleverly, Chris O'Shea and President Volodymyr Zelensky.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e5ccd770-74dc-4b7e-94d7-5e4fb2a1f8da/cover",
-          "start_time": "09:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Politics North (Yorkshire and Lincolnshire)",
-          "show_description": "Tim Iredale with the latest political news, interviews and debate.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a342478d-a784-49d7-99cb-5f5bb1b9401d/cover",
-          "start_time": "10:00",
-          "end_time": "10:30"
-        },
-        {
-          "show_name": "Pilgrimage: The Road to the Scottish Isles",
-          "show_description": "2/3. Life on the pilgrimage begins to challenge the celebrities physically and spiritually.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/55841b12-6b12-48d9-97fe-4d95734564b8/cover",
-          "start_time": "10:30",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Homes Under the Hammer",
-          "show_description": "A plot of land in Leeds could be a goldmine - that is, if the new owner can obtain planning permission.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0a06bc9a-8294-40b5-bcb5-cbd2f29c1608/cover",
-          "start_time": "11:30",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "Bargain Hunt",
-          "show_description": "Christina Trevanion is in Shropshire with experts Philip Serrell and Izzie Balmer and the teams. In Broseley, Christina learns the centuries-old skill of clay pipe-making.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/48314c95-2bb6-4c5a-af47-56919d0cee0c/cover",
-          "start_time": "12:30",
-          "end_time": "13:15"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b621a47f-e9d7-4a7b-8644-1973a343ebca/cover",
-          "start_time": "13:15",
-          "end_time": "13:25"
-        },
-        {
-          "show_name": "Weather for the Week Ahead",
-          "show_description": "Detailed weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cd195520-c627-475f-b8e2-2585543a3bbe/cover",
-          "start_time": "13:25",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Songs of Praise: Faith and Money",
-          "show_description": "Sean Fletcher is in London to explore how Christians should approach the topic of money and wealth and meets a businessman who turned his back on earning millions due to his faith.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dba490c1-2e3d-4bbc-8d42-da751165d330/cover",
-          "start_time": "13:30",
-          "end_time": "14:05"
-        },
-        {
-          "show_name": "Gladiators",
-          "show_description": "10/11. In the last semi-final, Bradley and Barney Walsh welcome four more determined Contenders to take on the formidable Gladiators, and each other, for a place in the grand final.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5b478c57-073d-414c-a875-6f5e89092d4f/cover",
-          "start_time": "14:05",
-          "end_time": "15:05"
-        },
-        {
-          "show_name": "Crookhaven",
-          "show_description": "1/8. Pickpocket Gabriel Avery faces a new secret life when he is recruited to Crookhaven, a school for crooks where students are taught to beat criminals at their own game.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2a151954-5130-4ecb-9540-c6fee93ae624/cover",
-          "start_time": "15:05",
-          "end_time": "15:50"
-        },
-        {
-          "show_name": "Crookhaven",
-          "show_description": "2/8. School rivalries intensify when the Merits and Legacies attempt the break-in challenge.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/25336d29-ee0b-4d87-9eb2-a39b19e9d9d4/cover",
-          "start_time": "15:50",
-          "end_time": "16:35"
-        },
-        {
-          "show_name": "Comic Relief: More Funny for Money",
-          "show_description": "Jill Scott and La Voix take a look back at the highlights of this year's charity extravaganza, reliving an incredible night of fundraising, comedy and entertainment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/613be05a-1ded-4d21-a29e-24dceac6dcee/cover",
-          "start_time": "16:35",
-          "end_time": "17:35"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/990d93a1-8edf-4e72-8012-e9304c2eb199/cover",
-          "start_time": "17:35",
-          "end_time": "17:50"
-        },
-        {
-          "show_name": "Look North (East Yorkshire and Lincolnshire)",
-          "show_description": "The latest news, sport and weather for East Yorkshire and Lincolnshire.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f9119494-eff6-4dc1-9e14-ca29b95e83b7/cover",
-          "start_time": "17:50",
-          "end_time": "17:55"
-        },
-        {
-          "show_name": "Weather",
-          "show_description": "The latest weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8fbc3f3c-bc3b-44dd-80df-ecba018d790a/cover",
-          "start_time": "17:55",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Countryfile",
-          "show_description": "Countryfile explores life after dark on the North York Moors, one of the UK's Dark Sky Reserves.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/40e994ba-377a-4462-8720-2c79c3e73642/cover",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Antiques Roadshow",
-          "show_description": "The roadshow travels to Beaumaris Castle in north Wales, where finds include a rare ballerina brooch, a first edition of Winnie the Pooh and a sculpture by a Nigerian artist.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ad20bae3-6ae2-3470-a2b7-b8ed2c9100e8/cover",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "The Other Bennet Sister",
-          "show_description": "3/10. After a family tragedy, Mary and her mother are left facing an uncertain future - until Mary receives an unexpected offer from her aunt and uncle.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d7437183-36f6-425d-a693-1e400e0d3248/cover",
-          "start_time": "20:00",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "The Other Bennet Sister",
-          "show_description": "4/10. Troubling new feelings and a knock to Mary's confidence complicate her life in London.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a39242d7-1b68-4a29-aa25-61c7f11950be/cover",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "The Capture",
-          "show_description": "3/6. Carey searches for one suspect, whilst Frank Napier deals with another. Contains strong language, graphic violence and upsetting scenes.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a5fa23c4-bb72-4a6b-afe8-8ec41ddea17c/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "BBC News and Weather",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/17acf13e-acd4-4f50-a446-d71be9e4a89f/cover",
-          "start_time": "22:00",
-          "end_time": "22:25"
-        },
-        {
-          "show_name": "Look North (East Yorkshire and Lincolnshire)",
-          "show_description": "The latest news, sport and weather for East Yorkshire and Lincolnshire.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cea7ad37-a2ba-46db-8b51-816ccb271c5c/cover",
-          "start_time": "22:25",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "Match of the Day",
-          "show_description": "Kelly Cates presents highlights from the day's three Premier League games, including the Tyne-Wear derby between Newcastle and Sunderland.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d00c4ea9-3a97-4d33-8cea-321b07a3080a/cover",
-          "start_time": "22:30",
-          "end_time": "23:35"
-        },
-        {
-          "show_name": "The Women's Football Show",
-          "show_description": "The big names and the big games from the Women's Super League, with highlights and analysis of all the action.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/87d82c9f-fefe-4563-9f2b-e90857262f4a/cover",
-          "start_time": "23:35",
-          "end_time": "00:25"
-        }
-      ]
-    },
-    {
       "date": "23 March 2026",
       "programmes": [
         {
           "show_name": "The Claudia Winkleman Show",
-          "show_description": "Claudia's guests are comedians Joanne Mcnally and Guz Khan, Rachel Zegler and singer-songwriter Niall Horan. Contains some strong language.",
+          "show_description": "Claudia's guests are comedians Joanne Mcnally and Guz Khan, actress Rachel Zegler and singer-songwriter Niall Horan. Contains some strong language.",
           "show_logo": "https://images.metadata.sky.com/pd-image/e8d9ed52-fa70-4951-9faf-020955ab93d8/cover",
           "start_time": "00:25",
           "end_time": "01:10"
@@ -393,6 +192,179 @@
           "show_description": "3/10. Katherine Parkinson is host, with guest panellists comedian Julian Clary and journalist Jemima Kelly joining team captains Paul Merton and Ian Hislop.",
           "show_logo": "https://images.metadata.sky.com/pd-image/a07e7615-8ad8-450e-9e98-6b41efc99f2d/cover",
           "start_time": "23:40",
+          "end_time": "00:10"
+        }
+      ]
+    },
+    {
+      "date": "24 March 2026",
+      "programmes": [
+        {
+          "show_name": "Weather for the Week Ahead",
+          "show_description": "Detailed weather forecast.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1b5e5dd7-83f0-4645-b290-545be268751a/cover",
+          "start_time": "00:10",
+          "end_time": "00:15"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/eab40ec2-dc07-4c00-8e17-07f2d57e2be1/cover",
+          "start_time": "00:15",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/de988647-0584-4558-ac3e-d9bcc66a8286/cover",
+          "start_time": "06:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Morning Live",
+          "show_description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/49f38939-2c71-48dd-b646-4f94f231a17a/cover",
+          "start_time": "09:30",
+          "end_time": "10:45"
+        },
+        {
+          "show_name": "Crimewatch Caught",
+          "show_description": "Police are staggered by a thief with many disguises who goes on to confess far more than they could imagine. And how the net closed in on a gang stealing sentimental jewellery.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/09513dc9-0674-44c2-9cad-a9013013a89a/cover",
+          "start_time": "10:45",
+          "end_time": "11:15"
+        },
+        {
+          "show_name": "Homes Under the Hammer",
+          "show_description": "Jacqui is not impressed by the mushrooms growing inside a Norfolk end-of-terrace. In the West Midlands, Dion thinks some walls need to be rebuilt.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0e140656-526c-47af-bd5b-e45feead671c/cover",
+          "start_time": "11:15",
+          "end_time": "12:15"
+        },
+        {
+          "show_name": "Bargain Hunt",
+          "show_description": "Eric Knowles heads to Detling in Kent, where experts Catherine Southon and Mark Stacey assist the teams in their search for profitable antiques.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7caf27ce-36aa-4842-b55e-4d26f615c8e3/cover",
+          "start_time": "12:15",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "BBC News at One including Look...",
+          "show_description": "...North (East Yorkshire and Lincolnshire). The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0201faf7-7531-4ace-97cb-d8df80420014/cover",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Just One Thing",
+          "show_description": "2/12. Roman Kemp goes to Sheffield to show empty nesters Siva and Dhami how dance might just rewrite their whole routine.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5e343cef-7587-4040-90c1-edb67d3d3618/cover",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "The Travelling Auctioneers",
+          "show_description": "4/20. An inherited coin collection potentially worth a fortune, and the discovery of a huge diamond. But will this treasure trove raise enough at auction to fund a major garden makeover?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1f0fff2e-94bb-38ff-9d23-febcdeffe180/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Escape to the Country",
+          "show_description": "38/50. Nicki Chapman helps a retired couple find their dream Devon home by the sea and meets a Dartmoor family who map family-friendly walks in the National Park for all to enjoy.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/534d81e4-410a-4287-bdd1-719ba91ca031/cover",
+          "start_time": "15:00",
+          "end_time": "15:45"
+        },
+        {
+          "show_name": "The Repair Shop on the Road",
+          "show_description": "Dom and Henry restore a century-old pump trolley, Julyan repairs a treasured guitar, and Sonnaz crafts a unique ring using an intricate Japanese metalwork technique.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/504b838f-4dd2-4518-8170-1375a4d3213a/cover",
+          "start_time": "15:45",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "The Finish Line",
+          "show_description": "12/25. Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a9dfbc56-83e1-40c9-bd3b-1796a14b582b/cover",
+          "start_time": "16:30",
+          "end_time": "17:15"
+        },
+        {
+          "show_name": "Pointless",
+          "show_description": "12/54. The quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/61824022-202d-3332-96c4-8f0c2a2f71f8/cover",
+          "start_time": "17:15",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3242ff82-be3d-4017-b406-0d85d865f9f9/cover",
+          "start_time": "18:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "Look North (East Yorkshire and Lincolnshire)",
+          "show_description": "The latest news, sport and weather for East Yorkshire and Lincolnshire.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8fea5df5-e3c3-4313-af49-ffdf1f5bce3a/cover",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "The One Show",
+          "show_description": "Alex Jones and JB Gill bring you the stories that matter from across the country.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/52c0b067-4d3e-43f4-957e-352f23d42322/cover",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "EastEnders",
+          "show_description": "Bea's emotions get the better of her, Zoe is blindsided, and the Panesars and the Brannings attempt to bond.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5311a5b5-4de3-4199-913b-54387eec05c4/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Sort Your Life Out with Stacey Solomon",
+          "show_description": "3/6. Stacey and the team are in the Midlands to help dads Craig and Craig transform their three-bedroom semi.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/53790235-be9d-42ca-aee8-fe795f846ee2/cover",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "MasterChef: The Professionals",
+          "show_description": "20/21. The three chefs left standing head off for an Italian culinary adventure in South Tyrol, where they help prepare a lunch service at the three-Michelin-starred Atelier Moessmer.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a4e6364d-14a6-453b-bb63-f95d21449a41/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "BBC News and Weather",
+          "show_description": "The latest national and international news, with reports from BBC correspondents worldwide.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/dcd0ea3b-0081-41ca-ba97-7a0c4a65d751/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Look North (East Yorkshire and Lincolnshire)",
+          "show_description": "The latest news, sport and weather for East Yorkshire and Lincolnshire.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/53f52cd2-1560-4d9c-8978-d1edf5efbaae/cover",
+          "start_time": "22:30",
+          "end_time": "22:40"
+        },
+        {
+          "show_name": "Boarders",
+          "show_description": "3/6. It's the last supper with parents before exams. Explosive truths are revealed. Contains some strong language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/58c98f91-7ac8-4f8c-be95-32f2d4144621/cover",
+          "start_time": "22:40",
+          "end_time": "23:25"
+        },
+        {
+          "show_name": "Boarders",
+          "show_description": "4/6. Femi and Cheddar go head-to-head in an election battle. Who will come out on top? Contains some strong language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b891c2ac-52fd-47e8-ba9a-2a959cac28c2/cover",
+          "start_time": "23:25",
           "end_time": "00:10"
         }
       ]

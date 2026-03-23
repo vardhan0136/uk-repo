@@ -3,326 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbbc-uk.png",
   "schedule": [
     {
-      "date": "22 March 2026",
-      "programmes": [
-        {
-          "show_name": ".programmes start at 7.00am",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "00:58",
-          "end_time": "05:29"
-        },
-        {
-          "show_name": "This is CBBC!",
-          "show_description": "This is CBBC! Tune every day from 7.00am.",
-          "show_logo": "",
-          "start_time": "05:30",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Shaun the Sheep",
-          "show_description": "Farm Park. The Farmer opens a petting zoo but loses control of the customers. Can Shaun restore order?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/83837466-413b-4fb9-81e5-8faaebaa6d9a/cover",
-          "start_time": "07:00",
-          "end_time": "07:10"
-        },
-        {
-          "show_name": "Danger Mouse",
-          "show_description": "The Supies. The danger agents are dressed up and ready for The Supies awards show. They're all up for nomination, but Danger Mouse is winning a suspicious amount of prizes...",
-          "show_logo": "https://images.metadata.sky.com/pd-image/49d38a75-778c-4d2a-9c86-4593cee0a916/cover",
-          "start_time": "07:10",
-          "end_time": "07:20"
-        },
-        {
-          "show_name": "Dennis & Gnasher Unleashed!",
-          "show_description": "The Whole Tooth. Animated series. When Gnasher gnashes Walter's portrait, he gets revenge with a titanium sausage that leaves Gnasher toothless and miserable.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7c1a9b71-61f3-41c5-8112-61d4a6f31e5f/cover",
-          "start_time": "07:20",
-          "end_time": "07:30"
-        },
-        {
-          "show_name": "Boy Girl Dog Cat Mouse Cheese",
-          "show_description": "Cheese's Big Breakout. After Cat and Cheese are mistaken for young kids at the hotel daycare, they are forced into the baby play area. Refusing to be stuck there, Cheese plots to escape!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/260ad2fa-16d6-3f52-9c04-930e68bbf75e/cover",
-          "start_time": "07:30",
-          "end_time": "07:45"
-        },
-        {
-          "show_name": "Newsround",
-          "show_description": "22/03/2026. Topical news magazine for children.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4477a9a4-ae62-4118-aaaf-c07bd99550ef/cover",
-          "start_time": "07:45",
-          "end_time": "07:50"
-        },
-        {
-          "show_name": "SpongeBob SquarePants",
-          "show_description": "Surf 'n' Turf. Sandy builds a ship in a bottle.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/967a20d2-a9a5-4957-806b-5dfdde11a108/cover",
-          "start_time": "07:50",
-          "end_time": "08:05"
-        },
-        {
-          "show_name": "Grizzy and the Lemmings: World Tour",
-          "show_description": "Cosy Nest. Grizzy and the Lemmings are victims of inexplicable thefts.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a35a0a6d-b512-4b6b-86cc-e81fdb223876/cover",
-          "start_time": "08:05",
-          "end_time": "08:10"
-        },
-        {
-          "show_name": "Sketchy Comedy",
-          "show_description": "Episode 3. Comedy sketch show. A toaster, cheese grater, bin and washing machine are among the items getting the Sketchy treatment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/119b052b-142b-444b-804b-63f512fcf455/cover",
-          "start_time": "08:10",
-          "end_time": "08:15"
-        },
-        {
-          "show_name": "Duck and Frog",
-          "show_description": "Security Guard. Duck is working overnight in a museum on his own. To keep him company, Duck makes a Frankenstein Frog, which soon runs rampage. It's up to Frog to save the day!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c91054ed-8634-483e-b3fe-63a097ad1910/cover",
-          "start_time": "08:15",
-          "end_time": "08:25"
-        },
-        {
-          "show_name": "Duck and Frog",
-          "show_description": "Farm. When Duck and Frog work on a farm, Frog makes the perfect scarecrow. However, he gets covered in super-strong fertiliser and becomes a giant, monster-sized, chaos-causing Frog!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/688586d1-a03d-4f66-a0c6-e3de14fce4ed/cover",
-          "start_time": "08:25",
-          "end_time": "08:30"
-        },
-        {
-          "show_name": "New: Counterfeit Cat",
-          "show_description": "The Vet. Max tricks Gark into going to the vets in his place - with earth-destroying consequences!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7872c2a3-deb7-446c-be2d-f411817457e6/cover",
-          "start_time": "08:30",
-          "end_time": "08:45"
-        },
-        {
-          "show_name": "Bro's in Control",
-          "show_description": "Wheel of Vroom. Callum sets up the ultimate Grand Prix, and real F1 drivers advise Joe on how to win.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d2b73b9c-c283-46dc-9416-ba60695325ed/cover",
-          "start_time": "08:45",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Red Peter: Red Nose Day Takeover!",
-          "show_description": "Red Nose Day Takeover! Blue Peter becomes Red Peter for Red Nose Day!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b4797b4d-b92d-4750-b54c-c49a20523714/cover",
-          "start_time": "09:00",
-          "end_time": "09:25"
-        },
-        {
-          "show_name": "Gladiators: Epic Pranks",
-          "show_description": "Dynamite, Giant, Nitro, Comet v the Restaurant! Will fake bumble bees, jelly wobbles, bottom burps or a giant conga be a dare too far?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2ada3672-74a7-41f9-9e01-5541b75e25b6/cover",
-          "start_time": "09:25",
-          "end_time": "09:40"
-        },
-        {
-          "show_name": "Stage Stars",
-          "show_description": "School's Out. Emotions run high as friends say goodbye, and the school is abuzz with performance.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5b8ae46b-a445-49d7-a0a8-ad822e11c554/cover",
-          "start_time": "09:40",
-          "end_time": "10:05"
-        },
-        {
-          "show_name": "Girl Troop vs Aliens",
-          "show_description": "The Full Scale Invasion Badge. Tilda tries to make camp perfect for Ginny, while Ruby plots to get everyone sent home.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/04dcd179-be37-4e83-a1ef-6f93e7cbf920/cover",
-          "start_time": "10:05",
-          "end_time": "10:30"
-        },
-        {
-          "show_name": "Danny and Mick",
-          "show_description": "Record Wreckers. Danny and Mick have to save the day by taking on a record-breaking challenge!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e775e460-69a8-41e3-a2cf-e4eb505dd96e/cover",
-          "start_time": "10:30",
-          "end_time": "10:45"
-        },
-        {
-          "show_name": "Danny and Mick",
-          "show_description": "Am I Cake? Danny and Mick try to win an illusion cake competition, with a big surprise!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a80043af-9549-47f2-ad53-ba701a3b73bf/cover",
-          "start_time": "10:45",
-          "end_time": "10:55"
-        },
-        {
-          "show_name": "Bro's in Control",
-          "show_description": "Gaming IRL: Quest Edition. Adam and Joe enter a gaming world and embark on a quest to unearth treasure before attending Sharky's very chaotic party.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e4dcb827-d591-4995-b3e9-8dd922d76ce2/cover",
-          "start_time": "10:55",
-          "end_time": "11:15"
-        },
-        {
-          "show_name": "The Next Step",
-          "show_description": "Tainted Love. Reality-style drama series. Riley tells James about the kiss, and James struggles with how to handle it.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fa2fa53d-6f94-4c69-a76d-19c60c2fb7f8/cover",
-          "start_time": "11:15",
-          "end_time": "11:35"
-        },
-        {
-          "show_name": "Operation Ouch!",
-          "show_description": "Episode 3. Dr Chris and Dr Xand experiment and explore their way through the fascinating world of medicine and biology. The doctors demonstrate how our body movements are controlled.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c8e8d8dd-2765-4fdf-9bf7-55f498e642cf/cover",
-          "start_time": "11:35",
-          "end_time": "12:05"
-        },
-        {
-          "show_name": "Horrible Histories",
-          "show_description": "Song Special. Historical sketch show. Some of history's greatest characters serenade us with tales of their lives. Featuring the all-conquering Alexander the Great.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d26ee858-298b-4a6e-a782-5de3acb43c55/cover",
-          "start_time": "12:05",
-          "end_time": "12:35"
-        },
-        {
-          "show_name": "Horrible Science",
-          "show_description": "Working Scientifically Special. A special guide to working scientifically, whether that involves drinking black vomit, measuring people's farts, or firing arrows into their bum.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4e17c2b3-9a41-402c-9853-e444eed9357d/cover",
-          "start_time": "12:35",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "The Next Step",
-          "show_description": "A Fool in Love. Reality-style drama series. Riley asks James for some space to sort out her feelings for Alfie, and Alfie misinterprets where Riley is at.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b14461c2-de2e-4d30-a590-bb6e3cc9e8e8/cover",
-          "start_time": "13:00",
-          "end_time": "13:25"
-        },
-        {
-          "show_name": "SpongeBob SquarePants",
-          "show_description": "Bubbletown. SpongeBob visits Bubbletown.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9f4e787c-2794-4e76-9ed7-00c4fb285d4c/cover",
-          "start_time": "13:25",
-          "end_time": "13:40"
-        },
-        {
-          "show_name": "SpongeBob SquarePants",
-          "show_description": "Girls' Night Out. Sandy invites Karen and Mrs Puff out for a night on the town.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a1d11e30-5afc-4950-ada9-a87de2a9567d/cover",
-          "start_time": "13:40",
-          "end_time": "13:50"
-        },
-        {
-          "show_name": "SpongeBob SquarePants",
-          "show_description": "Squirrel Jelly. Sandy disturbs a day of jelly fishing.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f8f72a08-25e6-4c75-adeb-37d6e74b8c82/cover",
-          "start_time": "13:50",
-          "end_time": "14:10"
-        },
-        {
-          "show_name": "Boy Girl Dog Cat Mouse Cheese",
-          "show_description": "No Cheese Please. K-Jam and Girl have plans for the best day ever! However, when Cheese shoves herself in and takes over, she jeopardizes all of their plans!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0498a41d-e7b3-390d-a85a-2dfe5758ad0a/cover",
-          "start_time": "14:10",
-          "end_time": "14:20"
-        },
-        {
-          "show_name": "Boy Girl Dog Cat Mouse Cheese",
-          "show_description": "Homeschooled. When the siblings grow jealous of Boy and Girl going to school, Mouse offers to become their homeschool teacher. Too bad Dog, Cat and Cheese aren't exactly model students.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d7e692f7-a507-3c47-9f83-3beeec4ba0d9/cover",
-          "start_time": "14:20",
-          "end_time": "14:35"
-        },
-        {
-          "show_name": "Boy Girl Dog Cat Mouse Cheese",
-          "show_description": "Silent Treatment. The kids' favourite aunt is coming to visit, but a petty squabble between Boy and Cheese puts the family's upcoming fun times in danger!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6810b31e-d087-35dc-bd52-01799660bd96/cover",
-          "start_time": "14:35",
-          "end_time": "14:45"
-        },
-        {
-          "show_name": "Total Dramarama",
-          "show_description": "Sharing Is Caring. When Courtney refuses to share her valuable rare toy, friends join forces to question her.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5b70b5f8-fe0e-4f46-85e6-b3ffdcf17533/cover",
-          "start_time": "14:45",
-          "end_time": "14:55"
-        },
-        {
-          "show_name": "Total Dramarama",
-          "show_description": "Paint That a Shame. Leshawna creates a paint-balloon fight to decide who she will take to an amusement park.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3308a6f3-e79a-4d56-9619-845850734ae6/cover",
-          "start_time": "14:55",
-          "end_time": "15:05"
-        },
-        {
-          "show_name": "Duck and Frog",
-          "show_description": "Tour Guide. Duck is a tour guide at a stately home, but Frog decides to move in.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b83835d1-afe5-4c58-8463-1a8c9c0e3f07/cover",
-          "start_time": "15:05",
-          "end_time": "15:15"
-        },
-        {
-          "show_name": "Duck and Frog",
-          "show_description": "Campsite. Duck must make sure everyone follows the rules at a campsite - even Frog!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d0705ddf-11b6-4465-9493-67918f04a874/cover",
-          "start_time": "15:15",
-          "end_time": "15:25"
-        },
-        {
-          "show_name": "Duck and Frog",
-          "show_description": "Musician. When Duck accidentally gets a job as the band conductor at the local park, Frog is keen to play trumpet in the band - but Duck is even more keen to stop him!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/41eb54b5-55fb-430d-b4de-41335f23f238/cover",
-          "start_time": "15:25",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Duck and Frog",
-          "show_description": "Removals. Duck and Frog must move a famous pop star's possessions from one mansion to another. However, they are unable to do it with anything remaining in one piece.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/417a40aa-34f4-46d3-945d-6310187b1958/cover",
-          "start_time": "15:30",
-          "end_time": "15:40"
-        },
-        {
-          "show_name": "Dragons: The Nine Realms",
-          "show_description": "A Hole New World. Tom forges a friendship with the dragon that he encountered, and later on discovers an entire world of dragons within the fissure.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/72ef3113-1fe1-414f-9940-17955108690a/cover",
-          "start_time": "15:40",
-          "end_time": "16:05"
-        },
-        {
-          "show_name": "Jamie Johnson",
-          "show_description": "Dream Academy. Drama series. Trouble brews when Jamie's trial with Foxborough academy is scheduled at the same time Kingsmount are due to defend their school cup.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b03a310e-ef5e-40b4-98df-e0f2a4604b5c/cover",
-          "start_time": "16:05",
-          "end_time": "16:35"
-        },
-        {
-          "show_name": "High Hoops",
-          "show_description": "The Get Cheering Defence. When Aoife needs a cheerleading teacher to impress her auntie Fidelma, she finds help from an unlikely source - but can she keep up the act?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dbe5246d-b6ab-421c-9a09-2949cf184f8a/cover",
-          "start_time": "16:35",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Stage Stars",
-          "show_description": "Halloween. The Year 7s go in search of the school ghost.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/83b879eb-9c64-4a64-a3cb-28d1afc02616/cover",
-          "start_time": "17:00",
-          "end_time": "17:25"
-        },
-        {
-          "show_name": "Crookhaven",
-          "show_description": "1/8. Pickpocket Gabriel Avery faces a new secret life when he is recruited to Crookhaven, a school for crooks where students are taught to beat criminals at their own game.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2a151954-5130-4ecb-9540-c6fee93ae624/cover",
-          "start_time": "17:25",
-          "end_time": "18:10"
-        },
-        {
-          "show_name": "Crookhaven",
-          "show_description": "2/8. School rivalries intensify when the Merits and Legacies attempt the break-in challenge.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/25336d29-ee0b-4d87-9eb2-a39b19e9d9d4/cover",
-          "start_time": "18:10",
-          "end_time": "18:58"
-        },
-        {
-          "show_name": ".programmes start at 7.00am",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "18:58",
-          "end_time": "00:58"
-        }
-      ]
-    },
-    {
       "date": "23 March 2026",
       "programmes": [
         {
@@ -630,6 +310,333 @@
           "show_name": "So Awkward Academy",
           "show_description": "Series 2 Preview. Tune in for laugh-out-loud chaos and capers as So Awkward Academy returns for more madcap adventures with the ridiculous staff and kooky students.",
           "show_logo": "https://images.metadata.sky.com/pd-image/f28b74ce-dcd3-4f15-814b-b5dbd6886889/cover",
+          "start_time": "18:55",
+          "end_time": "18:58"
+        },
+        {
+          "show_name": ".programmes start at 7.00am",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "18:58",
+          "end_time": "00:58"
+        }
+      ]
+    },
+    {
+      "date": "24 March 2026",
+      "programmes": [
+        {
+          "show_name": ".programmes start at 7.00am",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "00:58",
+          "end_time": "05:29"
+        },
+        {
+          "show_name": "This is CBBC!",
+          "show_description": "This is CBBC! Tune every day from 7.00am.",
+          "show_logo": "",
+          "start_time": "05:30",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Shaun the Sheep",
+          "show_description": "Bitzer's New Whistle. Animated Series. Bitzer tries his new hi-tech farmyard control module, but he is soon left wishing for his old whistle.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ece97162-6f73-4cfa-9607-b540ec83c8cd/cover",
+          "start_time": "07:00",
+          "end_time": "07:10"
+        },
+        {
+          "show_name": "Danger Mouse",
+          "show_description": "The Good, the Baaaaa and the Ugly. Animated series. When Danger Mouse and Penfold are sent on a mission to a mysterious island, Danger Mouse's competitiveness borders on criminal.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2436f889-26fa-4dea-b3a2-c3bcd7ba0a45/cover",
+          "start_time": "07:10",
+          "end_time": "07:20"
+        },
+        {
+          "show_name": "Super Happy Magic Forest",
+          "show_description": "Good Clean Fun. When the heroes are sent on a quest to prevent an ogre from making a mess of the village green, Trevor's smart mouth puts them all in danger.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e7a89bf6-6e20-45e3-9b5a-312ae82ca3ff/cover",
+          "start_time": "07:20",
+          "end_time": "07:35"
+        },
+        {
+          "show_name": "Boy Girl Dog Cat Mouse Cheese",
+          "show_description": "It's Raining Ben. On a dark and stormy night, the kids tell a scary story about local legend Big Bad Ben!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ceda0666-c423-420d-aeb0-c3bf4f2f30de/cover",
+          "start_time": "07:35",
+          "end_time": "07:45"
+        },
+        {
+          "show_name": "Newsround",
+          "show_description": "24/03/2026. Topical news magazine for children.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/47e90c9e-a449-4276-a0c2-9196caddc93c/cover",
+          "start_time": "07:45",
+          "end_time": "07:55"
+        },
+        {
+          "show_name": "Grizzy and the Lemmings: World Tour",
+          "show_description": "Drawer Puzzles. Grizzy and the Lemmings crack the codex system of a mysterious box and are sucked into it.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/86148aa8-e823-3a28-811b-1411458c6f4e/cover",
+          "start_time": "07:55",
+          "end_time": "08:05"
+        },
+        {
+          "show_name": "SpongeBob SquarePants",
+          "show_description": "Appointment TV. The long-lost episode of Mermaid Man is finally showing on TV.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4c3dd78d-b3e6-4fa1-b1fd-943da0107c71/cover",
+          "start_time": "08:05",
+          "end_time": "08:15"
+        },
+        {
+          "show_name": "Odd Squad",
+          "show_description": "Midday in the Garden of Good and Odd. The Odd Squad investigate strange events. When things in town get covered in jam, the agents turn to Odd Todd for help.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c8105c0d-2f27-480c-975d-517b5bad5c9f/cover",
+          "start_time": "08:15",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "Dennis & Gnasher Unleashed!",
+          "show_description": "Do Good Dennis. Dennis and Gnasher accidentally do good deeds for the people of Beanotown.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/96db493c-1ddb-4296-ae23-7328749ecc06/cover",
+          "start_time": "08:30",
+          "end_time": "08:40"
+        },
+        {
+          "show_name": "Danny and Mick",
+          "show_description": "Things Can Only Get Wetter. Danny and Mick are determined to listen to Webbthorpe Town Wanderers in their local cup game.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1531a826-0829-4110-a4fc-558261c89cfc/cover",
+          "start_time": "08:40",
+          "end_time": "08:55"
+        },
+        {
+          "show_name": "Hey You What If?",
+          "show_description": "Animals Were Supersized. Could there ever be super-gigantic insects or snails?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/74694098-9fd7-4b7f-a640-3bbdd97bed0f/cover",
+          "start_time": "08:55",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Bitesize Daily: 6-7 Year Olds: Science: Using Materials",
+          "show_description": "Learn about choosing materials, new materials, and materials that squash, bend, twist and stretch.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e8e8626e-02f4-42c4-befe-7cf93877bf5e/cover",
+          "start_time": "09:00",
+          "end_time": "09:20"
+        },
+        {
+          "show_name": "One Zoo Three",
+          "show_description": "Weirdly Wonderful. Meet some strange-looking animals whose adaptations are crucial for their survival.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/807579cf-6f3a-35f9-b81e-eb4e4a30047d/cover",
+          "start_time": "09:20",
+          "end_time": "09:45"
+        },
+        {
+          "show_name": "Horrible Histories",
+          "show_description": "Monstrous Myths. Count Rattula looks at history's greatest myths and monsters.   Followed by Shark Bites.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d7cba3d5-261a-4a0f-b7d1-e16641347776/cover",
+          "start_time": "09:45",
+          "end_time": "10:15"
+        },
+        {
+          "show_name": "Art Ninja",
+          "show_description": "Day of the Shampoo-Poo. A new episode of the internet sensation Punkest Prank inspires Ricky and Gav to prank each other in order to win a year's supply of Shampoo-Poo.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cac0c956-627e-4cf6-9542-db22a9358d53/cover",
+          "start_time": "10:15",
+          "end_time": "10:35"
+        },
+        {
+          "show_name": "Horrible Science",
+          "show_description": "Sizzling Monks, Algorithms and Weather Frogs. Big Brain short circuits, 200 monks get shocked, and Marie Curie is wowed by a rocket man.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e6d2eade-cc5b-4d10-b289-985292583964/cover",
+          "start_time": "10:35",
+          "end_time": "11:05"
+        },
+        {
+          "show_name": "Deadly 60",
+          "show_description": "Mexico 1. Wildlife series. Steve and the crew head to Mexico's breathtaking Yucatan Peninsula, where he embarks on a high-octane chase with the fastest fish in the sea.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8854602c-bfb6-452b-8f9a-5b4d950247bb/cover",
+          "start_time": "11:05",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Operation Ouch!",
+          "show_description": "Let's Talk About Cancer. The doctors are talking cancer, explaining what it is, why people get it, how it can be treated and how to help someone going through it.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3eb0af79-3ae5-443d-a5c6-a1f4bad74bd2/cover",
+          "start_time": "11:30",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Sketchy Comedy",
+          "show_description": "Episode 7. Comedy sketch show. A plane, a chair, a pencil and a watering can are among the items getting the Sketchy treatment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8022944f-a8a1-42db-80a1-5d15161914e0/cover",
+          "start_time": "12:00",
+          "end_time": "12:05"
+        },
+        {
+          "show_name": "Andy and the Band",
+          "show_description": "Detention Break. Leo and Jimi are locked in detention and will miss their gig - can the band bust them out?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ae7994f4-b013-44b8-b3cc-ecebfe3f7c8f/cover",
+          "start_time": "12:05",
+          "end_time": "12:20"
+        },
+        {
+          "show_name": "A Kind of Spark",
+          "show_description": "Miriam. Addie's council event hangs in the balance when a grumpy Miriam refuses to reveal her secret. Meanwhile, Iona holds band auditions and finds a surprising lead singer.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c14db4d1-72a7-3749-bc6c-7dd052719789/cover",
+          "start_time": "12:20",
+          "end_time": "12:45"
+        },
+        {
+          "show_name": "Gifted",
+          "show_description": "Team Spirits. Ken and Jack are recruited to save ghosts from the threat of dark magic, but things are not quite what they seem. Amanda finds herself in another awkward situation.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6fb9cf1e-fa1b-47fd-8596-ab094ddc73b2/cover",
+          "start_time": "12:45",
+          "end_time": "13:10"
+        },
+        {
+          "show_name": "High Hoops",
+          "show_description": "The Expose Jessica Drill. Aoife and the Vipers face Jessica and the Comets in the inter-school tournament.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/de1757ae-e9b4-4a12-8a01-41cd7b61d03b/cover",
+          "start_time": "13:10",
+          "end_time": "13:40"
+        },
+        {
+          "show_name": "The Next Step",
+          "show_description": "A Tale of Two Eldons. Reality-style drama series. Michelle thinks her dreams have come true when her troupe gets its tenth and final dancer.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/97dadc53-d7a8-4377-9eec-75deb6e35e33/cover",
+          "start_time": "13:40",
+          "end_time": "14:05"
+        },
+        {
+          "show_name": "Red Peter: Red Nose Day Takeover!",
+          "show_description": "Red Nose Day Takeover! Blue Peter becomes Red Peter for Red Nose Day!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b4797b4d-b92d-4750-b54c-c49a20523714/cover",
+          "start_time": "14:05",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "Deadly 60",
+          "show_description": "Saving Sharks. Steve dives with 100 grey nurse sharks, a wobbegong and a whale shark.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d2043ae0-4976-4f1e-881b-db955886bbc0/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "OOglies Funsize",
+          "show_description": "Episode 14. Stop-motion animation. The OOglies band are joined by their new watermelon conductor with disastrous consequences, and the fishing finger comes a cropper.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/dd02a949-85c6-483b-813a-bb7753e394ae/cover",
+          "start_time": "15:00",
+          "end_time": "15:05"
+        },
+        {
+          "show_name": "Shaun the Sheep",
+          "show_description": "A Prickly Problem. Animated Series. Timmy decides to help the hedgehogs find a resting place for the night. However, his efforts lead his weary friends into a series a scrapes.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e1b05896-4b90-43a9-906b-472be5b443ed/cover",
+          "start_time": "15:05",
+          "end_time": "15:15"
+        },
+        {
+          "show_name": "Dennis & Gnasher Unleashed!",
+          "show_description": "Pranksy. The after-school art club is under threat of imminent demolition.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/63fae2db-418e-4492-a5dd-b0acaa3a450c/cover",
+          "start_time": "15:15",
+          "end_time": "15:25"
+        },
+        {
+          "show_name": "Super Happy Magic Forest",
+          "show_description": "New Broom. The witch casts a spell of squeaky voices on the heroes. It will be lifted once they have completed a quest to the Super Creepy Haunted Forest.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/05600a0e-44f7-4bb9-906b-92ce5fcd5a9a/cover",
+          "start_time": "15:25",
+          "end_time": "15:35"
+        },
+        {
+          "show_name": "Boy Girl Dog Cat Mouse Cheese",
+          "show_description": "Cat Walkers. With Boy's new help-for-hire business booming, he overworks his unpaid employee, Dog, without realizing. Girl sets out to teach Dog a lesson about standing up for himself.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f3cc9d39-a189-425b-a448-d8d3746de001/cover",
+          "start_time": "15:35",
+          "end_time": "15:50"
+        },
+        {
+          "show_name": "Grizzy and the Lemmings",
+          "show_description": "Choco-Coco. Grizzy wakes up, starving. But the last jar of Yummy chocolate spread is empty...",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c6cb87a2-77b2-4d9a-b41e-63bcf1e78840/cover",
+          "start_time": "15:50",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Duck and Frog",
+          "show_description": "Library. Duck becomes a very serious librarian and makes it his mission to maintain the peace and quiet - that is until Frog arrives and has other ideas.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1f8062c2-28bf-4d27-99e0-6014fc6eeaad/cover",
+          "start_time": "16:00",
+          "end_time": "16:05"
+        },
+        {
+          "show_name": "SpongeBob SquarePants",
+          "show_description": "Shopping List. SpongeBob and Sandy collect Krabby Patty ingredients.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f3aaa249-631b-4bb6-bac0-3538284e95fe/cover",
+          "start_time": "16:05",
+          "end_time": "16:20"
+        },
+        {
+          "show_name": "What's New Scooby-Doo?",
+          "show_description": "Uncle Scooby and Antarctica. The gang accompany a penguin back to Antarctica and find a finned creature from the sea.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/62bcd232-c3cc-4471-a8ed-96778d535bd2/cover",
+          "start_time": "16:20",
+          "end_time": "16:40"
+        },
+        {
+          "show_name": "Odd Squad",
+          "show_description": "Three is the Oddest Number. Kid villains The Terrible Three plot to steal three shapes from Odd Squad gadgets in the next phase of their plan to stop Odd Squad for good.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8395673c-f29c-3c58-8888-dc6aa76711ca/cover",
+          "start_time": "16:40",
+          "end_time": "16:55"
+        },
+        {
+          "show_name": "New: Teen Titans Go!",
+          "show_description": "Super Robin. Robin finally gets superpowers - but at what cost?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/284d1bdd-56c1-4206-a726-1d06bb259b84/cover",
+          "start_time": "16:55",
+          "end_time": "17:05"
+        },
+        {
+          "show_name": "Pokémon Horizons: Rising Hope",
+          "show_description": "Eyes to the Skies Once Again, Part 1. Life is back to normal for Roy and friends, until wild Pokémon begin to act strangely...",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e577a44d-6edd-49e1-a26e-e3c871f99969/cover",
+          "start_time": "17:05",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "Grizzy and the Lemmings: World Tour",
+          "show_description": "A Love for Fridges. The Lemmings activate the air conditioner's AI, causing it to fall in love with the fridge.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cb785988-a13e-49cc-bdfe-91890ddce14a/cover",
+          "start_time": "17:30",
+          "end_time": "17:35"
+        },
+        {
+          "show_name": "Stage Stars",
+          "show_description": "Christmas Is Coming. With Christmas around the corner, the juniors give a festive performance at the local town fair. Meanwhile, it's time for Encore's end-of-term performance.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3b42e50b-2533-4d2e-a80f-b0b478b645f0/cover",
+          "start_time": "17:35",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "New: Operation Ouch!",
+          "show_description": "Pins and Needles! Find out what causes pins and needles, Dr Dan disappears into the lungs of saxophone-playing Dr Raph in Just One Second, and follow Oucher Kirsty's chemo session.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3c90fbd3-5219-4581-b4dc-3ec7cbf35107/cover",
+          "start_time": "18:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "The Next Step",
+          "show_description": "Only You. Reality-style drama following the lives of a group of dancers at the Next Step Dance Studio. Emily and Riley choose a dance captain and deal with the Qualifier duet.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b4090241-8daf-4d85-bd63-44727c130269/cover",
+          "start_time": "18:30",
+          "end_time": "18:55"
+        },
+        {
+          "show_name": "The Next Step: Cheer",
+          "show_description": "Trailer. Kenzie salvages what's left of a broken cheer team, but can she take them to nationals?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e4cc4d80-ee2e-4ffa-8b25-da0b9efb64b3/cover",
           "start_time": "18:55",
           "end_time": "18:58"
         },
