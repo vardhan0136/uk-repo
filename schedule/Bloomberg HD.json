@@ -3,130 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Bloomberg-TV-HD.png",
   "schedule": [
     {
-      "date": "23 March 2026",
-      "programmes": [
-        {
-          "show_name": "Bloomberg: The China Show",
-          "show_description": "Your definitive source for news and analysis on the world's second-biggest economy. Hosted by Yvonne Man and David Ingles. Ep1",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1760b481-882d-4644-bf70-89e4317db9a1/cover",
-          "start_time": "01:00",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Insight with Haslinda Amin",
-          "show_description": "The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f8433420-7cea-4ddd-a938-c2b4423af0d7/cover",
-          "start_time": "03:00",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "Bloomberg Horizons Middle East & Africa",
-          "show_description": "Linking the market drivers from overnight in the US and across Asia into the region's trading day, with deep dive analysis of the top business, energy and geopolitical stories.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d279c407-3725-4df7-9c78-7a17653408cc/cover",
-          "start_time": "05:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Bloomberg Daybreak: Europe",
-          "show_description": "Live from London, we catch you up with overnight markets news from the US and Asia. Plus, we'll tell you what matters for investors in Europe, giving you insight before trading begins.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/236a829a-d62d-4c1e-ac09-a4e8bc7e0c47/cover",
-          "start_time": "06:00",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Bloomberg: The Opening Trade",
-          "show_description": "Everything you need to know as markets open across Europe. We break down today's biggest stories and speak to guests with skin in the game.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/73202067-3d37-42a5-b5be-c977b23dfa08/cover",
-          "start_time": "07:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "The Pulse with Francine Lacqua",
-          "show_description": "Conversations with high profile guests in the beating heart of global business, finance and politics. We go wherever the story is, bringing you exclusive interviews and market-moving scoops.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/130899cd-a83b-4042-8e62-9562a3a9daed/cover",
-          "start_time": "09:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Bloomberg Surveillance",
-          "show_description": "Daily conversations with leaders and decision makers from Wall Street to Washington and beyond. Hosted by Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/af2dee1d-2f7e-43f8-95f3-9f979d4658db/cover",
-          "start_time": "10:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Bloomberg Open Interest",
-          "show_description": "Bloomberg Open Interest with Matt Miller and Dani Burger - delivers the market-moving news you need to know to get a jump start on the US trading day.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0cc03b5d-3949-4ed4-8356-73da09e21d65/cover",
-          "start_time": "13:00",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Bloomberg Tech",
-          "show_description": "The only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dbbca72a-8b11-458e-8b57-2436a2c2c578/cover",
-          "start_time": "15:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Bloomberg ETF IQ",
-          "show_description": "Focusing on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Hosted by Scarlet Fu, Katie Greifeld and Eric Balchunas.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ff078b34-d0c4-404f-b4a4-f78c6382b08d/cover",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Bloomberg: Balance of Power",
-          "show_description": "Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6fff52da-8d7b-4047-a9d4-d77c7677e748/cover",
-          "start_time": "17:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Bloomberg Businessweek Daily",
-          "show_description": "Carol Massar and Tim Stenovec bring you reporting from the magazine that helps global leaders stay ahead, plus insight on the people, companies and trends shaping today's complex economy.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ee29b41b-78d6-4162-bdbd-1bfbc3f25637/cover",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Bloomberg The Close",
-          "show_description": "Romaine Bostick and Katie Greifeld break down the day's top market-moving stories and trading action around the closing bell.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fb546083-b520-465f-867f-6d80e672ff5f/cover",
-          "start_time": "19:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Bloomberg: Balance of Power",
-          "show_description": "Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f1614e02-858b-4397-b298-bea97d23e476/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Leaders with Francine Lacqua The Podcast",
-          "show_description": "Melinda French Gates reflects on the choices that set her path, from Microsoft executive to philanthropist and now founder of Pivotal. S1, Ep1",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f151e11d-29a3-451b-8060-218ec19c3701/cover",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "Posthuman",
-          "show_description": "Can we have real intimacy with machines? Emily Chang explores the future of such connections and the technologies powering a growing market of relationships-on-demand. S1, Ep2",
-          "show_logo": "https://images.metadata.sky.com/pd-image/92e1e736-dd30-4dac-a818-a54f74e59f8a/cover",
-          "start_time": "22:30",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Bloomberg The Asia Trade",
-          "show_description": "Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets. Ep1",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e2a1a9ae-66ed-413e-a5a8-791c3e5b7664/cover",
-          "start_time": "23:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "24 March 2026",
       "programmes": [
         {
@@ -245,6 +121,130 @@
           "show_name": "Bloomberg The Asia Trade",
           "show_description": "Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets. Ep1",
           "show_logo": "https://images.metadata.sky.com/pd-image/fadc45af-71fa-4014-a236-e7f393d335df/cover",
+          "start_time": "23:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "25 March 2026",
+      "programmes": [
+        {
+          "show_name": "Bloomberg: The China Show",
+          "show_description": "Your definitive source for news and analysis on the world's second-biggest economy. Hosted by Yvonne Man and David Ingles. Ep1",
+          "show_logo": "https://images.metadata.sky.com/pd-image/827fa771-214e-451e-a9b9-553c6b713f29/cover",
+          "start_time": "01:00",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Insight with Haslinda Amin",
+          "show_description": "The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e765378c-4f72-48dc-a962-1fe720d0b755/cover",
+          "start_time": "03:00",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "Bloomberg Horizons Middle East & Africa",
+          "show_description": "Linking the market drivers from overnight in the US and across Asia into the region's trading day, with deep dive analysis of the top business, energy and geopolitical stories.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/669b58ac-ef45-40a4-b187-258afc752090/cover",
+          "start_time": "05:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Bloomberg Daybreak: Europe",
+          "show_description": "Live from London, we catch you up with overnight markets news from the US and Asia. Plus, we'll tell you what matters for investors in Europe, giving you insight before trading begins.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1e857570-cfbb-497c-99a9-d62548a8e7cb/cover",
+          "start_time": "06:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Bloomberg: The Opening Trade",
+          "show_description": "Everything you need to know as markets open across Europe. We break down today's biggest stories and speak to guests with skin in the game.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/73202067-3d37-42a5-b5be-c977b23dfa08/cover",
+          "start_time": "07:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "The Pulse with Francine Lacqua",
+          "show_description": "Conversations with high profile guests in the beating heart of global business, finance and politics. We go wherever the story is, bringing you exclusive interviews and market-moving scoops.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d7c3de92-585f-4ef4-a00a-dfc2fa450aef/cover",
+          "start_time": "09:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Bloomberg Surveillance",
+          "show_description": "Daily conversations with leaders and decision makers from Wall Street to Washington and beyond. Hosted by Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/51fbd700-6d85-474f-bb52-94a70d99bc57/cover",
+          "start_time": "10:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Bloomberg Open Interest",
+          "show_description": "Bloomberg Open Interest with Matt Miller and Dani Burger - delivers the market-moving news you need to know to get a jump start on the US trading day.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b1186b5f-4ac4-406c-98e8-77edd2952f64/cover",
+          "start_time": "13:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Bloomberg Tech",
+          "show_description": "The only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8365f7cd-a71f-444b-bb8c-978a07d505d8/cover",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Bloomberg Deals",
+          "show_description": "A weekly program that delivers high-impact, editorially driven coverage of the most important corporate transactions shaping the global market.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/05a46ec1-eb80-41a2-a480-087343f70192/cover",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Bloomberg: Balance of Power",
+          "show_description": "Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/18d8ea56-35d4-478c-be27-fbdcebae85a0/cover",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Bloomberg Businessweek Daily",
+          "show_description": "Carol Massar and Tim Stenovec bring you reporting from the magazine that helps global leaders stay ahead, plus insight on the people, companies and trends shaping today's complex economy.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/91d4e354-f214-4b3e-a8c9-4d1b2a10664b/cover",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Bloomberg The Close",
+          "show_description": "Romaine Bostick and Katie Greifeld break down the day's top market-moving stories and trading action around the closing bell.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/930a4e6e-1fcc-4284-a087-e2af4dac66fb/cover",
+          "start_time": "19:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Bloomberg: Balance of Power",
+          "show_description": "Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/57783574-519f-4634-9a9d-0500cf8d997b/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "The Circuit",
+          "show_description": "Emily Chang goes inside Stargate, a historic $500 billion bet on the future of AI. She speaks with OpenAI CEO Sam Altman and Softbank CEO Masayoshi Son about their hopes for the project. S3, Ep1",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e0e788b3-4999-4754-b996-69dfdd9886cc/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "The Circuit",
+          "show_description": "Inside Stargate (Part 2). Emily goes inside Stargate, a historic $500 billion bet on the future of AI. She speaks with OpenAI CEO Sam Altman & Softbank CEO Masayoshi Son about the project. S3, Ep2",
+          "show_logo": "https://images.metadata.sky.com/pd-image/42405e5b-f520-4558-9769-8f54a0255748/cover",
+          "start_time": "22:30",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Bloomberg The Asia Trade",
+          "show_description": "Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets. Ep1",
+          "show_logo": "https://images.metadata.sky.com/pd-image/587b3106-564f-4464-a606-0053064ae1d8/cover",
           "start_time": "23:00",
           "end_time": "01:00"
         }

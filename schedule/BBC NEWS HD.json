@@ -3,375 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png",
   "schedule": [
     {
-      "date": "23 March 2026",
-      "programmes": [
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/490e4827-886e-46f4-83b2-160452354395/cover",
-          "start_time": "00:00",
-          "end_time": "00:30"
-        },
-        {
-          "show_name": "The Media Show",
-          "show_description": "CNN's Frederik Pleitgen reports from Iran, and Oscars coverage with Tom Brook and Katey Rich.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d84a6c3b-3323-44f0-b789-84b78fc0d632/cover",
-          "start_time": "00:30",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/28d41abf-d065-4562-be8e-4d5cc55c14f9/cover",
-          "start_time": "01:00",
-          "end_time": "01:30"
-        },
-        {
-          "show_name": "Gloves Are Off: The Rise of Bare-Knuckle Boxing",
-          "show_description": "Ade Adedoyin looks at whether this extreme sport is going mainstream.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d6af02f6-6051-46d9-92a0-0c08b39d380f/cover",
-          "start_time": "01:30",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "Newsday",
-          "show_description": "Live from Singapore, the latest international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b2af57a0-f205-434d-a100-0e81d993b4c2/cover",
-          "start_time": "02:00",
-          "end_time": "02:30"
-        },
-        {
-          "show_name": "Business Today",
-          "show_description": "Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/20da95b6-c221-41f4-9ec7-d81173e445e6/cover",
-          "start_time": "02:30",
-          "end_time": "02:45"
-        },
-        {
-          "show_name": "BBC Sport",
-          "show_description": "A round-up of the day's sporting action, plus talking points, analysis and original journalism.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ab798b43-1fe6-43d7-9b44-8a1cd6c834c5/cover",
-          "start_time": "02:45",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Newsday",
-          "show_description": "Live from Singapore, the latest international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c5dc1dfb-388c-4146-b5ac-d8ba35827385/cover",
-          "start_time": "03:00",
-          "end_time": "03:30"
-        },
-        {
-          "show_name": "Business Today",
-          "show_description": "Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/045660e6-6feb-4675-b67a-9dbbb0888d46/cover",
-          "start_time": "03:30",
-          "end_time": "03:45"
-        },
-        {
-          "show_name": "BBC Sport",
-          "show_description": "A round-up of the day's sporting action, plus talking points, analysis and original journalism.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b99c462d-d586-4b03-9124-d590446efb45/cover",
-          "start_time": "03:45",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "Newsday",
-          "show_description": "Live from Singapore, the latest international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/93ac2758-e8f8-49b6-a35a-23cb9e1efb44/cover",
-          "start_time": "04:00",
-          "end_time": "04:30"
-        },
-        {
-          "show_name": "Business Today",
-          "show_description": "Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8231bb55-4de7-4a7e-b8dd-cb5d33fdaf59/cover",
-          "start_time": "04:30",
-          "end_time": "04:45"
-        },
-        {
-          "show_name": "BBC Sport",
-          "show_description": "A round-up of the day's sporting action, plus talking points, analysis and original journalism.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c1f5ac4e-5547-4cda-b73f-95b309592b11/cover",
-          "start_time": "04:45",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e756fb5a-dbbe-4a1f-b04d-43bbaa0e75c6/cover",
-          "start_time": "05:00",
-          "end_time": "05:30"
-        },
-        {
-          "show_name": "Business Today",
-          "show_description": "Bringing the latest business news and up-to-date informed analysis from London and around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3aced32e-c512-4128-81ca-19d67d3b61eb/cover",
-          "start_time": "05:30",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c693ab2b-3d7b-4d1d-8aec-555f8a6b23c4/cover",
-          "start_time": "06:00",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Business Today",
-          "show_description": "Bringing the latest business news and up-to-date informed analysis from London and around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/126d1b1a-a9ff-4517-b2c8-03c500f515cf/cover",
-          "start_time": "06:30",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cf8df429-3cd4-4f60-b9fe-15939eb92270/cover",
-          "start_time": "07:00",
-          "end_time": "07:30"
-        },
-        {
-          "show_name": "Business Today",
-          "show_description": "Bringing the latest business news and up-to-date informed analysis from London and around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6d259765-8ddd-4153-99fa-741647a98a7b/cover",
-          "start_time": "07:30",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "Signed: BBC News",
-          "show_description": "The latest news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/694d9d11-a6f8-4c81-860f-e2508977071b/cover",
-          "start_time": "08:00",
-          "end_time": "08:30"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ef85b9d2-3f61-428d-b8c4-a7c566265bdc/cover",
-          "start_time": "08:30",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/208b65d4-105b-4a06-8537-53a6c856ead1/cover",
-          "start_time": "09:00",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/05bf2d7d-41d7-4451-bffd-7f0323c3ed4c/cover",
-          "start_time": "09:30",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5ecf1324-53f4-4155-8ad1-c841cfb90dde/cover",
-          "start_time": "10:00",
-          "end_time": "10:30"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/27d84adb-26f1-4b70-bd0d-1305ea3bb68e/cover",
-          "start_time": "10:30",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ab09f7e8-dbbc-4707-8a47-2567530a9d23/cover",
-          "start_time": "11:00",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Business Today",
-          "show_description": "Bringing the latest business news and up-to-date informed analysis from London and around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/aa654d4f-0d59-41e2-be49-d85797dcf9f3/cover",
-          "start_time": "11:30",
-          "end_time": "11:45"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3920829c-c165-4196-88d5-eb4903be5db7/cover",
-          "start_time": "11:45",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "BBC News Now",
-          "show_description": "All the big stories, live as they happen, presented by Lucy Hockings.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/44e2f2f1-2214-4fb9-b121-29f60423974f/cover",
-          "start_time": "12:00",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "BBC News Now",
-          "show_description": "All the big stories, live as they happen, presented by Lucy Hockings.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4d24c083-859d-4ae7-ad49-d16656f8d5a2/cover",
-          "start_time": "12:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Signed: BBC News at One",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/92a4d476-b35a-43d1-aabd-2ff6979dda1d/cover",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "BBC News Now",
-          "show_description": "All the big stories, live as they happen, presented by Lucy Hockings.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/37792dd8-4ec0-479b-b202-1fd106172af3/cover",
-          "start_time": "14:00",
-          "end_time": "14:30"
-        },
-        {
-          "show_name": "BBC News Now",
-          "show_description": "All the big stories, live as they happen, presented by Lucy Hockings.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a0e38843-982a-4114-9de7-c25f389c5800/cover",
-          "start_time": "14:30",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Verified Live",
-          "show_description": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/855f4040-a5a9-4911-a0da-030b7be9cf2c/cover",
-          "start_time": "15:00",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Verified Live",
-          "show_description": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4dc6197a-71e0-4f2b-a6c8-49c66a43af4c/cover",
-          "start_time": "15:30",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Verified Live",
-          "show_description": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/37aa0287-e4da-4f7e-91ec-86877948c231/cover",
-          "start_time": "16:00",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "Business Today",
-          "show_description": "Bringing the latest business news and up-to-date informed analysis from London and around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cf1bfff5-0bbd-4cb1-9f77-8b1ce7501fd1/cover",
-          "start_time": "16:30",
-          "end_time": "16:45"
-        },
-        {
-          "show_name": "Verified Live",
-          "show_description": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8813446e-4965-4eb0-a7dd-9f264f88cfd8/cover",
-          "start_time": "16:45",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Verified Live",
-          "show_description": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/20cf080f-30f4-4a9a-89c5-cfcffd211076/cover",
-          "start_time": "17:00",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9c8a6b54-058f-4a66-a7a9-a4e005267e24/cover",
-          "start_time": "17:30",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Signed: BBC News at Six",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0859aab2-aa40-4d47-89d2-157389179a29/cover",
-          "start_time": "18:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "The Iran War Today",
-          "show_description": "A daily briefing from BBC News on the latest developments on the Israel-US war in Iran.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/40102fb0-7daf-40fe-ae2c-523c304c79e8/cover",
-          "start_time": "18:30",
-          "end_time": "18:45"
-        },
-        {
-          "show_name": "The World Today with Maryam Moshiri",
-          "show_description": "Watch the best of the BBC's journalism from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/974cb6e9-d7e2-454e-af0b-a8ab11995c38/cover",
-          "start_time": "18:45",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "The World Today with Maryam Moshiri",
-          "show_description": "Watch the best of the BBC's journalism from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f7f2b4b7-50f9-4911-9e23-327eaabd035c/cover",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "The World Today with Maryam Moshiri",
-          "show_description": "Watch the best of the BBC's journalism from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ae45f92c-5746-453c-8708-6ffc87983aae/cover",
-          "start_time": "19:30",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "The Context USA",
-          "show_description": "Special coverage from Washington DC and London, focusing on President Trump's second term.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/40e4afe9-0a3e-4010-befc-9460e24a75cb/cover",
-          "start_time": "20:00",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "The Context USA",
-          "show_description": "Special coverage from Washington DC and London, focusing on President Trump's second term.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b999270e-efa1-4f34-a279-ed5fda5eed93/cover",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "The Context",
-          "show_description": "A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d11df0a2-b87d-4602-94e2-a51631b3b565/cover",
-          "start_time": "21:00",
-          "end_time": "21:30"
-        },
-        {
-          "show_name": "The Context",
-          "show_description": "A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9712b3c6-e331-4eba-92b0-42e650ab8f2e/cover",
-          "start_time": "21:30",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "BBC News at Ten",
-          "show_description": "The latest national and international news, with reports from BBC correspondents worldwide.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/305065aa-ca41-4b40-825c-7295e9c9a597/cover",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "Newsnight",
-          "show_description": "Insights and global interviews on the news stories of the day. With Victoria Derbyshire.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/047494ba-fc7b-4db6-a5f6-8e9ce1f3a816/cover",
-          "start_time": "22:30",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "BBC World News America",
-          "show_description": "The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/03e5eaf5-5b68-47d7-b391-f74db74d9359/cover",
-          "start_time": "23:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "24 March 2026",
       "programmes": [
         {
@@ -735,6 +366,368 @@
           "show_name": "BBC World News America",
           "show_description": "The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.",
           "show_logo": "https://images.metadata.sky.com/pd-image/a6c1b002-d8a7-44e2-8a17-d4771d9274d2/cover",
+          "start_time": "23:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "25 March 2026",
+      "programmes": [
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cd80fd1e-db21-4a42-b71b-22c07a34b35f/cover",
+          "start_time": "00:00",
+          "end_time": "00:30"
+        },
+        {
+          "show_name": "Newscast",
+          "show_description": "Lighthearted discussion of the day's news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e2dd4cf9-7e21-489a-ac3f-73996346dd36/cover",
+          "start_time": "00:30",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a0784598-f6e8-4b7b-bc5b-d87ea4000a83/cover",
+          "start_time": "01:00",
+          "end_time": "01:30"
+        },
+        {
+          "show_name": "Tech Now",
+          "show_description": "Alasdair Keane visits the underground insect farm turning food waste into animal feed. Lara Lewington meets the team supercharging the stethoscope.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/34fc4307-5766-41da-8858-4b917776d1f7/cover",
+          "start_time": "01:30",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "Newsday",
+          "show_description": "Live from Singapore, the latest international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/88e03de4-0c29-4ced-a730-8bffa0efab98/cover",
+          "start_time": "02:00",
+          "end_time": "02:30"
+        },
+        {
+          "show_name": "Business Today",
+          "show_description": "Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b936bc12-6893-42e1-becd-a61b88bb2d8f/cover",
+          "start_time": "02:30",
+          "end_time": "02:45"
+        },
+        {
+          "show_name": "BBC Sport",
+          "show_description": "A round-up of the day's sporting action, plus talking points, analysis and original journalism.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/360db410-b7bc-4e40-b04a-d0f8c2bb5a48/cover",
+          "start_time": "02:45",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Newsday",
+          "show_description": "Live from Singapore, the latest international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cbc8aac7-0d97-4c91-85b4-a09eec444d64/cover",
+          "start_time": "03:00",
+          "end_time": "03:30"
+        },
+        {
+          "show_name": "Business Today",
+          "show_description": "Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/42bff6ac-28eb-47be-9ada-a0240090320e/cover",
+          "start_time": "03:30",
+          "end_time": "03:45"
+        },
+        {
+          "show_name": "Asia Specific",
+          "show_description": "Asia Specific brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best. Hosted in Singapore by Mariko Oi.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b6b12ee7-b485-47a3-9f0c-ed2f87696336/cover",
+          "start_time": "03:45",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Newsday",
+          "show_description": "Live from Singapore, the latest international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1c1ad05f-bdcb-4dc6-a613-91e696586e48/cover",
+          "start_time": "04:00",
+          "end_time": "04:30"
+        },
+        {
+          "show_name": "Business Today",
+          "show_description": "Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/81dd1145-c324-4ef8-8049-e42443f4e302/cover",
+          "start_time": "04:30",
+          "end_time": "04:45"
+        },
+        {
+          "show_name": "Asia Specific",
+          "show_description": "Asia Specific brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best. Hosted in Singapore by Mariko Oi.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6b6e4d49-89a0-4003-acb9-31b049463096/cover",
+          "start_time": "04:45",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ab8a5b01-9fae-49a7-9d1e-45fd826a2c24/cover",
+          "start_time": "05:00",
+          "end_time": "05:30"
+        },
+        {
+          "show_name": "Business Today",
+          "show_description": "Bringing the latest business news and up-to-date informed analysis from London and around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/623b7299-afb2-4684-930f-7194ef766f3b/cover",
+          "start_time": "05:30",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2766e0a4-5acb-4686-be0a-dde452645dbc/cover",
+          "start_time": "06:00",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Business Today",
+          "show_description": "Bringing the latest business news and up-to-date informed analysis from London and around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7fc73278-2bd9-4ffd-8faf-81cbe2b69dea/cover",
+          "start_time": "06:30",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d18ac6df-6796-4021-9de5-ea1db77d9a18/cover",
+          "start_time": "07:00",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "Business Today",
+          "show_description": "Bringing the latest business news and up-to-date informed analysis from London and around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/953a99cf-d7da-444e-9053-871c42b3a9a2/cover",
+          "start_time": "07:30",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Signed: BBC News",
+          "show_description": "The latest news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a6c36066-bf8b-4f5a-aba7-96d180f73655/cover",
+          "start_time": "08:00",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ceebc9b9-bd42-488a-87e2-4a6769f81427/cover",
+          "start_time": "08:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6b43cebf-9115-4055-9114-fcc7f3330f6d/cover",
+          "start_time": "09:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d30aeb30-b1c0-42a9-9d72-83fa6aedda1a/cover",
+          "start_time": "09:30",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f1f88ee6-0958-4a39-8b23-453468eaa3ff/cover",
+          "start_time": "10:00",
+          "end_time": "10:30"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b68f3765-a29c-4ba3-8535-116cd0d06f40/cover",
+          "start_time": "10:30",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2293c187-96df-42e6-ad4f-a58e63d2aa99/cover",
+          "start_time": "11:00",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Business Today",
+          "show_description": "Bringing the latest business news and up-to-date informed analysis from London and around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1bb17548-deeb-4875-b6bd-57da5a2b5b89/cover",
+          "start_time": "11:30",
+          "end_time": "11:45"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/03143ce4-ecdb-4a51-84b8-9505c0ad47f8/cover",
+          "start_time": "11:45",
+          "end_time": "11:55"
+        },
+        {
+          "show_name": "Politics Live: Prime Minister's Questions",
+          "show_description": "The big political issues of the day.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/baae23f6-fd0b-4a85-9a95-99f5eb8bd919/cover",
+          "start_time": "11:55",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Signed: BBC News at One",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/94531204-2f85-4a76-af5f-075adc200588/cover",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "BBC News Now",
+          "show_description": "All the big stories, live as they happen, presented by Lucy Hockings.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/baa700cb-e3b0-407d-85f7-a71f9e97dd40/cover",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "BBC News Now",
+          "show_description": "All the big stories, live as they happen, presented by Lucy Hockings.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c881358d-b755-4ef5-bc65-c589a4c5feec/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Verified Live",
+          "show_description": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/23f048d3-d7f0-4e9b-a29f-371b85201f6c/cover",
+          "start_time": "15:00",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "Verified Live",
+          "show_description": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4141945a-563e-443a-bc5f-147a0dbf1f9d/cover",
+          "start_time": "15:30",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Verified Live",
+          "show_description": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/747dfdcd-0444-4f31-80bd-24406564a445/cover",
+          "start_time": "16:00",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "Business Today",
+          "show_description": "Bringing the latest business news and up-to-date informed analysis from London and around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1f98a3ff-bfc8-4689-96ed-f682b81680be/cover",
+          "start_time": "16:30",
+          "end_time": "16:45"
+        },
+        {
+          "show_name": "Verified Live",
+          "show_description": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/619471e3-1980-40d1-9155-56a7fabb6eba/cover",
+          "start_time": "16:45",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Verified Live",
+          "show_description": "Matthew Amroliwala presents all the latest global and UK news, live from London.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/06046bcb-a316-43fd-ab0b-3ae261510191/cover",
+          "start_time": "17:00",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bcfb3f05-1c13-41a9-8d43-8deaa5254a97/cover",
+          "start_time": "17:30",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Signed: BBC News at Six",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ffaf307a-f490-4bf1-89ee-08107007d5f6/cover",
+          "start_time": "18:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "The Iran War Today",
+          "show_description": "A daily briefing from BBC News on the latest developments on the Israel-US war in Iran.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/24ffadb5-cb61-4145-9da7-4154b11af812/cover",
+          "start_time": "18:30",
+          "end_time": "18:45"
+        },
+        {
+          "show_name": "The World Today with Maryam Moshiri",
+          "show_description": "Watch the best of the BBC's journalism from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3e136640-fc1a-4bc6-9106-cea39c5ffcf8/cover",
+          "start_time": "18:45",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "The World Today with Maryam Moshiri",
+          "show_description": "Watch the best of the BBC's journalism from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e2d76447-46b5-41b7-9c0e-ae0c0fdc9922/cover",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "The World Today with Maryam Moshiri",
+          "show_description": "Watch the best of the BBC's journalism from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/74b6d18e-d226-4c3c-9e8f-d2dae15cc554/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "The Context USA",
+          "show_description": "Special coverage from Washington DC and London, focusing on President Trump's second term.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7dea25b6-e009-4a0c-996a-f979a9a5eb6c/cover",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "The Context USA",
+          "show_description": "Special coverage from Washington DC and London, focusing on President Trump's second term.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0d7e9c1d-2ba5-486c-9dbc-b7344ad3a858/cover",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "The Context",
+          "show_description": "A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/61ac2d2e-6ec8-42e2-8c89-49649c793631/cover",
+          "start_time": "21:00",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "The Context",
+          "show_description": "A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/46abc800-0a06-4634-9b83-0d5acd3a37da/cover",
+          "start_time": "21:30",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "BBC News at Ten",
+          "show_description": "The latest national and international news, with reports from BBC correspondents worldwide.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/77484eec-503f-4e28-b49c-77bdb7a4bbd7/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Newsnight",
+          "show_description": "Victoria Derbyshire talks to survivors of Jeffrey Epstein in a special Newsnight programme from Washington.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7431658c-b7ea-4126-9c1e-e0e00cc803d4/cover",
+          "start_time": "22:30",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "BBC World News America",
+          "show_description": "The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/79bbcfa0-179d-476e-a765-e56b4fe63705/cover",
           "start_time": "23:00",
           "end_time": "00:00"
         }
