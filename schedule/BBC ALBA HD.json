@@ -3,165 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-alba-uk.png",
   "schedule": [
     {
-      "date": "24 March 2026",
-      "programmes": [
-        {
-          "show_name": "Alba Today",
-          "show_description": "Sealladh ùr bho Alba. A new view from Scotland.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Alba Today",
-          "show_description": "Sealladh ùr bho Alba. A new view from Scotland.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "AH-AH/No-No",
-          "show_description": "35/52. Tha AH-AH is MacÌomhair a' tòiseachadh cruinneachaidhean ach chan eil cùisean sìtheil. AH-AH and MacÌomhair start collections, but things aren't peaceful.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/125ef4a4-54a0-39fb-8125-da26518f43bf/cover",
-          "start_time": "17:00",
-          "end_time": "17:10"
-        },
-        {
-          "show_name": "Pip & Posy",
-          "show_description": "13/52. Tha Posy toilichte gur e Là an Aodaich-oidhch' a th'ann ach tha Pip 'son cluich sa phàirc. Posy is delighted that it's Pyjama Day but Pip wants to go and play in the park.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ba5984ae-97e5-3176-851d-7c3223c02cf7/cover",
-          "start_time": "17:10",
-          "end_time": "17:15"
-        },
-        {
-          "show_name": "Pip & Posy",
-          "show_description": "14/52. Tha Pip is Posy a' dèanamh adan gòrach ach tha Posy a' briseadh gealladh lùdaig. Pip and Posy make silly hats, but Posy breaks a pinky promise.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/71264f5a-f8d2-4560-8b8e-3c7cde6668dd/cover",
-          "start_time": "17:15",
-          "end_time": "17:25"
-        },
-        {
-          "show_name": "Cleasan Ataidh & Tilidh/The...",
-          "show_description": "...Adventures of Abney & Teal. 32/52. Abney and Teal construct a dragon. Neep puts on a brave face, but he isn't really sure he wants to share the island with such a scary monster!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/40b12168-5b00-449f-ba4e-2f2653bf1f40/cover",
-          "start_time": "17:25",
-          "end_time": "17:35"
-        },
-        {
-          "show_name": "Daolag-bhreac is Seillean/Ladybird & Bee",
-          "show_description": "16/26. Tha Daolag Bhreac is Seillean tuathal leis na rinn iad de thoinneamh. Daolag Bhreac and Seillean are dizzy after the amount of spinning they've done.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4c19c31a-a448-3621-abb9-d63e5eb385e4/cover",
-          "start_time": "17:35",
-          "end_time": "17:40"
-        },
-        {
-          "show_name": "Oscar & Ealasaid",
-          "show_description": "3/26. Ernest is tired of being spied on by his neighbour. To cure her of the habit, he decides to play a joke on her, starring Célestine and Boléro.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dfe262bf-cbfa-4ca6-bd2a-3e893b8245ba/cover",
-          "start_time": "17:40",
-          "end_time": "17:55"
-        },
-        {
-          "show_name": "Stòiridh",
-          "show_description": "5/9. Ruairidh Graham reads Bùth nan Gàirean, written and illustrated by Satoshi Kitamura and translated into Gaelic by Morag Stewart.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cd22dd50-f168-4451-9314-99f047ea94ba/cover",
-          "start_time": "17:55",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "An Saoghal Droil aig Pol...",
-          "show_description": "...Ploc/The Rubbish World of Dave Spud. 49/52. The people of Grimsby believe the Twins are wise lifestyle gurus, able to predict what everyone wants before they know it themselves.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1ad779c7-2310-43f7-a2b9-c057061371d8/cover",
-          "start_time": "18:00",
-          "end_time": "18:10"
-        },
-        {
-          "show_name": "Hilda",
-          "show_description": "10/13. Tha stoirm a' tighinn - tha a h-uile seòrs' aimsir ann. An e Spioradan na Sìd' as coireach? There's a storm coming with all sorts of weather. Are the Weather Spirits to blame?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/db470a44-2597-4751-9aa5-01626f197717/cover",
-          "start_time": "18:10",
-          "end_time": "18:35"
-        },
-        {
-          "show_name": "Dubhlain CBBC ALBA",
-          "show_description": "1/6. Hannah McKirdy takes a look at some of the crazy challenges attempted by the CBBC Alba team, including some very competitive cabbage rolling!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/829e040b-8468-4781-9d29-e9258b72e5ae/cover",
-          "start_time": "18:35",
-          "end_time": "18:45"
-        },
-        {
-          "show_name": "An Sgoil",
-          "show_description": "6/6. Latha mòr a' chonsairt aig Sgoil Taobh na Cloiche ach tha trioblaidean air fàire. It's the day of the big concert at Sgoil Taobh na Cloiche, but there is trouble brewing.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8ed903e7-fe8c-46ef-957b-2520dc7fe898/cover",
-          "start_time": "18:45",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Golf: Mun Cuairt Alba",
-          "show_description": "4/6. Gary Dingwall shows us how to play the challenging 14th at Royal Dornoch called 'Foxy', and professional coach Keil Beveridge demonstrates his weekly top playing tip.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/47ce44f0-e749-4615-b40c-4578106ce6b5/cover",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "SpeakGaelic",
-          "show_description": "11/13. Learner Ilse Alim, who was raised in Germany, chats to Joy in the studio and Calum Maclean is in Scotland's Book Town.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/82bd3b50-deda-4dba-a73b-6a9fe45c0e41/cover",
-          "start_time": "19:30",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "An Là",
-          "show_description": "Naidheachdan ionadail, nàiseanta is eadar-nàiseanta gach là cuide ri fiosrachadh coimhearsnachd bho BBC ALBA. Local, national and international news and information from BBC ALBA.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5892bb68-16be-4ca5-aca1-43b25ae4f8d4/cover",
-          "start_time": "20:00",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "Mas Fhior",
-          "show_description": "6/12. Niall Iain Macdonald hosts a quiz show where two teams go head-to-head to win a cash prize. Niall Iain Dòmhnallach le farpais cheist ùr is dà sgioba a' strì airson duais airgid.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0bb10e9c-8c48-4fad-a551-9a499d7f12ca/cover",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "An t-Uisge/Rain Stories",
-          "show_description": "3/3. Anne Lundon explores rain's value to communities around the world. Tha Anne Lundon a' rannsachadh luach an uisge ann an coimhearsnachdan air feadh an t-saoghail.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5ab64b27-c5c6-41c9-8c54-1ab48184479b/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Trusadh - Beatha sa Bhan",
-          "show_description": "3/10. Daoine bho air feadh Alba a tha a' gabhail chun an rathad mhòir anns na bhanaichean-campachaidh aca fhèin. Meeting Scots who have taken to the open road in campervans.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f1f658ef-1962-49f4-b70f-2c8f401c5c88/cover",
-          "start_time": "22:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Machair",
-          "show_description": "4/13. Drama Gàidhlig stèidhichte ann an Leòdhas. Gaelic soap based on the Isle of Lewis.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6ab5380f-0e51-3ae3-bf98-abc0843b3b46/cover",
-          "start_time": "23:00",
-          "end_time": "23:25"
-        },
-        {
-          "show_name": "Fraochy Bay",
-          "show_description": "2/20. Love, loss and added extras are in the air for Miss Harper, the teacher.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0d46a9e0-f0bb-495f-8270-521162dbee53/cover",
-          "start_time": "23:25",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "Alleluia!",
-          "show_description": "1/9. Prògram spioradail le laoidhean, sailm agus leughaidhean. Iain MacKinnon presents with a mix of hymns, psalms and readings from Coats in Paisley.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6971d6ec-f51f-4b2f-960a-50d63f6f7b89/cover",
-          "start_time": "23:30",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "25 March 2026",
       "programmes": [
         {
@@ -316,13 +157,172 @@
           "show_description": "11/12. Tha Abigail a' dèanamh Overnight Oats le Sùbhagan is Piostaisean. Abigail makes raspberry and pistachio overnight oats.",
           "show_logo": "https://images.metadata.sky.com/pd-image/1d2779d4-e3ac-4195-a3ab-196389a4bc3c/cover",
           "start_time": "23:20",
-          "end_time": "23:30"
+          "end_time": "23:25"
         },
         {
           "show_name": "Transatlantic Sessions: Dluth an Daimh",
           "show_description": "6/6. Julie Fowlis agus Muireann Nic Amhlaoibh le taghadh ciùil bho Transatlantic Sessions. Julie Fowlis and Muireann Nic Amhlaoibh present highlights from Transatlantic Sessions.",
           "show_logo": "https://images.metadata.sky.com/pd-image/309b779b-ad40-3c51-b4f0-80cffaa7e88f/cover",
-          "start_time": "23:30",
+          "start_time": "23:25",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "26 March 2026",
+      "programmes": [
+        {
+          "show_name": "Alba Today",
+          "show_description": "Sealladh ùr bho Alba. A new view from Scotland.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Alba Today",
+          "show_description": "Sealladh ùr bho Alba. A new view from Scotland.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Bing",
+          "show_description": "15/104. Tha chabhag a th' air Bing cluich, ga fhàgail ann an staing tron a gheama. Bing's hurry to get a game started leaves him in a bit of a pickle later on.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e55d78e1-1089-466d-9ff7-8e0640dd9d6b/cover",
+          "start_time": "17:00",
+          "end_time": "17:10"
+        },
+        {
+          "show_name": "Bing",
+          "show_description": "16/104. Tha Bing a' dèanamh briosgaidean ach gun duine cluinntinn an ùineadair, tha iad a' losgadh. Bing ends up burning his biscuits when he fails to hear the oven timer.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2724cb42-519a-4f7b-b48c-6af3c0b7f660/cover",
+          "start_time": "17:10",
+          "end_time": "17:20"
+        },
+        {
+          "show_name": "Sionnach agus Maigheach (Fox & Hare)",
+          "show_description": "11/26. Tusk is painting a portrait of Ping Wing. Well, he's trying to. Frustrated, he throws away his attempts.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/53bafd1c-bb87-4cb7-996c-ed1e8e58e3af/cover",
+          "start_time": "17:20",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "'S E Iasg a Th'Annam (I'm a Fish)",
+          "show_description": "4/52. Tha muir-tèachd ag innse dhuinn mu dheidhinn fhèin agus mar a tha 'ad coltach ri slaman. A jellyfish tells us all about his species and how they resemble jelly.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/786300ec-fd23-3003-880b-e1aef0afe3f7/cover",
+          "start_time": "17:30",
+          "end_time": "17:35"
+        },
+        {
+          "show_name": "Cleasan Ataidh & Tilidh/The...",
+          "show_description": "...Adventures of Abney & Teal. 32/52. Abney and Teal construct a dragon. Neep puts on a brave face, but he isn't really sure he wants to share the island with such a scary monster!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/40b12168-5b00-449f-ba4e-2f2653bf1f40/cover",
+          "start_time": "17:35",
+          "end_time": "17:45"
+        },
+        {
+          "show_name": "Peicein/Petit",
+          "show_description": "8/26. Petit is afraid of putting his head under water, but what could be the reason?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6fc26012-6aef-372d-be05-df1f3bdf87d0/cover",
+          "start_time": "17:45",
+          "end_time": "17:55"
+        },
+        {
+          "show_name": "Stòiridh",
+          "show_description": "32/80. A bedtime story for young children. Iain MacInnes reads Measgaichte, written and illustrated by Arree Chung and translated into Gaelic by Morag Stewart.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a364dc6a-6edd-4424-bb4a-25b3b57aefb9/cover",
+          "start_time": "17:55",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "An Doimhne/The Deep",
+          "show_description": "11/13. Chan eil sgeul air neach air bòrd an Orca Dhorch - càite bheil iad? The Dark Orca is completely deserted. Where is everyone?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/95438917-9ce2-4a16-a3a6-9567ccba802c/cover",
+          "start_time": "18:00",
+          "end_time": "18:20"
+        },
+        {
+          "show_name": "An Sgoil",
+          "show_description": "6/6. Latha mòr a' chonsairt aig Sgoil Taobh na Cloiche ach tha trioblaidean air fàire. It's the day of the big concert at Sgoil Taobh na Cloiche, but there is trouble brewing.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8ed903e7-fe8c-46ef-957b-2520dc7fe898/cover",
+          "start_time": "18:20",
+          "end_time": "18:40"
+        },
+        {
+          "show_name": "Dùbhlain CBBC ALBA",
+          "show_description": "3/6. Ellen a' toirt sùil air cuid de na dùbhlain air an do dh'fheuch an sgioba. Ellen takes a look at some of the crazy challenges attempted by the team.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ae54033f-10dc-4fd4-a7c3-1c81adb27f34/cover",
+          "start_time": "18:40",
+          "end_time": "18:45"
+        },
+        {
+          "show_name": "An Saoghal Droil aig Pol...",
+          "show_description": "...Ploc/The Rubbish World of Dave Spud. 50/52. Dave and his friends are given a lesson in responsibility when their school assigns them an animal each to look after overnight.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bea58e5d-d74a-4d61-9594-24f090c1e014/cover",
+          "start_time": "18:45",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Golf: Mun Cuairt Alba",
+          "show_description": "4/6. Gary Dingwall shows us how to play the challenging 14th at Royal Dornoch called 'Foxy', and professional coach Keil Beveridge demonstrates his weekly top playing tip.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/47ce44f0-e749-4615-b40c-4578106ce6b5/cover",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "SpeakGaelic",
+          "show_description": "24/26. Historian Dr Martin Macgregor visits the studio and Calum Maclean is at Rosal Clearance Village in Mackay Country, Sutherland.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a19ea629-4bd6-3043-92be-b4e6eaef57cb/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "An Là",
+          "show_description": "Naidheachdan ionadail, nàiseanta is eadar-nàiseanta gach là cuide ri fiosrachadh coimhearsnachd bho BBC ALBA. Local, national and international news and information from BBC ALBA.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/06cb1c83-0363-4b40-bdd0-c97f23635547/cover",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Rathad Ramsay",
+          "show_description": "8/8. Ramsay MacMahon takes a stroll on the beach with Ingrid Henderson. Tha Ramsay MacMahon a'gabhail cuairt air an tràigh cuide ri Ingrid NicEanraig.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6688d33a-96a7-3182-a238-c7576988050c/cover",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Cuantan Caochlaideach/Seas in Motion",
+          "show_description": "4/4. In Europe's North and Baltic Seas, eider duck chicks flee attacking gulls, while sea trout struggle to return to the rivers of their birth.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ce141e08-00ee-420f-bf74-b13ca8733034/cover",
+          "start_time": "21:00",
+          "end_time": "21:50"
+        },
+        {
+          "show_name": "Brunch le Abigail",
+          "show_description": "11/12. Tha Abigail a' dèanamh Overnight Oats le Sùbhagan is Piostaisean. Abigail makes raspberry and pistachio overnight oats.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1d2779d4-e3ac-4195-a3ab-196389a4bc3c/cover",
+          "start_time": "21:50",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Seòid a' Chidsin - The Kitchen Coves",
+          "show_description": "2/6. The lads cook using their tandoor oven to make tandoori chicken and skewered lamb chops, along with naan and haddock tikka.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c6e0e082-6b93-3625-b502-588d92ae3a96/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Sar Sgeoil: Greenvoe",
+          "show_description": "Cathy MacDonald on George Mackay Brown's prophetic novel, Greenvoe. Cathy Dhòmhnallach a'cnuasachadh mu nobhail fàisneachail Greenvoe le George Mackay Brown.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b7094a35-2e61-3e6c-9baa-550e05c9d4d2/cover",
+          "start_time": "22:30",
+          "end_time": "23:25"
+        },
+        {
+          "show_name": "OMC!",
+          "show_description": "2/4. Sketch show featuring the latest TikTok sensation, a visit from an angel and a glimpse into the future via a gifted cut-price fortune teller.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0c6e2bf6-703a-418f-bcfa-951221c8bc04/cover",
+          "start_time": "23:25",
           "end_time": "00:00"
         }
       ]

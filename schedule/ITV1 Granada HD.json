@@ -3,172 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
   "schedule": [
     {
-      "date": "24 March 2026",
-      "programmes": [
-        {
-          "show_name": "Shop on TV",
-          "show_description": "Teleshopping.",
-          "show_logo": "https://img.freeviewplay.tv/e4c949fcf2f9fae0f27a8604a27903097?w=800",
-          "start_time": "00:10",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Martin Clunes' Islands of the Atlantic",
-          "show_description": "Martin takes on the mountains of Madeira as a rally car navigator and patrols the waters of the Azores on the look-out for sperm whales.",
-          "show_logo": "https://img.freeviewplay.tv/p7e96d7daae5e7347b90a91df136f75b7?w=800",
-          "start_time": "03:00",
-          "end_time": "03:50"
-        },
-        {
-          "show_name": "Unwind with ITV",
-          "show_description": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
-          "show_logo": "https://img.freeviewplay.tv/eb76aae0fa59031fd8c8c229b09c6564d?w=800",
-          "start_time": "03:50",
-          "end_time": "05:05"
-        },
-        {
-          "show_name": "Alan Titchmarsh's Gardening Club",
-          "show_description": "Alan and his team share more gardening tips as Camilla Bassett-Smith explores a Yorkshire garden and Jason Williams visits an indoor community garden in Liverpool.",
-          "show_logo": "https://img.freeviewplay.tv/p853a42e39b544e4837565c254aa13608?w=800",
-          "start_time": "05:05",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Good Morning Britain",
-          "show_description": "News, current affairs and lively debate.",
-          "show_logo": "https://img.freeviewplay.tv/e264540363c648c092c509326541c652e?w=800",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "This Morning",
-          "show_description": "National treasure Jane McDonald drops anchor in our studio, Martin Lewis has money tips and advice, and Paul McKenna on how to change your life in just seven days.",
-          "show_logo": "https://img.freeviewplay.tv/e17818ffc14c9ece78d4c530b108ee5a3?w=800",
-          "start_time": "10:00",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "ITV Lunchtime News",
-          "show_description": "The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.",
-          "show_logo": "https://img.freeviewplay.tv/ebb82c6c7db68031738a51bf4538392a2?w=800",
-          "start_time": "12:30",
-          "end_time": "12:55"
-        },
-        {
-          "show_name": "ITV News Granada Reports",
-          "show_description": "The latest news and weather from around the North West.",
-          "show_logo": "https://img.freeviewplay.tv/eefe829faa3e70a66ccf63a46d07b5b2a?w=800",
-          "start_time": "12:55",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Celebrity Catchphrase",
-          "show_description": "Stephen Mulhern hosts a celebrity special of the classic game show with Jenny Ryan, David Baddiel, and Hollie Arnold all trying to 'say what they see' in aid of charity.",
-          "show_logo": "https://img.freeviewplay.tv/p686d13f6a4eb5e31899e5b6a3615371d?w=800",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Lingo",
-          "show_description": "The game of words hosted by Adil Ray - trying to Lingo all the way alongside the reigning Lingo champions are Brighton couple Louis and Jack and Nipula and her husband Kishor.",
-          "show_logo": "https://img.freeviewplay.tv/p3521ee1142c8e09e467893681f90a3b6?w=800",
-          "start_time": "14:00",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Deal or No Deal",
-          "show_description": "Stephen Mulhern hosts another exciting edition of the gameshow as one of his brave contestants takes on the infamous Banker and could be in with a chance of a life-changing prize.",
-          "show_logo": "https://img.freeviewplay.tv/pdd4c98264bbc1027866e6d581826d8be?w=800",
-          "start_time": "15:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Tipping Point",
-          "show_description": "Ben Shephard hosts the quiz show in which three players take on an extraordinary machine in the hope of winning a cash jackpot.",
-          "show_logo": "https://img.freeviewplay.tv/p45015a56b938c3e8927c20a9e93f1007?w=800",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "The Chase",
-          "show_description": "Bradley Walsh hosts as Evie from Bridghouse, Marco from Manchester, Julie from Bideford and Rob from Stockport hope that they can beat a Chaser together and leave with thousands of pounds.",
-          "show_logo": "https://img.freeviewplay.tv/p96355634753b717c5e512acbf338e204?w=800",
-          "start_time": "17:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "ITV News Granada Reports",
-          "show_description": "The latest news and weather from around the North West.",
-          "show_logo": "https://img.freeviewplay.tv/eefe829faa3e70a66ccf63a46d07b5b2a?w=800",
-          "start_time": "18:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "ITV Evening News",
-          "show_description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
-          "show_logo": "https://img.freeviewplay.tv/ea1a22c5813968c823f357452a75c132e?w=800",
-          "start_time": "18:30",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Bradley & Barney Walsh: Breaking Dad",
-          "show_description": "Bradley and Barney’s time in Japan continues as the boys get a taste of drifting and Zen meditation, and Brad is pushed to the edge, literally, when he attempts a bungee jump.",
-          "show_logo": "https://img.freeviewplay.tv/p003e814b711370104f12ad5dd097d265?w=800",
-          "start_time": "19:30",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Emmerdale",
-          "show_description": "Cain explodes with suppressed rage. Tracy is guilty. Dawn questions Kim.",
-          "show_logo": "https://img.freeviewplay.tv/pd7354cf1db3981e36c83b440a91ac468?w=800",
-          "start_time": "20:00",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "Coronation Street",
-          "show_description": "Theo tries a charm offensive on George and Christina, Kit panics when Mal names his attacker, Betsy and Dylan babysit Connie, and Hope warns Sam against listening to Daniel.",
-          "show_logo": "https://img.freeviewplay.tv/p22710864096c3c219aeb6c604119b918?w=800",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "WhatsApp Obsession: The Murder of Stephanie Hansen",
-          "show_description": "Obsession, control & betrayal. This powerful true-crime documentary tells the story of Stephanie Hansen, a young woman who was murdered at the hands of her fixated flatmate.",
-          "show_logo": "https://img.freeviewplay.tv/pfea397fb6c38f51c5173855c09fbac80?w=800",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "ITV News at Ten",
-          "show_description": "ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.",
-          "show_logo": "https://img.freeviewplay.tv/eb25792ee8b588005bb6494c2d7ffb446?w=800",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "ITV News Granada Reports",
-          "show_description": "The latest news and weather from around the North West.",
-          "show_logo": "https://img.freeviewplay.tv/eefe829faa3e70a66ccf63a46d07b5b2a?w=800",
-          "start_time": "22:30",
-          "end_time": "22:45"
-        },
-        {
-          "show_name": "Who Wants to Be a Millionaire?",
-          "show_description": "Six more contestants take on the world's most famous quiz - find out if any of them will join the history books and walk away with the one-million-pound jackpot.",
-          "show_logo": "https://img.freeviewplay.tv/pd8d28e738cb76bb228dee7499b21fd8b?w=800",
-          "start_time": "22:45",
-          "end_time": "23:45"
-        },
-        {
-          "show_name": "Sorry, I Didn't Know",
-          "show_description": "Ola Labib, Nadia Jae, Marcus Brigstocke and Richie Anderson join team leaders Chizzy Akudolu and Eddie Kadi to take viewers on a tour of Black British history.",
-          "show_logo": "https://img.freeviewplay.tv/p700a2ee4e88fae40493eb70fac41c58b?w=800",
-          "start_time": "23:45",
-          "end_time": "00:10"
-        }
-      ]
-    },
-    {
       "date": "25 March 2026",
       "programmes": [
         {
@@ -338,6 +172,186 @@
           "show_logo": "https://img.freeviewplay.tv/pa3bcf92bdb21ab71db91f8690a033a3e?w=800",
           "start_time": "23:40",
           "end_time": "00:40"
+        }
+      ]
+    },
+    {
+      "date": "26 March 2026",
+      "programmes": [
+        {
+          "show_name": "Gallagher PREM Unleashed",
+          "show_description": "Action from the 11th round of fixtures of the 2025-26 Gallagher PREM Rugby season featuring Leicester v Bristol, Harlequins v Gloucester, Exeter v Sale, and Bath v Saracens.",
+          "show_logo": "https://img.freeviewplay.tv/eb274e09d92887ffd6a677af09d58aabc?w=800",
+          "start_time": "00:40",
+          "end_time": "01:05"
+        },
+        {
+          "show_name": "Shop on TV",
+          "show_description": "Teleshopping.",
+          "show_logo": "https://img.freeviewplay.tv/e4c949fcf2f9fae0f27a8604a27903097?w=800",
+          "start_time": "01:05",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Tonight",
+          "show_description": "Food prices have surged in recent years and are now almost 40 per cent higher than at the end of 2020 - Kate Quilton reports on what can we do to cut the cost of our weekly shop and whether loyalty schemes and in-store discounts really deliver.",
+          "show_logo": "https://img.freeviewplay.tv/peef65b1bcc443ea0cfcd2c38751ff7e4?w=800",
+          "start_time": "03:00",
+          "end_time": "03:25"
+        },
+        {
+          "show_name": "Ainsley's Taste of the Bahamas",
+          "show_description": "Festival Foods: Ainsley Harriott celebrates the Bahamas' festival spirit, has a fritto misto masterclass with chef Scott Conant and serves up barbecue jerk-spiced chicken.",
+          "show_logo": "https://img.freeviewplay.tv/ead891a39c406d2a832ec960684a3bc6a?w=800",
+          "start_time": "03:25",
+          "end_time": "03:50"
+        },
+        {
+          "show_name": "Unwind with ITV",
+          "show_description": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+          "show_logo": "https://img.freeviewplay.tv/eb76aae0fa59031fd8c8c229b09c6564d?w=800",
+          "start_time": "03:50",
+          "end_time": "04:30"
+        },
+        {
+          "show_name": "Oscars Highlights (2026)",
+          "show_description": "All the glitz, all the glamour - stream the best bits from the Academy Awards.",
+          "show_logo": "https://img.freeviewplay.tv/p3c70e4c213d0bf2017b883ee77231304?w=800",
+          "start_time": "04:30",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Good Morning Britain",
+          "show_description": "News, current affairs and lively debate.",
+          "show_logo": "https://img.freeviewplay.tv/e264540363c648c092c509326541c652e?w=800",
+          "start_time": "06:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "This Morning",
+          "show_description": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
+          "show_logo": "https://img.freeviewplay.tv/e17818ffc14c9ece78d4c530b108ee5a3?w=800",
+          "start_time": "10:00",
+          "end_time": "12:30"
+        },
+        {
+          "show_name": "ITV Lunchtime News",
+          "show_description": "The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.",
+          "show_logo": "https://img.freeviewplay.tv/ebb82c6c7db68031738a51bf4538392a2?w=800",
+          "start_time": "12:30",
+          "end_time": "12:55"
+        },
+        {
+          "show_name": "ITV News Granada Reports",
+          "show_description": "The latest news and weather from around the North West.",
+          "show_logo": "https://img.freeviewplay.tv/eefe829faa3e70a66ccf63a46d07b5b2a?w=800",
+          "start_time": "12:55",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Celebrity Catchphrase",
+          "show_description": "Stephen Mulhern hosts a celebrity special of the classic game show with Lucrezia Millarini, Judi Love and Ben Miller all trying to guess the well-known phrases in aid of charity.",
+          "show_logo": "https://img.freeviewplay.tv/p9098229217c2151859c82e01196f9edc?w=800",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Lingo",
+          "show_description": "The fast-paced game of words hosted by Adil Ray - fighting it out against the reigning Lingo champions are mother and daughter Julie and Jess and friends Fatima and Zainab.",
+          "show_logo": "https://img.freeviewplay.tv/p3330a7be7401a5955911f7af73d8ac96?w=800",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Deal or No Deal",
+          "show_description": "Join Stephen Mulhern as another contestant goes head-to-head with The Banker in this new series of Deal or No Deal.",
+          "show_logo": "https://img.freeviewplay.tv/pffddec88208629569fd49aba07b2ee8e?w=800",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Tipping Point",
+          "show_description": "Ben Shephard hosts the quiz show in which three players take on an extraordinary machine in the hope of winning a cash jackpot.",
+          "show_logo": "https://img.freeviewplay.tv/pf78279e3066d7b5cab9cbd4cc2d42b1a?w=800",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "The Chase",
+          "show_description": "Bradley Walsh hosts as Michael from Sherbourne, Colette from Manchester, Jack from Sunderland and Robbie from Beccles work together as a team to face one of the country's finest quiz brains and try to take a Chaser down for thousands of pounds.",
+          "show_logo": "https://img.freeviewplay.tv/p66037515c01274d2ce565dbc9bf5710d?w=800",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "ITV News Granada Reports",
+          "show_description": "The latest news and weather from around the North West.",
+          "show_logo": "https://img.freeviewplay.tv/eefe829faa3e70a66ccf63a46d07b5b2a?w=800",
+          "start_time": "18:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "ITV Evening News",
+          "show_description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
+          "show_logo": "https://img.freeviewplay.tv/ea1a22c5813968c823f357452a75c132e?w=800",
+          "start_time": "18:30",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Tonight",
+          "show_description": "Antoine Allen investigates the rising use of performance enhancing drugs as people try to boost energy, train harder or hold back the effects of ageing.",
+          "show_logo": "https://img.freeviewplay.tv/p993c55165c4460a42fa8a2a31b871d7a?w=800",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Emmerdale",
+          "show_description": "Robert is accused. Joe’s stunned. Chas and Kim form an unlikely bond.",
+          "show_logo": "https://img.freeviewplay.tv/p436e1977c6f90526b26b0344daf52a80?w=800",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Coronation Street",
+          "show_description": "Bernie pays Mal a visit in his hotel room, George gains an insight into Theo's treatment of Todd, Ben feels guilty for letting Will down, and Jodie offers Carla her childminding services.",
+          "show_logo": "https://img.freeviewplay.tv/pc4ae8fbf7134f7e9c883ba47301fec34?w=800",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "New: The Martin Lewis Money Show...",
+          "show_description": "...Live: Tax Year End Special. With the end of the Tax Year coming up, Martin helps with your finances, getting you prepared for the looming deadlines, and talking you through the April Price Hikes. [",
+          "show_logo": "https://img.freeviewplay.tv/e08a793af01355d51c3be47ace3fc5450?w=800",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "ITV News at Ten",
+          "show_description": "ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.",
+          "show_logo": "https://img.freeviewplay.tv/eb25792ee8b588005bb6494c2d7ffb446?w=800",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "ITV News Granada Reports",
+          "show_description": "The latest news and weather from around the North West.",
+          "show_logo": "https://img.freeviewplay.tv/eefe829faa3e70a66ccf63a46d07b5b2a?w=800",
+          "start_time": "22:30",
+          "end_time": "22:45"
+        },
+        {
+          "show_name": "WhatsApp Obsession: The Murder of Stephanie Hansen",
+          "show_description": "Obsession, control & betrayal. This powerful true-crime documentary tells the story of Stephanie Hansen, a young woman who was murdered at the hands of her fixated flatmate.",
+          "show_logo": "https://img.freeviewplay.tv/pfea397fb6c38f51c5173855c09fbac80?w=800",
+          "start_time": "22:45",
+          "end_time": "23:40"
+        },
+        {
+          "show_name": "Heathrow: Britain's Busiest Airport",
+          "show_description": "Christmas is approaching and there's a new airline on the block, but one of their busiest flights is scuppered by bad news involving the Covid-19 pandemic.",
+          "show_logo": "https://img.freeviewplay.tv/p7ea6a0734d6bb9140ef755c65728d4ad?w=800",
+          "start_time": "23:40",
+          "end_time": "00:05"
         }
       ]
     }

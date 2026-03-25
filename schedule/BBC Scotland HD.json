@@ -1,96 +1,7 @@
 {
   "channel_name": "BBC Scotland HD",
-  "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png",
+  "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-scotland-uk.png",
   "schedule": [
-    {
-      "date": "24 March 2026",
-      "programmes": [
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Reporting Scotland: News at Seven",
-          "show_description": "More from the day's top stories and communities across Scotland.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8e2654f6-85ff-4681-af7f-ad89d82aad38/cover",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "The Harbour",
-          "show_description": "5/6. Following the people working at Aberdeen harbour. The ferry sets sail for Orkney and Shetland. Pilots Tim Wingate and Jeff Gaskin celebrate the births of their respective babies.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8bc61596-8be2-4e1e-bbbd-c8bee7762df6/cover",
-          "start_time": "19:30",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "New: This Farming Life",
-          "show_description": "5/12. Callum and Zara believe their newborn lambs are vulnerable to bird attacks, Lucy and Adam face selling their herd if the new farm falls through, and Emma prepares for an open farm day.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f135e7d0-6a42-4e6b-a182-f4e8698efecc/cover",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "New: Ultras",
-          "show_description": "2/3. As ultras culture expands, so do the costs - but what happens when spectacle spills into disorder? Contains some strong language.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c2bd0692-9742-4fa4-8d36-53ef92f9112c/cover",
-          "start_time": "21:00",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "The Beauty Queen and the Catfish",
-          "show_description": "2/3. Victims turn detective to catch their catfish - but can they stop them striking again? Contains some strong language.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/26a09faa-901f-490b-975b-59dca796cd17/cover",
-          "start_time": "21:45",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "The Haggis Hunters - Our Lives",
-          "show_description": "In a fierce battle of tradition, pride and family legacy, four butchers risk it all to claim the crown at Scotland's ultimate culinary showdown - the World Haggis Championships.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ccd670cb-e9ae-42a2-8686-b83bfba6144d/cover",
-          "start_time": "22:30",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Scotcast",
-          "show_description": "Conversation about Scotland's biggest news stories, hosted by Martin Geissler.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9a9422a9-663b-4955-b7be-37290904b98a/cover",
-          "start_time": "23:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "Not Your Average Family",
-          "show_description": "2/3. The couple consider their safety after falling victim to a transphobic hate crime. Contains some strong language.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1e68e41c-2cab-3456-80ae-326311d02d5b/cover",
-          "start_time": "23:30",
-          "end_time": "00:00"
-        }
-      ]
-    },
     {
       "date": "25 March 2026",
       "programmes": [
@@ -145,7 +56,7 @@
         },
         {
           "show_name": "Debate Night",
-          "show_description": "24/24. Current affairs discussion. Members of the public quiz a panel of politicians and public figures about the big issues in Scotland and beyond.",
+          "show_description": "24/24. Debate Night comes from Hawick with a studio audience putting questions to Michael Marra MSP, Paul McLennan MSP, Rachael Hamilton MSP, Thomas Kerr and Laura Moodie.",
           "show_logo": "https://images.metadata.sky.com/pd-image/f8130715-0857-4c35-9341-ef313a72bf7b/cover",
           "start_time": "21:00",
           "end_time": "22:00"
@@ -175,6 +86,102 @@
           "show_name": "Not Your Average Family",
           "show_description": "3/3. Charlie and Lauren deal with difficult fertility news, but with a business to open in a matter of months, there is no time to delay. Contains some strong language.",
           "show_logo": "https://images.metadata.sky.com/pd-image/c49a538a-3908-3eeb-ba45-0f676e9e8dea/cover",
+          "start_time": "23:30",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "26 March 2026",
+      "programmes": [
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Reporting Scotland: News at Seven",
+          "show_description": "More from the day's top stories and communities across Scotland.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/16752f88-920d-45a8-aded-9f2e485f52bc/cover",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "New: The Entertainment Mix",
+          "show_description": "16/16. Michelle hosts Susie McCabe, Maisie Adam, Des Clarke, The High Life's Alan Cumming and Forbes Masson, Strictly stars Aljaz and Janette, and music from Becky Sikasa.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/28a1466f-e1a5-4d97-80de-79bdc9ceea00/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Icons of Style",
+          "show_description": "2/2. Kirsty Wark meets the iconic designers, celebrities and influencers from the 1990s to the current day who have shaped Scottish fashion. With Alan Cumming, Christopher Kane and Pam Hogg.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a8b0ac42-f823-403f-8a84-32bfe0d4577d/cover",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "The Agency: Unfiltered",
+          "show_description": "3/6. The competitors are challenged to go live on TikTok, and Erica gets upset.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1c78b76a-e192-4f99-8a76-10b68f54d55b/cover",
+          "start_time": "21:00",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "The Agency: Unfiltered",
+          "show_description": "4/6. Erica gets upset after bad feedback on her 'going live' challenge.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e428ed94-d24e-4c07-9241-4c8dc0640372/cover",
+          "start_time": "21:30",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "New: Situationships with Sophie and Christine",
+          "show_description": "6/8. We are gathered here today... to talk about marriage. Do people still want to say 'I do'? Contains some strong language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e02b15c0-7ae2-4f69-8156-8a104a07a47b/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Martin Compston's Norwegian Fling",
+          "show_description": "3/6. Martin and Phil are back in Bergen for a crash course in offshore oil rig safety training, before travelling to Voss to try out some smoked sheep's head.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5ed3d591-0316-3835-a62f-f1ce847a916f/cover",
+          "start_time": "22:30",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Scotcast",
+          "show_description": "Conversation about Scotland's biggest news stories, hosted by Martin Geissler.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fc215df3-c239-4f1e-a98c-7a1a04cf8f54/cover",
+          "start_time": "23:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "Scot Squad",
+          "show_description": "4/5. An extra-special finale to the series sees Scotland's favourite cops stepping up and moving on.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/05e6d734-2526-438b-9313-447b1ffa3ebd/cover",
           "start_time": "23:30",
           "end_time": "00:00"
         }

@@ -3,7 +3,7 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Humberside.png",
   "schedule": [
     {
-      "date": "24 March 2026",
+      "date": "25 March 2026",
       "programmes": [
         {
           "show_name": "As Radio 5 Live",
@@ -13,7 +13,7 @@
           "end_time": "06:00"
         },
         {
-          "show_name": "Kofi Smiles",
+          "show_name": "Amy Thompson",
           "show_description": "",
           "show_logo": "",
           "start_time": "06:00",
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "date": "25 March 2026",
+      "date": "26 March 2026",
       "programmes": [
         {
           "show_name": "As Radio 5 Live",
@@ -92,27 +92,27 @@
           "show_description": "",
           "show_logo": "",
           "start_time": "14:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Humberside Sport",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "18:00",
           "end_time": "19:00"
         },
         {
-          "show_name": "Humberside Sport",
+          "show_name": "Upload",
           "show_description": "",
           "show_logo": "",
           "start_time": "19:00",
-          "end_time": "19:45"
+          "end_time": "20:00"
         },
         {
-          "show_name": "Humberside Sport Live",
-          "show_description": "",
+          "show_name": "BBC Introducing",
+          "show_description": "Unsigned, undiscovered and under the radar music",
           "show_logo": "",
-          "start_time": "19:45",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "Humberside Sport",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "21:45",
+          "start_time": "20:00",
           "end_time": "22:00"
         },
         {

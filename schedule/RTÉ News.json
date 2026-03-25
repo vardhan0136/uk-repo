@@ -3,165 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/RTE-News.png",
   "schedule": [
     {
-      "date": "24 March 2026",
-      "programmes": [
-        {
-          "show_name": "Morning Ireland",
-          "show_description": "Morning news programme.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/316a3e63-c348-4009-ad1e-6fdabe595f10/cover",
-          "start_time": "07:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Today with David McCullagh",
-          "show_description": "The Today show live from RTÉ Radio 1.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1f8935f2-a67c-4f97-a451-01bc7c511a76/cover",
-          "start_time": "09:00",
-          "end_time": "10:30"
-        },
-        {
-          "show_name": "Mass",
-          "show_description": "Mass",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0f4cdf15-ce0a-4849-9cbe-93e48c7ed911/cover",
-          "start_time": "10:30",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Latest News and Weather",
-          "show_description": "Latest News and Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fa302432-8f1a-46b5-8a7a-91949fff6e7c/cover",
-          "start_time": "12:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "RTE News: One O'clock",
-          "show_description": "(And Weather)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3305be94-c1c5-4b79-b6ca-f4d789b81212/cover",
-          "start_time": "13:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Latest News and Weather",
-          "show_description": "Latest News and Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1e2ecf2e-6319-4f9e-b22d-f00b41e06cc6/cover",
-          "start_time": "13:30",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Leaders' Questions",
-          "show_description": "Live coverage of Question Time in Dáil Éireann.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/20e7b8b9-2ebb-4c83-9b39-d0d0700f7ce5/cover",
-          "start_time": "14:00",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Latest News and Weather",
-          "show_description": "Latest News and Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/843990ba-4e3a-4dac-a6c4-7d3b5598b791/cover",
-          "start_time": "15:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Latest News and Weather",
-          "show_description": "Latest News and Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b74f891e-a9cd-4b0c-a6c6-09e5ba808a27/cover",
-          "start_time": "16:00",
-          "end_time": "16:20"
-        },
-        {
-          "show_name": "news2day",
-          "show_description": "Domestic and international news items of interest to younger viewers.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/14a44935-a521-4722-b90b-a791bc512fa2/cover",
-          "start_time": "16:20",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "Latest News and Weather",
-          "show_description": "Latest News and Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9e670d21-2e83-42d9-8c67-f22282d87c31/cover",
-          "start_time": "16:30",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Latest News and Weather",
-          "show_description": "Latest News and Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a0f38411-c24d-45fc-b3fe-18dd8307603e/cover",
-          "start_time": "17:00",
-          "end_time": "17:40"
-        },
-        {
-          "show_name": "Nuacht RTÉ",
-          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/311bc07a-5f38-4b46-b0e8-ab5d56002ba6/cover",
-          "start_time": "17:40",
-          "end_time": "18:01"
-        },
-        {
-          "show_name": "RTÉ News: Six One",
-          "show_description": "(And Weather)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f9040652-f381-41e3-860b-df8b244579c2/cover",
-          "start_time": "18:01",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Latest News and Weather",
-          "show_description": "Latest News and Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a5cb8232-43ce-4509-a79e-30431c3b54c5/cover",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Latest News and Weather",
-          "show_description": "Latest News and Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6e13149b-b808-484b-b0ff-78027dd34b81/cover",
-          "start_time": "20:00",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "Nuacht RTÉ",
-          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/efbfa26e-38de-4d61-9808-e68c7bec4d56/cover",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "RTÉ News: Nine O'Clock",
-          "show_description": "(And Weather)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9b7e4895-315e-4872-aec4-c1cd9a6036c0/cover",
-          "start_time": "21:00",
-          "end_time": "21:35"
-        },
-        {
-          "show_name": "Prime Time",
-          "show_description": "An in-depth analysis of current issues and topical reports.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d87e6d66-319f-4259-98d2-c1b0204e6d0c/cover",
-          "start_time": "21:35",
-          "end_time": "22:10"
-        },
-        {
-          "show_name": "The Late Debate",
-          "show_description": "Live debate with the news and political stories of the day. Presented by Cormac Ó hEadhra.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ad183b19-daa3-4816-a185-fc197c4cf8df/cover",
-          "start_time": "22:10",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Seacht Lá",
-          "show_description": "Seacht Lá",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c42191c2-1a87-35bd-8792-cf311dea3f4d/cover",
-          "start_time": "23:00",
-          "end_time": "23:25"
-        },
-        {
-          "show_name": "Prime Time",
-          "show_description": "An in-depth analysis of current issues and topical reports.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d62b54ff-8ecf-488c-8d13-519a168b897d/cover",
-          "start_time": "23:25",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "25 March 2026",
       "programmes": [
         {
@@ -352,6 +193,165 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/1daac7a0-80c9-4a7f-9203-89394447fbfa/cover",
           "start_time": "23:25",
           "end_time": "07:00"
+        }
+      ]
+    },
+    {
+      "date": "26 March 2026",
+      "programmes": [
+        {
+          "show_name": "Morning Ireland",
+          "show_description": "Morning news programme.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7958dc14-92eb-494c-a990-2051b8fa4f5a/cover",
+          "start_time": "07:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Today with David McCullagh",
+          "show_description": "The Today show live from RTÉ Radio 1.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/934f4d22-ceaf-49d9-ae6a-bd444c9c39f2/cover",
+          "start_time": "09:00",
+          "end_time": "10:30"
+        },
+        {
+          "show_name": "Mass",
+          "show_description": "Mass",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3d190aaa-37ca-4d15-92dc-6992d2f8b7db/cover",
+          "start_time": "10:30",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a2776758-6fc1-4c9d-9120-0f5ffd20e006/cover",
+          "start_time": "11:00",
+          "end_time": "11:50"
+        },
+        {
+          "show_name": "Leaders' Questions",
+          "show_description": "Coverage of Question Time in the Dail.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0e0b0f57-07b6-4d2a-b021-78cba54eef52/cover",
+          "start_time": "11:50",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "RTE News: One O'clock",
+          "show_description": "(And Weather)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/53b81ebb-ef4d-4893-8c75-800aa62f025e/cover",
+          "start_time": "13:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ebe8a831-9836-4fb1-8425-cc67233672bc/cover",
+          "start_time": "13:30",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bc89c474-e7ac-4b1a-8503-f6002b3ba6b7/cover",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "Latest News and Weather.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/72101085-3df6-42fb-966b-ce8d6ebc072a/cover",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "Latest News and Weather.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/93e430f3-00cf-4b33-b2d0-78a79bae2cbb/cover",
+          "start_time": "16:00",
+          "end_time": "16:20"
+        },
+        {
+          "show_name": "news2day",
+          "show_description": "Domestic and international news items of interest to younger viewers.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0285142e-8097-4f28-89df-97f2286e178b/cover",
+          "start_time": "16:20",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e4281f8f-9e23-4c9e-b259-a7787908913c/cover",
+          "start_time": "16:30",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Nuacht RTÉ",
+          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f4291445-db84-40cb-a030-c73376be2939/cover",
+          "start_time": "17:00",
+          "end_time": "17:10"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ced2154b-caea-499f-8ec8-71f402c89a9d/cover",
+          "start_time": "17:10",
+          "end_time": "17:40"
+        },
+        {
+          "show_name": "Nuacht RTÉ",
+          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d3940ef8-5e01-462a-805f-7635f18d3a40/cover",
+          "start_time": "17:40",
+          "end_time": "18:01"
+        },
+        {
+          "show_name": "RTÉ News: Six One",
+          "show_description": "(And Weather)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0e053299-ecc2-4401-a575-c225175a0071/cover",
+          "start_time": "18:01",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Latest News and Weather",
+          "show_description": "The latest news from RTÉ. Followed by Weather.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/16765706-7463-4285-b587-08f70f9b7cf5/cover",
+          "start_time": "19:00",
+          "end_time": "19:40"
+        },
+        {
+          "show_name": "World Cup Qualifiers Beo",
+          "show_description": "Poblacht na hÉireann v An tSeicia i bPrág - Cluiche leathcheannais i mbabhtaí cáilithe Chorn an Domhain. Is iad Garry Mac Donncha agus Charlie McGeever a bheidh i mbun tráchtaireachta.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/491dfcd6-8b14-489f-8ea3-20d2790b3ba6/cover",
+          "start_time": "19:40",
+          "end_time": "21:35"
+        },
+        {
+          "show_name": "Prime Time",
+          "show_description": "An in-depth analysis of current issues and topical reports.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/10ac6a85-ea1b-49d9-b382-8f8108b49b74/cover",
+          "start_time": "21:35",
+          "end_time": "22:10"
+        },
+        {
+          "show_name": "The Late Debate",
+          "show_description": "Live debate with the news and political stories of the day. Presented by Cormac Ó hEadhra.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/af4bfe76-4859-49df-a3ff-ee95bcc7d57f/cover",
+          "start_time": "22:10",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Prime Time",
+          "show_description": "An in-depth analysis of current issues and topical reports.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bc486f42-4d43-4b79-b610-2471d409c909/cover",
+          "start_time": "23:00",
+          "end_time": "23:35"
+        },
+        {
+          "show_name": "Nuacht RTÉ",
+          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e842f438-c7c9-42ba-b898-1ee9b7def054/cover",
+          "start_time": "23:35",
+          "end_time": "00:00"
         }
       ]
     }

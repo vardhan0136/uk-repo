@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
   "schedule": [
     {
-      "date": "24 March 2026",
-      "programmes": [
-        {
-          "show_name": "Through the Night",
-          "show_description": "Anne Luisa Kramb joins the Lithuanian State Symphony Orchestra under Luis Toro Araya in Mendelssohn's Violin Concerto, plus Brahms's Tragic Overture and Dvorák's 7th Symphony.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Essential Classics",
-          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Classical Live",
-          "show_description": "Mark Forrest introduces specially made recordings of orchestral music from Prague and chamber music from Vaughan-WIlliams and his contemporaries from LSO St Luke's in London.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Composer of the Week: Thomas Adès",
-          "show_description": "2/5. Donald Macleod talks to Thomas Adès about his second opera, based on Shakespeare's The Tempest, and the unique creative process of writing for the stage.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "In Tune",
-          "show_description": "Alessio Bax, Paul Watkins, Radovan Vlatkovic and Robert Hollingworth.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Classical Mixtape",
-          "show_description": "A mixtape bursting with classical favourites and lesser-known gems, with music by composers from Chopin and Beethoven to Caroline Shaw and Samuel Coleridge-Taylor.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Radio 3 in Concert",
-          "show_description": "Patricia Kopatchinskaja plays Berg's Violin Concerto with the London Symphony Orchestra under conductor Gianandrea Noseda, with Rachmaninoff's 1st Symphony also on the programme.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "The Essay: Erland Cooper's...",
-          "show_description": "...Cities of the Imagination. Erland journeys deep into the heart of the Sahara's Great Sand Sea to uncover the mystery of Zerzura.",
-          "show_logo": "",
-          "start_time": "21:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Night Tracks",
-          "show_description": "Hannah Peel presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "'Round Midnight",
-          "show_description": "Jamie Cullum, sitting in for Soweto Kinch, shares more of the best in jazz from the UK and around the world.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "25 March 2026",
       "programmes": [
         {
@@ -167,6 +85,88 @@
         {
           "show_name": "'Round Midnight",
           "show_description": "Pianist Neil Cowley is back to reveal his third Flowers pick, and Jamie Cullum has more of his favourite jazz releases to share.",
+          "show_logo": "",
+          "start_time": "23:30",
+          "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "26 March 2026",
+      "programmes": [
+        {
+          "show_name": "Through the Night",
+          "show_description": "Schubert's Fifth Symphony and Rodrigo's Concierto para una fiesta for guitar, alongside Uros Krek's Sinfonia per archi, performed by the SNG Maribor Symphony Orchestra.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Essential Classics",
+          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Classical Live",
+          "show_description": "Mark Forrest introduces an afternoon of concert recordings from the Czech Republic plus chamber music by Vaughan Williams and his contemporaries from London's LSO St. Luke's.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Composer of the Week: Thomas Adès",
+          "show_description": "4/5. Thomas Adès tells Donald Macleod about the joys and challenges of conducting his own music, and reveals the inspiration behind one of his favourite orchestral creations.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "In Tune",
+          "show_description": "Live music and interviews from the world's finest classical musicians.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Classical Mixtape",
+          "show_description": "Take time out with a 30-minute soundscape of classical music.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Radio 3 in Concert",
+          "show_description": "The BBC National Orchestra of Wales and conductor Tomas Djupsjöbacka perform Britten, Weber and Hindemith. Stephen Banks joins for the UK premiere of Joan Towers' Love Returns.",
+          "show_logo": "",
+          "start_time": "19:30",
+          "end_time": "21:45"
+        },
+        {
+          "show_name": "The Essay: Erland Cooper's...",
+          "show_description": "...Cities of the Imagination. Composer Erland Cooper journeys through the soundscapes of mythical cities.",
+          "show_logo": "",
+          "start_time": "21:45",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Night Tracks",
+          "show_description": "Hannah Peel presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "'Round Midnight",
+          "show_description": "Tonight, Jamie Cullum has another selection of jazz from the UK and around the world.",
           "show_logo": "",
           "start_time": "23:30",
           "end_time": "00:30"
