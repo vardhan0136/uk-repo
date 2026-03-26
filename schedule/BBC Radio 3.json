@@ -3,95 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
   "schedule": [
     {
-      "date": "25 March 2026",
-      "programmes": [
-        {
-          "show_name": "Through the Night",
-          "show_description": "Piano trios by Chaminade, Ravel and Shostakovich with the Sitkovetsky Trio. Jonathan Swain presents.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Essential Classics",
-          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Classical Live",
-          "show_description": "The BBC Philharmonic Orchestra present a concert to welcome the arrival of Spring inspired by the seasons, plus music by Vaughan Williams and his contemporaries from LSO St. Luke's.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Choral Evensong",
-          "show_description": "From St Barnabas Church, Ealing, London, with Imperial College Chamber Choir.",
-          "show_logo": "",
-          "start_time": "15:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Composer of the Week: Thomas Adès",
-          "show_description": "3/5. Donald Macleod asks Thomas Adès about his forays into performing and taking up roles as music director for Birmingham Contemporary Music Group and the Aldeburgh Festival.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "In Tune",
-          "show_description": "Live music from the Sarah L King trio and award-winning British pianist Thomas Kelly.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Classical Mixtape",
-          "show_description": "Half an hour of musical delights, including Purcell, MacMillan, piano music by Hélène de Montgeroult and John Williams' haunting theme from Schindler's List.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Radio 3 in Concert",
-          "show_description": "From Manchester's Bridgewater Hall, the BBC Philharmonic, conducted by Ludovic Morlot, plays love-inspired music by Prokofiev, Cassandra Miller and Berg.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "The Essay: Erland Cooper's...",
-          "show_description": "...Cities of the Imagination. Composer Erland Cooper discovers the mythical city of Kêr-Is, Brittany's sunken city of excess, where ancient flood myths meet modern climate reality and Celtic legend.",
-          "show_logo": "",
-          "start_time": "21:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Night Tracks",
-          "show_description": "Hannah Peel presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "'Round Midnight",
-          "show_description": "Pianist Neil Cowley is back to reveal his third Flowers pick, and Jamie Cullum has more of his favourite jazz releases to share.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "26 March 2026",
       "programmes": [
         {
@@ -167,6 +78,88 @@
         {
           "show_name": "'Round Midnight",
           "show_description": "Tonight, Jamie Cullum has another selection of jazz from the UK and around the world.",
+          "show_logo": "",
+          "start_time": "23:30",
+          "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "27 March 2026",
+      "programmes": [
+        {
+          "show_name": "Through the Night",
+          "show_description": "The Cererols Choir, organist Joan Seguí and conductor Marc Díaz perform music by Monteverdi, Cererols, Kerll, Howells, Lassus and Vivancos. Jonathan Swain presents.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Essential Classics",
+          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Classical Live",
+          "show_description": "Mark Forrest with exclusive recordings for the afternoon including performances from the Czech Philharmonic Orchestra and chamber music from LSO St. Luke's in London.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Composer of the Week: Thomas Adès",
+          "show_description": "5/5. Donald Macleod and Thomas Adès dive into his more recent works, including his opera The Exterminating Angel and his water-inspired concert piece, Aquifer.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "In Tune",
+          "show_description": "Live music from Johannes Pramsohler.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Classical Mixtape",
+          "show_description": "Take time out with a 30-minute soundscape of classical music.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Friday Night is Music Night",
+          "show_description": "Favourite moments from the Broadway and the West End, including Les Misérables, The Phantom of the Opera, Sweeney Todd, Carousel and Company all sung by the dazzling BBC Singers.",
+          "show_logo": "",
+          "start_time": "19:30",
+          "end_time": "21:45"
+        },
+        {
+          "show_name": "The Essay: Erland Cooper's...",
+          "show_description": "...Cities of the Imagination. Erland takes a mystical trip north of the Himalayas, to the 'earthly paradise' of Shambhala, to explore its luminous heart: the capital city of Kalapa.",
+          "show_logo": "",
+          "start_time": "21:45",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Late Junction",
+          "show_description": "Jennifer Lucy Allan pays a visit to the London studio of field recordist, sound artist and founder of the Flaming Pines label, Kate Carr.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "'Round Midnight",
+          "show_description": "Rounding off Jamie Cullum's week sitting in for Soweto Kinch on 'Round Midnight, Jamie invites singer Ego Ella May as his Friday night mixtape guest.",
           "show_logo": "",
           "start_time": "23:30",
           "end_time": "00:30"

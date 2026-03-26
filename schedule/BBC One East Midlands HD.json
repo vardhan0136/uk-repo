@@ -3,165 +3,6 @@
   "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
   "schedule": [
     {
-      "date": "25 March 2026",
-      "programmes": [
-        {
-          "show_name": "The Trials of Pa Salieu",
-          "show_description": "Rapper Pa Salieu returns to the stage after prison, turning a second chance into music. Contains very strong language and some upsetting scenes.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c88985c4-aea4-435c-a0d5-404dbf38bb59/cover",
-          "start_time": "00:10",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "Weather for the Week Ahead",
-          "show_description": "Detailed weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/821bdd68-323a-4525-a351-40f3af62bfc6/cover",
-          "start_time": "01:00",
-          "end_time": "01:05"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/08171cdb-5ee6-46c3-a115-db0a5a8877be/cover",
-          "start_time": "01:05",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6e601383-8582-409c-99ca-ed1e3171ea2d/cover",
-          "start_time": "06:00",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Morning Live",
-          "show_description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0b666ef5-c012-4f36-bfce-36e5d9567405/cover",
-          "start_time": "09:30",
-          "end_time": "10:45"
-        },
-        {
-          "show_name": "Crimewatch Caught",
-          "show_description": "How the online brags of a drugs gang exploiting teenagers led to their downfall. And when a brave victim reports historic sex abuse, a determined detective fights for justice.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fef2c72a-3d5d-4a5e-9f2d-3f4899b4a451/cover",
-          "start_time": "10:45",
-          "end_time": "11:15"
-        },
-        {
-          "show_name": "Homes Under the Hammer",
-          "show_description": "Three property renovators attempt to create extra space at properties in Shropshire, London and Yorkshire. Can they achieve their objectives?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6a775660-748d-4cff-8169-32c0e13d5374/cover",
-          "start_time": "11:15",
-          "end_time": "12:15"
-        },
-        {
-          "show_name": "Bargain Hunt",
-          "show_description": "Natasha Raskin Sharp visits Worcester, where experts Thomas Forrester and Tim Weeks guide the teams in their search for the best items to sell at auction.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1c3fc2fd-8144-499b-8d0a-88687e05d7d1/cover",
-          "start_time": "12:15",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "BBC News at One including East Midlands Today",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f1d97230-5937-4fb0-a63a-0518474a9dbe/cover",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Just One Thing",
-          "show_description": "3/12. Zoe Ball heads to south London to convince charity worker Latoya that gardening could be her secret wellbeing weapon.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/40acdf3d-37b3-4495-b690-5f0f202b4764/cover",
-          "start_time": "14:00",
-          "end_time": "14:30"
-        },
-        {
-          "show_name": "The Installation of the One...",
-          "show_description": "...Hundred and Sixth Archbishop of Canterbury. Live coverage of the installation of the archbishop of Canterbury.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f02434a3-e01a-400e-9fd4-cf5a7e9cbb73/cover",
-          "start_time": "14:30",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "The Finish Line",
-          "show_description": "13/25. Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d0e25824-a77d-4260-9c4d-2954d4d8a2ef/cover",
-          "start_time": "16:30",
-          "end_time": "17:15"
-        },
-        {
-          "show_name": "Pointless",
-          "show_description": "13/54. The quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ae1a4dd2-f1ae-3385-941f-45d193c8813b/cover",
-          "start_time": "17:15",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/40757371-6989-401c-8abd-92b5764a3661/cover",
-          "start_time": "18:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "East Midlands Today",
-          "show_description": "The latest news, sport and weather for the East Midlands.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a52d434a-0c93-4eb2-93bc-31e681a2bd19/cover",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "The One Show",
-          "show_description": "Clara Amfo and Vernon Kay bring you the stories that matter from across the country.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/798f59e5-ad5b-4205-b0db-b8c10838a018/cover",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "EastEnders",
-          "show_description": "The Slaters put on a show of family unity, Vinny makes a gesture, and Bea attempts to garner sympathy.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f043411e-50d2-4b3c-b71d-9d2f8873251f/cover",
-          "start_time": "19:30",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "The Repair Shop",
-          "show_description": "Tim tackles a battered unicycle, Mark fixes an iconic 80s gadget, Brenton takes on an Edwardian plate camera, and David repairs a model of a virus that changed medical history.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/65551593-9497-4f37-b4da-cc2dc1155071/cover",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Ambulance",
-          "show_description": "3/6. Crews are called to a siege in Leeds, where police are preparing to raid the premises. Contains some scenes which some viewers may find upsetting.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ecab8ef7-1f96-49e6-99d6-2d6e216a25c0/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "BBC News and Weather",
-          "show_description": "The latest national and international news, with reports from BBC correspondents worldwide.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/11a3d830-7256-4902-bd08-bed5a1de4c00/cover",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "East Midlands Today",
-          "show_description": "The latest news, sport and weather for the East Midlands.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d25234e8-e63b-4306-a4fc-82fa955e7c89/cover",
-          "start_time": "22:30",
-          "end_time": "22:40"
-        },
-        {
-          "show_name": "Whitney Houston: I Wanna Dance with Somebody",
-          "show_description": "Drama portraying the rise and fall of superstar Whitney Houston. Contains some strong language. [2022]",
-          "show_logo": "https://images.metadata.sky.com/pd-image/91dac934-fa0b-4d93-8a47-4b60718451a2/cover",
-          "start_time": "22:40",
-          "end_time": "00:55"
-        }
-      ]
-    },
-    {
       "date": "26 March 2026",
       "programmes": [
         {
@@ -331,6 +172,172 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/2ad09719-f864-44f2-91a3-9080df736a34/cover",
           "start_time": "23:40",
           "end_time": "00:10"
+        }
+      ]
+    },
+    {
+      "date": "27 March 2026",
+      "programmes": [
+        {
+          "show_name": "Weather for the Week Ahead",
+          "show_description": "Detailed weather forecast.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/769fef80-48bb-4da0-91f3-45fcc21397c4/cover",
+          "start_time": "00:10",
+          "end_time": "00:15"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2d18dd59-621f-4236-94cd-1a0359303a1b/cover",
+          "start_time": "00:15",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1660c4f5-3a79-47ed-9cd0-34d55acec98e/cover",
+          "start_time": "06:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Morning Live",
+          "show_description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f6cdd0fa-eee1-442e-a6f1-5d640d03207d/cover",
+          "start_time": "09:30",
+          "end_time": "10:45"
+        },
+        {
+          "show_name": "Crimewatch Caught",
+          "show_description": "A criminal gang making millions selling fake cigarettes are caught hiding their stash in secret drawers. And the drugs courier busted with £200,000 he claimed he had won on the slots.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/54a2d381-2f14-49f0-a37b-ffbaa4d891e7/cover",
+          "start_time": "10:45",
+          "end_time": "11:15"
+        },
+        {
+          "show_name": "Homes Under the Hammer",
+          "show_description": "Grandma, mum and dad are weighing up whether to move into an Orpington bungalow, which has been totally transformed by a younger member of their family.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fd5c0c30-3437-4406-9dd3-809d52949bce/cover",
+          "start_time": "11:15",
+          "end_time": "12:15"
+        },
+        {
+          "show_name": "Bargain Hunt",
+          "show_description": "It's sisters versus friends in this episode from Somerset. In the saleroom, both experts surprise their teams with silver - but which bonus buys will the bidders take a shine to?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/575e3d0e-9b34-4710-b3d5-9efa4732bf64/cover",
+          "start_time": "12:15",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "BBC News at One including East Midlands Today",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f7c2fb56-e71f-4820-b3a8-c34d187c6fed/cover",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Father Brown",
+          "show_description": "10/10. After taking revenge on Father Brown, Canon Fox, the bishop-elect, is kidnapped. Can the priest find him in time for his consecration?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4f20d726-5bee-4034-9b7c-f0561d82512f/cover",
+          "start_time": "14:00",
+          "end_time": "14:45"
+        },
+        {
+          "show_name": "Escape to the Country",
+          "show_description": "Wanting to be close to the coast, a couple from Birmingham decide that Cornwall is the perfect destination for their escape. Sonali Shah is on hand to make their dream come true.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f6743f1a-a164-358d-89e9-73145eba005d/cover",
+          "start_time": "14:45",
+          "end_time": "15:45"
+        },
+        {
+          "show_name": "The Repair Shop on the Road",
+          "show_description": "The team restores a bowling club sign in Scotland's smallest county and a Victorian clock with haunted Hebridean roots. Meanwhile, Will learns coppersmithing for whisky stills.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4685760e-3509-4dd6-b25c-89b5834588e1/cover",
+          "start_time": "15:45",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "The Finish Line",
+          "show_description": "15/25. Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/aa827207-d23b-4bdc-a8df-2a4970f4b51a/cover",
+          "start_time": "16:30",
+          "end_time": "17:15"
+        },
+        {
+          "show_name": "Pointless",
+          "show_description": "15/54. The quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else could think of.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/33368e45-3a7c-39b5-b2e7-4b04841b2e36/cover",
+          "start_time": "17:15",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ea99fcda-38c6-41ce-9f4a-5fb25369c264/cover",
+          "start_time": "18:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "East Midlands Today",
+          "show_description": "The latest news, sport and weather for the East Midlands.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/55a041a7-e275-4a4f-90dc-aa428a65aa52/cover",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "The One Show",
+          "show_description": "Clara Amfo and JB Gill bring you the stories that matter from across the country.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7aaca585-efec-4a0e-b32e-10db61b9c60d/cover",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Extraordinary Portraits with Bill Bailey",
+          "show_description": "1/6. Honouring the man who used a narwhal tusk to tackle the London Bridge terrorist. Can sculptor Nick capture the essence of the hero?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f12d6850-35f5-4137-adad-d6f7f7355a05/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Beyond Paradise",
+          "show_description": "1/6. When the circumstances of a crime novelist's death eerily mirror the details of his final novel, Humphrey must uncover whether it was a coincidence or murder by design.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5721343f-e773-4a6b-ad31-5872a5b4750f/cover",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Death in Paradise",
+          "show_description": "8/8. A death at sea with unexplained injuries stirs rumours about a legendary monster of the Caribbean, the Lusca. Meanwhile, Mervin is blindsided by an unexpected young visitor.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/36b915c3-42f5-4358-bc59-e63432b093d0/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "BBC News and Weather",
+          "show_description": "The latest national and international news, with reports from BBC correspondents worldwide.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1ef3d274-c591-4ae6-92ff-ca773e387723/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "East Midlands Today",
+          "show_description": "The latest news, sport and weather for the East Midlands.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/67c7bdae-fd1e-438b-b1c8-ff4c15347d1b/cover",
+          "start_time": "22:30",
+          "end_time": "22:40"
+        },
+        {
+          "show_name": "The Claudia Winkleman Show",
+          "show_description": "Claudia is joined by stand-up comedian Jimmy Carr, actor and musician Jamie Dornan, and actresses Chase Infiniti and Lisa Kudrow.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4fadb2e9-7b70-4701-92a4-6e8670d7b1a6/cover",
+          "start_time": "22:40",
+          "end_time": "23:25"
+        },
+        {
+          "show_name": "MOBO Awards 2026: Access All Areas",
+          "show_description": "DJ Target gets unique behind-the-scenes access at the 2026 MOBO Awards, with performances, interviews and exclusive content from Co-op Live in Manchester.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5c628ed5-cd60-4c2b-9732-0188a6afdbc7/cover",
+          "start_time": "23:25",
+          "end_time": "00:25"
         }
       ]
     }

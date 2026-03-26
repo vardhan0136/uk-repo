@@ -3,39 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-5-Sports-Extra.png",
   "schedule": [
     {
-      "date": "25 March 2026",
-      "programmes": [
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "26 March 2026",
       "programmes": [
         {
@@ -62,6 +29,60 @@
         {
           "show_name": "Rugby League",
           "show_description": "Live rugby league commentary of Castleford Tigers v Bradford Bulls in the Super League.",
+          "show_logo": "",
+          "start_time": "19:45",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "27 March 2026",
+      "programmes": [
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "02:25"
+        },
+        {
+          "show_name": "Formula 1",
+          "show_description": "Live F1 commentary of Practice 1 at the Japanese Grand Prix at the Suzuka circuit.",
+          "show_logo": "",
+          "start_time": "02:25",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "04:00",
+          "end_time": "05:55"
+        },
+        {
+          "show_name": "Formula 1",
+          "show_description": "Live F1 commentary of Practice 2 at the Japanese Grand Prix at the Suzuka circuit.",
+          "show_logo": "",
+          "start_time": "05:55",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "07:30",
+          "end_time": "19:45"
+        },
+        {
+          "show_name": "Rugby League",
+          "show_description": "Live rugby league commentary of Hull Kingston Rovers v St Helens in the Super League.",
           "show_logo": "",
           "start_time": "19:45",
           "end_time": "22:00"

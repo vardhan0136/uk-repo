@@ -3,193 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/.Light/NDTV%2024x7.png",
   "schedule": [
     {
-      "date": "25 March 2026",
-      "programmes": [
-        {
-          "show_name": "India Matters",
-          "show_description": "India Matters: Where the day's biggest stories get Shiv Aroor's sharp, unsparing take.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bc8d81d9-0424-4da7-81bf-9459efe15d01/cover",
-          "start_time": "00:00",
-          "end_time": "00:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "When you want to know what happened in India & around the world, keep track of the weather, the latest in sports and business, NDTV News will keep you well informed and up-to-date.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9cf6fc46-28f9-4330-be45-03510f613652/cover",
-          "start_time": "00:30",
-          "end_time": "02:30"
-        },
-        {
-          "show_name": "The Breakfast Show",
-          "show_description": "The breakfast show that sets the agenda for the day. Join our reporters for news updates and get all the updates on what happened overnight.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/660533c4-26f4-4f7d-8ca3-63f956129c52/cover",
-          "start_time": "02:30",
-          "end_time": "03:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "When you want to know what happened in India & around the world, keep track of the weather, the latest in sports and business, NDTV News will keep you well informed and up-to-date.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/23f7864f-ebd7-402d-b17e-5b9878c378a0/cover",
-          "start_time": "03:30",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Breaking Ground",
-          "show_description": "Breaking Ground - Not just the headlines, the meaning behind them.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/453446b1-ba7b-49d3-a44b-bc2085a69363/cover",
-          "start_time": "06:30",
-          "end_time": "08:30"
-        },
-        {
-          "show_name": "Southern View",
-          "show_description": "Southern View. Latest news and views from Southern India.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c80b501a-1f9c-483b-9cc3-2a60900dfe63/cover",
-          "start_time": "08:30",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "When you want to know what happened in India & around the world, keep track of the weather, the latest in sports and business, NDTV News will keep you well informed and up-to-date.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a65e5d77-fdd5-4f06-9005-81b2a9adab9d/cover",
-          "start_time": "09:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Banega Swasth India",
-          "show_description": "Dettol & NDTV come together for a campaign that highlights the need for hygiene and sanitation (swachh) as a means for a healthy body & mind.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f4cf0dcc-373e-44b4-b784-05403e5fce37/cover",
-          "start_time": "10:00",
-          "end_time": "10:30"
-        },
-        {
-          "show_name": "NDTV Newsroom",
-          "show_description": "NDTV Newsroom. The latest news from around the world. A newsroom reimagined for tomorrow today.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4f5bc400-d16f-4f2f-bf35-707ed6215d1a/cover",
-          "start_time": "10:30",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "PRIME 5",
-          "show_description": "Prime time's prime bulletin. Reporting breaking news and developing stories as they happen, wherever they happen - from India's most trusted news channel.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3b53e2b0-e898-4fc5-8f32-f33686a795a0/cover",
-          "start_time": "11:30",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "Nationwide@6",
-          "show_description": "A round up of news from across the country with LIVE reports from our reporters.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2518f03d-f60c-4c55-8d16-9e700759b2bc/cover",
-          "start_time": "12:30",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Southern View",
-          "show_description": "Southern View. Latest news and views from Southern India.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cd7b569d-d688-4953-97bc-26e7ec9921a5/cover",
-          "start_time": "13:30",
-          "end_time": "14:30"
-        },
-        {
-          "show_name": "India Matters",
-          "show_description": "India Matters: Where the day's biggest stories get Shiv Aroor's sharp, unsparing take.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9ad16fc0-c2bd-4513-a55d-345e7e502064/cover",
-          "start_time": "14:30",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "The Buck Stops Here",
-          "show_description": "A show that brings you the big news, interviews, debates and of course the very latest from our turbulent neighbours. If it's making news, it's on the show!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/26944941-b731-4c4e-b8be-5027d3964812/cover",
-          "start_time": "15:30",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "Left, Right & Centre",
-          "show_description": "The day's biggest news dissected by the day's newsmakers. Diverse opinions from across the political spectrum. The show that makes you decide, are you on the left, right or the centre?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7583f54d-3c48-47cc-92bd-f80ef495cf22/cover",
-          "start_time": "16:30",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "News Night",
-          "show_description": "Deep Dive into issues that matter to you most. Empowering you with content & context.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/11a67d31-cc5d-44ee-b8e9-344b7981bf52/cover",
-          "start_time": "17:00",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "When you want to know what happened in India & around the world, keep track of the weather, the latest in sports and business, NDTV News will keep you well informed and up-to-date.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c5e1dfcc-6f57-4bf3-8f6a-cb2523983350/cover",
-          "start_time": "17:30",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "India Matters",
-          "show_description": "India Matters: Where the day's biggest stories get Shiv Aroor's sharp, unsparing take.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/33a544fc-488c-4c48-b14a-0bcb159338a2/cover",
-          "start_time": "18:30",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "When you want to know what happened in India & around the world, keep track of the weather, the latest in sports and business, NDTV News will keep you well informed and up-to-date.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/664da798-1f3f-4cf8-b195-5f4cb9c03860/cover",
-          "start_time": "19:30",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "The Buck Stops Here",
-          "show_description": "A show that brings you the big news, interviews, debates and of course the very latest from our turbulent neighbours. If it's making news, it's on the show!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4509e9a8-973f-4c94-92c7-1e528cfbb6af/cover",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "When you want to know what happened in India & around the world, keep track of the weather, the latest in sports and business, NDTV News will keep you well informed and up-to-date.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/53d097b2-1544-461b-b9cc-c1c552d74658/cover",
-          "start_time": "21:00",
-          "end_time": "21:30"
-        },
-        {
-          "show_name": "Left, Right & Centre",
-          "show_description": "The day's biggest news dissected by the day's newsmakers. Diverse opinions from across the political spectrum. The show that makes you decide, are you on the left, right or the centre?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/265343c0-c335-4950-9ea3-84dafd6c0b55/cover",
-          "start_time": "21:30",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "When you want to know what happened in India & around the world, keep track of the weather, the latest in sports and business, NDTV News will keep you well informed and up-to-date.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/14c9e4a2-214d-4aaf-bf0d-296dc90e98e3/cover",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "News Night",
-          "show_description": "Deep Dive into issues that matter to you most. Empowering you with content & context.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8030bc6e-0f36-4f3d-8540-3632b05ec123/cover",
-          "start_time": "22:30",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "When you want to know what happened in India & around the world, keep track of the weather, the latest in sports and business, NDTV News will keep you well informed and up-to-date.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d796c288-abd5-4b9c-b551-bdf3f7de88f8/cover",
-          "start_time": "23:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "India Matters",
-          "show_description": "India Matters: Where the day's biggest stories get Shiv Aroor's sharp, unsparing take.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b02dff86-6afe-4e7d-95ad-5206a90b9065/cover",
-          "start_time": "23:30",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "26 March 2026",
       "programmes": [
         {
@@ -364,6 +177,207 @@
           "show_name": "India Matters",
           "show_description": "India Matters: Where the day's biggest stories get Shiv Aroor's sharp, unsparing take.",
           "show_logo": "https://images.metadata.sky.com/pd-image/725abe98-4db6-4f2f-af84-8232a2d07833/cover",
+          "start_time": "23:30",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "27 March 2026",
+      "programmes": [
+        {
+          "show_name": "India Matters",
+          "show_description": "India Matters: Where the day's biggest stories get Shiv Aroor's sharp, unsparing take.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bb447821-483a-4682-b36c-42d4f4e95153/cover",
+          "start_time": "00:00",
+          "end_time": "00:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "When you want to know what happened in India & around the world, keep track of the weather, the latest in sports and business, NDTV News will keep you well informed and up-to-date.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fea8a333-06e4-4ba3-9b87-ff111e51b44f/cover",
+          "start_time": "00:30",
+          "end_time": "02:30"
+        },
+        {
+          "show_name": "The Breakfast Show",
+          "show_description": "The breakfast show that sets the agenda for the day. Join our reporters for news updates and get all the updates on what happened overnight.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/dfaf0d26-5da8-4248-bd60-d5302c2fc168/cover",
+          "start_time": "02:30",
+          "end_time": "03:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "When you want to know what happened in India & around the world, keep track of the weather, the latest in sports and business, NDTV News will keep you well informed and up-to-date.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/54ba2c3a-aaec-442f-a88d-ef9a75933abf/cover",
+          "start_time": "03:30",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Breaking Ground",
+          "show_description": "Breaking Ground - Not just the headlines, the meaning behind them.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bbd51786-2cf7-4a78-a073-1891a22cd869/cover",
+          "start_time": "06:30",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "Southern View",
+          "show_description": "Southern View. Latest news and views from Southern India.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ef9663d9-3ffa-4b40-bb95-eae5e3e91cf0/cover",
+          "start_time": "08:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "NDTV DPWorld PGTI Golf ProAm",
+          "show_description": "Episode 5.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3253fb1e-71f2-4e3e-bdfa-afb1c0e17d14/cover",
+          "start_time": "09:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "When you want to know what happened in India & around the world, keep track of the weather, the latest in sports and business, NDTV News will keep you well informed and up-to-date.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1b4a3255-4010-4bea-83d2-610d61fa0e2e/cover",
+          "start_time": "09:30",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "JRC - Towards a Child Marriage free Assam",
+          "show_description": "NDTV Special.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7ba6b569-aec3-4138-8b99-a6d9374eac87/cover",
+          "start_time": "10:00",
+          "end_time": "10:30"
+        },
+        {
+          "show_name": "NDTV Newsroom",
+          "show_description": "NDTV Newsroom. The latest news from around the world. A newsroom reimagined for tomorrow today.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7e657a5b-f05d-4775-8538-671529e12605/cover",
+          "start_time": "10:30",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "PRIME 5",
+          "show_description": "Prime time's prime bulletin. Reporting breaking news and developing stories as they happen, wherever they happen - from India's most trusted news channel.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/43f043fb-dd6f-44cf-8b32-81a36c5f6d3d/cover",
+          "start_time": "11:30",
+          "end_time": "12:30"
+        },
+        {
+          "show_name": "Nationwide@6",
+          "show_description": "A round up of news from across the country with LIVE reports from our reporters.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3836755d-8b7c-4c8e-aaf5-f1a08212b11b/cover",
+          "start_time": "12:30",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Southern View",
+          "show_description": "Southern View. Latest news and views from Southern India.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3bbd63fd-3acc-4380-a40e-7db7515d3dfe/cover",
+          "start_time": "13:30",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "India Matters",
+          "show_description": "India Matters: Where the day's biggest stories get Shiv Aroor's sharp, unsparing take.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6c4699cf-bee6-4661-b72e-6e61a989e861/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "NDTV Focus",
+          "show_description": "NDTV Focus with Jagdeep Dhankhar: Fiery Legacy and Sudden Exit - The Full Story of the vice president and Chairman of Rajya Sabha.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/638ea153-5500-4b06-8965-92ed13af4854/cover",
+          "start_time": "15:00",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "The Buck Stops Here",
+          "show_description": "A show that brings you the big news, interviews, debates and of course the very latest from our turbulent neighbours. If it's making news, it's on the show!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3e7de3d2-3e10-43c4-a1b7-0114562551f5/cover",
+          "start_time": "15:30",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "Left, Right & Centre",
+          "show_description": "The day's biggest news dissected by the day's newsmakers. Diverse opinions from across the political spectrum. The show that makes you decide, are you on the left, right or the centre?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e1c67a0b-0f7f-48a4-9683-895fc20d61ca/cover",
+          "start_time": "16:30",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "News Night",
+          "show_description": "Deep Dive into issues that matter to you most. Empowering you with content & context.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bbdd9c80-318b-4cbd-9161-ae05ccfb17e3/cover",
+          "start_time": "17:00",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "When you want to know what happened in India & around the world, keep track of the weather, the latest in sports and business, NDTV News will keep you well informed and up-to-date.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1c469f84-2541-4820-a13a-d93bd33b86cb/cover",
+          "start_time": "17:30",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "India Matters",
+          "show_description": "India Matters: Where the day's biggest stories get Shiv Aroor's sharp, unsparing take.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1cd91596-2cb8-43a6-a332-f37a92917994/cover",
+          "start_time": "18:30",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "When you want to know what happened in India & around the world, keep track of the weather, the latest in sports and business, NDTV News will keep you well informed and up-to-date.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/40c9271f-6c92-4264-8adb-1030bb62f34b/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "The Buck Stops Here",
+          "show_description": "A show that brings you the big news, interviews, debates and of course the very latest from our turbulent neighbours. If it's making news, it's on the show!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8b7cab09-12d5-4414-8e24-3d571248d192/cover",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "When you want to know what happened in India & around the world, keep track of the weather, the latest in sports and business, NDTV News will keep you well informed and up-to-date.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/dbc0d6eb-a307-4372-b52b-1ef768ceb73f/cover",
+          "start_time": "21:00",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "Left, Right & Centre",
+          "show_description": "The day's biggest news dissected by the day's newsmakers. Diverse opinions from across the political spectrum. The show that makes you decide, are you on the left, right or the centre?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fa3fff66-ae80-42a4-8746-3c9e04167b3f/cover",
+          "start_time": "21:30",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "When you want to know what happened in India & around the world, keep track of the weather, the latest in sports and business, NDTV News will keep you well informed and up-to-date.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/11401910-86ce-4800-9be6-b6d87c8784a4/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "News Night",
+          "show_description": "Deep Dive into issues that matter to you most. Empowering you with content & context.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7962005b-d85c-4374-b108-a583c9e52e0e/cover",
+          "start_time": "22:30",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "When you want to know what happened in India & around the world, keep track of the weather, the latest in sports and business, NDTV News will keep you well informed and up-to-date.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0ea78da0-adb0-46e3-88aa-22d5573c94a5/cover",
+          "start_time": "23:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "India Matters",
+          "show_description": "India Matters: Where the day's biggest stories get Shiv Aroor's sharp, unsparing take.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/422aab0d-3a7b-4e54-99f9-c08a86db3542/cover",
           "start_time": "23:30",
           "end_time": "00:00"
         }
