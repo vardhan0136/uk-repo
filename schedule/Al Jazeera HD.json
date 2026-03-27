@@ -3,284 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png",
   "schedule": [
     {
-      "date": "26 March 2026",
-      "programmes": [
-        {
-          "show_name": "Newshour",
-          "show_description": "Latest news and in-depth analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/64a50a5b-cf8c-4643-9e28-e73428d4b5d9/cover",
-          "start_time": "00:00",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "Al Jazeera World",
-          "show_description": "Nuseirat 274: A harrowing account of a deadly attack on the Nuseirat refugee camp in Gaza during an Israeli mission to free four captives, killing more than 274 Palestinians.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ccb0d1e3-c221-4a5b-9aa5-4cef88e7270f/cover",
-          "start_time": "01:00",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "News Live",
-          "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c78ba0bb-8552-4013-9461-dc8993ca8302/cover",
-          "start_time": "02:00",
-          "end_time": "02:30"
-        },
-        {
-          "show_name": "The Stream",
-          "show_description": "Ep.20 Powered by social media, The Stream brings fresh perspectives and new voices, beyond the headlines.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/43de846f-bf95-4db4-bfa9-64b237c1faab/cover",
-          "start_time": "02:30",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "News Live",
-          "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3960b9a0-31a4-47cd-9787-2cbc194934bb/cover",
-          "start_time": "03:00",
-          "end_time": "03:30"
-        },
-        {
-          "show_name": "Making Peace",
-          "show_description": "Ep.7 What The Elephant Knows: In rural Sri Lanka, families and conservationists face deadly human-elephant conflict, seeking a fragile path to coexistence.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d5b37dd4-79a4-48de-a736-4250c519039b/cover",
-          "start_time": "03:30",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "News Live",
-          "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5539dae4-c2b6-4d00-bcc0-415ffd98bdd1/cover",
-          "start_time": "04:00",
-          "end_time": "04:30"
-        },
-        {
-          "show_name": "Reframe",
-          "show_description": "Varsha Gandikota-Nellutla:",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4e4d5755-a575-42a5-bd3d-8803e52af2f0/cover",
-          "start_time": "04:30",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "News Live",
-          "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c9d6dbaa-48dc-4464-a116-0211ae297d46/cover",
-          "start_time": "05:00",
-          "end_time": "05:30"
-        },
-        {
-          "show_name": "Inside Story",
-          "show_description": "Ep.1273 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6a425ce6-fb28-40bf-9c50-a5e405923e23/cover",
-          "start_time": "05:30",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "News Live",
-          "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/26b44788-4412-447d-95b7-19f48fa7b718/cover",
-          "start_time": "06:00",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "The Bottom Line",
-          "show_description": "Ep.12 Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a1ad1b49-8caf-4232-bd3a-6b298898fa2e/cover",
-          "start_time": "06:30",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "News Live",
-          "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8dc29a10-e1d2-4c2f-90be-61b68538f64f/cover",
-          "start_time": "07:00",
-          "end_time": "07:30"
-        },
-        {
-          "show_name": "Witness",
-          "show_description": "The Volunteer: A Japanese American veteran tracks down the soldier and friend who saved his life when he was mistaken for the enemy in the Vietnam war.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4ddf07e1-8410-3a91-a6a1-4f2c062c477f/cover",
-          "start_time": "07:30",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "News Live",
-          "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9e266d77-3b5c-46f7-a097-a8abe66d37de/cover",
-          "start_time": "08:00",
-          "end_time": "08:30"
-        },
-        {
-          "show_name": "Counting the Cost",
-          "show_description": "Ep.15 Who pays the price of a global gas shock?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/be61b441-52cc-4695-81b4-40b35e2140f2/cover",
-          "start_time": "08:30",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "News Live",
-          "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/de030c2b-fc67-4132-adad-913efb167c5d/cover",
-          "start_time": "09:00",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "People and Power",
-          "show_description": "Cuba - Health Under Sanction: Free, universal, but failing - Cuba's once world-class healthcare system is being strangled by U.S. sanctions.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2baed71d-aab9-4b6b-bc88-2902c3aa5a88/cover",
-          "start_time": "09:30",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Newshour",
-          "show_description": "Latest news and in-depth analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/64a50a5b-cf8c-4643-9e28-e73428d4b5d9/cover",
-          "start_time": "10:00",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "News Live",
-          "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1dcfabee-d2c6-4210-8543-607a6b8ccbd8/cover",
-          "start_time": "11:00",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Inside Story",
-          "show_description": "Ep.1273 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6a425ce6-fb28-40bf-9c50-a5e405923e23/cover",
-          "start_time": "11:30",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Witness",
-          "show_description": "Balomania: A secret society of giant hot air balloon makers in Brazil risk everything to create and fly their masterpieces.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ad9ad7f2-6b5f-4951-852e-d738f38a5bda/cover",
-          "start_time": "12:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Newshour",
-          "show_description": "Latest news and in-depth analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/64a50a5b-cf8c-4643-9e28-e73428d4b5d9/cover",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "News Live",
-          "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0682e8fd-19e8-4d52-82f2-2fa65dc04deb/cover",
-          "start_time": "14:00",
-          "end_time": "14:30"
-        },
-        {
-          "show_name": "Talk to Al Jazeera",
-          "show_description": "Abbas Araghchi: Iran's FM says the war was imposed by the US, defends Iran's response and insists the system will endure despite targeted killings.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/adc6ad99-f46b-4104-95d5-fe8a600fb9cf/cover",
-          "start_time": "14:30",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Newshour",
-          "show_description": "Latest news and in-depth analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/64a50a5b-cf8c-4643-9e28-e73428d4b5d9/cover",
-          "start_time": "15:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "News Live",
-          "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/83455498-1bc6-4c36-8392-8fbf48fc7e61/cover",
-          "start_time": "16:00",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "Reframe",
-          "show_description": "Varsha Gandikota-Nellutla:",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4e4d5755-a575-42a5-bd3d-8803e52af2f0/cover",
-          "start_time": "16:30",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "News Live",
-          "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/30740b13-4cc5-46bd-b1fc-7e1e2f187a08/cover",
-          "start_time": "17:00",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "Inside Story",
-          "show_description": "Ep.1274 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6a425ce6-fb28-40bf-9c50-a5e405923e23/cover",
-          "start_time": "17:30",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Newshour",
-          "show_description": "Latest news and in-depth analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/64a50a5b-cf8c-4643-9e28-e73428d4b5d9/cover",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "News Live",
-          "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d9f200d2-56f6-4c4c-84d6-b9ea99aab3eb/cover",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "The Stream",
-          "show_description": "Ep.21 Powered by social media, The Stream brings fresh perspectives and new voices, beyond the headlines.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d8b18761-8052-4fa0-8764-cfe4bc52946d/cover",
-          "start_time": "19:30",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Blood, Sweat and Sugar",
-          "show_description": "Ep.2 Exploitation: How sugar's vast empire survived slavery - from U.S. corporations to Brazil's cane fields, huge profits, exploited workers and communities fighting for justice.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/81022a8f-1425-4abd-bb44-37c8bf8b55eb/cover",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Newshour",
-          "show_description": "Latest news and in-depth analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/64a50a5b-cf8c-4643-9e28-e73428d4b5d9/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "News Live",
-          "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f93a1c5f-9c68-42d6-ab3f-1b1ada00b190/cover",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "101 East",
-          "show_description": "Kidnapped Online: 101 East reveals how across the world, Chinese international students are falling prey to a growing online crime - cyber kidnappings.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c6848e6f-5d69-4c3e-8e13-f35fb84b9570/cover",
-          "start_time": "22:30",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "News Live",
-          "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ad301a50-5cec-4424-a292-338c28c8e586/cover",
-          "start_time": "23:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "Inside Story",
-          "show_description": "Ep.1274 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6a425ce6-fb28-40bf-9c50-a5e405923e23/cover",
-          "start_time": "23:30",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "27 March 2026",
       "programmes": [
         {
@@ -314,7 +36,7 @@
         {
           "show_name": "News Live",
           "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0b523ca3-d133-4858-83c3-4e594b81cb0c/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d42e2499-6e3a-4db6-ad25-cd2a552a9238/cover",
           "start_time": "03:00",
           "end_time": "03:30"
         },
@@ -328,7 +50,7 @@
         {
           "show_name": "News Live",
           "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d323db34-3229-4596-b52d-c7f53351590c/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d42e2499-6e3a-4db6-ad25-cd2a552a9238/cover",
           "start_time": "04:00",
           "end_time": "04:30"
         },
@@ -342,7 +64,7 @@
         {
           "show_name": "News Live",
           "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b4fc01be-aaac-4a32-84ed-a185a3e71481/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d42e2499-6e3a-4db6-ad25-cd2a552a9238/cover",
           "start_time": "05:00",
           "end_time": "05:30"
         },
@@ -356,7 +78,7 @@
         {
           "show_name": "News Live",
           "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ec7f1197-c034-4517-a46f-24b8fb293aca/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d42e2499-6e3a-4db6-ad25-cd2a552a9238/cover",
           "start_time": "06:00",
           "end_time": "06:30"
         },
@@ -370,7 +92,7 @@
         {
           "show_name": "News Live",
           "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b574b12c-1edb-4fde-a082-067caa9e1112/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d42e2499-6e3a-4db6-ad25-cd2a552a9238/cover",
           "start_time": "07:00",
           "end_time": "07:30"
         },
@@ -384,7 +106,7 @@
         {
           "show_name": "News Live",
           "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/19b8b100-5873-4c1e-96ca-50cf84d42bf0/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d42e2499-6e3a-4db6-ad25-cd2a552a9238/cover",
           "start_time": "08:00",
           "end_time": "08:30"
         },
@@ -398,7 +120,7 @@
         {
           "show_name": "News Live",
           "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/acf9730a-66be-49bb-b52c-764a30d0063b/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d42e2499-6e3a-4db6-ad25-cd2a552a9238/cover",
           "start_time": "09:00",
           "end_time": "09:30"
         },
@@ -419,7 +141,7 @@
         {
           "show_name": "News Live",
           "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e567136a-cdee-40a3-9c66-3838dbef142c/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d42e2499-6e3a-4db6-ad25-cd2a552a9238/cover",
           "start_time": "11:00",
           "end_time": "11:30"
         },
@@ -447,7 +169,7 @@
         {
           "show_name": "News Live",
           "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6762e5d1-1d18-4d02-abd2-6d27e587c89e/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d42e2499-6e3a-4db6-ad25-cd2a552a9238/cover",
           "start_time": "14:00",
           "end_time": "14:30"
         },
@@ -468,7 +190,7 @@
         {
           "show_name": "News Live",
           "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5bd529f3-c02c-457a-bd02-72acc477b124/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d42e2499-6e3a-4db6-ad25-cd2a552a9238/cover",
           "start_time": "16:00",
           "end_time": "16:30"
         },
@@ -482,7 +204,7 @@
         {
           "show_name": "News Live",
           "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7b41e03e-79cd-44ac-a927-9d96b2ddd9a6/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d42e2499-6e3a-4db6-ad25-cd2a552a9238/cover",
           "start_time": "17:00",
           "end_time": "17:30"
         },
@@ -503,7 +225,7 @@
         {
           "show_name": "News Live",
           "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5ea90aa8-9441-496c-bd97-afef76d06c31/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d42e2499-6e3a-4db6-ad25-cd2a552a9238/cover",
           "start_time": "19:00",
           "end_time": "19:30"
         },
@@ -531,21 +253,21 @@
         {
           "show_name": "News Live",
           "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c41d75e7-f2e4-4743-a867-192d7c989181/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d42e2499-6e3a-4db6-ad25-cd2a552a9238/cover",
           "start_time": "22:00",
           "end_time": "22:30"
         },
         {
           "show_name": "Counting the Cost",
-          "show_description": "06042026: The show features the economical stories that shape our world and has an effect on the lives of the common human beings.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/173fac7e-8f5e-46d7-8603-de4861e925a4/cover",
+          "show_description": "Ep.16 Is conflict in the Middle East pushing Europe towards another energy crisis?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ef74d054-06bb-4388-9109-9a74d37c9299/cover",
           "start_time": "22:30",
           "end_time": "23:00"
         },
         {
           "show_name": "News Live",
           "show_description": "Up-to-date news and analysis from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bc3803b2-6175-4c11-acad-655aa92111c0/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d42e2499-6e3a-4db6-ad25-cd2a552a9238/cover",
           "start_time": "23:00",
           "end_time": "23:30"
         },
@@ -553,6 +275,284 @@
           "show_name": "Inside Story",
           "show_description": "Ep.1275 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.",
           "show_logo": "https://images.metadata.sky.com/pd-image/a0edffeb-a5af-477f-b907-4a52b4cd928f/cover",
+          "start_time": "23:30",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "28 March 2026",
+      "programmes": [
+        {
+          "show_name": "Newshour",
+          "show_description": "Latest news and in-depth analysis from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0e6a6bbb-31b6-4d99-855a-aa94fe364454/cover",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "Blood, Sweat and Sugar",
+          "show_description": "Ep.2 Exploitation: How sugar's vast empire survived slavery - from U.S. corporations to Brazil's cane fields, huge profits, exploited workers and communities fighting for justice.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/81022a8f-1425-4abd-bb44-37c8bf8b55eb/cover",
+          "start_time": "01:00",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "News Live",
+          "show_description": "Up-to-date news and analysis from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d3c33c72-d40b-4d60-940e-7e59e6d46ba9/cover",
+          "start_time": "02:00",
+          "end_time": "02:30"
+        },
+        {
+          "show_name": "Making Peace",
+          "show_description": "Ep.7 What The Elephant Knows: In rural Sri Lanka, families and conservationists face deadly human-elephant conflict, seeking a fragile path to coexistence.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d5b37dd4-79a4-48de-a736-4250c519039b/cover",
+          "start_time": "02:30",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "News Live",
+          "show_description": "Up-to-date news and analysis from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d3c33c72-d40b-4d60-940e-7e59e6d46ba9/cover",
+          "start_time": "03:00",
+          "end_time": "03:30"
+        },
+        {
+          "show_name": "101 East",
+          "show_description": "Kidnapped Online: 101 East reveals how across the world, Chinese international students are falling prey to a growing online crime - cyber kidnappings.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c6848e6f-5d69-4c3e-8e13-f35fb84b9570/cover",
+          "start_time": "03:30",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "News Live",
+          "show_description": "Up-to-date news and analysis from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d3c33c72-d40b-4d60-940e-7e59e6d46ba9/cover",
+          "start_time": "04:00",
+          "end_time": "04:30"
+        },
+        {
+          "show_name": "UpFront",
+          "show_description": "Ep.08 Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6050a2bf-c6ad-4e5e-8238-157648a2d44a/cover",
+          "start_time": "04:30",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "News Live",
+          "show_description": "Up-to-date news and analysis from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d3c33c72-d40b-4d60-940e-7e59e6d46ba9/cover",
+          "start_time": "05:00",
+          "end_time": "05:30"
+        },
+        {
+          "show_name": "Inside Story",
+          "show_description": "Ep.1275 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/53abbf3f-43fe-4e99-93ab-5f5cf39bc196/cover",
+          "start_time": "05:30",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "News Live",
+          "show_description": "Up-to-date news and analysis from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d3c33c72-d40b-4d60-940e-7e59e6d46ba9/cover",
+          "start_time": "06:00",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Witness",
+          "show_description": "The Volunteer: A Japanese American veteran tracks down the soldier and friend who saved his life when he was mistaken for the enemy in the Vietnam war.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4ddf07e1-8410-3a91-a6a1-4f2c062c477f/cover",
+          "start_time": "06:30",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "News Live",
+          "show_description": "Up-to-date news and analysis from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d3c33c72-d40b-4d60-940e-7e59e6d46ba9/cover",
+          "start_time": "07:00",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "People and Power",
+          "show_description": "Cuba - Health Under Sanction: Free, universal, but failing - Cuba's once world-class healthcare system is being strangled by U.S. sanctions.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2baed71d-aab9-4b6b-bc88-2902c3aa5a88/cover",
+          "start_time": "07:30",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "News Live",
+          "show_description": "Up-to-date news and analysis from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d3c33c72-d40b-4d60-940e-7e59e6d46ba9/cover",
+          "start_time": "08:00",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "The Stream",
+          "show_description": "Ep.21 Powered by social media, The Stream brings fresh perspectives and new voices, beyond the headlines.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d8b18761-8052-4fa0-8764-cfe4bc52946d/cover",
+          "start_time": "08:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "News Live",
+          "show_description": "Up-to-date news and analysis from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d3c33c72-d40b-4d60-940e-7e59e6d46ba9/cover",
+          "start_time": "09:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Counting the Cost",
+          "show_description": "Ep.16 Is conflict in the Middle East pushing Europe towards another energy crisis?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ef74d054-06bb-4388-9109-9a74d37c9299/cover",
+          "start_time": "09:30",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Newshour",
+          "show_description": "Latest news and in-depth analysis from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0e6a6bbb-31b6-4d99-855a-aa94fe364454/cover",
+          "start_time": "10:00",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "News Live",
+          "show_description": "Up-to-date news and analysis from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d3c33c72-d40b-4d60-940e-7e59e6d46ba9/cover",
+          "start_time": "11:00",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Inside Story",
+          "show_description": "Ep.1275 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/53abbf3f-43fe-4e99-93ab-5f5cf39bc196/cover",
+          "start_time": "11:30",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Al Jazeera World",
+          "show_description": "Nuseirat 274: A harrowing account of a deadly attack on the Nuseirat refugee camp in Gaza during an Israeli mission to free four captives, killing more than 274 Palestinians.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ccb0d1e3-c221-4a5b-9aa5-4cef88e7270f/cover",
+          "start_time": "12:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Newshour",
+          "show_description": "Latest news and in-depth analysis from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0e6a6bbb-31b6-4d99-855a-aa94fe364454/cover",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "News Live",
+          "show_description": "Up-to-date news and analysis from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d3c33c72-d40b-4d60-940e-7e59e6d46ba9/cover",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "UpFront",
+          "show_description": "Ep.08 Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6050a2bf-c6ad-4e5e-8238-157648a2d44a/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Newshour",
+          "show_description": "Latest news and in-depth analysis from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0e6a6bbb-31b6-4d99-855a-aa94fe364454/cover",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "News Live",
+          "show_description": "Up-to-date news and analysis from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d3c33c72-d40b-4d60-940e-7e59e6d46ba9/cover",
+          "start_time": "16:00",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "Making Peace",
+          "show_description": "Ep.7 What The Elephant Knows: In rural Sri Lanka, families and conservationists face deadly human-elephant conflict, seeking a fragile path to coexistence.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d5b37dd4-79a4-48de-a736-4250c519039b/cover",
+          "start_time": "16:30",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "News Live",
+          "show_description": "Up-to-date news and analysis from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d3c33c72-d40b-4d60-940e-7e59e6d46ba9/cover",
+          "start_time": "17:00",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "Inside Story",
+          "show_description": "Ep.1276 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/53abbf3f-43fe-4e99-93ab-5f5cf39bc196/cover",
+          "start_time": "17:30",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Newshour",
+          "show_description": "Latest news and in-depth analysis from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0e6a6bbb-31b6-4d99-855a-aa94fe364454/cover",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "News Live",
+          "show_description": "Up-to-date news and analysis from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d3c33c72-d40b-4d60-940e-7e59e6d46ba9/cover",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "The Listening Post",
+          "show_description": "Ep.13 What is being reported by world media and how? Richard Gizbert guides you through the global news maze.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/225079cb-f7c3-4514-9cc6-b3108b52e8a8/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Witness",
+          "show_description": "Balomania: A secret society of giant hot air balloon makers in Brazil risk everything to create and fly their masterpieces.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ad9ad7f2-6b5f-4951-852e-d738f38a5bda/cover",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Newshour",
+          "show_description": "Latest news and in-depth analysis from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0e6a6bbb-31b6-4d99-855a-aa94fe364454/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "News Live",
+          "show_description": "Up-to-date news and analysis from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d3c33c72-d40b-4d60-940e-7e59e6d46ba9/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "The Bottom Line",
+          "show_description": "Ep.13 Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6f81656d-6c9a-4b44-b979-ae7bb9a637ba/cover",
+          "start_time": "22:30",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "News Live",
+          "show_description": "Up-to-date news and analysis from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d3c33c72-d40b-4d60-940e-7e59e6d46ba9/cover",
+          "start_time": "23:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "Inside Story",
+          "show_description": "Ep.1276 Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/53abbf3f-43fe-4e99-93ab-5f5cf39bc196/cover",
           "start_time": "23:30",
           "end_time": "00:00"
         }

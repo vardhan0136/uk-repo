@@ -3,201 +3,35 @@
   "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
   "schedule": [
     {
-      "date": "26 March 2026",
-      "programmes": [
-        {
-          "show_name": "Europe on the Edge with Katya Adler",
-          "show_description": "3/3. Katya continues her journey through Spain and into France.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5a15eee9-7375-4062-a6d6-882644889e1e/cover",
-          "start_time": "01:25",
-          "end_time": "02:25"
-        },
-        {
-          "show_name": "The Walsh Sisters",
-          "show_description": "5/6. Rachel faces some uncomfortable truths, and the sisters help with Anna's upcoming event. Contains strong language.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/40196e55-5672-4cc7-adb3-a8922c3f97f0/cover",
-          "start_time": "02:25",
-          "end_time": "03:20"
-        },
-        {
-          "show_name": "Global Eye",
-          "show_description": "The accounts of women repressed by the Iranian government during the 2022 protests and Katy Watson reports on Australia's first of its kind social media ban for under 16s, three months on.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dc51cc5f-8b99-4d53-838f-e79c034d29bb/cover",
-          "start_time": "03:20",
-          "end_time": "03:50"
-        },
-        {
-          "show_name": "This is BBC Two",
-          "show_description": "Highlights of programmes on BBC Two.",
-          "show_logo": "",
-          "start_time": "03:50",
-          "end_time": "06:45"
-        },
-        {
-          "show_name": "Just One Thing",
-          "show_description": "3/12. Zoe Ball heads to south London to convince charity worker Latoya that gardening could be her secret wellbeing weapon.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/40acdf3d-37b3-4495-b690-5f0f202b4764/cover",
-          "start_time": "06:45",
-          "end_time": "07:15"
-        },
-        {
-          "show_name": "Escape to the Country",
-          "show_description": "38/50. Nicki Chapman helps a retired couple find their dream Devon home by the sea and meets a Dartmoor family who map family-friendly walks in the National Park for all to enjoy.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/534d81e4-410a-4287-bdd1-719ba91ca031/cover",
-          "start_time": "07:15",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "Gardeners' World",
-          "show_description": "Spring is in full stride at Longmeadow, and Monty gets straight to work.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1d8bbc8b-e2ab-4d20-b35c-4a079dcb4c5a/cover",
-          "start_time": "08:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "Twenty-four hours a day, the latest national and international stories as they break.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/24ebb6af-432b-4ab0-9d21-0d5a313d63a3/cover",
-          "start_time": "09:00",
-          "end_time": "12:15"
-        },
-        {
-          "show_name": "Politics Live",
-          "show_description": "The big political issues of the day.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2559327f-32d1-45a8-a5e9-b21b49d1834d/cover",
-          "start_time": "12:15",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Impossible",
-          "show_description": "24/30. Game show in which players score points by answering questions correctly while avoiding the Impossible answers.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d57a7ca8-19e1-4c68-b3c6-f7bbf7532c85/cover",
-          "start_time": "13:00",
-          "end_time": "13:45"
-        },
-        {
-          "show_name": "The Tournament",
-          "show_description": "9/25. In the ultimate knockout quiz, eight players do battle on the Tournament Run in a series of exciting tug-of-war quiz matches. Hosted by Alex Scott.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f6c653a2-b032-4950-99e6-e24857ff3784/cover",
-          "start_time": "13:45",
-          "end_time": "14:30"
-        },
-        {
-          "show_name": "Chess Masters: The Endgame",
-          "show_description": "7/8. The three strongest players from both heats come face to face for the first time in the semi-finals. They meet child prodigy Bodhana Sivanandan in their toughest challenge yet.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8179227f-0e71-4262-97ba-cc5263aeebbb/cover",
-          "start_time": "14:30",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Clive Myrie's Italian Road Trip",
-          "show_description": "7/15. Clive makes a wriggly catch on a fishing expedition across Europe's biggest volcanic lake and discovers how scientists are fighting to save an ancient citadel from destruction.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d2916301-00e3-33cb-a173-8599da0cdc0d/cover",
-          "start_time": "15:00",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Big Little Journeys",
-          "show_description": "1/3. In Canada, a tiny turtle ventures through a forest of giants in search of the wetland, and in South Africa, a bushbaby is drawn towards a world of light in his quest to find a home.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/041bdf5d-26e9-36d4-804e-e4e0a0421244/cover",
-          "start_time": "15:30",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "Vintage Antiques Roadshow",
-          "show_description": "13/26. Michael Aspel and a team of experts examine curios and artefacts offered up by the public. This edition comes from Cliveden, and features a sketch by Stanley Spencer.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c8735b2f-01ea-4f51-8dfa-c2c21c34cd4f/cover",
-          "start_time": "16:30",
-          "end_time": "17:15"
-        },
-        {
-          "show_name": "Flog It!",
-          "show_description": "62/76. In the magnificent Truro Cathedral, Paul Martin and experts David Barby and David Fletcher lead a team of valuers hoping to find the very best items to take to auction.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e922d8a5-2352-4c61-bba5-2f214cd608b1/cover",
-          "start_time": "17:15",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "New: Richard Osman's House of Games",
-          "show_description": "99/100. Amy Gledhill, Jacqui Joseph, Laurence Llewelyn-Bowen and Tim Vine face more questions.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0a6d365f-6ec4-451e-a9aa-9a80c7afa80e/cover",
-          "start_time": "18:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "Great British Menu",
-          "show_description": "15/29. Only one chef can go through to represent north east England and Yorkshire.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/42781954-2834-440b-b6fc-7df1af35a471/cover",
-          "start_time": "18:30",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Match of the Day Wales: Wales v Bosnia and Herzegovina",
-          "show_description": "Live coverage of Wales's World Cup play-off semi-final at home against Bosnia and Herzegovina at the Cardiff City Stadium.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dcc51cf3-25ea-4518-a553-b15e889032d0/cover",
-          "start_time": "19:30",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The Apprentice: Unfinished Business",
-          "show_description": "9/11. Angela Scanlon, Lauren Layfield and Tre Lowe take a look at the candidates' performances. Plus, an exclusive chat with the next person to leave the process.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/38c102af-bd51-4cf8-9d45-177bc8b1cc56/cover",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "Newsnight, followed by Weather",
-          "show_description": "Insights and global interviews on the news stories of the day. With Patrick O'Connell.   Followed by Weather.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0b4a0b89-f990-4eb1-be58-3ebea4816746/cover",
-          "start_time": "22:30",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Clash of the Superpowers: America vs China",
-          "show_description": "1/2. In his first term, Trump upends America's relationship with Beijing.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/94d0cab5-a549-4f37-adfe-cec18e9d331b/cover",
-          "start_time": "23:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "27 March 2026",
       "programmes": [
         {
           "show_name": "Licorice Pizza",
           "show_description": "LA, 1973. Aimless 20-something Alana is drawn into the quirky world of 15-year-old Gary. Contains very strong language. [2021]",
           "show_logo": "https://images.metadata.sky.com/pd-image/2b36cd6a-57b2-4c06-aed2-fdf6cd1c9114/cover",
-          "start_time": "00:00",
-          "end_time": "02:10"
+          "start_time": "00:40",
+          "end_time": "02:50"
         },
         {
           "show_name": "Great British Menu",
           "show_description": "14/29. The remaining three chefs from north east England and Yorkshire compete over mains and desserts inspired by the British film industry. Who will win, and who must go home?",
           "show_logo": "https://images.metadata.sky.com/pd-image/ead65498-5807-4f95-b89c-b6ff421cd5df/cover",
-          "start_time": "02:10",
-          "end_time": "03:10"
+          "start_time": "02:50",
+          "end_time": "03:50"
         },
         {
           "show_name": "The Other Bennet Sister",
           "show_description": "3/10. After a family tragedy, Mary and her mother are left facing an uncertain future - until Mary receives an unexpected offer from her aunt and uncle.",
           "show_logo": "https://images.metadata.sky.com/pd-image/d7437183-36f6-425d-a693-1e400e0d3248/cover",
-          "start_time": "03:10",
-          "end_time": "03:40"
+          "start_time": "03:50",
+          "end_time": "04:20"
         },
         {
           "show_name": "This is BBC Two",
-          "show_description": "Highlights of programmes on BBC Two.",
-          "show_logo": "",
-          "start_time": "03:40",
-          "end_time": "06:15"
-        },
-        {
-          "show_name": "The Repair Shop on the Road",
-          "show_description": "From Bletchley Park's wartime secrets to a beloved brooch and the art of wig making - join Dom and Will on another restoration road trip.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d4571e8b-5a0a-43d5-8173-c6f3102365fc/cover",
+          "show_description": "This is BBC Two",
+          "show_logo": "https://images.metadata.sky.com/pd-image/beae7be0-d852-4e99-8c2a-704857d1251c/cover",
           "start_time": "06:15",
-          "end_time": "07:00"
+          "end_time": "06:45"
         },
         {
           "show_name": "Homes Under the Hammer",
@@ -324,6 +158,207 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/3c80026a-7534-45f5-8bd0-235ec9af0d10/cover",
           "start_time": "23:00",
           "end_time": "00:35"
+        }
+      ]
+    },
+    {
+      "date": "28 March 2026",
+      "programmes": [
+        {
+          "show_name": "Living Without Life's Little Luxuries - Panorama",
+          "show_description": "With the cost-of-living crisis still squeezing household budgets, Colletta Smith investigates the consequences for communities, jobs and everyday life.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/793d135a-cf64-4d63-bfad-bb895d87c261/cover",
+          "start_time": "00:35",
+          "end_time": "01:05"
+        },
+        {
+          "show_name": "Great British Menu",
+          "show_description": "15/29. Only one chef can go through to represent north east England and Yorkshire.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/42781954-2834-440b-b6fc-7df1af35a471/cover",
+          "start_time": "01:05",
+          "end_time": "02:05"
+        },
+        {
+          "show_name": "Big Cats 24/7",
+          "show_description": "4/6. The reunited Xudum pride mums struggle to feed so many mouths, and one cub is close to starving. Lediba and Pobe battle to keep their cubs safe from intruding male leopards.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7120fa1b-b17e-4a7a-a98c-6198f2c118b0/cover",
+          "start_time": "02:05",
+          "end_time": "03:05"
+        },
+        {
+          "show_name": "The Other Bennet Sister",
+          "show_description": "4/10. Troubling new feelings and a knock to Mary's confidence complicate her life in London.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a39242d7-1b68-4a29-aa25-61c7f11950be/cover",
+          "start_time": "03:05",
+          "end_time": "03:35"
+        },
+        {
+          "show_name": "This is BBC Two",
+          "show_description": "Highlights of programmes on BBC Two.",
+          "show_logo": "",
+          "start_time": "03:35",
+          "end_time": "06:35"
+        },
+        {
+          "show_name": "Piripenguins",
+          "show_description": "The Piri Fitness Craze. Nugget's new fitness device sparks a craze on the berg. Running, skating and jumping, the Piris battle it out to score the most points, with a surprise winner.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/aac3af4b-e1f1-4a5f-ab2e-d5c7f1acc418/cover",
+          "start_time": "06:35",
+          "end_time": "06:45"
+        },
+        {
+          "show_name": "Big Lizard",
+          "show_description": "Happy Campers. Cosima and Big Lizard have a camping sleepover with a friendly little crab. In the morning, their new friend is missing, but why?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bfa6f3fd-c952-3fab-b4ca-7e6b3c56a17b/cover",
+          "start_time": "06:45",
+          "end_time": "06:55"
+        },
+        {
+          "show_name": "The Weasy Family",
+          "show_description": "Mission Giant. The ducklings find a device that makes you grow!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8375d1cc-22cc-4667-b701-67b39443bb96/cover",
+          "start_time": "06:55",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Super Happy Magic Forest",
+          "show_description": "The Magic of Panpipes. When Hoofius plays his grandfaun's old magical panpipes, his friends do exactly what he asks them to do - perfect for leading a quest... or so he thinks!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e19e68e2-8482-341a-b404-1da08e0f2275/cover",
+          "start_time": "07:00",
+          "end_time": "07:15"
+        },
+        {
+          "show_name": "Grizzy and the Lemmings: World Tour",
+          "show_description": "Nutty Family. Grizzy decides to adopt a coconut.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/dec505f6-74de-323e-8ab3-7963ba25c2b2/cover",
+          "start_time": "07:15",
+          "end_time": "07:20"
+        },
+        {
+          "show_name": "Grizzy and the Lemmings: World Tour",
+          "show_description": "Imaginary Invalid. Grizzy pretends to have a twisted ankle so that the Lemmings have to take care of him.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fe69e212-2961-3aa1-8007-c2e27fe92b77/cover",
+          "start_time": "07:20",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "Game on Grandparents",
+          "show_description": "Switch Sports Volleyball. Guided by pro gamer Slogo, the teams serve up an epic game of Switch Sports Volleyball. Who will score more points and earn a place in the final?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7fa5c5f5-3c5c-421f-8a24-cfc138835b59/cover",
+          "start_time": "07:30",
+          "end_time": "07:55"
+        },
+        {
+          "show_name": "Bro's in Control",
+          "show_description": "Leading a Duck to Water. Callum challenges the bros to lead his giant rubber duck to water, as Adam decides to take Quakius Maximus to the skies. And both bros face the Gladiators referees.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3ebf1892-4c83-4caf-88f7-c87d2cc61e25/cover",
+          "start_time": "07:55",
+          "end_time": "08:10"
+        },
+        {
+          "show_name": "Gladiators: Epic Pranks",
+          "show_description": "Electro's Pop Song! Weird warm-ups, hoodie rage and cheesy pop video moves with Nitro and JB Gill.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ab9aaf50-c776-4c4c-8a3e-1c1564c46d86/cover",
+          "start_time": "08:10",
+          "end_time": "08:25"
+        },
+        {
+          "show_name": "Blue Peter: Super Dogs and the Magic Faraway Tree",
+          "show_description": "Super Dogs and the Magic Faraway Tree. Blue Peter celebrates seven years of pet dog Henry and meets the cast of new film The Magic Faraway Tree.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b84ab997-0bf0-4878-adb5-7493982ca5ee/cover",
+          "start_time": "08:25",
+          "end_time": "08:50"
+        },
+        {
+          "show_name": "Newsround",
+          "show_description": "28/03/2026. Topical news magazine for children.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c7d428e3-34f1-4606-9ea7-4ad3447050b3/cover",
+          "start_time": "08:50",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Gardeners' World",
+          "show_description": "Monty is busy with spring and planning ahead for summer. He's doing a seed-sowing masterclass, cutting back Cornus and dividing ferns to put in the new Woodland Garden.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9f58c541-a82b-47e1-8100-382d4a680558/cover",
+          "start_time": "09:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "All about Eve",
+          "show_description": "Classic Oscar-winning drama. An ageing star is duped into helping an aspiring actress, who turns out to be ruthlessly ambitious. [1950]",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5c1cad9b-77c1-492c-aee5-17411f51411e/cover",
+          "start_time": "10:00",
+          "end_time": "12:15"
+        },
+        {
+          "show_name": "Great British Menu",
+          "show_description": "13/29. Four chefs compete for north east England and Yorkshire with canapes, starters and fish dishes inspired by the British film industry. Who will be eliminated?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/311bedf3-d5c6-4036-9e67-2f4270fc2f5f/cover",
+          "start_time": "12:15",
+          "end_time": "13:15"
+        },
+        {
+          "show_name": "Escape to the Country",
+          "show_description": "45/55. There's no time like the present for Alistair Appleton's buyers, who hope to realise a lifelong dream of living by the sea in Dorset.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cbde6cd7-e758-47a5-889f-7fc2bf6467b6/cover",
+          "start_time": "13:15",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Flog It!",
+          "show_description": "Experts Mark Stacey and Nick Hall are in Folkestone with Paul Martin, who investigates the work of Pugin, a master of Victorian Gothic design.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/16911f9e-ab5b-4c72-ae6f-c7df20c3a148/cover",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "The Ipcress File",
+          "show_description": "Spy thriller about an investigation into a brain drain among scientists. A secret agent finds himself in a world where nobody can be trusted. [1965]",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d74ff16c-9bf9-4347-b676-6210bf8d94cb/cover",
+          "start_time": "14:30",
+          "end_time": "16:15"
+        },
+        {
+          "show_name": "Mississippi: Earth's Great Rivers",
+          "show_description": "3/3. The surprising story of the Mississippi, a river that unites the USA. From frozen waterfalls to time-travelling barges, the Mississippi connects a continent like no other river.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7a3d0a93-6400-4093-bcb1-84eb83ecf4ec/cover",
+          "start_time": "16:15",
+          "end_time": "17:15"
+        },
+        {
+          "show_name": "Rugby League: Super League Live: Leigh v Toulouse",
+          "show_description": "Action from round six of the Super League season as Leigh Leopards play Toulouse.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/477b8d17-2efc-435e-8b97-a92d2c3d4562/cover",
+          "start_time": "17:15",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Celebrity Antiques Road Trip",
+          "show_description": "10/20. The friendship of reality TV's Chris Hughes and Jake Quickenden is put to the test as they explore South Yorkshire's antiques shops with Izzie and Irita.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/eb8d49a2-0c27-4ebe-8211-5e0480869def/cover",
+          "start_time": "19:30",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Inside Britain's National Parks",
+          "show_description": "1/4. A look at the New Forest. Once a royal hunting ground for William the Conqueror, it is now a unique mosaic of open heathlands, ancient woodlands, coastline and picturesque villages.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b3bb7cbe-49c8-4628-9b34-dc9c1cc69496/cover",
+          "start_time": "20:30",
+          "end_time": "21:20"
+        },
+        {
+          "show_name": "Show Tunes at the BBC: Volume 3",
+          "show_description": "Elaine Paige has another treasure trove of musical theatre moments from the BBC archives. Featuring numbers from Hello, Dolly!, Les Miserables, Chess, South Pacific and more.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9817d5d3-df5c-49fd-bc39-427cbf581cd5/cover",
+          "start_time": "21:20",
+          "end_time": "22:55"
+        },
+        {
+          "show_name": "Show Tunes at the BBC: Volume 2",
+          "show_description": "Elaine Paige rustles up the biggest show tunes from Britain's best-loved musicals.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5328feac-c358-48d6-8afa-886dbfbdbe94/cover",
+          "start_time": "22:55",
+          "end_time": "00:20"
         }
       ]
     }

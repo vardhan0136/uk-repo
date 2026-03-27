@@ -3,109 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Wales.png",
   "schedule": [
     {
-      "date": "26 March 2026",
-      "programmes": [
-        {
-          "show_name": "Relax with Radio Wales",
-          "show_description": "Relax, unwind and chill out with an hour of classic and contemporary tunes.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "As BBC Radio 5 Live",
-          "show_description": "See programme schedules for BBC Radio 5 Live.",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Radio Wales News Update",
-          "show_description": "The latest news and weather for Wales and a look ahead to this morning's Radio Wales Breakfast.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "06:05"
-        },
-        {
-          "show_name": "Wake Up with Radio Wales",
-          "show_description": "A lively mix of music to start the day. Perfect for your pod!",
-          "show_logo": "",
-          "start_time": "06:05",
-          "end_time": "06:31"
-        },
-        {
-          "show_name": "Country Focus",
-          "show_description": "From Ceredigion to Nefyn, Ifan Jones Evans and Rhodri Davies explore the role of village pubs at the heart of rural community life.",
-          "show_logo": "",
-          "start_time": "06:31",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Radio Wales Breakfast",
-          "show_description": "Everything you need to know as you wake up.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Bronwen Lewis",
-          "show_description": "Join Bron for another 'Singalong', Alphabelters is the letter N and it's your chance to win a smart speaker in our quiz Smarty Pants.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "11:59"
-        },
-        {
-          "show_name": "The Phone In",
-          "show_description": "Be part of the nation's conversation.",
-          "show_logo": "",
-          "start_time": "11:59",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Behnaz Akhgar",
-          "show_description": "Celebrity guests, expert advice, and we test your anagram-solving skills in The Name Game. Call or WhatsApp 03700 100 110 Text 81012.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Radio Wales Drive",
-          "show_description": "Everything you need to know as you head home.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "Kiri's Comedy Club",
-          "show_description": "Harriet Dyer, Don Biswas, Rosie Jones and Lee Ridley share their experiences of working in comedy with a disability.",
-          "show_logo": "",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Radio Wales Sport",
-          "show_description": "Live commentary of Wales v Bosnia and Herzegovina in the World Cup qualifiers.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "Feast of Football Phone In",
-          "show_description": "Have your say on Wales v Bosnia & Herzegovina Call the team on 03700 100 110. Text 8 10 12 or message via X @bbcradiowales.",
-          "show_logo": "",
-          "start_time": "21:45",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "Eleri Siôn",
-          "show_description": "Eleri brightens your night-time with great music and chat. Call 03700 100 110 Text 81012 or via X @bbcradiowales.",
-          "show_logo": "",
-          "start_time": "22:30",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "27 March 2026",
       "programmes": [
         {
@@ -187,21 +84,21 @@
         },
         {
           "show_name": "Elin Fflur's 70s Playlist",
-          "show_description": "Elin Fflur gets your weekend started with party classics from the 70s and the biggest Welsh anthems.",
+          "show_description": "Elin Fflur has a spring in her step with classics from the 70s to celebrate the arrival of the new season, along with a Welsh language track.",
           "show_logo": "",
           "start_time": "19:00",
           "end_time": "20:00"
         },
         {
           "show_name": "Elin Fflur's 80s Playlist",
-          "show_description": "Elin Fflur gets your weekend started with party classics from the 80s and the biggest Welsh anthems.",
+          "show_description": "Elin Fflur puts on her boxing gloves and has a huge soundtrack from Rocky III. Plus its 80s anthems galore, and there's a classic Welsh track.",
           "show_logo": "",
           "start_time": "20:00",
           "end_time": "21:00"
         },
         {
           "show_name": "Elin Fflur's 90s Playlist",
-          "show_description": "Elin Fflur gets your weekend started with party classics from the 90s and the biggest Welsh anthems.",
+          "show_description": "Elin Fflur has Snap! as the long player this week. Get your weekend started with party classics from the 90s and a Welsh language anthem.",
           "show_logo": "",
           "start_time": "21:00",
           "end_time": "22:00"
@@ -211,6 +108,74 @@
           "show_description": "H from Steps takes you into the weekend with great music and chat.",
           "show_logo": "",
           "start_time": "22:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "28 March 2026",
+      "programmes": [
+        {
+          "show_name": "The Party Playlist with H",
+          "show_description": "H from Steps has your ultimate party playlist. Not just for Fridays!",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "See programme schedules for BBC Radio 5 Live.",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Radio Wales Breakfast",
+          "show_description": "Everything you need to know as you wake up.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Money for Nothing",
+          "show_description": "Your dedications and song requests from the 1950s-90s. Can you guess the Stuck in the Middle song? Text 81012, email moneyfornothing@bbc.co.uk or call 03700 100 110.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Lucy Owen",
+          "show_description": "Lucy Owen brings great music and guests to your Saturday.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Radio Wales Sport",
+          "show_description": "Live commentary, guests and analysis. Your home for Welsh sport.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "Welsh Wonders (The Hit Makers)",
+          "show_description": "Huw Stephens presents two hours of brilliant live music as he delves into the BBC Archive for rare versions of some of Wales greatest songs, both onstage and in session.",
+          "show_logo": "",
+          "start_time": "17:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Bethan Elfyn",
+          "show_description": "Bethan shares live music and a chat with Al Morrison at Neuadd Ogwen in Bethesda, and speaks to event organiser Dilwyn Llywd. Plus brilliant new releases in The Wales Mix.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "BBC Introducing with Adam Walton",
+          "show_description": "The best in new Welsh music, exclusive sessions, interviews and demos.",
+          "show_logo": "",
+          "start_time": "21:00",
           "end_time": "00:00"
         }
       ]

@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
   "schedule": [
     {
-      "date": "26 March 2026",
-      "programmes": [
-        {
-          "show_name": "Through the Night",
-          "show_description": "Schubert's Fifth Symphony and Rodrigo's Concierto para una fiesta for guitar, alongside Uros Krek's Sinfonia per archi, performed by the SNG Maribor Symphony Orchestra.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Essential Classics",
-          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Classical Live",
-          "show_description": "Mark Forrest introduces an afternoon of concert recordings from the Czech Republic plus chamber music by Vaughan Williams and his contemporaries from London's LSO St. Luke's.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Composer of the Week: Thomas Adès",
-          "show_description": "4/5. Thomas Adès tells Donald Macleod about the joys and challenges of conducting his own music, and reveals the inspiration behind one of his favourite orchestral creations.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "In Tune",
-          "show_description": "Live music and interviews from the world's finest classical musicians.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Classical Mixtape",
-          "show_description": "Take time out with a 30-minute soundscape of classical music.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Radio 3 in Concert",
-          "show_description": "The BBC National Orchestra of Wales and conductor Tomas Djupsjöbacka perform Britten, Weber and Hindemith. Stephen Banks joins for the UK premiere of Joan Towers' Love Returns.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "The Essay: Erland Cooper's...",
-          "show_description": "...Cities of the Imagination. Composer Erland Cooper journeys through the soundscapes of mythical cities.",
-          "show_logo": "",
-          "start_time": "21:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Night Tracks",
-          "show_description": "Hannah Peel presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "'Round Midnight",
-          "show_description": "Tonight, Jamie Cullum has another selection of jazz from the UK and around the world.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "27 March 2026",
       "programmes": [
         {
@@ -162,6 +80,88 @@
           "show_description": "Rounding off Jamie Cullum's week sitting in for Soweto Kinch on 'Round Midnight, Jamie invites singer Ego Ella May as his Friday night mixtape guest.",
           "show_logo": "",
           "start_time": "23:30",
+          "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "28 March 2026",
+      "programmes": [
+        {
+          "show_name": "Through the Night",
+          "show_description": "The SEMPRE baroque music ensemble perform in a concert organised as part of the Bucharest Early Music Season on the occasion of Early Music Day 2025. Jonathan Swain presents.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "Hannah French presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Saturday Morning",
+          "show_description": "Tom talks to the brilliant Canadian violinist James Ehnes, who is in the middle of a world tour to celebrate his 50th birthday.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Earlier... with Jools Holland",
+          "show_description": "Jools is joined by the writer and oncologist Professor Jonathan Waxman.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Music Matters: Mark Radcliffe's Choral Odyssey",
+          "show_description": "Mark Radcliffe discusses his favourite choral music, including works by Mozart, Ticheli, Barber and Eric Whitacre.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Record Review",
+          "show_description": "Andrew McGregor with the best new classical releases, joined by guest reviewers Jeremy Sams and Allyson Devenish, who picks her favourite recording of Beethoven's Waldstein Sonata.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Sound Of Cinema",
+          "show_description": "Edith Bowman showcases the finest in film and television scores- featuring a conversation with British musician and composer Antony Genn on scoring the new Peaky Blinders movie.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "This Classical Life",
+          "show_description": "Jess Gillam swaps music choices with British-American violinist Tamsin Waley-Cohen.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Opera on 3",
+          "show_description": "From the Metropolitan Opera in New York, Verdi's La Traviata starring Lisette Oropesa and Piotr Buszewski. Antonello Manacorda conducts.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "Music Planet",
+          "show_description": "Kathryn Tickell plays Guinean revolutionary music, Klezmer melodies, and a new track from Charif Megarbane. Alsos, Colombian artist Cimarrón picks three tracks that embody joropo.",
+          "show_logo": "",
+          "start_time": "21:30",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "New Music Show",
+          "show_description": "Kate Molleson presents Ryoji Ikeda's Metal Music, recorded at London's Barbican Hall, and Tansy Davies selects her Listen List. Plus composer/vocalist Elaine Mitchener.",
+          "show_logo": "",
+          "start_time": "22:30",
           "end_time": "00:30"
         }
       ]
