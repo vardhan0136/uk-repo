@@ -3,158 +3,20 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png",
   "schedule": [
     {
-      "date": "27 March 2026",
+      "date": "28 March 2026",
       "programmes": [
-        {
-          "show_name": "Shop on TV",
-          "show_description": "Teleshopping.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/da998383-98f9-4dd4-8391-9830803f592b/cover",
-          "start_time": "00:05",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Jimmy and Shivi's Farmhouse Breakfast",
-          "show_description": "Kaye Adams: Jimmy and Shivi are joined by legendary broadcaster Kaye Adams for cooking, easy and colourful landscape paintings, and close encounters with foxes.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/579e8814-ae00-4783-998c-ebbe509a954f/cover",
-          "start_time": "03:00",
-          "end_time": "03:50"
-        },
-        {
-          "show_name": "Unwind with ITV",
-          "show_description": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e62d225f-2c51-46b1-aada-27612f6dd453/cover",
-          "start_time": "03:50",
-          "end_time": "05:05"
-        },
-        {
-          "show_name": "The Floor",
-          "show_description": "Rob Brydon hosts another edition of high-stakes trivia as only 41 contestants remain in the game of cutthroat strategy.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a515f4b6-57cf-40d1-86a0-ab19fb406c12/cover",
-          "start_time": "05:05",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Good Morning Britain",
-          "show_description": "News, current affairs and lively debate.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/384e5d0a-9667-4de1-92c4-5f20d6e0669e/cover",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "This Morning",
-          "show_description": "Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/29eb95cd-13c0-4f96-b1da-73584fc600ca/cover",
-          "start_time": "10:00",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "ITV Lunchtime News",
-          "show_description": "The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f3863b7c-653c-4ea3-8758-16dd77845b3d/cover",
-          "start_time": "12:30",
-          "end_time": "12:55"
-        },
-        {
-          "show_name": "ITV News Central",
-          "show_description": "The latest news and weather from the Midlands.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/48bf1d88-1532-470d-b82e-ddc2a4b6b20a/cover",
-          "start_time": "12:55",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Celebrity Catchphrase",
-          "show_description": "Stephen Mulhern hosts a celebrity special of the classic game show with Ade Adepitan, Clare Balding, and Robert Webb all trying to 'say what they see' in aid of charity.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c0bb887f-2eb8-3b69-bb75-e74d7948dfb7/cover",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Lingo",
-          "show_description": "The fast-paced game of words hosted by Adil Ray - crossing words to beat the reigning Lingo champions this time are sisters Lauren and Ellie from Solihull and friends Gill and Sue.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b5095e34-61e7-466c-8993-73f5f3b776db/cover",
-          "start_time": "14:00",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Deal or No Deal",
-          "show_description": "Stephen Mulhern hosts another episode of the exciting and iconic gameshow as a brave contestant takes on the infamous Banker for a chance at winning a life-changing cash prize.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d8bf9783-51c5-349c-8cd2-661cffad4047/cover",
-          "start_time": "15:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Tipping Point",
-          "show_description": "Ben Shephard hosts the quiz show in which three players take on an extraordinary machine in the hope of winning a cash jackpot.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6649bbf0-020f-32ef-897e-3163a5a8300f/cover",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "The Chase",
-          "show_description": "Bradley Walsh hosts as all that stands between Mary from London, Robyn from Plymouth, Giles from Cardiff, Torran originally from Manchester and thousands of pounds is a Chaser.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/db6eb711-49c8-3ce1-b0e1-50adac9a3bb9/cover",
-          "start_time": "17:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "ITV News Central",
-          "show_description": "The latest news and weather from the Midlands.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/61e1ff8b-aeed-44a9-8fd7-a462da3124b4/cover",
-          "start_time": "18:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "ITV Evening News",
-          "show_description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fcf31bfb-6eaa-4f0e-b93b-dbefac2a62ab/cover",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "International Football: England v Uruguay",
-          "show_description": "Mark Pougatch presents coverage of England's friendly international against Uruguay at Wembley Stadium, as Thomas Tuchel's side countdown to the summer's World Cup.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/57f80f0f-df0e-4e53-b229-1a553c88a29b/cover",
-          "start_time": "19:00",
-          "end_time": "22:05"
-        },
-        {
-          "show_name": "ITV News at Ten",
-          "show_description": "ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/41f8b8ba-bcfa-4066-bf30-f0fdde3d97ae/cover",
-          "start_time": "22:05",
-          "end_time": "22:40"
-        },
-        {
-          "show_name": "ITV News Central",
-          "show_description": "The latest news and weather from the Midlands.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/30953181-3327-4e97-97b0-47351f9ff764/cover",
-          "start_time": "22:40",
-          "end_time": "22:50"
-        },
-        {
-          "show_name": "New: Devil in Disguise: John Wayne Gacy",
-          "show_description": "Jeffrey: The final episode of the US drama based on real events. The life of one of Gacy's few surviving victims is chronicled as the murderer's execution day arrives.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7a5bb9cf-796f-4b37-9c09-4c4d1212012b/cover",
-          "start_time": "22:50",
-          "end_time": "23:55"
-        },
         {
           "show_name": "Millionaire Hot Seat",
           "show_description": "Jeremy Clarkson hosts the quiz where six players race to answer timed questions and hope to win one million pounds, but it all comes down to who's in the Hot Seat at the end.",
           "show_logo": "https://images.metadata.sky.com/pd-image/6af7eae4-4564-4fc3-b7cb-6bbc39cb4c09/cover",
-          "start_time": "23:55",
-          "end_time": "00:20"
-        }
-      ]
-    },
-    {
-      "date": "28 March 2026",
-      "programmes": [
+          "start_time": "00:08",
+          "end_time": "00:32"
+        },
         {
           "show_name": "Shop on TV",
           "show_description": "Teleshopping.",
           "show_logo": "https://images.metadata.sky.com/pd-image/d06a4084-a08c-4ef1-8428-4c317007c028/cover",
-          "start_time": "00:20",
+          "start_time": "00:32",
           "end_time": "03:00"
         },
         {
@@ -162,13 +24,13 @@
           "show_description": "In Our Blood: The Forever Chemicals Scandal: Revealing how toxic PFAS 'forever chemicals' contaminated a UK town, leaving residents and workers with staggering blood test results",
           "show_logo": "https://images.metadata.sky.com/pd-image/5a76ed99-8890-439d-bd3f-b625fecebda4/cover",
           "start_time": "03:00",
-          "end_time": "04:10"
+          "end_time": "04:15"
         },
         {
           "show_name": "Unwind with ITV",
           "show_description": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
           "show_logo": "https://images.metadata.sky.com/pd-image/a80f48fe-d89e-400d-9b0b-05b8a66f7f4e/cover",
-          "start_time": "04:10",
+          "start_time": "04:15",
           "end_time": "05:05"
         },
         {
@@ -317,6 +179,158 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/38d408d8-822a-4b40-8d49-df4071229905/cover",
           "start_time": "23:15",
           "end_time": "02:30"
+        }
+      ]
+    },
+    {
+      "date": "29 March 2026",
+      "programmes": [
+        {
+          "show_name": "Shop on TV",
+          "show_description": "Teleshopping.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8bad5dfd-f4ea-4d57-aab9-45fadd9e9140/cover",
+          "start_time": "02:30",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Devil in Disguise: John Wayne Gacy",
+          "show_description": "Jeffrey: The final episode of the US drama based on real events. The life of one of Gacy's few surviving victims is chronicled as the murderer's execution day arrives.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7a5bb9cf-796f-4b37-9c09-4c4d1212012b/cover",
+          "start_time": "04:00",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "Unwind with ITV",
+          "show_description": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d5d97f74-c5ad-4271-873e-a7ffc976d98d/cover",
+          "start_time": "05:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "James Martin's Saturday Morning",
+          "show_description": "James is joined in the kitchen by Olympic gold medal-winning rower James Cracknell, chefs Meliz Berg and John Hooker, and First Dates barman Merlin Griffiths.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c755cd19-c401-4e2e-a9e2-5386b736eed4/cover",
+          "start_time": "06:00",
+          "end_time": "08:25"
+        },
+        {
+          "show_name": "New: Jimmy and Shivi's Farmhouse Breakfast",
+          "show_description": "Leah Charles-King: Jimmy and Shivi are joined by presenter Leah Charles-King to make pictures using the magic of the sun and a DIY upcycling challenge too.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/14b17764-2540-4548-8134-f3e5aee15834/cover",
+          "start_time": "08:25",
+          "end_time": "09:25"
+        },
+        {
+          "show_name": "ITV News",
+          "show_description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7c858bc7-cc0e-4101-9f68-fa6acae03ac0/cover",
+          "start_time": "09:25",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "New: Love Your Weekend with Alan Titchmarsh",
+          "show_description": "Joining Alan at Manor Farm are Tessa Peake-Jones, Adam Garcia, and Phil Daniels as we visit a farm helping adults with disabilities and autism through nature.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b61e02de-be5f-4d0d-aa82-76610a755402/cover",
+          "start_time": "09:30",
+          "end_time": "11:25"
+        },
+        {
+          "show_name": "New: Fletchers' Family Farm",
+          "show_description": "Documentary series. With a blanket of snow across the Peak District, Liz and Kelvin brave the elements and check on their livestock to make sure they're all well fed and watered.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1c344865-7419-449c-9e32-4b9d15ccd507/cover",
+          "start_time": "11:25",
+          "end_time": "12:25"
+        },
+        {
+          "show_name": "Love Your Garden",
+          "show_description": "Alan and his team create a traditional formal garden for inspirational couple Richard and Lynette Warren while also revealing how to mark out a perfectly oval lawn.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6c689fec-d671-4d0f-864f-f49e50be8709/cover",
+          "start_time": "12:25",
+          "end_time": "12:55"
+        },
+        {
+          "show_name": "ITV News",
+          "show_description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9896fbb4-d62d-4b34-85a3-e3ca085fd01c/cover",
+          "start_time": "12:55",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Britain's Got Talent",
+          "show_description": "The auditions return to Blackpool's Winter Gardens as further acts take to the stage with performances to impress the crowd and judges, Simon, Amanda, Alesha and KSI.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ef3517fa-f3c7-491a-b391-7ab51e78389e/cover",
+          "start_time": "13:00",
+          "end_time": "14:15"
+        },
+        {
+          "show_name": "Celebrity Sabotage",
+          "show_description": "Reality game show where celebrities cause chaos to win money for unsuspecting contestants of totally fake TV shows! Olivia Attwood joins as this week's rebellious Guest Saboteur.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e86121e0-f78d-459f-81c0-ef1a5776dcaf/cover",
+          "start_time": "14:15",
+          "end_time": "15:20"
+        },
+        {
+          "show_name": "Indiana Jones and the Kingdom of the Crystal Skull",
+          "show_description": "Action-adventure film reboot starring Harrison Ford and Cate Blanchett, 2008. Indiana Jones battles Soviet agents searching for a telepathic crystal skull.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0db52221-e6cc-46c2-a143-bc6ccaea2582/cover",
+          "start_time": "15:20",
+          "end_time": "17:35"
+        },
+        {
+          "show_name": "The Chase",
+          "show_description": "Bradley Walsh hosts and is behind Karen from Dumfries, Ben from Oldham, Andy from Leeds and Sam from Dagenham all the way as they try to beat one of the country's finest quizzers.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a0524d92-25d3-31f2-8c3c-72af3b8aded6/cover",
+          "start_time": "17:35",
+          "end_time": "18:35"
+        },
+        {
+          "show_name": "ITV Evening News",
+          "show_description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f10508d8-3568-43d4-b818-0ff35ec3a099/cover",
+          "start_time": "18:35",
+          "end_time": "18:50"
+        },
+        {
+          "show_name": "ITV News Central",
+          "show_description": "The latest news and weather from the Midlands.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/efd305a5-92f5-4a5d-9489-3fe8efb59440/cover",
+          "start_time": "18:50",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Emmerdale",
+          "show_description": "Cain is determined. Matty delivers devastating news. Tracy's heartbroken.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c3a50727-f75d-44c5-97f8-8b6329b526db/cover",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Coronation Street",
+          "show_description": "Todd's friends discuss their evidence against Theo, Mal calls at Number 7 to deliver a bombshell to Dev, and Ollie urges Will to stop covering for Megan.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/259f9b75-fe6f-4c75-90cc-5f4a39d10b18/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "New: Grace",
+          "show_description": "Left You Dead: When the wife of a Brighton property developer is reported missing, Grace is plunged into a tangled investigation where everyone involved has something to hide.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/690c0375-c309-408e-8b3d-e7177458f62e/cover",
+          "start_time": "20:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "ITV News",
+          "show_description": "National and international news with reports and analysis from ITV's Correspondents in the UK and around the world as well as the latest major sports results.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a84dc73c-09ff-4d9f-83bc-4a20b5ae45ad/cover",
+          "start_time": "22:00",
+          "end_time": "22:20"
+        },
+        {
+          "show_name": "Creed III",
+          "show_description": "Boxing drama film sequel starring Michael B Jordan and Tessa Thompson, 2023. Adonis Creed faces more than just a fight when a childhood friend and former boxing prodigy resurfaces.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e7dc9438-a4b5-3488-9e03-0a1968e9bd5f/cover",
+          "start_time": "22:20",
+          "end_time": "00:15"
         }
       ]
     }

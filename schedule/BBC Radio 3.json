@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
   "schedule": [
     {
-      "date": "27 March 2026",
-      "programmes": [
-        {
-          "show_name": "Through the Night",
-          "show_description": "The Cererols Choir, organist Joan Seguí and conductor Marc Díaz perform music by Monteverdi, Cererols, Kerll, Howells, Lassus and Vivancos. Jonathan Swain presents.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Essential Classics",
-          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Classical Live",
-          "show_description": "Mark Forrest with exclusive recordings for the afternoon including performances from the Czech Philharmonic Orchestra and chamber music from LSO St. Luke's in London.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Composer of the Week: Thomas Adès",
-          "show_description": "5/5. Donald Macleod and Thomas Adès dive into his more recent works, including his opera The Exterminating Angel and his water-inspired concert piece, Aquifer.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "In Tune",
-          "show_description": "Live music from Johannes Pramsohler.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Classical Mixtape",
-          "show_description": "Take time out with a 30-minute soundscape of classical music.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Friday Night is Music Night",
-          "show_description": "Favourite moments from the Broadway and the West End, including Les Misérables, The Phantom of the Opera, Sweeney Todd, Carousel and Company all sung by the dazzling BBC Singers.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "The Essay: Erland Cooper's...",
-          "show_description": "...Cities of the Imagination. Erland takes a mystical trip north of the Himalayas, to the 'earthly paradise' of Shambhala, to explore its luminous heart: the capital city of Kalapa.",
-          "show_logo": "",
-          "start_time": "21:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Late Junction",
-          "show_description": "Jennifer Lucy Allan pays a visit to the London studio of field recordist, sound artist and founder of the Flaming Pines label, Kate Carr.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "'Round Midnight",
-          "show_description": "Rounding off Jamie Cullum's week sitting in for Soweto Kinch on 'Round Midnight, Jamie invites singer Ego Ella May as his Friday night mixtape guest.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "28 March 2026",
       "programmes": [
         {
@@ -131,7 +49,7 @@
         },
         {
           "show_name": "Sound Of Cinema",
-          "show_description": "Edith Bowman showcases the finest in film and television scores- featuring a conversation with British musician and composer Antony Genn on scoring the new Peaky Blinders movie.",
+          "show_description": "Edith Bowman showcases the finest in film and television scores - featuring a conversation with composer Antony Genn and Stephen Fry shares his Pick of the Flicks.",
           "show_logo": "",
           "start_time": "16:00",
           "end_time": "17:00"
@@ -162,6 +80,88 @@
           "show_description": "Kate Molleson presents Ryoji Ikeda's Metal Music, recorded at London's Barbican Hall, and Tansy Davies selects her Listen List. Plus composer/vocalist Elaine Mitchener.",
           "show_logo": "",
           "start_time": "22:30",
+          "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "29 March 2026",
+      "programmes": [
+        {
+          "show_name": "Through the Night",
+          "show_description": "A recital from London's Wigmore Hall featuring Meta4 performing Robert Schumann's String Quartet no 1 and Sally Beamish's String Quartet no 4 'Nine Fragments'.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "Mark Forrest presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Sunday Morning",
+          "show_description": "Join Petroc Trelawny for three hours of classical masterpieces, the perfect start to your Sunday.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Private Passions",
+          "show_description": "Michael Berkeley's guest is the award-winning comedian and writer Miranda Hart.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Music Map",
+          "show_description": "Sara Mohr-Pietsch explores Vivaldi's setting of the Stabat Mater, a 13th-century hymn to the Virgin Mary. Featuring medieval music and sacred works from Dvorak, Handel and Gounod.",
+          "show_logo": "",
+          "start_time": "13:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Choral Evensong",
+          "show_description": "From St Barnabas Church, Ealing, London, with Imperial College Chamber Choir.",
+          "show_logo": "",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Music for Holy Week",
+          "show_description": "Radio 3's annual celebration of sacred music for Holy Week with concerts from across Europe.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "20th Century Radicals",
+          "show_description": "For the final show in the series, Kate Molleson and Gillian Moore explore a piece which placed its composer at the vanguard of mid-century modernism: Le marteau sans maître.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Compline",
+          "show_description": "A reflective service of night prayer from the Church of Our Most Holy Redeemer, Clerkenwell, London.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Night Tracks",
+          "show_description": "Sara Mohr-Pietsch presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
+          "show_logo": "",
+          "start_time": "22:30",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "Unclassified",
+          "show_description": "Elizabeth Alker with a late-night journey through new music from today's most exciting genre-defying artists.",
+          "show_logo": "",
+          "start_time": "23:30",
           "end_time": "00:30"
         }
       ]

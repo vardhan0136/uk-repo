@@ -3,144 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Bloomberg-TV-HD.png",
   "schedule": [
     {
-      "date": "27 March 2026",
-      "programmes": [
-        {
-          "show_name": "Bloomberg The Asia Trade",
-          "show_description": "Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets. Ep1",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5b2f326d-dff3-4af1-8f65-93cbf6ce7894/cover",
-          "start_time": "00:00",
-          "end_time": "00:30"
-        },
-        {
-          "show_name": "Bloomberg Tech: Asia",
-          "show_description": "Exclusive access to emerging voices and important stories shaping the future of tech worldwide. Hosted by Shery Ahn in Tokyo and Annabelle Droulers in Hong Kong.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0ba2664d-9db3-4577-a624-1e4f6f731b27/cover",
-          "start_time": "00:30",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "Bloomberg: The China Show",
-          "show_description": "Your definitive source for news and analysis on the world's second-biggest economy. Hosted by Yvonne Man and David Ingles. Ep1",
-          "show_logo": "https://images.metadata.sky.com/pd-image/57f48498-5bbf-414a-9a99-80f85c148fbd/cover",
-          "start_time": "01:00",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Insight with Haslinda Amin",
-          "show_description": "The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6e92dc8e-a226-42da-b807-382638ffa82d/cover",
-          "start_time": "03:00",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "Bloomberg Horizons Middle East & Africa",
-          "show_description": "Linking the market drivers from overnight in the US and across Asia into the region's trading day, with deep dive analysis of the top business, energy and geopolitical stories.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b2d0b115-12de-45e0-8c77-31abbe957a01/cover",
-          "start_time": "05:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Bloomberg Daybreak: Europe",
-          "show_description": "Live from London, we catch you up with overnight markets news from the US and Asia. Plus, we'll tell you what matters for investors in Europe, giving you insight before trading begins.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d1b94bf7-6484-472e-aa49-63820d303c07/cover",
-          "start_time": "06:00",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Bloomberg: The Opening Trade",
-          "show_description": "Everything you need to know as markets open across Europe. We break down today's biggest stories and speak to guests with skin in the game.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/73202067-3d37-42a5-b5be-c977b23dfa08/cover",
-          "start_time": "07:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "The Pulse with Francine Lacqua",
-          "show_description": "Conversations with high profile guests in the beating heart of global business, finance and politics. We go wherever the story is, bringing you exclusive interviews and market-moving scoops.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3d5de888-a233-4148-9160-ab4dbecc4ec5/cover",
-          "start_time": "09:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Bloomberg Surveillance",
-          "show_description": "Daily conversations with leaders and decision makers from Wall Street to Washington and beyond. Hosted by Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e7ba7a4d-57d6-49aa-95fd-9b2dc4a383a3/cover",
-          "start_time": "10:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Bloomberg Open Interest",
-          "show_description": "Bloomberg Open Interest with Matt Miller and Dani Burger - delivers the market-moving news you need to know to get a jump start on the US trading day.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8ca5bea5-4e0b-48ca-ad81-0e6be8b8af00/cover",
-          "start_time": "13:00",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Bloomberg Tech",
-          "show_description": "The only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0f1ebd32-f7c3-43e9-a6fa-e16ad72eaad2/cover",
-          "start_time": "15:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Bloomberg Real Yield",
-          "show_description": "A weekly show on fixed income with the biggest names in the field, covering sovereign and credit markets as investors grapple with fiscal, monetary and financial factors.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f7e0cef4-f352-439a-9544-a16525139534/cover",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Bloomberg: Balance of Power",
-          "show_description": "Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/87df772f-37ab-41e9-b0d6-cf86c43131b3/cover",
-          "start_time": "17:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Bloomberg Businessweek Daily",
-          "show_description": "Carol Massar and Tim Stenovec bring you reporting from the magazine that helps global leaders stay ahead, plus insight on the people, companies and trends shaping today's complex economy.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cc78c64b-ed54-4d4b-a686-4cd5defbaef7/cover",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Bloomberg The Close",
-          "show_description": "Romaine Bostick and Katie Greifeld break down the day's top market-moving stories and trading action around the closing bell.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ec9fde28-bc80-4535-88c6-f7cfc0ce0661/cover",
-          "start_time": "19:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Bloomberg: Balance of Power",
-          "show_description": "Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/43c44dc9-398a-4d1b-bcd8-64294a12daf1/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Bloomberg Wall Street Week",
-          "show_description": "A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2a3b299c-3f15-4da6-8505-982dedc3645a/cover",
-          "start_time": "22:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Bloomberg Next Africa",
-          "show_description": "A monthly deep dive into Africa's biggest stories through a Bloomberg lens, discussing key steps taken to help deliver on Africa's quest of bridging the gap with global powers.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/65e9acb1-d594-48b8-ab21-e61391668de9/cover",
-          "start_time": "23:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "The Mishal Husain Show",
-          "show_description": "Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d0941dcf-2de0-4640-9401-d109d69a1b67/cover",
-          "start_time": "23:30",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "28 March 2026",
       "programmes": [
         {
@@ -407,6 +269,242 @@
           "show_description": "AT&T CFO Pascal Desroches has partnered with CEO John Stankey to restructure the company around a core of fibre and 5G wireless connectivity. S5, Ep3",
           "show_logo": "https://images.metadata.sky.com/pd-image/9defbd1e-2727-42e6-ac92-36bd41ca60a3/cover",
           "start_time": "23:30",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "29 March 2026",
+      "programmes": [
+        {
+          "show_name": "Bloomberg Investigates",
+          "show_description": "A police raid in a small town in the Philippines revealed a young mayor's alleged connections to a $2 billion Singapore money laundering scandal and Chinese espionage. S5, Ep5",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3564a0dc-5535-4daa-94fe-e86a98119a55/cover",
+          "start_time": "00:00",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "Bloomberg Originals",
+          "show_description": "Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f1cfacdd-6716-405e-9d23-2a16549e2c37/cover",
+          "start_time": "02:00",
+          "end_time": "02:30"
+        },
+        {
+          "show_name": "Bloomberg Primer",
+          "show_description": "Scientists are developing powerful magnets to enable clean energy sources like fusion. But China's dominance of the supply chain for rare-earth magnets threatens their global availability. S1, Ep1",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8dabfa4f-41a8-400e-a0f8-cbce53ae1cd9/cover",
+          "start_time": "02:30",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Bloomberg Primer",
+          "show_description": "We explore the world of biocomputing-where scientists are laying the foundation for a field that may blur the lines between the biological and synthetic. S1, Ep2",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f3272a12-6487-47be-892d-5136219b919d/cover",
+          "start_time": "03:00",
+          "end_time": "03:30"
+        },
+        {
+          "show_name": "Bloomberg New Economy: Thriving in an Age of Extremes",
+          "show_description": "Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/57c0b6ab-175d-4d99-965c-b7ff305b85ee/cover",
+          "start_time": "03:30",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Bloomberg Investigates",
+          "show_description": "A police raid in a small town in the Philippines revealed a young mayor's alleged connections to a $2 billion Singapore money laundering scandal and Chinese espionage. S5, Ep5",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3564a0dc-5535-4daa-94fe-e86a98119a55/cover",
+          "start_time": "04:00",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "Bloomberg Originals",
+          "show_description": "Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0c1b882e-7d58-43cf-b2d3-b0e668a739f1/cover",
+          "start_time": "05:00",
+          "end_time": "05:30"
+        },
+        {
+          "show_name": "Best of the Bloomberg Women Money & Power Event",
+          "show_description": "Highlights of the event which brings together the most influential female voices in finance from around the world to discuss the biggest themes facing the future of business.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4e116ccb-d77f-46d0-b633-1446aac08ba8/cover",
+          "start_time": "05:30",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "The Circuit",
+          "show_description": "Inside Stargate (Part 2). Emily goes inside Stargate, a historic $500 billion bet on the future of AI. She speaks with OpenAI CEO Sam Altman & Softbank CEO Masayoshi Son about the project. S3, Ep2",
+          "show_logo": "https://images.metadata.sky.com/pd-image/42405e5b-f520-4558-9769-8f54a0255748/cover",
+          "start_time": "06:00",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Bloomberg Chief Future Officer",
+          "show_description": "Gina Goetter is the CFO and COO of Hasbro. She's the architect of the company's transformation, diversifying its manufacturing footprint and investing in Hasbro's video game ambitions. S5, Ep7",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7e2fc7b5-f5d2-4922-b083-0f2d0412a23d/cover",
+          "start_time": "06:30",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Best of Bloomberg Invest 2026",
+          "show_description": "A recap of Bloomberg Invest New York, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/face8f09-d57b-42fd-98ac-d7d39398c2e9/cover",
+          "start_time": "07:00",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "The Mishal Husain Show",
+          "show_description": "Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f228f8c6-a58d-465b-9c40-34be93d99088/cover",
+          "start_time": "07:30",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Leaders with Francine Lacqua The Podcast",
+          "show_description": "Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/40399b00-88ec-4b8d-bbeb-70f822d291b8/cover",
+          "start_time": "08:00",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "The Circuit",
+          "show_description": "Emily meets Snap CEO Evan Spiegel in Los Angeles for a conversation about his entrepreneurial journey, building Snap and his latest consumer hardware bet. S4, Ep2",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1a159732-a956-4119-a347-5cbac1e8cb80/cover",
+          "start_time": "08:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Bloomberg Wall Street Week",
+          "show_description": "A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8ba1c1b0-6feb-4952-a684-33e83b5674ab/cover",
+          "start_time": "09:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Bloomberg Investigates",
+          "show_description": "A police raid in a small town in the Philippines revealed a young mayor's alleged connections to a $2 billion Singapore money laundering scandal and Chinese espionage. S5, Ep5",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3564a0dc-5535-4daa-94fe-e86a98119a55/cover",
+          "start_time": "10:00",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "Bloomberg Wall Street Week",
+          "show_description": "A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e0c69d00-ee80-4fd9-9b95-a372da1fe3af/cover",
+          "start_time": "11:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Bloomberg This Weekend",
+          "show_description": "The news doesn't stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humour to the weekend's biggest headlines, live from New York.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/763da3c3-973a-4972-a3cb-7f1fe804d100/cover",
+          "start_time": "12:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "The Mishal Husain Show",
+          "show_description": "Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c3dd0ec2-8337-434d-a026-2e533c3351d4/cover",
+          "start_time": "15:00",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "The David Rubenstein Show",
+          "show_description": "Bill Browder, Hermitage Co-Founder. Bill Browder, founder and CEO of Hermitage Capital Management, explains how he became one of Vladimir Putin's most wanted critics. S11, Ep10",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cbc64533-4a12-426b-ba11-cd81bdabb290/cover",
+          "start_time": "15:30",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Businessweek Convenes: Black...",
+          "show_description": "...Leaders Face the DEI Backlash. An exclusive roundtable with prominent Black business leaders to discuss DEI rollbacks in corporate America. With Ursula Burns, Lisa Wardell and more.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d434bc44-685e-458d-989c-cbc60aa5b13e/cover",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Bloomberg Wall Street Week",
+          "show_description": "A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/19381b8f-3fe4-4c59-a206-ea7fe30149de/cover",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "The David Rubenstein Show",
+          "show_description": "Bill Browder, Hermitage Co-Founder. Bill Browder, founder and CEO of Hermitage Capital Management, explains how he became one of Vladimir Putin's most wanted critics. S11, Ep10",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cbc64533-4a12-426b-ba11-cd81bdabb290/cover",
+          "start_time": "18:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "Bloomberg Next Africa",
+          "show_description": "A monthly deep dive into Africa's biggest stories through a Bloomberg lens, discussing key steps taken to help deliver on Africa's quest of bridging the gap with global powers.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8c81114b-55f8-48f2-816d-0ced58c8a9d6/cover",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Bloomberg Chief Future Officer",
+          "show_description": "Gina Goetter is the CFO and COO of Hasbro. She's the architect of the company's transformation, diversifying its manufacturing footprint and investing in Hasbro's video game ambitions. S5, Ep7",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7e2fc7b5-f5d2-4922-b083-0f2d0412a23d/cover",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Bloomberg Chief Future Officer",
+          "show_description": "AT&T CFO Pascal Desroches has partnered with CEO John Stankey to restructure the company around a core of fibre and 5G wireless connectivity. S5, Ep3",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9defbd1e-2727-42e6-ac92-36bd41ca60a3/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Leaders with Francine Lacqua The Podcast",
+          "show_description": "HSBC CEO Georges Elhedery reflects on leadership, integrity and cultural fluency, and shares how HSBC is adapting to geopolitical tensions, shifting trade routes and AI. S1, Ep2",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b3d61b2a-eb4d-44be-8bb2-b80eda378424/cover",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "The Mishal Husain Show",
+          "show_description": "Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6459d2c5-0329-4f83-848c-cd07ef418a21/cover",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "The Mishal Husain Show",
+          "show_description": "Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5ee9d49f-4557-4f89-9fcb-3b6db9a926ff/cover",
+          "start_time": "21:00",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "The Circuit",
+          "show_description": "Salesforce's Marc Benioff. Emily meets Salesforce Co-Founder & CEO Marc Benioff to discuss the rise of AI agents and what it's like to run a very meme-able global tech company. S3, Ep6",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c68348d0-c569-4d29-a1ac-4d7688fb4d83/cover",
+          "start_time": "21:30",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Best of Bloomberg Invest 2026",
+          "show_description": "A recap of Bloomberg Invest New York, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/face8f09-d57b-42fd-98ac-d7d39398c2e9/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Bloomberg Originals",
+          "show_description": "Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/556fdfd4-e069-4d67-a51e-0051ccff197f/cover",
+          "start_time": "22:30",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Bloomberg Wall Street Week",
+          "show_description": "A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2706334d-39ca-4ec0-9c6e-cbf646de152f/cover",
+          "start_time": "23:00",
           "end_time": "00:00"
         }
       ]
