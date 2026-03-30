@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
   "schedule": [
     {
-      "date": "29 March 2026",
-      "programmes": [
-        {
-          "show_name": "Through the Night",
-          "show_description": "A recital from London's Wigmore Hall featuring Meta4 performing Robert Schumann's String Quartet no 1 and Sally Beamish's String Quartet no 4 'Nine Fragments'.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "Mark Forrest presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Sunday Morning",
-          "show_description": "Join Petroc Trelawny for three hours of classical masterpieces, the perfect start to your Sunday.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Private Passions",
-          "show_description": "Michael Berkeley's guest is the award-winning comedian and writer Miranda Hart.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Music Map",
-          "show_description": "Sara Mohr-Pietsch explores Vivaldi's setting of the Stabat Mater, a 13th-century hymn to the Virgin Mary. Featuring medieval music and sacred works from Dvorak, Handel and Gounod.",
-          "show_logo": "",
-          "start_time": "13:30",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Choral Evensong",
-          "show_description": "From St Barnabas Church, Ealing, London, with Imperial College Chamber Choir.",
-          "show_logo": "",
-          "start_time": "15:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Music for Holy Week",
-          "show_description": "Radio 3's annual celebration of sacred music for Holy Week with concerts from across Europe.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "20th Century Radicals",
-          "show_description": "For the final show in the series, Kate Molleson and Gillian Moore explore a piece which placed its composer at the vanguard of mid-century modernism: Le marteau sans maître.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Compline",
-          "show_description": "A reflective service of night prayer from the Church of Our Most Holy Redeemer, Clerkenwell, London.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "Night Tracks",
-          "show_description": "Sara Mohr-Pietsch presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
-          "show_logo": "",
-          "start_time": "22:30",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "Unclassified",
-          "show_description": "Elizabeth Alker with a late-night journey through new music from today's most exciting genre-defying artists.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "30 March 2026",
       "programmes": [
         {
@@ -160,6 +78,88 @@
         {
           "show_name": "'Round Midnight",
           "show_description": "Tonight Soweto is back with more of the best in jazz and welcomes Salin as his 4/4 guest.",
+          "show_logo": "",
+          "start_time": "23:30",
+          "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "31 March 2026",
+      "programmes": [
+        {
+          "show_name": "Through the Night",
+          "show_description": "Renaud Capuçon conducts the Lausanne Chamber Orchestra with Martha Argerich as the soloist in Beethoven's second piano concerto, paired with Brahms's Serenade no 2.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "John Toal presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Essential Classics",
+          "show_description": "Ian Skelly plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Classical Live",
+          "show_description": "Linton Stephens introduces an afternoon of specially made recordings including Bruckner's Symphony No. 9 in D minor and recent chamber music recordings from the Crucible, Sheffield.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Composer of the Week: Hildegard...",
+          "show_description": "...of Bingen and Isabella Leonarda. 2/5. Leonarda's talent flourishes within the confines of her convent. With Donald Macleod.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "In Tune",
+          "show_description": "Katie Derham is joined for a live performance by pianist Antoine Préat promoting his new album 'Fortune's Fool'. Katie talks to Piers Kennedy about his new music for Holy Week.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Classical Mixtape",
+          "show_description": "Take time out with a 30-minute soundscape of classical music.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Radio 3 in Concert",
+          "show_description": "The BBC Scottish Symphony Orchestra and conductor Ryan Wigglesworth are joined by Alban Gerhardt for an all-British programme.",
+          "show_logo": "",
+          "start_time": "19:30",
+          "end_time": "21:45"
+        },
+        {
+          "show_name": "The Essay: The Lives of Hildegard of Bingen",
+          "show_description": "2/5. Medieval composer and polymath Hildegard of Bingen remembers her life as an anchoress. A fictionalised account, written by Anna Linstrum and performed by Juliet Stevenson.",
+          "show_logo": "",
+          "start_time": "21:45",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Night Tracks",
+          "show_description": "Sara Mohr-Pietsch presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "'Round Midnight",
+          "show_description": "Soweto returns with more of the best in jazz from the UK and around the world.",
           "show_logo": "",
           "start_time": "23:30",
           "end_time": "00:30"
