@@ -3,571 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-World-Service.png",
   "schedule": [
     {
-      "date": "30 March 2026",
-      "programmes": [
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "00:06"
-        },
-        {
-          "show_name": "From Our Own Correspondent",
-          "show_description": "Cubans speak out on food, fuel and power shortages; the emotions shaking Lebanon; China's strategy on the Iran conflict; how Iranians marked Nowruz (Persian New Year) in wartime.",
-          "show_logo": "",
-          "start_time": "00:06",
-          "end_time": "00:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "00:32"
-        },
-        {
-          "show_name": "BBC Inside Science",
-          "show_description": "This week NASA proposed an ambitious plan, to build a moon base and a new spacecraft, one capable of travelling further and faster than ever before.",
-          "show_logo": "",
-          "start_time": "00:32",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "01:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "01:06",
-          "end_time": "01:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "01:30",
-          "end_time": "01:32"
-        },
-        {
-          "show_name": "Discovery",
-          "show_description": "The rapid spread of antibiotic resistant bacteria is already claiming lives - and a far greater global crisis is on the horizon.",
-          "show_logo": "",
-          "start_time": "01:32",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "02:00",
-          "end_time": "02:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "02:06",
-          "end_time": "02:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "02:30",
-          "end_time": "02:32"
-        },
-        {
-          "show_name": "CrowdScience",
-          "show_description": "CrowdScience listener Po wants to know if AI will take over all human jobs - including making this show.",
-          "show_logo": "",
-          "start_time": "02:32",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "03:00",
-          "end_time": "03:06"
-        },
-        {
-          "show_name": "People Fixing The World",
-          "show_description": "How mums are helping transform early years education in Ghana - plus our listener poem inspired by you!",
-          "show_logo": "",
-          "start_time": "03:06",
-          "end_time": "03:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "03:30",
-          "end_time": "03:32"
-        },
-        {
-          "show_name": "The Fifth Floor",
-          "show_description": "How the BBC Russian Service connects with its audience.",
-          "show_logo": "",
-          "start_time": "03:32",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "04:00",
-          "end_time": "04:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "04:06",
-          "end_time": "04:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "04:30",
-          "end_time": "04:32"
-        },
-        {
-          "show_name": "The Conversation",
-          "show_description": "Datshiane Navanayagam speaks to two women tackling the many ways that people have their images stolen and shared online.",
-          "show_logo": "",
-          "start_time": "04:32",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "05:00",
-          "end_time": "05:06"
-        },
-        {
-          "show_name": "Newsday",
-          "show_description": "Live news, business and sport from around the world.",
-          "show_logo": "",
-          "start_time": "05:06",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "06:06"
-        },
-        {
-          "show_name": "Newsday",
-          "show_description": "Live news, business and sport from around the world.",
-          "show_logo": "",
-          "start_time": "06:06",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "07:06"
-        },
-        {
-          "show_name": "Newsday",
-          "show_description": "Live news, business and sport from around the world.",
-          "show_logo": "",
-          "start_time": "07:06",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "08:00",
-          "end_time": "08:06"
-        },
-        {
-          "show_name": "The Interview",
-          "show_description": "Mohammed Idris, Nigeria's Information Minister, speaks to Victoria Uwonkunda about rising militant attacks and how to retain talent as more Nigerians look abroad.",
-          "show_logo": "",
-          "start_time": "08:06",
-          "end_time": "08:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "08:30",
-          "end_time": "08:32"
-        },
-        {
-          "show_name": "Business Daily",
-          "show_description": "Nearly a year on, we explore the impacts of President Trump's sweeping tariffs on countries all around the world.",
-          "show_logo": "",
-          "start_time": "08:32",
-          "end_time": "08:50"
-        },
-        {
-          "show_name": "Witness History",
-          "show_description": "In 1972, the world's longest-running study of wild elephants was launched in Kenya. And filming of the Amboseli Elephant Research Project made a star of one its subjects - Echo.",
-          "show_logo": "",
-          "start_time": "08:50",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "09:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "09:06",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "09:32"
-        },
-        {
-          "show_name": "CrowdScience",
-          "show_description": "CrowdScience listener Po wants to know if AI will take over all human jobs - including making this show.",
-          "show_logo": "",
-          "start_time": "09:32",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "10:06"
-        },
-        {
-          "show_name": "The History Hour",
-          "show_description": "Pope John Paul II visits New Zealand and East and West Germany reunite.",
-          "show_logo": "",
-          "start_time": "10:06",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "11:00",
-          "end_time": "11:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "11:06",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "11:30",
-          "end_time": "11:32"
-        },
-        {
-          "show_name": "The Global Story",
-          "show_description": "A jury in Los Angeles found on Wednesday that Meta and YouTube are responsible for a woman's childhood addiction to social media.",
-          "show_logo": "",
-          "start_time": "11:32",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "12:06"
-        },
-        {
-          "show_name": "Outlook",
-          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
-          "show_logo": "",
-          "start_time": "12:06",
-          "end_time": "12:50"
-        },
-        {
-          "show_name": "Witness History",
-          "show_description": "In 1972, the world's longest-running study of wild elephants was launched in Kenya. And filming of the Amboseli Elephant Research Project made a star of one its subjects - Echo.",
-          "show_logo": "",
-          "start_time": "12:50",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "13:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "13:06",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "13:30",
-          "end_time": "13:32"
-        },
-        {
-          "show_name": "The Conversation",
-          "show_description": "Datshiane Navanayagam speaks to two women tackling the many ways that people have their images stolen and shared online.",
-          "show_logo": "",
-          "start_time": "13:32",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "14:06"
-        },
-        {
-          "show_name": "Newshour",
-          "show_description": "Interviews, news and analysis of the day's global events.",
-          "show_logo": "",
-          "start_time": "14:06",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "15:00",
-          "end_time": "15:06"
-        },
-        {
-          "show_name": "The Interview",
-          "show_description": "Mohammed Idris, Nigeria's Information Minister, speaks to Victoria Uwonkunda about rising militant attacks and how to retain talent as more Nigerians look abroad.",
-          "show_logo": "",
-          "start_time": "15:06",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "15:30",
-          "end_time": "15:32"
-        },
-        {
-          "show_name": "Business Daily",
-          "show_description": "Nearly a year on, we explore the impacts of President Trump's sweeping tariffs on countries all around the world.",
-          "show_logo": "",
-          "start_time": "15:32",
-          "end_time": "15:50"
-        },
-        {
-          "show_name": "World Business Express",
-          "show_description": "Finance, economy and business news from BBC journalists around the world.",
-          "show_logo": "",
-          "start_time": "15:50",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "16:06"
-        },
-        {
-          "show_name": "Outside Source",
-          "show_description": "A vibrant account of the day's events with explanation and reaction from those involved.",
-          "show_logo": "",
-          "start_time": "16:06",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "17:06"
-        },
-        {
-          "show_name": "Outside Source",
-          "show_description": "A vibrant account of the day's events with explanation and reaction from those involved.",
-          "show_logo": "",
-          "start_time": "17:06",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "18:06"
-        },
-        {
-          "show_name": "Outlook",
-          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
-          "show_logo": "",
-          "start_time": "18:06",
-          "end_time": "18:50"
-        },
-        {
-          "show_name": "Witness History",
-          "show_description": "In 1972, the world's longest-running study of wild elephants was launched in Kenya. And filming of the Amboseli Elephant Research Project made a star of one its subjects - Echo.",
-          "show_logo": "",
-          "start_time": "18:50",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "19:06",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "19:32"
-        },
-        {
-          "show_name": "Sport Today",
-          "show_description": "BBC sports correspondents tell the story behind today's top sporting news, with interviews and reports from across the world.",
-          "show_logo": "",
-          "start_time": "19:32",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "20:06"
-        },
-        {
-          "show_name": "From Our Own Correspondent",
-          "show_description": "Cubans speak out on food, fuel and power shortages; the emotions shaking Lebanon; China's strategy on the Iran conflict; how Iranians marked Nowruz (Persian New Year) in wartime.",
-          "show_logo": "",
-          "start_time": "20:06",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "20:30",
-          "end_time": "20:32"
-        },
-        {
-          "show_name": "Discovery",
-          "show_description": "The rapid spread of antibiotic resistant bacteria is already claiming lives - and a far greater global crisis is on the horizon.",
-          "show_logo": "",
-          "start_time": "20:32",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "21:06"
-        },
-        {
-          "show_name": "Newshour",
-          "show_description": "Interviews, news and analysis of the day's global events.",
-          "show_logo": "",
-          "start_time": "21:06",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "22:06"
-        },
-        {
-          "show_name": "The Interview",
-          "show_description": "Mohammed Idris, Nigeria's Information Minister, speaks to Victoria Uwonkunda about rising militant attacks and how to retain talent as more Nigerians look abroad.",
-          "show_logo": "",
-          "start_time": "22:06",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "22:30",
-          "end_time": "22:32"
-        },
-        {
-          "show_name": "The Conversation",
-          "show_description": "Datshiane Navanayagam speaks to two women tackling the many ways that people have their images stolen and shared online.",
-          "show_logo": "",
-          "start_time": "22:32",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "23:00",
-          "end_time": "23:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "23:06",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "23:32"
-        },
-        {
-          "show_name": "World Business Report",
-          "show_description": "The latest business and finance news from around the world, on the BBC.",
-          "show_logo": "",
-          "start_time": "23:32",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "31 March 2026",
       "programmes": [
         {
@@ -607,7 +42,7 @@
         },
         {
           "show_name": "The Global Story",
-          "show_description": "A jury in Los Angeles found on Wednesday that Meta and YouTube are responsible for a woman's childhood addiction to social media.",
+          "show_description": "While the US and the world look away, is the Russian president getting what he wants?",
           "show_logo": "",
           "start_time": "01:32",
           "end_time": "02:00"
@@ -649,7 +84,7 @@
         },
         {
           "show_name": "Outlook",
-          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
+          "show_description": "Shadab Iftikhar went from playing football management games to becoming the real deal. His quest took him to Mongolia, Bhutan and Fort William, once 'the worst team in Britain'.",
           "show_logo": "",
           "start_time": "03:06",
           "end_time": "03:50"
@@ -1077,6 +512,550 @@
         {
           "show_name": "In the Studio",
           "show_description": "Sahar Zand meets artist Kubra Khademi.",
+          "show_logo": "",
+          "start_time": "22:32",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "23:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "23:06",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "23:30",
+          "end_time": "23:32"
+        },
+        {
+          "show_name": "World Business Report",
+          "show_description": "The latest business and finance news from around the world, on the BBC.",
+          "show_logo": "",
+          "start_time": "23:32",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "1 April 2026",
+      "programmes": [
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "00:06"
+        },
+        {
+          "show_name": "The Arts Hour",
+          "show_description": "Nikki Bedi talks to the award-winning filmmaker and Haiti's former Minister of Culture, Raoul Peck, about his searing new documentary Orwell: 2 + 2 = 5.",
+          "show_logo": "",
+          "start_time": "00:06",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "01:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "01:06",
+          "end_time": "01:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "01:30",
+          "end_time": "01:32"
+        },
+        {
+          "show_name": "The Global Story",
+          "show_description": ".",
+          "show_logo": "",
+          "start_time": "01:32",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "02:00",
+          "end_time": "02:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "02:06",
+          "end_time": "02:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "02:30",
+          "end_time": "02:32"
+        },
+        {
+          "show_name": "The Climate Question",
+          "show_description": "Graihagh Jackson meets women in Sierra Leone and Mexico who've been trying to protect their cities from heatwaves. What solutions are available as our world gets hotter?",
+          "show_logo": "",
+          "start_time": "02:32",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "03:00",
+          "end_time": "03:06"
+        },
+        {
+          "show_name": "Outlook",
+          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
+          "show_logo": "",
+          "start_time": "03:06",
+          "end_time": "03:50"
+        },
+        {
+          "show_name": "Witness History",
+          "show_description": "In 2012, a team of researchers discovered one of the most famous polar shipwrecks. The Terra Nova had sunk almost 70 years earlier.",
+          "show_logo": "",
+          "start_time": "03:50",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "04:00",
+          "end_time": "04:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "04:06",
+          "end_time": "04:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "04:30",
+          "end_time": "04:32"
+        },
+        {
+          "show_name": "Good Bad Billionaire",
+          "show_description": "How bodybuilder Arnold Schwarzenegger went from Mr Universe to all-action cinematic superstar and billionaire investor. He also had a fourth career as governor of California.",
+          "show_logo": "",
+          "start_time": "04:32",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "05:00",
+          "end_time": "05:06"
+        },
+        {
+          "show_name": "Newsday",
+          "show_description": "Live news, business and sport from around the world.",
+          "show_logo": "",
+          "start_time": "05:06",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "06:06"
+        },
+        {
+          "show_name": "Newsday",
+          "show_description": "Live news, business and sport from around the world.",
+          "show_logo": "",
+          "start_time": "06:06",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "07:06"
+        },
+        {
+          "show_name": "Newsday",
+          "show_description": "Live news, business and sport from around the world.",
+          "show_logo": "",
+          "start_time": "07:06",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "08:00",
+          "end_time": "08:06"
+        },
+        {
+          "show_name": "The Interview",
+          "show_description": "Conversations with people shaping our world. The best interviews from the BBC.",
+          "show_logo": "",
+          "start_time": "08:06",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "08:30",
+          "end_time": "08:32"
+        },
+        {
+          "show_name": "Business Daily",
+          "show_description": "We explore the growing industry built around famous icons after their deaths.",
+          "show_logo": "",
+          "start_time": "08:32",
+          "end_time": "08:50"
+        },
+        {
+          "show_name": "Witness History",
+          "show_description": "In 2004, Danish food entrepreneur Claus Meyer launched the 'Nordic Kitchen Manifesto', kick-starting a revolution in Nordic cooking focused on local seasonal ingredients.",
+          "show_logo": "",
+          "start_time": "08:50",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "09:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "09:06",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "09:32"
+        },
+        {
+          "show_name": "The Climate Question",
+          "show_description": "Graihagh Jackson meets women in Sierra Leone and Mexico who've been trying to protect their cities from heatwaves. What solutions are available as our world gets hotter?",
+          "show_logo": "",
+          "start_time": "09:32",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "10:06"
+        },
+        {
+          "show_name": "The Documentary",
+          "show_description": "BBC Eye and DOCDAYS investigate the murky world of the global trade in baby eels.",
+          "show_logo": "",
+          "start_time": "10:06",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "11:00",
+          "end_time": "11:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "11:06",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "11:30",
+          "end_time": "11:32"
+        },
+        {
+          "show_name": "The Global Story",
+          "show_description": ".",
+          "show_logo": "",
+          "start_time": "11:32",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "12:06"
+        },
+        {
+          "show_name": "Outlook",
+          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
+          "show_logo": "",
+          "start_time": "12:06",
+          "end_time": "12:50"
+        },
+        {
+          "show_name": "Witness History",
+          "show_description": "In 2004, Danish food entrepreneur Claus Meyer launched the 'Nordic Kitchen Manifesto', kick-starting a revolution in Nordic cooking focused on local seasonal ingredients.",
+          "show_logo": "",
+          "start_time": "12:50",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "13:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "13:06",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "13:30",
+          "end_time": "13:32"
+        },
+        {
+          "show_name": "Good Bad Billionaire",
+          "show_description": "How bodybuilder Arnold Schwarzenegger went from Mr Universe to all-action cinematic superstar and billionaire investor. He also had a fourth career as governor of California.",
+          "show_logo": "",
+          "start_time": "13:32",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "14:06"
+        },
+        {
+          "show_name": "Newshour",
+          "show_description": "Interviews, news and analysis of the day's global events.",
+          "show_logo": "",
+          "start_time": "14:06",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "15:00",
+          "end_time": "15:06"
+        },
+        {
+          "show_name": "The Interview",
+          "show_description": "Conversations with people shaping our world. The best interviews from the BBC.",
+          "show_logo": "",
+          "start_time": "15:06",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "15:30",
+          "end_time": "15:32"
+        },
+        {
+          "show_name": "Business Daily",
+          "show_description": "We explore the growing industry built around famous icons after their deaths.",
+          "show_logo": "",
+          "start_time": "15:32",
+          "end_time": "15:50"
+        },
+        {
+          "show_name": "World Business Express",
+          "show_description": "Finance, economy and business news from BBC journalists around the world.",
+          "show_logo": "",
+          "start_time": "15:50",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "16:06"
+        },
+        {
+          "show_name": "Outside Source",
+          "show_description": "A vibrant account of the day's events with explanation and reaction from those involved.",
+          "show_logo": "",
+          "start_time": "16:06",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "17:06"
+        },
+        {
+          "show_name": "Outside Source",
+          "show_description": "A vibrant account of the day's events with explanation and reaction from those involved.",
+          "show_logo": "",
+          "start_time": "17:06",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "18:06"
+        },
+        {
+          "show_name": "Outlook",
+          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
+          "show_logo": "",
+          "start_time": "18:06",
+          "end_time": "18:50"
+        },
+        {
+          "show_name": "Witness History",
+          "show_description": "In 2004, Danish food entrepreneur Claus Meyer launched the 'Nordic Kitchen Manifesto', kick-starting a revolution in Nordic cooking focused on local seasonal ingredients.",
+          "show_logo": "",
+          "start_time": "18:50",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "19:06",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "19:30",
+          "end_time": "19:32"
+        },
+        {
+          "show_name": "Sport Today",
+          "show_description": "BBC sports correspondents tell the story behind today's top sporting news, with interviews and reports from across the world.",
+          "show_logo": "",
+          "start_time": "19:32",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "20:00",
+          "end_time": "20:06"
+        },
+        {
+          "show_name": "The Climate Question",
+          "show_description": "Graihagh Jackson meets women in Sierra Leone and Mexico who've been trying to protect their cities from heatwaves. What solutions are available as our world gets hotter?",
+          "show_logo": "",
+          "start_time": "20:06",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "20:30",
+          "end_time": "20:32"
+        },
+        {
+          "show_name": "Health Check",
+          "show_description": "Health issues and medical breakthroughs from around the world.",
+          "show_logo": "",
+          "start_time": "20:32",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "21:06"
+        },
+        {
+          "show_name": "Newshour",
+          "show_description": "Interviews, news and analysis of the day's global events.",
+          "show_logo": "",
+          "start_time": "21:06",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "22:06"
+        },
+        {
+          "show_name": "The Interview",
+          "show_description": "Conversations with people shaping our world. The best interviews from the BBC.",
+          "show_logo": "",
+          "start_time": "22:06",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "22:30",
+          "end_time": "22:32"
+        },
+        {
+          "show_name": "Good Bad Billionaire",
+          "show_description": "How bodybuilder Arnold Schwarzenegger went from Mr Universe to all-action cinematic superstar and billionaire investor. He also had a fourth career as governor of California.",
           "show_logo": "",
           "start_time": "22:32",
           "end_time": "23:00"

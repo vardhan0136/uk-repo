@@ -3,8 +3,22 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Scotland.png",
   "schedule": [
     {
-      "date": "30 March 2026",
+      "date": "31 March 2026",
       "programmes": [
+        {
+          "show_name": "Scotcast",
+          "show_description": "Laura Miller hears why the arrest of gangland boss Steven Lyons could be a major moment in a police investigation into organised crime.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "00:25"
+        },
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "Joining Radio 5 Live.",
+          "show_logo": "",
+          "start_time": "00:25",
+          "end_time": "06:00"
+        },
         {
           "show_name": "Radio Scotland Breakfast",
           "show_description": "News from across Scotland and the world, plus sport, weather, entertainment and big name interviews.",
@@ -35,7 +49,7 @@
         },
         {
           "show_name": "Afternoons",
-          "show_description": "Len Pennie keeps you up to date on what's happening in the arts and culture scene across Scotland.",
+          "show_description": "Len Pennie keeps you up to date on what's happening in the arts and culture scene across Scotland, including The Constant Wife play, and Abigail Abbas chats about her debut novel.",
           "show_logo": "",
           "start_time": "15:30",
           "end_time": "16:00"
@@ -48,17 +62,10 @@
           "end_time": "18:00"
         },
         {
-          "show_name": "Get It On with Bryan Burnett",
-          "show_description": "Tonight marks 50 years since the Sex Pistols made their stage debut. So, we are after those groundbreaking bands who went on to find pop fame. From Radiohead to REM, Beck to Bjork.",
+          "show_name": "Sportsound",
+          "show_description": "Comprehensive coverage of Scottish Sport including live and exclusive commentary.",
           "show_logo": "",
           "start_time": "18:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Vic Galloway",
-          "show_description": "Indie anthems from Echo and The Bunnymen and The Smashing Pumpkins, new music from Young Fathers, and this week's Slow Club features trip-hop legends Portishead.",
-          "show_logo": "",
-          "start_time": "20:00",
           "end_time": "22:00"
         },
         {
@@ -71,7 +78,7 @@
       ]
     },
     {
-      "date": "31 March 2026",
+      "date": "1 April 2026",
       "programmes": [
         {
           "show_name": "Scotcast",
@@ -130,10 +137,17 @@
           "end_time": "18:00"
         },
         {
-          "show_name": "Sportsound",
-          "show_description": "Comprehensive coverage of Scottish Sport including live and exclusive commentary.",
+          "show_name": "Get It On with Bryan Burnett",
+          "show_description": "From Fools Gold to Love Fools, we want the songs about being a bit foolish. We'll fool around, fall in love and no doubt end up Kissing a Fool.",
           "show_logo": "",
           "start_time": "18:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "The Quay Sessions",
+          "show_description": "Live sessions and archive performances from Pacific Quay alongside news of upcoming gigs and festivals with upfront releases and classic tracks from some of your favourite artists.",
+          "show_logo": "",
+          "start_time": "20:00",
           "end_time": "22:00"
         },
         {

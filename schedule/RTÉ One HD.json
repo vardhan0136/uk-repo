@@ -3,200 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/rte-one-ie.png",
   "schedule": [
     {
-      "date": "30 March 2026",
-      "programmes": [
-        {
-          "show_name": "The Tommy Tiernan Show",
-          "show_description": "Tommy will once again come face-to-face with guests, totally unprepared and without prior knowledge of who is coming on the show. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f42731ce-1b07-44ef-8e7f-63b5d0485792/cover",
-          "start_time": "00:05",
-          "end_time": "01:20"
-        },
-        {
-          "show_name": "Rebus",
-          "show_description": "Under pressure to close their investigation quickly, John and Siobhan track down a witness to the assault on Jimmy McJagger. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/54c2b736-a4f2-3124-bd06-573f2160ac81/cover",
-          "start_time": "01:20",
-          "end_time": "02:15"
-        },
-        {
-          "show_name": "Lucan",
-          "show_description": "The Trail: A letter lands on Neil's doormat reporting the sighting of the missing aristocrat as a Buddhist monk in Perth, Western Australia. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4bd2ff59-3e01-3194-b46f-7a1f739bbf43/cover",
-          "start_time": "02:15",
-          "end_time": "03:10"
-        },
-        {
-          "show_name": "Euronews",
-          "show_description": "The latest international news headlines. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/67d2dfd5-f332-40dd-8511-a5b4987d9fb0/cover",
-          "start_time": "03:10",
-          "end_time": "07:15"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Buying goods from the comfort of home. (HD)",
-          "show_logo": "",
-          "start_time": "07:15",
-          "end_time": "07:50"
-        },
-        {
-          "show_name": "Today",
-          "show_description": "Daily magazine show featuring entertainment and celebrity news, consumer advice, and Ireland's biggest giveaways. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b41b7775-b3bc-4735-9c8a-a7e966e99284/cover",
-          "start_time": "07:50",
-          "end_time": "09:50"
-        },
-        {
-          "show_name": "The Drew Barrymore Show",
-          "show_description": "Drew shares more of her conversation with Brooke Shields at the news desk. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ba927efd-023f-41d5-982b-b80a917668c0/cover",
-          "start_time": "09:50",
-          "end_time": "10:15"
-        },
-        {
-          "show_name": "The Drew Barrymore Show",
-          "show_description": "Christian Siriano and Chris Appleton are joining Drew for some fashion forecasting, predicting the hottest upcoming looks and trends. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bb9bb799-3bb0-4fad-b045-e0d21b15ec8e/cover",
-          "start_time": "10:15",
-          "end_time": "10:40"
-        },
-        {
-          "show_name": "The Kelly Clarkson Show",
-          "show_description": "With guests Hailee Steinfeld, Wunmi Mosaku and Chris Perfett (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/91cb085e-213d-4b62-8b4e-0f2647b6e56d/cover",
-          "start_time": "10:40",
-          "end_time": "11:35"
-        },
-        {
-          "show_name": "Father Brown",
-          "show_description": "Father Brown is determined to unmask a mortal being when a supposed vampire strikes in the village. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ca4cb5ac-5bdc-34ae-9c2f-73f75a92ffe8/cover",
-          "start_time": "11:35",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "The Complaints Bureau",
-          "show_description": "Amy Molloy investigates the dangers of unregulated lip fillers. Siobhan Maguire investigates the Pink Tax. And Conor Pope goes in search of a refund. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ff786bcf-0e41-316d-80b0-489be3b79cdd/cover",
-          "start_time": "12:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "RTÉ News: One O'Clock",
-          "show_description": "The latest national and international headlines. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/15ef53c2-ceba-493a-89f7-69ddf1a7f7f1/cover",
-          "start_time": "13:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Home and Away",
-          "show_description": "Cash reveals to Harper that David has taken him off Tane's case because of his friendship with Tane, but also the fact Cash was the one who posted Tane's bail. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6b3a7878-f572-4faa-b5c5-6b2ac9de3e09/cover",
-          "start_time": "13:30",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Shortland Street",
-          "show_description": "Damo confronts his past and his future. Desi's world crumbles. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8c9c3a1c-34df-4325-8c16-4bf81a105788/cover",
-          "start_time": "14:00",
-          "end_time": "14:30"
-        },
-        {
-          "show_name": "Fair City",
-          "show_description": "Mondo makes a sudden U-turn in his approach to the upcoming trial, necessitating an emergency intervention by Melanie. Zoe quizzes Ben on the real meaning of his visit. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/48ed411b-18a6-4df6-8978-77e7e6c32903/cover",
-          "start_time": "14:30",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Today",
-          "show_description": "Daily magazine show featuring entertainment and celebrity news, consumer advice, and Ireland's biggest giveaways. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/aa77e911-3c7a-48f9-b8c7-8a99ca115716/cover",
-          "start_time": "15:30",
-          "end_time": "17:40"
-        },
-        {
-          "show_name": "Nuacht RTÉ",
-          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/794ec4bd-1e54-4511-ab56-b88e47f916e0/cover",
-          "start_time": "17:40",
-          "end_time": "17:55"
-        },
-        {
-          "show_name": "RTÉ News with Signing",
-          "show_description": "The latest national and international headlines with Irish Sign Language (ISL). (SL,HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7f33e446-4920-41cf-a58e-7d87cb07e574/cover",
-          "start_time": "17:55",
-          "end_time": "18:01"
-        },
-        {
-          "show_name": "RTÉ News: Six One",
-          "show_description": "The latest national and international headlines. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/622ee042-6ae8-4eb2-92c6-7d78e193a8e2/cover",
-          "start_time": "18:01",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Nationwide",
-          "show_description": "Bláthnaid Ní Chofaigh looks back at the life of Sean O'Casey with his daughter Shivaun and meets some of those involved in the new production of The Plough and the Stars. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fd4bfcc8-7ab3-409e-a26b-bb495d97170f/cover",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "EastEnders",
-          "show_description": "Penny and Vinny prepare for their first baby scan when a call from a potential business backer for Penny's shop leaves Vinny unsettled. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4e0e5176-f023-40fd-b418-f6742aa09f53/cover",
-          "start_time": "19:30",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "10 Things To Know About",
-          "show_description": "In this episode we delve into how digital technology and AI is shaping our world. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/08d5b471-700f-346a-b75b-e0a2f24e540d/cover",
-          "start_time": "20:00",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "Slan Go Feoil",
-          "show_description": "A group of devoted carnivores challenge themselves to give up meat for an entire month and embrace a plant-based diet. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/53631a8c-5fba-4bbb-8e04-117e9ea4bd2a/cover",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "RTÉ News: Nine O'Clock",
-          "show_description": "The latest national and international headlines. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f633199d-b3f5-4227-98ff-e988fa9dbb38/cover",
-          "start_time": "21:00",
-          "end_time": "21:35"
-        },
-        {
-          "show_name": "CrimeCall",
-          "show_description": "Presenter Carla O'Brien with reconstructions, CCTV footage and live studio appeals for information from the public, to help with Garda investigations. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/94875b14-0078-494a-968d-66b84c9dfc93/cover",
-          "start_time": "21:35",
-          "end_time": "22:35"
-        },
-        {
-          "show_name": "Made Of Stone",
-          "show_description": "Following David Keohan's discovery of stone lifting as a test of strength and endurance, which he hopes to reignite as an Irish tradition through his social media presence. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f905550e-1c37-4731-bbe1-4a08c0e804b1/cover",
-          "start_time": "22:35",
-          "end_time": "23:40"
-        },
-        {
-          "show_name": "The Late Late Show",
-          "show_description": "Host Patrick Kielty brings his own inimitable style to the world's longest-running live chat show and the best in Irish entertainment, music, and comedy. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/45e074bc-e01a-4635-8eda-4f8e580ce0fe/cover",
-          "start_time": "23:40",
-          "end_time": "01:10"
-        }
-      ]
-    },
-    {
       "date": "31 March 2026",
       "programmes": [
         {
@@ -225,6 +31,13 @@
           "show_description": "The latest international news headlines. (HD)",
           "show_logo": "https://images.metadata.sky.com/pd-image/d25be35b-594a-4b24-b5ae-6a320b74fd1e/cover",
           "start_time": "03:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Euronews",
+          "show_description": "Latest breaking news from Europe and across the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/25aa243b-0cf6-4330-8d7f-29d65021f572/cover",
+          "start_time": "06:00",
           "end_time": "07:35"
         },
         {
@@ -348,7 +161,7 @@
         },
         {
           "show_name": "EastEnders",
-          "show_description": "Despite initially avoiding the discussion, Penny eventually admits to Lauren and Oscar that she slept with Harry the day he entered detox (HD)",
+          "show_description": "Josh puts his best foot forward, Penny weighs up her options, and Vinny's plans cause a stir. (HD)",
           "show_logo": "https://images.metadata.sky.com/pd-image/e68f1177-d5e5-4548-8e97-66f483d365c0/cover",
           "start_time": "19:30",
           "end_time": "20:00"
@@ -393,6 +206,228 @@
           "show_description": "Obedience: An encounter with a young nun at Shaftesbury Abbey profoundly shakes Cromwell's view of himself. (HD)",
           "show_logo": "https://images.metadata.sky.com/pd-image/38f40312-e44b-4d09-80b1-a885e24f96bd/cover",
           "start_time": "23:30",
+          "end_time": "00:40"
+        }
+      ]
+    },
+    {
+      "date": "1 April 2026",
+      "programmes": [
+        {
+          "show_name": "Agatha Christie: Murder is Easy",
+          "show_description": "As Luke Fitzwilliam's relationship with Bridget strains, the discovery of a crucial piece of evidence blows the investigation wide open and leaves him questioning who he can trust. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7b7c524d-bccd-408c-b724-5a62a3ecbf2c/cover",
+          "start_time": "00:40",
+          "end_time": "01:40"
+        },
+        {
+          "show_name": "Prime Time",
+          "show_description": "An in-depth analysis of current issues and topical reports. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/eb298289-dea8-4871-bcc7-77d25b8f9362/cover",
+          "start_time": "01:40",
+          "end_time": "02:15"
+        },
+        {
+          "show_name": "Telly Bingo",
+          "show_description": "National lottery game show. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/56d38a4a-1903-4dd7-9d6d-8991cd2b9c56/cover",
+          "start_time": "02:15",
+          "end_time": "02:30"
+        },
+        {
+          "show_name": "The Kelly Clarkson Show",
+          "show_description": "With guests Rami Malek, Rachel Brosnahan and Geri Halliwell-Horner. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8d12b561-951b-4132-830d-41fa67d10cf9/cover",
+          "start_time": "02:30",
+          "end_time": "03:15"
+        },
+        {
+          "show_name": "Euronews",
+          "show_description": "The latest international news headlines. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/05bb3ac5-24ac-40ff-b4d5-7c9f994785df/cover",
+          "start_time": "03:15",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Euronews",
+          "show_description": "The latest international news headlines. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1c8e81b9-64f0-4694-a889-362744b544da/cover",
+          "start_time": "06:00",
+          "end_time": "06:45"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Buying goods from the comfort of home. (HD)",
+          "show_logo": "",
+          "start_time": "06:45",
+          "end_time": "07:15"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Buying goods from the comfort of home. (HD)",
+          "show_logo": "",
+          "start_time": "07:15",
+          "end_time": "07:50"
+        },
+        {
+          "show_name": "Today",
+          "show_description": "Daily magazine show featuring entertainment and celebrity news, consumer advice, and Ireland's biggest giveaways. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f187befc-50fc-4ef4-ae40-9d2939013296/cover",
+          "start_time": "07:50",
+          "end_time": "09:50"
+        },
+        {
+          "show_name": "The Drew Barrymore Show",
+          "show_description": "Drew shares more of her conversation with 'Running Point' creator Mindy Kaling. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/582da7d5-dfd4-4140-b0b3-4c6d9fc8f8dc/cover",
+          "start_time": "09:50",
+          "end_time": "10:15"
+        },
+        {
+          "show_name": "The Drew Barrymore Show",
+          "show_description": "Drew shares more of her conversation with Demi Moore and she's answering a question left behind from Justin Theroux. Plus, season five bloopers! (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4d5be0e1-32a5-4bae-8bb1-8771fc561f13/cover",
+          "start_time": "10:15",
+          "end_time": "10:40"
+        },
+        {
+          "show_name": "The Kelly Clarkson Show",
+          "show_description": "With guests Viola Davis, Julius Tennon and Sarah Catherine Hook (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ffb04939-476c-42eb-a438-0e0a579237c6/cover",
+          "start_time": "10:40",
+          "end_time": "11:35"
+        },
+        {
+          "show_name": "Father Brown",
+          "show_description": "Father Brown investigates when a medieval murder is committed at a battle re-enactment. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fb09e514-3da7-4356-804d-4a43c264319b/cover",
+          "start_time": "11:35",
+          "end_time": "12:30"
+        },
+        {
+          "show_name": "The Complaints Bureau",
+          "show_description": "In episode eight, Conor Pope seeks to help a Galway woman who was the victim of a very sophisticated and costly scam that saw her lose an eye-watering €10,000. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/aff9aeed-47f7-3696-a6f9-5b417efd9237/cover",
+          "start_time": "12:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "RTÉ News: One O'Clock",
+          "show_description": "The latest national and international headlines. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4db8b395-80a7-4fb9-b93f-021173447a82/cover",
+          "start_time": "13:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Home and Away",
+          "show_description": "Now with the full knowledge of Remi's tumour, Sonny demands to know why he was hiding it, but Remi won't give him an inch (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6deda8c1-de5d-405d-9b98-6626bc607a54/cover",
+          "start_time": "13:30",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Shortland Street",
+          "show_description": "Leanne keeps her distance. Drew battles his emotions. Life will never be the same for one resident. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5470b4df-1d55-4520-b970-f3c34e02d27e/cover",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "Fair City",
+          "show_description": "As Mondo's trial begins, the Prosecution and Defence lay out their arguments. The Collins family are shocked to discover that Mondo's barrister has links to Anto's past. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/02b0b695-792d-493a-8b23-bdb4d075fb7e/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "EastEnders",
+          "show_description": "Josh puts his best foot forward, Penny weighs up her options, and Vinny's plans cause a stir. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e68f1177-d5e5-4548-8e97-66f483d365c0/cover",
+          "start_time": "15:00",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "Today",
+          "show_description": "Daily magazine show featuring entertainment and celebrity news, consumer advice, and Ireland's biggest giveaways. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/80d555dc-741a-4291-a0e0-569992fa7176/cover",
+          "start_time": "15:30",
+          "end_time": "17:40"
+        },
+        {
+          "show_name": "Nuacht RTÉ",
+          "show_description": "Príomhscéalta an lae ó Nuacht RTÉ. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/61e818a3-08f6-4b12-ace9-ac4374dd989b/cover",
+          "start_time": "17:40",
+          "end_time": "17:55"
+        },
+        {
+          "show_name": "RTÉ News with Signing",
+          "show_description": "The latest national and international headlines with Irish Sign Language (ISL). (SL,HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0c5ed57d-39f4-4013-b577-e8a6e2a10b77/cover",
+          "start_time": "17:55",
+          "end_time": "18:01"
+        },
+        {
+          "show_name": "RTÉ News: Six One",
+          "show_description": "The latest national and international headlines. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3af5af78-d174-4020-9864-241205cd4a34/cover",
+          "start_time": "18:01",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Nationwide",
+          "show_description": "In the first of two programmes focusing on two great houses in the Southeast of Ireland, the Nationwide team travel to Gorey to explore the beauty of the historic Wells House. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d89c1b75-ef99-48af-806e-696480322e21/cover",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "EastEnders",
+          "show_description": "George is left feeling nervous as preparations for the opening of Knight Fusion are underway. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5d7f0e2c-1d46-49af-828e-8172969990b4/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Eva Pau's Asian Kitchen",
+          "show_description": "When time is short but fl avour matters, Eva shows how to turn ordinary evenings into something special - Crispy Peking Beef with Noodles,Chicken Pad Thai & Spicy Pork and Tofu. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/26aa4c96-ab0d-4496-a400-dc633860803b/cover",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Neven's Ulster Food Tour",
+          "show_description": "Omagh, Derry & Tyrone: In this penultimate episode Neven is up the mountains in Baronscourt Estate in search of Sika Deer before a very special BBQ where venison is on the menu, (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a34460fc-b309-4ab0-a2da-2dea40480a33/cover",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "RTÉ News: Nine O'Clock",
+          "show_description": "The latest national and international headlines. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d78c320a-1ecc-42e0-87fc-548b976816ec/cover",
+          "start_time": "21:00",
+          "end_time": "21:36"
+        },
+        {
+          "show_name": "Blue Lights",
+          "show_description": "Skipper: A car crash has traumatic consequences for Aisling, while the fallout creates a deadly situation for the section. Grace turns to child protection to try and help Lindsay. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7fd593b9-3ea1-44a6-b0b6-497e422d5e6a/cover",
+          "start_time": "21:36",
+          "end_time": "22:35"
+        },
+        {
+          "show_name": "The Great House Revival",
+          "show_description": "Kilkenny-based Trish Duffe is downsizing from her large four-bedroom home in Carlow to an Arts & Crafts style end of terrace house. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/baca76a0-0768-4d2c-8e8f-b6eade42a291/cover",
+          "start_time": "22:35",
+          "end_time": "23:39"
+        },
+        {
+          "show_name": "Call The Midwife",
+          "show_description": "It's October 1969, and Rosalind and Joyce are thrilled to receive their red cardigans. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1d565d64-750f-3040-accd-21fec90c5863/cover",
+          "start_time": "23:39",
           "end_time": "00:40"
         }
       ]
