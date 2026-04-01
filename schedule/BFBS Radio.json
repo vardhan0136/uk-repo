@@ -3,7 +3,7 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BFBS-Radio.png",
   "schedule": [
     {
-      "date": "31 March 2026",
+      "date": "1 April 2026",
       "programmes": [
         {
           "show_name": "Nicky Smith",
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "date": "1 April 2026",
+      "date": "2 April 2026",
       "programmes": [
         {
           "show_name": "Nicky Smith",
@@ -120,13 +120,27 @@
           "show_description": "Where it all happens - we bring you news from the Forces world, celebrity guests, the latest trends and great music! Email: messages@bfbs.com",
           "show_logo": "",
           "start_time": "16:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "Sitrep",
+          "show_description": "Military news and current affairs.",
+          "show_logo": "",
+          "start_time": "18:30",
           "end_time": "19:00"
+        },
+        {
+          "show_name": "The BFBS Chart",
+          "show_description": "The week's biggest songs compiled from the ones we're playing across the Forces world and the tunes you're downloading.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "21:00"
         },
         {
           "show_name": "UK Evening Show",
           "show_description": "Bringing you the hottest new music and the latest stories from around the Forces world.",
           "show_logo": "",
-          "start_time": "19:00",
+          "start_time": "21:00",
           "end_time": "23:00"
         },
         {

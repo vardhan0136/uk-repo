@@ -3,424 +3,6 @@
   "channel_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",
   "schedule": [
     {
-      "date": "31 March 2026",
-      "programmes": [
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/86b3950e-b0da-419f-8be1-a27f3790737d/cover",
-          "start_time": "00:00",
-          "end_time": "00:30"
-        },
-        {
-          "show_name": "Hometown Stories",
-          "show_description": "More than a decade after the Great East Japan Earthquake, two women who lost their daughters ask a painter to portray them as grown-ups - will the portraits bring solace to the bereaved families?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/57b3c1db-d20d-440e-b66f-b701dacfa377/cover",
-          "start_time": "00:30",
-          "end_time": "00:57"
-        },
-        {
-          "show_name": "Satoyama Kitchen",
-          "show_description": "Chef Nobuko, her cameraman husband Makoto, and their cat Tama take us on a tasty journey of local cuisine served with a side of seasonal scenery at the Satoyama Kitchen guesthouse in Hida Takayama.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/005a9033-ab1d-4b63-af08-16d73534391d/cover",
-          "start_time": "00:57",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f254bd6b-26f0-4ba7-9452-b58d866f8248/cover",
-          "start_time": "01:00",
-          "end_time": "01:30"
-        },
-        {
-          "show_name": "Journeys in Japan",
-          "show_description": "English-speaking visitors travel the length of Japan exploring the local culture, meeting the people, and offering travel hints rarely found in guidebooks.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b38b1972-741f-4781-8bf9-46ba27c2fc11/cover",
-          "start_time": "01:30",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/80af9be9-a1d0-41a9-9abe-392e651bf21a/cover",
-          "start_time": "02:00",
-          "end_time": "02:30"
-        },
-        {
-          "show_name": "Dining with the Chef",
-          "show_description": "Learn how to make mouth-watering katsu beef fried with tempura flour and panko breadcrumbs using Chef Rika's recipe, then try matcha ice cream afterwards!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d7ba9515-0e64-3dff-9604-0ffc877892de/cover",
-          "start_time": "02:30",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1cc9e8ed-da58-4b08-adba-23e2f6840c00/cover",
-          "start_time": "03:00",
-          "end_time": "03:30"
-        },
-        {
-          "show_name": "Document 72 Hours",
-          "show_description": "An amusement arcade near Tokyo has row after row of token-operated games - for three days we ask people about the appeal of games that offer no cash or prizes no matter how many tokens are won.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/73f072cd-6d6b-4255-8aea-2d1b0f3d9ab3/cover",
-          "start_time": "03:30",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4e041100-b855-4d83-b80c-d60cdf8e00e5/cover",
-          "start_time": "04:00",
-          "end_time": "04:30"
-        },
-        {
-          "show_name": "Medical Frontiers",
-          "show_description": "Japanese researchers have uncovered the mechanism behind vitamin D's bone-strengthening effects, and its potential impact on cancer is also becoming apparent - we explore the power of vitamin D.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4d61f695-9c47-3f5a-971b-5ef69518cd58/cover",
-          "start_time": "04:30",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e3cee888-7018-4d0a-a35f-972fd25e739e/cover",
-          "start_time": "05:00",
-          "end_time": "05:30"
-        },
-        {
-          "show_name": "Activate Your Japanese!",
-          "show_description": "Learn how to make the most of your Japanese skills - watch our drama that features useful communication strategies, our snappy videos about onomatopoeia, and our documentaries on 'senpai' in Japan.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/507b1e92-8945-405f-b1b1-7698d19c7bc6/cover",
-          "start_time": "05:30",
-          "end_time": "05:45"
-        },
-        {
-          "show_name": "Dig More Japan!",
-          "show_description": "With cherry blossoms in full bloom, there are many tastes only to be found in Spring. Go for a stroll in the soft light and gentle breezes in this beautiful Japanese season.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8f4f049d-172d-4664-befc-37cb3af5df51/cover",
-          "start_time": "05:45",
-          "end_time": "05:55"
-        },
-        {
-          "show_name": "Dining with the Chef mini",
-          "show_description": "Featured recipe: White Mizu-yokan with Matcha Syrup. Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques in five minutes!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/70c951b5-c6f8-4b11-89c7-bd9ed7ffdb4d/cover",
-          "start_time": "05:55",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dbb4823f-477a-4302-971c-32cfad4b5bae/cover",
-          "start_time": "06:00",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Journeys in Japan",
-          "show_description": "English-speaking visitors travel the length of Japan exploring the local culture, meeting the people, and offering travel hints rarely found in guidebooks.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b38b1972-741f-4781-8bf9-46ba27c2fc11/cover",
-          "start_time": "06:30",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Newsline Asia 24",
-          "show_description": "This daily news programme picks up the key news stories of the past 24 hours from Japan and around Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dd001ac9-313e-42a6-bd92-ea510e0bc46a/cover",
-          "start_time": "07:00",
-          "end_time": "07:30"
-        },
-        {
-          "show_name": "Dining with the Chef",
-          "show_description": "Learn how to make mouth-watering katsu beef fried with tempura flour and panko breadcrumbs using Chef Rika's recipe, then try matcha ice cream afterwards!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d7ba9515-0e64-3dff-9604-0ffc877892de/cover",
-          "start_time": "07:30",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "Newsline Asia 24",
-          "show_description": "This daily news programme picks up the key news stories of the past 24 hours from Japan and around Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9a56eb83-638b-45dc-ba0e-24d26c8814c3/cover",
-          "start_time": "08:00",
-          "end_time": "08:30"
-        },
-        {
-          "show_name": "Document 72 Hours",
-          "show_description": "An amusement arcade near Tokyo has row after row of token-operated games - for three days we ask people about the appeal of games that offer no cash or prizes no matter how many tokens are won.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/73f072cd-6d6b-4255-8aea-2d1b0f3d9ab3/cover",
-          "start_time": "08:30",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/49402a3d-2dca-4dcb-be4f-f5b09eadeced/cover",
-          "start_time": "09:00",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Activate Your Japanese!",
-          "show_description": "Learn how to make the most of your Japanese skills - watch our drama that features useful communication strategies, our snappy videos about onomatopoeia, and our documentaries on 'senpai' in Japan.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/507b1e92-8945-405f-b1b1-7698d19c7bc6/cover",
-          "start_time": "09:30",
-          "end_time": "09:45"
-        },
-        {
-          "show_name": "Bosai: Science That Can Save Your Life",
-          "show_description": "Lava Flows: The hazard map for Mount Fuji was revised in 2021, revealing the chance of more damage from lava flows - we look at what lies behind the assumptions for this assessment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5358e4f1-2ea0-37fe-a420-f468ec2a7bbb/cover",
-          "start_time": "09:45",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d84a0009-e8a6-4a71-9ce4-fa01b49be1f9/cover",
-          "start_time": "10:00",
-          "end_time": "10:30"
-        },
-        {
-          "show_name": "Medical Frontiers",
-          "show_description": "Japanese researchers have uncovered the mechanism behind vitamin D's bone-strengthening effects, and its potential impact on cancer is also becoming apparent - we explore the power of vitamin D.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4d61f695-9c47-3f5a-971b-5ef69518cd58/cover",
-          "start_time": "10:30",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "NHK News 7",
-          "show_description": "An evening news bulletin that provides Japan's views on many domestic and international news events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/39723782-2f6f-4073-94fe-db75f214dcc7/cover",
-          "start_time": "11:00",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Darwin's Amazing Animals",
-          "show_description": "Our special Darwin series continues following 3 male lions on separate paths toward adulthood and their destinies. In Part 4, we track their search for allies necessary in any quest for the throne.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7d6d01c5-76e2-44fa-9976-5a6366deff52/cover",
-          "start_time": "11:30",
-          "end_time": "11:55"
-        },
-        {
-          "show_name": "Time-Lapse Journey",
-          "show_description": "Hirosaki Park in Aomori Prefecture has been a beloved spot to see sakura blossoms for over 100 years - see the multifaceted beauty of sakura blossoms through time-lapse photography.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/97a69242-8f5e-4d0d-bfcc-6081e5ce3ae4/cover",
-          "start_time": "11:55",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Newsroom Tokyo",
-          "show_description": "This programme gives you comprehensive coverage of events in Japan and Asia, explaining the day's developments and what is behind them.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f5db4201-d5f2-41ad-9859-5c70ff2813bb/cover",
-          "start_time": "12:00",
-          "end_time": "12:28"
-        },
-        {
-          "show_name": "Direct Talk",
-          "show_description": "Filmmaker Soda Kazuhiro, whose latest work won the Best Movie award at a film festival in 2024, tells us about the 'observational' documentary style he has been championing for 20 years.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/65499308-e696-499b-a087-eb4acd3462c8/cover",
-          "start_time": "12:28",
-          "end_time": "12:43"
-        },
-        {
-          "show_name": "Magical Japanese",
-          "show_description": "The Japanese language is rich in words and expressions influenced by nature, history, and culture - this episode looks at words related to Japanese sweets. Explore the unique culture behind them.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4e31518a-579d-4b78-8c99-78ec925b1f2c/cover",
-          "start_time": "12:43",
-          "end_time": "12:55"
-        },
-        {
-          "show_name": "Easy Japanese",
-          "show_description": "#14 I want to go to Japan someday. / A verb with 'te mitai desu' means 'want to do something that you haven't done before'. 'Nihon e itte mitai desu' means 'I want to go to Japan someday'.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e1f8971f-9048-31be-a8bb-ae4fbf3248dd/cover",
-          "start_time": "12:55",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Newsroom Tokyo",
-          "show_description": "This programme gives you comprehensive coverage of events in Japan and Asia, explaining the day's developments and what is behind them.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7cd099bf-7582-41fa-aa40-a2aabe289171/cover",
-          "start_time": "13:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Dining with the Chef",
-          "show_description": "Learn how to make mouth-watering katsu beef fried with tempura flour and panko breadcrumbs using Chef Rika's recipe, then try matcha ice cream afterwards!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d7ba9515-0e64-3dff-9604-0ffc877892de/cover",
-          "start_time": "13:30",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/841bb038-d3c6-4d8e-9f86-3d951c22c8da/cover",
-          "start_time": "14:00",
-          "end_time": "14:30"
-        },
-        {
-          "show_name": "Document 72 Hours",
-          "show_description": "An amusement arcade near Tokyo has row after row of token-operated games - for three days we ask people about the appeal of games that offer no cash or prizes no matter how many tokens are won.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/73f072cd-6d6b-4255-8aea-2d1b0f3d9ab3/cover",
-          "start_time": "14:30",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bb94ac1f-26b3-4d66-bedd-a88fe876115d/cover",
-          "start_time": "15:00",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Science View",
-          "show_description": "Japanese scientists have discovered microorganisms that can survive for more than 100 million years deep below the ocean floor - what they can tell us about the big question 'What is life?'",
-          "show_logo": "https://images.metadata.sky.com/pd-image/81841e40-92ff-4676-a712-dc735c9a9372/cover",
-          "start_time": "15:30",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/75c0d33a-0f63-4e9e-b175-6304e0e34bd2/cover",
-          "start_time": "16:00",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "Journeys in Japan",
-          "show_description": "English-speaking visitors travel the length of Japan exploring the local culture, meeting the people, and offering travel hints rarely found in guidebooks.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b38b1972-741f-4781-8bf9-46ba27c2fc11/cover",
-          "start_time": "16:30",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b37c0775-f59c-4893-b3f2-896cea2d98b5/cover",
-          "start_time": "17:00",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "Activate Your Japanese!",
-          "show_description": "Learn how to make the most of your Japanese skills - watch our drama that features useful communication strategies, our snappy videos about onomatopoeia, and our documentaries on 'senpai' in Japan.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/507b1e92-8945-405f-b1b1-7698d19c7bc6/cover",
-          "start_time": "17:30",
-          "end_time": "17:45"
-        },
-        {
-          "show_name": "Dig More Japan!",
-          "show_description": "With cherry blossoms in full bloom, there are many tastes only to be found in Spring. Go for a stroll in the soft light and gentle breezes in this beautiful Japanese season.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/56fe393a-eba5-46c4-b474-5cb53c021752/cover",
-          "start_time": "17:45",
-          "end_time": "17:55"
-        },
-        {
-          "show_name": "Dining with the Chef mini",
-          "show_description": "Featured recipe: White Mizu-yokan with Matcha Syrup. Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques in five minutes!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/70c951b5-c6f8-4b11-89c7-bd9ed7ffdb4d/cover",
-          "start_time": "17:55",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/29939cc0-736a-4abd-adeb-d1d5998b7d38/cover",
-          "start_time": "18:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "Dining with the Chef",
-          "show_description": "Learn how to make mouth-watering katsu beef fried with tempura flour and panko breadcrumbs using Chef Rika's recipe, then try matcha ice cream afterwards!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d7ba9515-0e64-3dff-9604-0ffc877892de/cover",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Newsroom Tokyo",
-          "show_description": "This programme gives you comprehensive coverage of events in Japan and Asia, explaining the day's developments and what is behind them.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0de91606-48c1-4963-b27e-3713e4623d65/cover",
-          "start_time": "19:00",
-          "end_time": "19:28"
-        },
-        {
-          "show_name": "Direct Talk",
-          "show_description": "Filmmaker Soda Kazuhiro, whose latest work won the Best Movie award at a film festival in 2024, tells us about the 'observational' documentary style he has been championing for 20 years.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/65499308-e696-499b-a087-eb4acd3462c8/cover",
-          "start_time": "19:28",
-          "end_time": "19:43"
-        },
-        {
-          "show_name": "Nun's Seasonal Calendar",
-          "show_description": "In this episode, we learn about the spring dates of seimei and kokuu. The temple chefs show us how to make two seasonal specialties, yomogi rice cakes and bamboo shoots mixed with sansho leaves.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0f87902a-d866-328c-8743-4f2c2c69c850/cover",
-          "start_time": "19:43",
-          "end_time": "19:55"
-        },
-        {
-          "show_name": "Ukiyo-e Edo-Life",
-          "show_description": "Discover the story behind the 36 Views of Mount Fuji woodprint series. The Great Wave off Kanagawa by Hokusai is not just a huge wave, and the boat caught in the wave is there for a reason.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/979a2a20-9fc6-3de0-a4a8-19c4bf19ce80/cover",
-          "start_time": "19:55",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "A Place to Call Home",
-          "show_description": "The number of elderly foreigners who grapple with language difficulties and isolation is rising in Shinjuku, Tokyo. We take a look at the new forms of social support driven by the local community.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ddb0093b-d4f3-44d3-8b24-79816b7277d9/cover",
-          "start_time": "20:00",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "Document 72 Hours",
-          "show_description": "An amusement arcade near Tokyo has row after row of token-operated games - for three days we ask people about the appeal of games that offer no cash or prizes no matter how many tokens are won.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/73f072cd-6d6b-4255-8aea-2d1b0f3d9ab3/cover",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0eb8697d-e6cb-4d17-898e-245d7415bdb6/cover",
-          "start_time": "21:00",
-          "end_time": "21:30"
-        },
-        {
-          "show_name": "Science View",
-          "show_description": "Japanese scientists have discovered microorganisms that can survive for more than 100 million years deep below the ocean floor - what they can tell us about the big question 'What is life?'",
-          "show_logo": "https://images.metadata.sky.com/pd-image/81841e40-92ff-4676-a712-dc735c9a9372/cover",
-          "start_time": "21:30",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ac0c867a-c687-45bd-b4b6-dd46c9a4090c/cover",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "Journeys in Japan",
-          "show_description": "English-speaking visitors travel the length of Japan exploring the local culture, meeting the people, and offering travel hints rarely found in guidebooks.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b38b1972-741f-4781-8bf9-46ba27c2fc11/cover",
-          "start_time": "22:30",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/705eeb16-4bc2-4663-883a-1061ad58b5f1/cover",
-          "start_time": "23:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "Dining with the Chef",
-          "show_description": "Learn how to make mouth-watering katsu beef fried with tempura flour and panko breadcrumbs using Chef Rika's recipe, then try matcha ice cream afterwards!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d7ba9515-0e64-3dff-9604-0ffc877892de/cover",
-          "start_time": "23:30",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "1 April 2026",
       "programmes": [
         {
@@ -869,6 +451,389 @@
           "show_description": "Discover the stories behind renowned Japanese products alongside our reporter - this time, smokeless grills.",
           "show_logo": "https://images.metadata.sky.com/pd-image/950b70b1-ca8a-4df6-9e52-0e58f9248d83/cover",
           "start_time": "23:45",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "2 April 2026",
+      "programmes": [
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d366d2e8-fee4-452a-b7a5-07b2571ca59e/cover",
+          "start_time": "00:00",
+          "end_time": "00:30"
+        },
+        {
+          "show_name": "Spiritual Explorers",
+          "show_description": "Sake is made by fermenting steamed rice - we visit a 350-year-old brewery to gain an insight into the reverence that the brewers have toward nature and microbes.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b144a5fb-5d0f-46ec-bcc7-e731b712c245/cover",
+          "start_time": "00:30",
+          "end_time": "00:55"
+        },
+        {
+          "show_name": "A Cat's-Eye View of Japan",
+          "show_description": "We visit Lake Biwa, Japan's largest and oldest lake, as a cat leads us to an overlook with a great view of the lake and another cat hides among the multitude of wares at a Shigaraki ceramics shop.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/68e811b7-e7b0-4c0d-badf-41e838b5aaef/cover",
+          "start_time": "00:55",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ee8ce978-35d5-4c87-9452-08bc7afb90b4/cover",
+          "start_time": "01:00",
+          "end_time": "01:30"
+        },
+        {
+          "show_name": "Today's Close-Up",
+          "show_description": "Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6dfcfaf3-d08a-4098-9bab-84c0c69410c0/cover",
+          "start_time": "01:30",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/12c40674-ba62-4684-bab7-9d93bb9a9203/cover",
+          "start_time": "02:00",
+          "end_time": "02:30"
+        },
+        {
+          "show_name": "Core Kyoto",
+          "show_description": "Fermenting soybeans, Koji mould, and salt produce richly-flavoured and aromatic Miso - types vary by region, but the mellow Miso first made 1000 years ago in the imperial court is favoured in Kyoto.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7761eaab-e9df-3c4a-bfc5-75536efd2796/cover",
+          "start_time": "02:30",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/609f0a70-2f13-4531-8c9f-275cb9bb6375/cover",
+          "start_time": "03:00",
+          "end_time": "03:30"
+        },
+        {
+          "show_name": "Japanology Plus",
+          "show_description": "Roughly 90% of Japan's plastic models are made in Shizuoka, an area whose manufacturing roots date back to shogun Tokugawa Ieyasu - we explore the latest developments for Japan's plastic models.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/35095252-4657-31fa-8e5f-112749d9c6b8/cover",
+          "start_time": "03:30",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/31e6304e-204d-44c2-a878-65ce7d752820/cover",
+          "start_time": "04:00",
+          "end_time": "04:30"
+        },
+        {
+          "show_name": "Trails to Oishii Tokyo",
+          "show_description": "Broccoli is still a relative newcomer to Japan but has become a staple ingredient in Japanese households - explore broccoli's wide appeal and how it is used in all kinds of dishes including sweets!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/59079887-8dd8-4572-90b7-d0c515af7aae/cover",
+          "start_time": "04:30",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c0ff3a15-4ce5-48de-a8db-d2a9b8360fc2/cover",
+          "start_time": "05:00",
+          "end_time": "05:30"
+        },
+        {
+          "show_name": "Backstage Japan",
+          "show_description": "From its dazzling heights to its hidden depths, we explore the Tokyo Skytree - discover the role this iconic structure plays in advancing scientific research.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/616051c8-c46e-4152-b8c9-38bab57e0f06/cover",
+          "start_time": "05:30",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/df74da08-5f6b-48f7-b725-5cde755cb76c/cover",
+          "start_time": "06:00",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Today's Close-Up",
+          "show_description": "Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5650a4c2-c8a9-4a91-9e63-37a016f4a444/cover",
+          "start_time": "06:30",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Newsline Asia 24",
+          "show_description": "This daily news programme picks up the key news stories of the past 24 hours from Japan and around Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a6e01eb8-18f3-4e6d-8e1f-b0dac486da7a/cover",
+          "start_time": "07:00",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "Core Kyoto",
+          "show_description": "Fermenting soybeans, Koji mould, and salt produce richly-flavoured and aromatic Miso - types vary by region, but the mellow Miso first made 1000 years ago in the imperial court is favoured in Kyoto.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7761eaab-e9df-3c4a-bfc5-75536efd2796/cover",
+          "start_time": "07:30",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Newsline Asia 24",
+          "show_description": "This daily news programme picks up the key news stories of the past 24 hours from Japan and around Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/902700d0-84c8-44e0-a716-76eb8768aae2/cover",
+          "start_time": "08:00",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "Japanology Plus",
+          "show_description": "Roughly 90% of Japan's plastic models are made in Shizuoka, an area whose manufacturing roots date back to shogun Tokugawa Ieyasu - we explore the latest developments for Japan's plastic models.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/35095252-4657-31fa-8e5f-112749d9c6b8/cover",
+          "start_time": "08:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d82548f1-4fb8-4f9a-a8d4-45abf27bab38/cover",
+          "start_time": "09:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Backstage Japan",
+          "show_description": "From its dazzling heights to its hidden depths, we explore the Tokyo Skytree - discover the role this iconic structure plays in advancing scientific research.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/616051c8-c46e-4152-b8c9-38bab57e0f06/cover",
+          "start_time": "09:30",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1d2b7c21-c8fd-4882-a53f-5d377981bf07/cover",
+          "start_time": "10:00",
+          "end_time": "10:30"
+        },
+        {
+          "show_name": "Trails to Oishii Tokyo",
+          "show_description": "Broccoli is still a relative newcomer to Japan but has become a staple ingredient in Japanese households - explore broccoli's wide appeal and how it is used in all kinds of dishes including sweets!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/59079887-8dd8-4572-90b7-d0c515af7aae/cover",
+          "start_time": "10:30",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "NHK News 7",
+          "show_description": "An evening news bulletin that provides Japan's views on many domestic and international news events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/188a58a1-e365-47e3-adb7-18e8c115ba60/cover",
+          "start_time": "11:00",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Today's Close-Up",
+          "show_description": "Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/09bb4c07-0123-47de-99ec-e41994f8b8f2/cover",
+          "start_time": "11:30",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Newsroom Tokyo",
+          "show_description": "This programme gives you comprehensive coverage of events in Japan and Asia, explaining the day's developments and what is behind them.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9e759ddc-0ba8-4c34-adb8-f718ee65ff0b/cover",
+          "start_time": "12:00",
+          "end_time": "12:28"
+        },
+        {
+          "show_name": "Direct Talk",
+          "show_description": "Kimura Masahiko is a legend of the bonsai world who has won the Prime Minister's Award, one of the industry's highest honours, 27 times - he talks about creating original works that break the mould.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bec99dd4-e43b-46ec-afbb-f2d8c59b032e/cover",
+          "start_time": "12:28",
+          "end_time": "12:43"
+        },
+        {
+          "show_name": "Nun's Seasonal Calendar",
+          "show_description": "In this episode, we learn about the spring dates of seimei and kokuu. The temple chefs show us how to make two seasonal specialties, yomogi rice cakes and bamboo shoots mixed with sansho leaves.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0f87902a-d866-328c-8743-4f2c2c69c850/cover",
+          "start_time": "12:43",
+          "end_time": "12:55"
+        },
+        {
+          "show_name": "Ukiyo-e Edo-Life",
+          "show_description": "The top three geisha idol celebrities in Edo are Tomimoto Toyohina, Takashima Ohisa, and Naniwaya Kita; see how Kitagawa Utamaro, the master of female beauty, has illustrated them so differently.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/822a74e1-4841-43da-8565-e4e1e69012ed/cover",
+          "start_time": "12:55",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Newsroom Tokyo",
+          "show_description": "This programme gives you comprehensive coverage of events in Japan and Asia, explaining the day's developments and what is behind them.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/97ea4ec1-0786-4835-a2e6-d087a55b4434/cover",
+          "start_time": "13:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Core Kyoto",
+          "show_description": "Fermenting soybeans, Koji mould, and salt produce richly-flavoured and aromatic Miso - types vary by region, but the mellow Miso first made 1000 years ago in the imperial court is favoured in Kyoto.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7761eaab-e9df-3c4a-bfc5-75536efd2796/cover",
+          "start_time": "13:30",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9dc08b98-00cf-41af-9714-19112fdc4f58/cover",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "Japanology Plus",
+          "show_description": "Roughly 90% of Japan's plastic models are made in Shizuoka, an area whose manufacturing roots date back to shogun Tokugawa Ieyasu - we explore the latest developments for Japan's plastic models.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/35095252-4657-31fa-8e5f-112749d9c6b8/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b79b5c0e-0787-4d56-8c97-9234c4eae556/cover",
+          "start_time": "15:00",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "Japan Railway Journal",
+          "show_description": "A unique project along Tokyo's JR Ome Line is turning the area's empty homes into hotel rooms with one station currently acting as the front desk - see how tourism is revitalising the community.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/db875016-2929-4307-98c0-fa997fcf04cf/cover",
+          "start_time": "15:30",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bc1caecb-6d34-4b2b-b858-057bc9096373/cover",
+          "start_time": "16:00",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "Today's Close-Up",
+          "show_description": "Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/68ce83bc-2e69-485c-8057-2f966225352d/cover",
+          "start_time": "16:30",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f9730e86-bb97-4a54-934f-5d5b3e14f187/cover",
+          "start_time": "17:00",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "Backstage Japan",
+          "show_description": "From its dazzling heights to its hidden depths, we explore the Tokyo Skytree - discover the role this iconic structure plays in advancing scientific research.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/616051c8-c46e-4152-b8c9-38bab57e0f06/cover",
+          "start_time": "17:30",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/02b02580-7bc6-4c5b-8414-0e893d25999a/cover",
+          "start_time": "18:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "Core Kyoto",
+          "show_description": "Fermenting soybeans, Koji mould, and salt produce richly-flavoured and aromatic Miso - types vary by region, but the mellow Miso first made 1000 years ago in the imperial court is favoured in Kyoto.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7761eaab-e9df-3c4a-bfc5-75536efd2796/cover",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Newsroom Tokyo",
+          "show_description": "This programme gives you comprehensive coverage of events in Japan and Asia, explaining the day's developments and what is behind them.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7631cef4-e5f1-4a6b-bab1-15fc3a035002/cover",
+          "start_time": "19:00",
+          "end_time": "19:28"
+        },
+        {
+          "show_name": "Direct Talk",
+          "show_description": "Kimura Masahiko is a legend of the bonsai world who has won the Prime Minister's Award, one of the industry's highest honours, 27 times - he talks about creating original works that break the mould.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bec99dd4-e43b-46ec-afbb-f2d8c59b032e/cover",
+          "start_time": "19:28",
+          "end_time": "19:43"
+        },
+        {
+          "show_name": "Trails to Oishii Tokyo 10min.",
+          "show_description": "Unique Japanese egg dishes like raw egg over rice are a hit with inbound tourists - visit farms that produce eggs safe to eat raw and savour a variety of dishes at a long-established Kyoto restaurant.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1f92e7ae-6d4d-4b3e-b337-59e8451273c9/cover",
+          "start_time": "19:43",
+          "end_time": "19:55"
+        },
+        {
+          "show_name": "Ukiyo-e Edo-Life",
+          "show_description": "At dusk in summer, a woman is absorbed in reading a letter; this chic lady is actually an advertisement model for Mitsui Echigoya, one of the top kimono fabric stores in Edo.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a38539f1-f645-3f6d-9dc6-9af96c2e1b29/cover",
+          "start_time": "19:55",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Hometown Stories",
+          "show_description": "More than a decade after the Great East Japan Earthquake, two women who lost their daughters ask a painter to portray them as grown-ups - will the portraits bring solace to the bereaved families?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/57b3c1db-d20d-440e-b66f-b701dacfa377/cover",
+          "start_time": "20:00",
+          "end_time": "20:27"
+        },
+        {
+          "show_name": "Satoyama Kitchen",
+          "show_description": "Chef Nobuko, her cameraman husband Makoto, and their cat Tama take us on a tasty journey of local cuisine served with a side of seasonal scenery at the Satoyama Kitchen guesthouse in Hida Takayama.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/005a9033-ab1d-4b63-af08-16d73534391d/cover",
+          "start_time": "20:27",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Japanology Plus",
+          "show_description": "Roughly 90% of Japan's plastic models are made in Shizuoka, an area whose manufacturing roots date back to shogun Tokugawa Ieyasu - we explore the latest developments for Japan's plastic models.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/35095252-4657-31fa-8e5f-112749d9c6b8/cover",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/41a368f5-2f03-4a92-ab60-28b99bfafb2c/cover",
+          "start_time": "21:00",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "Japan Railway Journal",
+          "show_description": "A unique project along Tokyo's JR Ome Line is turning the area's empty homes into hotel rooms with one station currently acting as the front desk - see how tourism is revitalising the community.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/db875016-2929-4307-98c0-fa997fcf04cf/cover",
+          "start_time": "21:30",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2f2b29ba-7f69-4654-867d-47b3a5a43531/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Today's Close-Up",
+          "show_description": "Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f6ba1cf1-1cd5-4c4b-b84c-4536f7e9bcd6/cover",
+          "start_time": "22:30",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_description": "NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0d19004d-7802-41a9-b467-c830d9b12131/cover",
+          "start_time": "23:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "Core Kyoto",
+          "show_description": "Fermenting soybeans, Koji mould, and salt produce richly-flavoured and aromatic Miso - types vary by region, but the mellow Miso first made 1000 years ago in the imperial court is favoured in Kyoto.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7761eaab-e9df-3c4a-bfc5-75536efd2796/cover",
+          "start_time": "23:30",
           "end_time": "00:00"
         }
       ]

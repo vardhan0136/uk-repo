@@ -3,550 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Euronews.png",
   "schedule": [
     {
-      "date": "31 March 2026",
-      "programmes": [
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c56bec27-462d-411d-ba61-c617c3166ceb/cover",
-          "start_time": "00:00",
-          "end_time": "00:15"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3497f4a5-845e-4413-b79f-6b1425e24d8a/cover",
-          "start_time": "00:15",
-          "end_time": "00:30"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3d486679-5863-45cf-8e56-ea0482ef823c/cover",
-          "start_time": "00:30",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/88d4358c-2fdb-46e5-9cb8-a8199b2ef44a/cover",
-          "start_time": "01:00",
-          "end_time": "01:15"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/19ca92de-855d-420d-9e79-69c12b3ed9f6/cover",
-          "start_time": "01:15",
-          "end_time": "01:30"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/76b9d2ca-0f8d-4a54-9f2e-5e41422d9392/cover",
-          "start_time": "01:30",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8289ce5b-1ff2-4b00-8070-77c271cfb221/cover",
-          "start_time": "02:00",
-          "end_time": "02:15"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e18f56bf-6f4c-4a98-8855-4bad4445e3f2/cover",
-          "start_time": "02:15",
-          "end_time": "02:30"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/555108cb-ebb2-4bf9-aeb1-712ed1c8e85f/cover",
-          "start_time": "02:30",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b8ac2239-1311-4214-b81c-ad05f1dd19aa/cover",
-          "start_time": "03:00",
-          "end_time": "03:15"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a68e4ec9-0845-4d46-8095-af15326d6042/cover",
-          "start_time": "03:15",
-          "end_time": "03:30"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/75e7db98-c4c9-4fc5-bf2b-7375fdb98c15/cover",
-          "start_time": "03:30",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/afadfdb4-9a99-4127-9ae8-fd60e60133e4/cover",
-          "start_time": "04:00",
-          "end_time": "04:14"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3cd76e7b-6f4f-4b99-b970-f1479607e075/cover",
-          "start_time": "04:14",
-          "end_time": "04:30"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/28c69587-e546-453e-acb9-34f6c9ef60d7/cover",
-          "start_time": "04:30",
-          "end_time": "04:46"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/624c7e07-8e16-4491-8172-63de28723966/cover",
-          "start_time": "04:46",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/89d2d377-f513-45d5-9afa-6bb6a2690c19/cover",
-          "start_time": "05:00",
-          "end_time": "05:15"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/27a4a365-638d-483b-afc0-51676101990e/cover",
-          "start_time": "05:15",
-          "end_time": "05:30"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fbc3c53a-5f27-45a9-a3d9-191fb64c0428/cover",
-          "start_time": "05:30",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1912111a-dbe6-453c-9aa5-12dfbd2dc1d8/cover",
-          "start_time": "06:00",
-          "end_time": "06:15"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/96a667ee-e57e-4d9b-b1c0-e076552a504b/cover",
-          "start_time": "06:15",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/66879de9-6a13-4c3d-ac51-159f6708cda9/cover",
-          "start_time": "06:30",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Wake Up Europe",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e0a8cf1e-f729-4fbb-9e43-555948dbe388/cover",
-          "start_time": "07:00",
-          "end_time": "07:15"
-        },
-        {
-          "show_name": "Wake Up Europe",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8eaec6f1-5715-4234-9d95-09fa0838de69/cover",
-          "start_time": "07:15",
-          "end_time": "07:30"
-        },
-        {
-          "show_name": "Wake Up Europe",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/24b1a28f-8e64-4ca9-bd47-f534a033dc0a/cover",
-          "start_time": "07:30",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "Wake Up Europe",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4387522a-e81e-46fb-bb6a-dcf5d4724784/cover",
-          "start_time": "08:00",
-          "end_time": "08:15"
-        },
-        {
-          "show_name": "Wake Up Europe",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b05e6039-7d01-4918-aeab-c9f6aa57efc5/cover",
-          "start_time": "08:15",
-          "end_time": "08:30"
-        },
-        {
-          "show_name": "Wake Up Europe",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d4581dc3-8d49-4b50-aedf-bdfea929c350/cover",
-          "start_time": "08:30",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9ac98204-1930-437f-964d-8f2241123500/cover",
-          "start_time": "09:00",
-          "end_time": "09:16"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3168e115-ca14-4c4c-98ec-7836a3ed5714/cover",
-          "start_time": "09:16",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Wake Up Europe",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d54976f4-2d98-401e-9cda-09403b442e7d/cover",
-          "start_time": "09:30",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/82f089df-c567-4b67-a98a-2b412cc2c2cb/cover",
-          "start_time": "10:00",
-          "end_time": "10:16"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/758f6c31-9d01-4cc8-b753-5d5d2f3935d6/cover",
-          "start_time": "10:16",
-          "end_time": "10:30"
-        },
-        {
-          "show_name": "Wake Up Europe",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c99f6428-e777-497f-a38f-2cb96aa6980c/cover",
-          "start_time": "10:30",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6436c829-ec9c-48bf-82f4-5045c053f35d/cover",
-          "start_time": "11:00",
-          "end_time": "11:16"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e49a7af0-e9d2-4d84-949c-aec466f77bbd/cover",
-          "start_time": "11:16",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Euronews Now",
-          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e649607a-fb3f-4bf7-adc4-cc88bbb14391/cover",
-          "start_time": "11:30",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Euronews Now",
-          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a86d4791-8329-4cd3-bd61-44f6926756ca/cover",
-          "start_time": "12:00",
-          "end_time": "12:17"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f7fc2021-31bb-4d5a-9842-7867872b4e4c/cover",
-          "start_time": "12:17",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "Euronews Now",
-          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7797c1a1-006f-4367-9e37-079f8e7d7dc8/cover",
-          "start_time": "12:30",
-          "end_time": "12:46"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5cac13db-fb00-4fbe-91cd-c464a3317469/cover",
-          "start_time": "12:46",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Euronews Now",
-          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d020130b-967c-4d5b-9521-1ed054537a0e/cover",
-          "start_time": "13:00",
-          "end_time": "13:15"
-        },
-        {
-          "show_name": "Euronews Now",
-          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/edca6fa8-5052-4d6c-828b-fd585f642025/cover",
-          "start_time": "13:15",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Euronews Now",
-          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7c7fc275-a000-4ed3-b521-4f8a7f2cee9c/cover",
-          "start_time": "13:30",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Euronews Now",
-          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/251618e7-19d4-40dc-b41a-0f58da893b04/cover",
-          "start_time": "14:00",
-          "end_time": "14:15"
-        },
-        {
-          "show_name": "Euronews Now",
-          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/70bfd429-0a78-4827-a66f-32da1c058a33/cover",
-          "start_time": "14:15",
-          "end_time": "14:30"
-        },
-        {
-          "show_name": "Euronews Now",
-          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/13efdbdf-b9a6-4846-a847-53825e5921ba/cover",
-          "start_time": "14:30",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Euronews Now",
-          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d0c0a591-41e1-4e34-a3b3-23b513a7543b/cover",
-          "start_time": "15:00",
-          "end_time": "15:15"
-        },
-        {
-          "show_name": "Euronews Now",
-          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/56d1a043-0e77-4e41-809b-ab8c6aa55949/cover",
-          "start_time": "15:15",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Euronews Now",
-          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bfebf32a-7206-4624-96d7-99163cddb851/cover",
-          "start_time": "15:30",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Euronews Now",
-          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/873d90db-f6ef-425c-b586-634ed5dc2f4a/cover",
-          "start_time": "16:00",
-          "end_time": "16:15"
-        },
-        {
-          "show_name": "Euronews Now",
-          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cfba7fb0-8918-41b9-af0f-271e3a8a3b91/cover",
-          "start_time": "16:15",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "Euronews Now",
-          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/74bdbd4b-71f1-49e3-aba1-b4e5790563a0/cover",
-          "start_time": "16:30",
-          "end_time": "16:45"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/15f5829f-8e7e-48f7-8fee-0545c170afe9/cover",
-          "start_time": "16:45",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/987f9653-d41e-4162-b023-c5227b42d529/cover",
-          "start_time": "17:00",
-          "end_time": "17:18"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7a6c09c5-8926-4c43-be5f-76d42f9e02c4/cover",
-          "start_time": "17:18",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/54489cd2-0dd7-4b10-971d-aa757764db0c/cover",
-          "start_time": "17:30",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/31825bb1-b27a-4147-8e51-825cd1d99525/cover",
-          "start_time": "18:00",
-          "end_time": "18:15"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1311f8da-af43-4ac9-b6f6-2c512e6ffc11/cover",
-          "start_time": "18:15",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/23706de0-e4a1-40b9-840a-e7915ded7145/cover",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2ba222a9-3d5b-43bf-8ad1-a9fe9430168e/cover",
-          "start_time": "19:00",
-          "end_time": "19:15"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e76d8db6-b7aa-4405-8d42-cb2fba9d8037/cover",
-          "start_time": "19:15",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/705cfb93-b448-47e8-b592-7c25cda5c6b9/cover",
-          "start_time": "19:30",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9e77d09a-8424-4798-8d4b-a0705f8d9944/cover",
-          "start_time": "20:00",
-          "end_time": "20:15"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fc1442bd-b01b-4e63-b147-f4e77b9fbe85/cover",
-          "start_time": "20:15",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/709263b2-bc67-4b2d-8079-dde84829f749/cover",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dcb7f144-34f8-4904-b83b-eb1116cc55f2/cover",
-          "start_time": "21:00",
-          "end_time": "21:14"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0104e80d-cf68-4df6-a5e4-49fa5d61183c/cover",
-          "start_time": "21:14",
-          "end_time": "21:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a40db3e6-5d9c-4f23-bdf0-59c7d5645f30/cover",
-          "start_time": "21:30",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/079bbc18-e756-45e1-9a56-ea0a3f1430f8/cover",
-          "start_time": "21:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a8e226da-44a2-45f8-bc20-d26af4197e65/cover",
-          "start_time": "22:00",
-          "end_time": "22:15"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9e14d473-0c24-4c58-ba37-0658444139c4/cover",
-          "start_time": "22:15",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cb84a316-4736-42c0-84fd-bb37b9da9c94/cover",
-          "start_time": "22:30",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5451a5e0-45c8-4b5f-be26-05e416f7a536/cover",
-          "start_time": "23:00",
-          "end_time": "23:14"
-        },
-        {
-          "show_name": "The European Debrief",
-          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5afde6b7-2079-4214-8c52-2b31899e5710/cover",
-          "start_time": "23:14",
-          "end_time": "23:31"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/54faac43-fe13-4b20-96ce-4458d18687db/cover",
-          "start_time": "23:31",
-          "end_time": "23:46"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The leading news stories of the moment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1b52d3ac-b540-440b-bfae-3efcc796efd6/cover",
-          "start_time": "23:46",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "1 April 2026",
       "programmes": [
         {
@@ -1072,6 +528,550 @@
           "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
           "show_logo": "https://images.metadata.sky.com/pd-image/2f3baa41-16ab-4587-8b46-1a12a8a80fe8/cover",
           "start_time": "23:30",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "2 April 2026",
+      "programmes": [
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/66a65984-5c0d-40b0-a35d-aa600a5aef11/cover",
+          "start_time": "00:00",
+          "end_time": "00:15"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d1dc72b5-3223-4c1f-8256-b77d9f39aecc/cover",
+          "start_time": "00:15",
+          "end_time": "00:29"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/14f2ec56-187c-48c0-b9aa-5a5754f2143f/cover",
+          "start_time": "00:29",
+          "end_time": "00:52"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4880929c-6a22-4077-af86-28051f543546/cover",
+          "start_time": "00:52",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/377ef442-649b-48c6-a12a-a099ccf8de5b/cover",
+          "start_time": "01:00",
+          "end_time": "01:15"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b1927893-167e-42d6-b761-4cf7c67fda3c/cover",
+          "start_time": "01:15",
+          "end_time": "01:30"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bcb01d1c-eb60-4007-b9cc-23532cf0128d/cover",
+          "start_time": "01:30",
+          "end_time": "01:46"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d83afd31-1683-49fc-8f78-0e638883f560/cover",
+          "start_time": "01:46",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/390518ee-2c14-4174-b13f-58fd31d5b35b/cover",
+          "start_time": "02:00",
+          "end_time": "02:15"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ac4c7cd5-662b-4017-99e8-96e74a4e254f/cover",
+          "start_time": "02:15",
+          "end_time": "02:31"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0345d790-d437-40e6-ba31-84185591da56/cover",
+          "start_time": "02:31",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/77701ffb-5e1c-476e-bb4f-9ab6efb4a456/cover",
+          "start_time": "03:00",
+          "end_time": "03:15"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2d1a5711-b7a4-423b-8df1-285ceee5cb40/cover",
+          "start_time": "03:15",
+          "end_time": "03:30"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8ce23009-ec49-4fc2-867c-27cdd003271b/cover",
+          "start_time": "03:30",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4f2e5c57-29f1-4268-83c4-70a729748f3b/cover",
+          "start_time": "04:00",
+          "end_time": "04:14"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e6570239-a7ab-4da2-b9d3-a331ab2d5b0b/cover",
+          "start_time": "04:14",
+          "end_time": "04:30"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/882f864e-3772-4f50-8ea1-93a6f3810461/cover",
+          "start_time": "04:30",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2094dd55-4d55-4426-a448-818db9a2287b/cover",
+          "start_time": "05:00",
+          "end_time": "05:15"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b51b56e4-301f-4f0e-adea-a29f5db66d9d/cover",
+          "start_time": "05:15",
+          "end_time": "05:30"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7156fd23-2fc4-491d-a719-57016002d3f6/cover",
+          "start_time": "05:30",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6ddc30de-c8a8-4d7b-88f5-f4aaf696312e/cover",
+          "start_time": "06:00",
+          "end_time": "06:15"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7625c453-02e0-4f30-9f69-6fdc572acc8c/cover",
+          "start_time": "06:15",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/85210088-5cad-4b49-99bb-8d3f4bb756bd/cover",
+          "start_time": "06:30",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Wake Up Europe",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/52ad0b5c-0cae-48d3-9210-22d8cbc3da43/cover",
+          "start_time": "07:00",
+          "end_time": "07:15"
+        },
+        {
+          "show_name": "Wake Up Europe",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/37a95074-c715-4d95-9ea7-8f49e18091c8/cover",
+          "start_time": "07:15",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "Wake Up Europe",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e4af0d91-dc7b-44e0-944d-86ee5f11151a/cover",
+          "start_time": "07:30",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Wake Up Europe",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1be12705-7c38-4407-be70-26b1bcb51991/cover",
+          "start_time": "08:00",
+          "end_time": "08:15"
+        },
+        {
+          "show_name": "Wake Up Europe",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0ce87501-86d7-41fd-b3f4-dcb9766ca49a/cover",
+          "start_time": "08:15",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "Wake Up Europe",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5a4618e5-0a65-480f-9726-06930c8efa38/cover",
+          "start_time": "08:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5ae1a8b7-2c45-44d8-8d2b-c6eb52a7b3f8/cover",
+          "start_time": "09:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Wake Up Europe",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f21a9cd5-1088-4217-90b2-416f5ac2e61e/cover",
+          "start_time": "09:30",
+          "end_time": "09:46"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8fadad7d-b760-494d-b66e-cdca4a3f0414/cover",
+          "start_time": "09:46",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/748e49a3-6133-466b-b242-e6a6dc72fbe2/cover",
+          "start_time": "10:00",
+          "end_time": "10:30"
+        },
+        {
+          "show_name": "Wake Up Europe",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/80abb992-753e-4a6c-8d8e-2e73ff9ab6aa/cover",
+          "start_time": "10:30",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fee3c364-7ca5-470d-8e59-ce312c112967/cover",
+          "start_time": "11:00",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2fa66b98-3045-4180-9e2b-b6f136d9bb31/cover",
+          "start_time": "11:30",
+          "end_time": "11:49"
+        },
+        {
+          "show_name": "Voices of Central Asia",
+          "show_description": "A spotlight on the diverse innovators, creatives and leaders who are driving modernity, growth and optimism in central Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7d953896-d511-4f0e-a69e-dbcb292c1d3f/cover",
+          "start_time": "11:49",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/df538e89-7fc9-4fe4-88fa-9a4f8bd810ca/cover",
+          "start_time": "12:00",
+          "end_time": "12:30"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/67eb94dc-2c32-4c2d-be5c-960f01fa519b/cover",
+          "start_time": "12:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7c450d56-fba5-43a2-8667-fe9204a71e08/cover",
+          "start_time": "13:00",
+          "end_time": "13:15"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f1945286-5422-4769-809e-c080d5f354f2/cover",
+          "start_time": "13:15",
+          "end_time": "13:29"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/598780e6-db40-4afa-afb9-74235809e9c1/cover",
+          "start_time": "13:29",
+          "end_time": "13:52"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7d643276-e937-42c9-8642-a477943b44af/cover",
+          "start_time": "13:52",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e6d8ab7a-e2a5-48de-92eb-c5bc5fbb7a9b/cover",
+          "start_time": "14:00",
+          "end_time": "14:15"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/57097f76-d726-4079-9ce0-efef2febf72a/cover",
+          "start_time": "14:15",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/29ff69c0-20ca-46b0-8d99-62cda180815f/cover",
+          "start_time": "14:30",
+          "end_time": "14:46"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a19075e3-4df4-4f77-afc5-7b4155e7e625/cover",
+          "start_time": "14:46",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cd65c434-419a-4c97-8acc-b9ca689ac4fe/cover",
+          "start_time": "15:00",
+          "end_time": "15:15"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b469e12a-6467-49d5-b694-d059f65f39f2/cover",
+          "start_time": "15:15",
+          "end_time": "15:31"
+        },
+        {
+          "show_name": "Europe Conversation",
+          "show_description": "An in-depth interview programme featuring Europe's most important personalities and discussing Europe's situation.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c6ab7a09-13f7-435e-984b-eb37a680a5e5/cover",
+          "start_time": "15:31",
+          "end_time": "15:42"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e61fa086-bee9-488e-bfc1-d60e16d963be/cover",
+          "start_time": "15:42",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a2edb6ce-1089-4b4a-9429-44dc5e9e117e/cover",
+          "start_time": "16:00",
+          "end_time": "16:15"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/47e76c66-bb18-4717-84fc-4efe81b2bb52/cover",
+          "start_time": "16:15",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "Euronews Now",
+          "show_description": "Breaking news and in-depth analysis on the biggest stories making headlines in Europe and across the world, as well as one dedication - 'all voices, all views, all welcome'.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ae58ad14-af65-490c-a859-b1d76c03bf61/cover",
+          "start_time": "16:30",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f51224f4-b6a1-4b25-b55b-63ecffd784b5/cover",
+          "start_time": "17:00",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b2c675ac-544e-4630-916f-d245da243d65/cover",
+          "start_time": "17:30",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e4d85321-a860-48ba-9a12-d2dd25d4b03e/cover",
+          "start_time": "18:00",
+          "end_time": "18:15"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0212ee0d-1d69-47b0-923e-b4186470e550/cover",
+          "start_time": "18:15",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/90f36594-c77a-453b-abf2-07076b865b26/cover",
+          "start_time": "18:30",
+          "end_time": "18:46"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8bd455a1-e9ab-4a66-8e29-c6037753902c/cover",
+          "start_time": "18:46",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0b47ce54-c08b-40fc-88ea-067ed52e25ec/cover",
+          "start_time": "19:00",
+          "end_time": "19:15"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/58f48833-8fe9-4267-b825-6439ab556d4c/cover",
+          "start_time": "19:15",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/169fe541-08f6-40a0-9856-aa03fbf354a0/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/35188f0d-8261-478a-8ffd-3d453b864a9a/cover",
+          "start_time": "20:00",
+          "end_time": "20:14"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8fd9a021-452d-46fd-a676-4f42b2ed9eb3/cover",
+          "start_time": "20:14",
+          "end_time": "20:29"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d4ccbf58-812e-40b3-be45-abe02f4464b8/cover",
+          "start_time": "20:29",
+          "end_time": "20:52"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/81f3c968-eff2-41bf-a4b0-8bb7dfedfa3b/cover",
+          "start_time": "20:52",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2d161e6f-1b91-47e3-977a-308f2968ed84/cover",
+          "start_time": "21:00",
+          "end_time": "21:14"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f279f51b-b696-4838-b6bf-51324dcbfc18/cover",
+          "start_time": "21:14",
+          "end_time": "21:49"
+        },
+        {
+          "show_name": "Voices of Central Asia",
+          "show_description": "A spotlight on the diverse innovators, creatives and leaders who are driving modernity, growth and optimism in central Asia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5d905901-c429-44c1-aa87-70e75cdfed89/cover",
+          "start_time": "21:49",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3b86b12f-4d7b-47e4-9423-6feb1c1b8e3c/cover",
+          "start_time": "22:00",
+          "end_time": "22:15"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fe5e864b-bf3b-40f8-9a0c-ea93a1473176/cover",
+          "start_time": "22:15",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9970cc6f-9f6f-4b84-b8da-b6bfcf08aa8a/cover",
+          "start_time": "22:30",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9d4ef3b8-4858-4563-8355-160a03ebd9ee/cover",
+          "start_time": "23:00",
+          "end_time": "23:14"
+        },
+        {
+          "show_name": "The European Debrief",
+          "show_description": "Live headlines, breaking news, analysis and interviews from Europe's News Centre.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/21de04ed-689b-4d15-a1c0-ed6ae1210718/cover",
+          "start_time": "23:14",
+          "end_time": "23:31"
+        },
+        {
+          "show_name": "Europe Conversation",
+          "show_description": "An in-depth interview programme featuring Europe's most important personalities and discussing Europe's situation.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a162e1e8-4204-42ea-ae43-d58accc9725e/cover",
+          "start_time": "23:31",
+          "end_time": "23:46"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The leading news stories of the moment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ce730c8d-35c2-4067-a9b0-137a04240173/cover",
+          "start_time": "23:46",
           "end_time": "00:00"
         }
       ]

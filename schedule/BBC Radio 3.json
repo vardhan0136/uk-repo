@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
   "schedule": [
     {
-      "date": "31 March 2026",
-      "programmes": [
-        {
-          "show_name": "Through the Night",
-          "show_description": "Renaud Capuçon conducts the Lausanne Chamber Orchestra with Martha Argerich as the soloist in Beethoven's second piano concerto, paired with Brahms's Serenade no 2.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "John Toal presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Essential Classics",
-          "show_description": "Ian Skelly plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Classical Live",
-          "show_description": "Linton Stephens introduces an afternoon of specially made recordings including Bruckner's Symphony No. 9 in D minor and recent chamber music recordings from the Crucible, Sheffield.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Composer of the Week: Hildegard...",
-          "show_description": "...of Bingen and Isabella Leonarda. 2/5. Leonarda's talent flourishes within the confines of her convent. With Donald Macleod.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "In Tune",
-          "show_description": "Katie Derham is joined for a live performance by pianist Antoine Préat promoting his new album 'Fortune's Fool'. Katie talks to Piers Kennedy about his new music for Holy Week.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Classical Mixtape",
-          "show_description": "Take time out with a 30-minute soundscape of classical music, from Handel to Nyman.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Radio 3 in Concert",
-          "show_description": "The BBC Scottish Symphony Orchestra and conductor Ryan Wigglesworth are joined by Alban Gerhardt for an all-British programme.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "The Essay: The Lives of Hildegard of Bingen",
-          "show_description": "2/5. Medieval composer and polymath Hildegard of Bingen remembers her life as an anchoress. A fictionalised account, written by Anna Linstrum and performed by Juliet Stevenson.",
-          "show_logo": "",
-          "start_time": "21:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Night Tracks",
-          "show_description": "Sara Mohr-Pietsch presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "'Round Midnight",
-          "show_description": "Soweto returns with more of the best in jazz from the UK and around the world.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "1 April 2026",
       "programmes": [
         {
@@ -131,7 +49,7 @@
         },
         {
           "show_name": "In Tune",
-          "show_description": "Katie Derham is joined for a live performance from Libby Burgess, Cara Berridge & Sophie Rosa ahead of the New Paths Music Festival. Katie interview the co-directors of QueerScore.",
+          "show_description": "Katie Derham presents live music from pianist Libby Burgess, cellist Cara Berridge and violinist Sophie Rosa. Katie also interviews the directors of the new QueerScore festival.",
           "show_logo": "",
           "start_time": "17:00",
           "end_time": "19:00"
@@ -166,7 +84,89 @@
         },
         {
           "show_name": "'Round Midnight",
-          "show_description": "Tonight on 'Round Midnight Thai drummer and producer Salin returns to share her third 4/4 pick of the week.",
+          "show_description": "Tonight on 'Round Midnight, Thai drummer Salin returns to share her third 4/4 pick of the week, and Soweto spins a new release from the genre-blending ensemble DREAMSCAPES.",
+          "show_logo": "",
+          "start_time": "23:30",
+          "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "2 April 2026",
+      "programmes": [
+        {
+          "show_name": "Through the Night",
+          "show_description": "Organist Pavao Masic joins the Croatian Radiotelevision Symphony Orchestra and conductor Pascal Rophé in Saint-Saëns' 'Organ' Symphony, plus a premiere by Kresimir Seletkovic.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "John Toal presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Essential Classics",
+          "show_description": "Ian Skelly plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Classical Live",
+          "show_description": "Linton Stephens introduces an afternoon of specially made recordings, including Górecki's Symphony No. 3 and recent chamber music recordings from the Crucible, Sheffield.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Composer of the Week: Hildegard...",
+          "show_description": "...of Bingen and Isabella Leonarda. 4/5. Donald Macleod examines how Leonarda's music gained a wider audience beyond the walls of her convent.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "In Tune",
+          "show_description": "Katie Derham is joined live in studio for a performance by a newly announced New Generation Artist.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Classical Mixtape",
+          "show_description": "Take time out with a 30-minute soundscape of classical music from your favourite composers such as Ravel, Debussy and Evelyn Glennie.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Radio 3 in Concert",
+          "show_description": "Tenebrae joins the Britten Sinfonia for an emotionally charged evening, culminating in James MacMillan's Passion meditation, Seven Last Words from the Cross.",
+          "show_logo": "",
+          "start_time": "19:30",
+          "end_time": "21:45"
+        },
+        {
+          "show_name": "The Essay: The Lives of Hildegard of Bingen",
+          "show_description": "4/5. Medieval composer and polymath Hildegard of Bingen builds her own community but experiences a great loss. Written by Anna Linstrum and performed by Juliet Stevenson.",
+          "show_logo": "",
+          "start_time": "21:45",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Night Tracks",
+          "show_description": "Sara Mohr-Pietsch presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "'Round Midnight",
+          "show_description": "Salin is back with her fourth and final 4/4 pick of the week and Soweto has more of the best new jazz releases.",
           "show_logo": "",
           "start_time": "23:30",
           "end_time": "00:30"
