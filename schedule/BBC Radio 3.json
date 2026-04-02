@@ -3,95 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
   "schedule": [
     {
-      "date": "1 April 2026",
-      "programmes": [
-        {
-          "show_name": "Through the Night",
-          "show_description": "Pianist Alexander Malofeev joins the German Symphony Orchestra, Berlin and conductor Elim Chan in Rachmaninov's 2nd Piano Concerto and Prokofiev's Symphony no 5. John Shea presents.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "John Toal presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Essential Classics",
-          "show_description": "Ian Skelly plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Classical Live",
-          "show_description": "Linton Stephens introduces an afternoon of specially made recordings, including sacred music by Bach and Haydn and recent chamber music recordings from the Crucible, Sheffield.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Choral Evensong",
-          "show_description": "Live from Newcastle Cathedral for the Wednesday in Holy Week, with music by Gesualdo, Eriks Esenvalds, Dvorák and Dupré.",
-          "show_logo": "",
-          "start_time": "15:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Composer of the Week: Hildegard...",
-          "show_description": "...of Bingen and Isabella Leonarda. 3/5. Hildegard becomes a leader and strikes out on her own. With Donald Macleod.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "In Tune",
-          "show_description": "Katie Derham presents live music from pianist Libby Burgess, cellist Cara Berridge and violinist Sophie Rosa. Katie also interviews the directors of the new QueerScore festival.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Classical Mixtape",
-          "show_description": "Take time out with a 30-minute soundscape of classical music.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Radio 3 in Concert",
-          "show_description": "Alina Ibragimova is the soloist in Bartók's Violin Concerto No. 1, and Edward Gardner conducts the London Philharmonic Orchestra in Mussorgsky's Pictures at an Exhibition.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "The Essay: The Lives of Hildegard of Bingen",
-          "show_description": "3/5. Medieval composer and polymath Hildegard of Bingen navigates challenges as a prioress. A fictionalised account, written by Anna Linstrum and performed by Juliet Stevenson.",
-          "show_logo": "",
-          "start_time": "21:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Night Tracks",
-          "show_description": "Sara Mohr-Pietsch presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "'Round Midnight",
-          "show_description": "Tonight on 'Round Midnight, Thai drummer Salin returns to share her third 4/4 pick of the week, and Soweto spins a new release from the genre-blending ensemble DREAMSCAPES.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "2 April 2026",
       "programmes": [
         {
@@ -167,6 +78,88 @@
         {
           "show_name": "'Round Midnight",
           "show_description": "Salin is back with her fourth and final 4/4 pick of the week and Soweto has more of the best new jazz releases.",
+          "show_logo": "",
+          "start_time": "23:30",
+          "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "3 April 2026",
+      "programmes": [
+        {
+          "show_name": "Through the Night",
+          "show_description": "National Vocal Ensemble and conductor Marcus Creed perform music for Passiontide. John Shea presents.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "John Toal presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Essential Classics",
+          "show_description": "Ian Skelly plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Classical Live",
+          "show_description": "Linton Stephens introduces an afternoon of specially made recordings, including Bach's St Matthew Passion at King's College, Cambridge.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Composer of the Week: Hildegard...",
+          "show_description": "...of Bingen and Isabella Leonarda. 5/5. Hildegard's secretaries prepare to preserve the story of her life. With Donald Macleod.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "In Tune",
+          "show_description": "Kate Derham is joined for live music in studio by soprano Olivia Warburton and guitarist Samrat Majumder ahead of their performance at the Big House Arts Festival in Lincoln.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Classical Mixtape",
+          "show_description": "Half an hour of back to back classical music including some Good Friday themed works by Buxtehude, William Walton, and the Medieval ensemble Joglaresa.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Radio 3 in Concert",
+          "show_description": "Music for Good Friday by Wagner, Poulenc and Duruflé from the BBC Concert Orchestra and the Bach Choir, conducted by David Hill, live from the Chapel of King's College, Cambridge.",
+          "show_logo": "",
+          "start_time": "19:30",
+          "end_time": "21:45"
+        },
+        {
+          "show_name": "The Essay: The Lives of Hildegard of Bingen",
+          "show_description": "5/5. Medieval composer and polymath Hildegard of Bingen has one last battle to fight. A fictionalised account, written by Anna Linstrum and performed by Juliet Stevenson.",
+          "show_logo": "",
+          "start_time": "21:45",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Late Junction",
+          "show_description": "Encounter adventurous music from around the globe as Verity Sharp dives into music inspired by water and explores liberation music with its feet in past, present and future.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "'Round Midnight",
+          "show_description": "Tonight's Friday night special features live session highlights from jazz saxophonist and composer Emma Rawicz.",
           "show_logo": "",
           "start_time": "23:30",
           "end_time": "00:30"

@@ -3,102 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-2.png",
   "schedule": [
     {
-      "date": "1 April 2026",
-      "programmes": [
-        {
-          "show_name": "OJ Borg",
-          "show_description": "OJ is live through the night from Salford and he needs your aquatic animal puns to build a new Punderland team. Plus, Midnight Mastermind, Wish You Were There and Shiftfaced.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Sounds of the 90s with Fearne Cotton",
-          "show_description": "It was the decade that invented the boyband, and gave us all the best boyband tunes! With tunes from the likes of Take That, 911, and New Kids On the Block!",
-          "show_logo": "",
-          "start_time": "03:00",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "Owain Wyn Evans",
-          "show_description": "Welcome! It's Early Breakfast with Owain Wyn Evans, featuring Airdrum Anthems.",
-          "show_logo": "",
-          "start_time": "04:00",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "The Gary Davies Breakfast Show",
-          "show_description": "Gary has your morning sorted, including an 80s Mastermix!",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Vernon Kay",
-          "show_description": "Vernon hears about what's making you smile on Good News Wednesday plus more from M People's Mike Pickering, who is choosing his Tracks of My Years all this week.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Jeremy Vine",
-          "show_description": "Jeremy and guests discuss the news headlines and talk to the people making them.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Trevor Nelson",
-          "show_description": "Trevor is bringing you some of the best music from across the decades to get you through the afternoon.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Sara Cox",
-          "show_description": "Sara gets you through teatime with plenty of giggles and some fab music. Plus, Totally Teavoted, the SARA Awards, Bunch of 5s and Hatched, Matched and Dispatched.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "Sara Cox's Half Wower",
-          "show_description": "Sara plays the biggest and best tunes to get you up dancing!",
-          "show_logo": "",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Jo Whiley's Shiny Happy Playlist",
-          "show_description": "Jo brings her Shiny Happy Playlist, 30 minutes of feel-good music from 7-7.30pm to soundtrack listeners' weekday evening.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Jo Whiley",
-          "show_description": "Jo handpicks her favourite new music from all genres of the musical spectrum and quality vintage songs too.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "The Folk Show with Mark Radcliffe",
-          "show_description": "The best folk and acoustic music. Emily Portman talks about her new music.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The Good Groove with DJ Spoony",
-          "show_description": "Feel-good tunes to make you groove, from soulful house to RnB, disco to doo-wop and everything else in-between. Join in with addictive guessing game 'Music Is The Answer'.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "2 April 2026",
       "programmes": [
         {
@@ -190,6 +94,74 @@
           "show_description": "Feel-good dance floor favourites to make you groove, and DJ Spoony hits the decks for a live mix!",
           "show_logo": "",
           "start_time": "22:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "3 April 2026",
+      "programmes": [
+        {
+          "show_name": "Connor Phillips",
+          "show_description": "Connor Phillips is live through the night from the Salford Riviera with Midnight Mastermind, Wish You Were There, Midnight Caller and a huge Ravio 2 to end the week.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Dance Sounds of the 90s with Vernon Kay",
+          "show_description": "Vernon unearths some long forgotten dance gems from the 90s... Expect tunes you haven't heard in ages to unlock those memories of the best decade in dance!",
+          "show_logo": "",
+          "start_time": "03:00",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Owain Wyn Evans",
+          "show_description": "Welcome! It's Early Breakfast with Owain Wyn Evans, featuring Airdrum Anthems.",
+          "show_logo": "",
+          "start_time": "04:00",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "The OJ Borg Breakfast Show",
+          "show_description": "OJ's got your Good Friday morning sorted... with Jack Savoretti and new music!",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Gary Davies",
+          "show_description": "Gary looks back on this day in music history in 'De Ja Woo'; there's the mid-morning music quiz Ten To The Top and Mike Pickering chooses his final two Tracks Of My Years.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Tony Blackburn's Sounds of Soul",
+          "show_description": "Tony sets the bank holiday mood with three hours of the very best soul and disco music - including tracks from Chic, Olivia Dean, Diana Ross, MT Jones, Sister Sledge and more.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Mark Goodier's Most Played",
+          "show_description": "Mark Goodier presents his essential selection of the finest 'billion streamers' from the past six decades of rock and pop.",
+          "show_logo": "",
+          "start_time": "15:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Good Friday Reflections",
+          "show_description": "The Reverend Kate Bottley reflects on the loss, faith and hope found in the Easter story.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Radio 2 Unwinds with Angela Griffin",
+          "show_description": "Angela Griffin has the perfect playlist for a Good Friday night, to help you unwind.",
+          "show_logo": "",
+          "start_time": "21:00",
           "end_time": "00:00"
         }
       ]

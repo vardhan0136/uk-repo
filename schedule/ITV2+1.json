@@ -3,228 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-plus-uk.png",
   "schedule": [
     {
-      "date": "1 April 2026",
-      "programmes": [
-        {
-          "show_name": "Family Guy",
-          "show_description": "Peterschmidt Manor: Anarchic animated sitcom. Peter turns the Pewterschmidt mansion into a hotel when Lois and Carter attend the funeral of Lois' childhood nanny.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bd487f78-c124-475d-84ce-61e265956f0d/cover",
-          "start_time": "00:05",
-          "end_time": "00:35"
-        },
-        {
-          "show_name": "American Dad!",
-          "show_description": "A Song of Knives and Fire: US animated comedy series. Francine begins to start fires in order to make Stan's new firefighting job more exciting, and Roger becomes a knife-thrower.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fc18204d-6768-445c-b2e9-f9e905cd52b5/cover",
-          "start_time": "00:35",
-          "end_time": "01:05"
-        },
-        {
-          "show_name": "American Dad!",
-          "show_description": "A Roger Story: US animated comedy series. Steve and Snot are forced to stop being friends after friction forms between their mothers, so they enlist Roger's help to break the ice.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5a985412-026c-4d28-8194-eed8dbfbbc59/cover",
-          "start_time": "01:05",
-          "end_time": "01:35"
-        },
-        {
-          "show_name": "Bob's Burgers",
-          "show_description": "The Nightmare 2 Days Before Christmas: Animated comedy. The Belchers are forced to spend Christmas at Mr Fischoeder's old hunting lodge when their power goes out.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/266be6b3-27b6-3427-856e-3ef8b5d4c7bc/cover",
-          "start_time": "01:35",
-          "end_time": "02:05"
-        },
-        {
-          "show_name": "Bob's Burgers",
-          "show_description": "The (Raccoon) King and I: Animated comedy. When Linda takes to caring for an injured raccoon, she makes a mistake during a neighbourhood block party that could endanger its life.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3d754d44-1671-3421-a371-9be3e43cad73/cover",
-          "start_time": "02:05",
-          "end_time": "02:30"
-        },
-        {
-          "show_name": "Piglets",
-          "show_description": "Uniform: Sitcom set in a fictional police training college. The excited recruits get to wear their uniforms for the first time and Dev reveals a deeply personal issue to Steph.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ec668a15-20bd-3343-9a41-af3a8a6ea62d/cover",
-          "start_time": "02:30",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Plebs",
-          "show_description": "The Vestal: Sitcom set in ancient Rome. Stylax pursues a romance with a Vestal Virgin who guards the city's sacred flame, and Grumio spots a business opportunity involving cheese.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/96e9a5bf-99b6-427c-b58c-711445597379/cover",
-          "start_time": "03:00",
-          "end_time": "03:30"
-        },
-        {
-          "show_name": "Unwind with ITV",
-          "show_description": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/83c148cc-213a-388c-abd6-2393e60a1495/cover",
-          "start_time": "03:30",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Shopping from home.",
-          "show_logo": "",
-          "start_time": "04:00",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Teen Titans Go!",
-          "show_description": "Animated series about the superhero team. As commercials are the only part of the show he likes, Control Freak makes extra advertisements to torment the Titans.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/85ddec7c-d799-48bb-976f-51f63b3a32e0/cover",
-          "start_time": "07:00",
-          "end_time": "07:10"
-        },
-        {
-          "show_name": "Looney Tunes Cartoons",
-          "show_description": "Pearl of My Dreams / Down the Drain / Mech-A-Mess: Animated series. Porky Pig and Daffy Duck dive for pearls, Elmer Fudd has a hunting mishap, and Wile E. Coyote gets a new suit.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3e8219e5-e9d6-38d3-a51e-2f33d0e813a1/cover",
-          "start_time": "07:10",
-          "end_time": "07:25"
-        },
-        {
-          "show_name": "Scooby-Doo! Mystery Incorporated",
-          "show_description": "Theatre of the Doomed: Animated adventures with Scooby and the gang. A brand-new theatre production is under threat by a mummified corpse from Mystery Cove's ancient past.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9d468dd6-e4d8-4932-9008-a101493a9969/cover",
-          "start_time": "07:25",
-          "end_time": "07:45"
-        },
-        {
-          "show_name": "Be Cool, Scooby-Doo!",
-          "show_description": "Party Like It's 1899: Animated adventure series. Daphne brings the gang to a Victorian murder mystery party where a headless count is about to start kidnapping people for real!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/122fd545-2fbb-4408-b8c1-fcb3edf743d1/cover",
-          "start_time": "07:45",
-          "end_time": "08:10"
-        },
-        {
-          "show_name": "Be Cool, Scooby-Doo!",
-          "show_description": "Screama Donna: Animated adventure series. In order to solve the mystery of a ghostly performer haunting her former venue, the gang has to pretend to be a rock band themselves!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d5827627-e8b3-40cc-b9c2-3788954dfe87/cover",
-          "start_time": "08:10",
-          "end_time": "08:30"
-        },
-        {
-          "show_name": "Dress to Impress",
-          "show_description": "Ash, Isabel and Helen all hope to impress cleaner and musician Jodie from Milton Keynes with their style choices.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e8253a3f-b9c3-4339-8a50-f9facd3bf2b7/cover",
-          "start_time": "08:30",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Billie and Greg: The Family Diaries",
-          "show_description": "Reality series. With Chatty in a great place and the summer holidays in full swing, Billie and Greg decide to throw a barbecue to take their mind off of things.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8887c889-345c-3e96-ad9c-6dc47e06fa98/cover",
-          "start_time": "09:30",
-          "end_time": "10:25"
-        },
-        {
-          "show_name": "The Only Way Is Essex",
-          "show_description": "There is cause for celebration in Essex as Dani finally passes her driving test, but Saff's decision to throw a congratulatory party for her goes wrong when she invites Junaid.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fd422570-e38a-4aaa-ba17-98a8f01e0019/cover",
-          "start_time": "10:25",
-          "end_time": "11:25"
-        },
-        {
-          "show_name": "The Real Housewives of Atlanta",
-          "show_description": "A Whine of a Time: US reality series. The ladies head to the Toronto Carnival in Canada and Porsha has a few things to get off her chest before the festivities begin.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6da49067-08b5-46b6-b04a-e8430d73ab08/cover",
-          "start_time": "11:25",
-          "end_time": "12:20"
-        },
-        {
-          "show_name": "The Real Housewives of Beverly Hills",
-          "show_description": "Reunion Part One: US reality series. The ladies of Beverly Hills reunite to work through hurt feelings and shocking allegations on the heels of a tumultuous year.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/da1c0352-799b-4b9b-a405-36f2cd7c51e7/cover",
-          "start_time": "12:20",
-          "end_time": "13:15"
-        },
-        {
-          "show_name": "Supermarket Sweep",
-          "show_description": "Rylan Clark-Neal hosts a revamp of the iconic game show as three pairs of shoppers go wild in the aisles and compete to win a 3,000-pound prize.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/27e0f86a-d64c-4870-9554-6836ffd41771/cover",
-          "start_time": "13:15",
-          "end_time": "14:10"
-        },
-        {
-          "show_name": "Wheel of Fortune Celebrity Special",
-          "show_description": "Graham Norton invites AJ Odudu, Gok Wan and Charlotte Church to try their luck at spinning the Wheel and solving puzzles to win big for charity.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ec82bc67-c07c-34b0-a4fe-a4211e72ddc3/cover",
-          "start_time": "14:10",
-          "end_time": "15:10"
-        },
-        {
-          "show_name": "The Only Way Is Essex",
-          "show_description": "Love is in the air in Essex as it's Junaid and Joe's one-year anniversary, Saff, Ella, Elma and Wills play padel, and Amy and Jordan host an intervention for Harry and Saff.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9e2f07a1-dc63-4002-a0a3-21f08a06fe77/cover",
-          "start_time": "15:10",
-          "end_time": "16:10"
-        },
-        {
-          "show_name": "The Real Housewives of Cheshire",
-          "show_description": "The Intervention: Reality series. Dawn Ward is back in Cheshire and jumping out of a plane. Sheena hosts a perfume launch that gets fiery when Lystra confronts Rachel.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9879f209-cac9-4d7e-b175-2efbb77a970f/cover",
-          "start_time": "16:10",
-          "end_time": "17:10"
-        },
-        {
-          "show_name": "The Real Housewives of Atlanta",
-          "show_description": "Living on the Edge: US reality series. NeNe receives a frosty reception when she arrives in Toronto. A group trust exercise forces the ladies to live on the edge.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9507331e-7617-428e-9bfc-b5eb03aae50d/cover",
-          "start_time": "17:10",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "The Real Housewives of Beverly Hills",
-          "show_description": "Reunion Part Two: US reality series. The 14th series reunion continues as Kyle and Dorit face off over Kyle's text to PK and put more strain on their friendship.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/434adfa2-5a19-4173-9f21-e53e7679ac20/cover",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Celebrity Catchphrase",
-          "show_description": "Stephen Mulhern hosts a celebrity special of the classic game show with Les Dennis, Rebecca Sarker, and Jordan Stephens all trying to 'say what they see' for their chosen charity.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c50d735b-eb4c-39c2-bcbe-79502bee0622/cover",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Celebrity Wheel of Fortune",
-          "show_description": "Graham Norton invites celebrities Tom Allen, Michelle Visage and Eddie Kadi to spin the Wheel to get the chance to play for 50,000 pounds for charity.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0d48f694-893f-3e60-b60e-631dd15f4769/cover",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "The 1% Club",
-          "show_description": "Find out how clever you are as Lee Mack presents the quiz where it doesn't matter how good you are at quizzes and where 100 contestants could win up to 100,000 pounds.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7a0a6b08-a94f-4e27-94ce-2a243fd57468/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "New: Hell's Kitchen",
-          "show_description": "A State of Confusion: US cooking competition. There's a clash of culinary identities as the chefs are tasked with blending two distinct US state delicacies into one harmonious dish.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/68b88bcb-6cd6-42d3-9e3b-4c55b3dfd53f/cover",
-          "start_time": "22:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "New: Family Guy",
-          "show_description": "The Chicken or the Meg: Anarchic animated sitcom. Meg dates a chicken that she meets on a reality dating show and decides to move out when Peter disapproves of their relationship.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8f8a2363-8b04-4af1-838d-647b89decfed/cover",
-          "start_time": "23:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "Family Guy",
-          "show_description": "HBO-No: Anarchic animated sitcom. The Griffins present their versions of Game of Thrones, Succession, and Big Little Lies, three shows broadcast by the US cable network HBO.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8054b53d-c438-4852-9739-1775732c9f43/cover",
-          "start_time": "23:30",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "2 April 2026",
       "programmes": [
         {
@@ -436,6 +214,249 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/74aaa717-6747-45ad-8784-f4a3265dc09f/cover",
           "start_time": "23:30",
           "end_time": "00:05"
+        }
+      ]
+    },
+    {
+      "date": "3 April 2026",
+      "programmes": [
+        {
+          "show_name": "Family Guy",
+          "show_description": "The Fatman Always Rings Twice: Anarchic animated sitcom about a dysfunctional family in Rhode Island. Peter does a noir-style investigation of Meg's disappearance.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e39c650b-7b30-40dd-9d71-5bb3c5625666/cover",
+          "start_time": "00:05",
+          "end_time": "00:35"
+        },
+        {
+          "show_name": "American Dad!",
+          "show_description": "Gold Top Nuts: US animated comedy series. The Smiths return from a difficult and quarrelsome holiday, only to end up on a desert island with no memory of who they are.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/78458bde-eaa5-46fd-a568-a06cc7d724c6/cover",
+          "start_time": "00:35",
+          "end_time": "01:05"
+        },
+        {
+          "show_name": "American Dad!",
+          "show_description": "American Dad Graffito: US animated comedy series. Stan discovers that his favourite diner is closing down, and matters get worse when Hayley's workplace plots to build on its site.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/27b51c16-7686-4453-b1e2-bd8a2f028970/cover",
+          "start_time": "01:05",
+          "end_time": "01:35"
+        },
+        {
+          "show_name": "The Bob's Burgers Movie",
+          "show_description": "Feature-length spin-off from the animated TV series featuring the voices of H Jon Benjamin and Kristen Schaal, 2022. A sinkhole threatens the Belchers' plans for a smashing summer.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f645e31f-21f0-472e-a885-d19c393daf86/cover",
+          "start_time": "01:35",
+          "end_time": "02:35"
+        },
+        {
+          "show_name": "FYI Daily",
+          "show_description": "Latest news from the world of entertainment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cf56e107-0eed-4a28-ad86-aae3cddc8bcf/cover",
+          "start_time": "02:35",
+          "end_time": "02:40"
+        },
+        {
+          "show_name": "The Bob's Burgers Movie",
+          "show_description": "Feature-length spin-off from the animated TV series featuring the voices of H Jon Benjamin and Kristen Schaal, 2022. A sinkhole threatens the Belchers' plans for a smashing summer.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f645e31f-21f0-472e-a885-d19c393daf86/cover",
+          "start_time": "02:40",
+          "end_time": "03:30"
+        },
+        {
+          "show_name": "Unwind with ITV",
+          "show_description": "Your daily escape designed to calm the mind and encourage relaxation and reflection.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/eee9978e-941e-3f08-b237-be0af177993a/cover",
+          "start_time": "03:30",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Shopping from home.",
+          "show_logo": "",
+          "start_time": "04:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Teen Titans Go!",
+          "show_description": "Animated series. Raven learns a lot about her father when she returns to Azarath to help Trigon and Nana at their family bookstore.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8fef751f-e162-380d-a983-c2b141b85c44/cover",
+          "start_time": "07:00",
+          "end_time": "07:10"
+        },
+        {
+          "show_name": "Looney Tunes Cartoons",
+          "show_description": "Feline Lucky / A Prickly Pair: Animated series. Sylvester is all in when he spots Tweety Bird in a casino, and Beaky Buzzard learns that love can hurt.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9f7f2470-f262-3ad1-a96b-bcecd206a110/cover",
+          "start_time": "07:10",
+          "end_time": "07:25"
+        },
+        {
+          "show_name": "Scooby-Doo! Mystery Incorporated",
+          "show_description": "The Horrible Herd: Animated fun with Scooby-Doo and the gang. Professor Pericles creates a herd of mutant cattle to destroy Crystal Cove and find the Planispheric Disc.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1060f767-7c60-45fc-ac41-0a801f0067e8/cover",
+          "start_time": "07:25",
+          "end_time": "07:50"
+        },
+        {
+          "show_name": "Be Cool, Scooby-Doo!",
+          "show_description": "Area 51 Adjacent: Animated adventure series. Daphne had always dreamed of meeting extraterrestrial life, but that dream becomes a nightmare when the gang gets caught up in a mystery!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cf6a9c37-ebdd-4e50-aee8-0f209cc3aac8/cover",
+          "start_time": "07:50",
+          "end_time": "08:10"
+        },
+        {
+          "show_name": "Be Cool, Scooby-Doo!",
+          "show_description": "If You Can't Scooby-Doo the Time, Don't Scooby-Doo the Crime: Animated adventure series. Fred is excited to visit a high-security prison, but the ghost of an inmate causes trouble.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ed763566-093e-40f0-bb85-0c8eb54db7e2/cover",
+          "start_time": "08:10",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "Buying the View",
+          "show_description": "Designer Studio NYC: House-hunting show. George is looking for a Manhattan apartment with enough room to dress his clients and an inspiring view in downtown New York City.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/aa8c8a03-96b6-48a1-b6f6-88c5b47e6085/cover",
+          "start_time": "08:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Billie and Greg: The Family Diaries",
+          "show_description": "Reality series. The Shepherds head to Bournemouth to check on Chatty in rehab, and Billie and Greg go on an anniversary getaway after months of drama.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/801aeecc-8a37-3105-b3d5-56613062b01e/cover",
+          "start_time": "09:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Celebrity Dinner Date",
+          "show_description": "Diags: Reality TV personality and TOWIE star Diags is given five menus put together by potential blind dates - whose menus will he choose, and will he want to see anyone for seconds?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/80ee0193-b1b3-4ebb-947a-d8bbd1527b1b/cover",
+          "start_time": "10:00",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "Stuart Little",
+          "show_description": "Part-animated family adventure comedy film featuring the voice of Michael J Fox and starring Hugh Laurie, 1999. A family adopt a charming young mouse, but their cat hates the idea.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0dc3b38d-d90a-4074-81de-4946ea828651/cover",
+          "start_time": "11:00",
+          "end_time": "12:05"
+        },
+        {
+          "show_name": "FYI Daily",
+          "show_description": "Latest news from the world of entertainment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/32fa3686-56e4-45b8-a6a6-04864fb9a1ed/cover",
+          "start_time": "12:05",
+          "end_time": "12:10"
+        },
+        {
+          "show_name": "Stuart Little",
+          "show_description": "Part-animated family adventure comedy film featuring the voice of Michael J Fox and starring Hugh Laurie, 1999. A family adopt a charming young mouse, but their cat hates the idea.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0dc3b38d-d90a-4074-81de-4946ea828651/cover",
+          "start_time": "12:10",
+          "end_time": "12:45"
+        },
+        {
+          "show_name": "Supermarket Sweep",
+          "show_description": "Rylan Clark-Neal hosts a revamp of the iconic game show as three pairs of shoppers go wild in the aisles and compete to win a 3,000-pound prize.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5d29cfcf-e045-4915-8904-35fa6d6e03aa/cover",
+          "start_time": "12:45",
+          "end_time": "13:45"
+        },
+        {
+          "show_name": "Wheel of Fortune",
+          "show_description": "Graham Norton hosts as accountant John, primary school teacher Jess, and care home assistant Paris all get spinning the wheel to try to take home a massive 50,000 pounds.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c634e228-cdcc-49d2-b843-24e0c4ecbf57/cover",
+          "start_time": "13:45",
+          "end_time": "14:45"
+        },
+        {
+          "show_name": "Madagascar: Escape 2 Africa",
+          "show_description": "Animated adventure comedy film sequel featuring the voices of Chris Rock and Ben Stiller, 2008. The Madagascar animals try to fly home but end up in a nature reserve instead.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/97e1a80d-d3d3-45e6-a9d6-599efb0cbf81/cover",
+          "start_time": "14:45",
+          "end_time": "15:50"
+        },
+        {
+          "show_name": "FYI Daily",
+          "show_description": "Latest news from the world of entertainment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/35638535-5b4f-4742-9fa1-7eaa9b3493ed/cover",
+          "start_time": "15:50",
+          "end_time": "15:55"
+        },
+        {
+          "show_name": "Madagascar: Escape 2 Africa",
+          "show_description": "Animated adventure comedy film sequel featuring the voices of Chris Rock and Ben Stiller, 2008. The Madagascar animals try to fly home but end up in a nature reserve instead.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/97e1a80d-d3d3-45e6-a9d6-599efb0cbf81/cover",
+          "start_time": "15:55",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "Ice Age: The Great Egg-Scapade",
+          "show_description": "Animated short based on the popular Ice Age film franchise. Business is booming at Sid's new egg-sitting service, but a dastardly pirate bunny has plans for Sid's eggs.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e6e6f16f-c4db-40f6-ba02-927b056d31ec/cover",
+          "start_time": "16:30",
+          "end_time": "17:05"
+        },
+        {
+          "show_name": "Hop",
+          "show_description": "Part-animated comedy starring James Marsden, 2011. The Easter Bunny's teenage son heads to Hollywood and is determined to become a drummer in a rock 'n' roll band.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3331a03b-7fa0-4c3a-958e-9afd4dc45304/cover",
+          "start_time": "17:05",
+          "end_time": "18:10"
+        },
+        {
+          "show_name": "FYI Daily",
+          "show_description": "Latest news from the world of entertainment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/21d2d76a-6916-4789-8034-7ada2dcad5f3/cover",
+          "start_time": "18:10",
+          "end_time": "18:15"
+        },
+        {
+          "show_name": "Hop",
+          "show_description": "Part-animated comedy starring James Marsden, 2011. The Easter Bunny's teenage son heads to Hollywood and is determined to become a drummer in a rock 'n' roll band.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3331a03b-7fa0-4c3a-958e-9afd4dc45304/cover",
+          "start_time": "18:15",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Celebrity Catchphrase",
+          "show_description": "Stephen Mulhern hosts a celebrity special of the classic game show with Gyles Brandreth, Cliff Parisi, and Perri Shakes-Drayton all trying to 'say what they see' for charity.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ae83406e-ec57-3e39-8f31-d6a1a178249d/cover",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Wheel of Fortune",
+          "show_description": "Graham Norton invites nurse Chris, HR advisor Laura, and school administrator Samantha to spin the Wheel, solve puzzles and avoid bankrupts for a possible 50,000 pounds.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d658dc8d-7f78-4fa3-8ab8-0f9c72cc6771/cover",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "The 1% Club",
+          "show_description": "Find out how clever you are as Lee Mack presents the quiz where it doesn't matter how good you are at quizzes and where 100 contestants could win up to 100,000 pounds.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2be9e951-b29b-4e00-b188-b9701914caef/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Spectre",
+          "show_description": "Bond film starring Daniel Craig and Christoph Waltz, 2015. 007 receives a cryptic message that sets him on the trail of a clandestine criminal organisation called SPECTRE.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d0314293-b1c6-4e37-a7c9-6635ab055739/cover",
+          "start_time": "22:00",
+          "end_time": "23:05"
+        },
+        {
+          "show_name": "FYI Daily",
+          "show_description": "Latest news from the world of entertainment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7d588780-b46a-4efd-b1b7-24467e05caed/cover",
+          "start_time": "23:05",
+          "end_time": "23:10"
+        },
+        {
+          "show_name": "Spectre",
+          "show_description": "Bond film starring Daniel Craig and Christoph Waltz, 2015. 007 receives a cryptic message that sets him on the trail of a clandestine criminal organisation called SPECTRE.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d0314293-b1c6-4e37-a7c9-6635ab055739/cover",
+          "start_time": "23:10",
+          "end_time": "01:00"
         }
       ]
     }
