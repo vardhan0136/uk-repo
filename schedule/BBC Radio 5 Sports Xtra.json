@@ -3,39 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-5-Sports-Extra.png",
   "schedule": [
     {
-      "date": "2 April 2026",
-      "programmes": [
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "3 April 2026",
       "programmes": [
         {
@@ -92,6 +59,74 @@
           "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
           "show_logo": "",
           "start_time": "22:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "4 April 2026",
+      "programmes": [
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "10:55"
+        },
+        {
+          "show_name": "County Championship Cricket",
+          "show_description": "Live ball-by-ball cricket commentary from the County Championship.",
+          "show_logo": "",
+          "start_time": "10:55",
+          "end_time": "12:05"
+        },
+        {
+          "show_name": "Rugby Union",
+          "show_description": "Live rugby union commentary from BBC Radio Devon of Exeter Chiefs v Munster in the last 16 of the European Challenge Cup.",
+          "show_logo": "",
+          "start_time": "12:05",
+          "end_time": "14:25"
+        },
+        {
+          "show_name": "County Championship Cricket",
+          "show_description": "Live ball-by-ball cricket commentary from the County Championship.",
+          "show_logo": "",
+          "start_time": "14:25",
+          "end_time": "14:55"
+        },
+        {
+          "show_name": "Rugby League",
+          "show_description": "Live rugby league commentary from BBC Radio Manchester of Warrington Wolves v Leigh Leopards in the Super League Rivals Round.",
+          "show_logo": "",
+          "start_time": "14:55",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "County Championship Cricket",
+          "show_description": "Live ball-by-ball cricket commentary from the County Championship.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "17:15"
+        },
+        {
+          "show_name": "Rugby Union",
+          "show_description": "Live rugby union commentary from BBC Radio Scotland of Glasgow Warriors v Bulls in the last 16 of the European Champions Cup.",
+          "show_logo": "",
+          "start_time": "17:15",
+          "end_time": "19:15"
+        },
+        {
+          "show_name": "Boxing",
+          "show_description": "Live heavyweight boxing commentary of Derek Chisora v Deontay Wilder at the 02 Arena in London, plus coverage of the undercard.",
+          "show_logo": "",
+          "start_time": "19:15",
           "end_time": "00:00"
         }
       ]

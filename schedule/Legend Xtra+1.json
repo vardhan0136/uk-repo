@@ -3,164 +3,33 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend-Xtra-%2B1.png",
   "schedule": [
     {
-      "date": "2 April 2026",
-      "programmes": [
-        {
-          "show_name": "War",
-          "show_description": "Martial arts thriller with Jet Li and Jason Statham. An FBI agent is drawn into warfare between Yakuza and Triad gangs as he seeks revenge on the assassin who murdered his partner. (2007)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/37c638f2-69cc-4bc0-a500-0c3a6a005109/cover",
-          "start_time": "00:25",
-          "end_time": "02:30"
-        },
-        {
-          "show_name": "Hammer of the Gods",
-          "show_description": "Epic adventure. A Viking prince is sent on a dangerous quest by the dying king to find his exiled older brother and persuade him to return home to defend their father's kingdom from invasion. (2013)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2ce926f6-89ef-496a-8a47-f92e9d3d68b2/cover",
-          "start_time": "02:30",
-          "end_time": "04:20"
-        },
-        {
-          "show_name": "The Poseidon Adventure",
-          "show_description": "Nautical drama with Adam Baldwin. Disaster strikes at sea when a luxury liner is capsized by a terrorist bomb, uniting a group of strangers in a struggle to survive.  S1, Ep2(2005)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/004e53f6-abef-4125-8667-c3fd7e4dad65/cover",
-          "start_time": "04:20",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "The Lost World",
-          "show_description": "A blindingly bright meteor crashes into the Plateau and when Marguerite, Challenger and Roxton go to investigate they discover a frozen woman. S3, Ep11/22",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9ea3c81f-de8d-4069-9104-5a34690a1822/cover",
-          "start_time": "06:00",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Innovative, value-for-money products brought directly to you at home. Shop 'til you drop whilst avoiding the hustle and bustle of the High Street.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "The Lost Continent",
-          "show_description": "Fantasy horror from Hammer. Passengers travelling on a dilapidated steamer find themselves marooned on a misty sea, surrounded by killer seaweed, murderous crustaceans and Spanish pirates. (1968)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bd270a3e-db5e-47b7-84e9-67b6c7d9532c/cover",
-          "start_time": "10:00",
-          "end_time": "11:50"
-        },
-        {
-          "show_name": "This is Legend Xtra",
-          "show_description": "Welcome to LEGEND XTRA - your home for movies and series full of action, adventure, suspense and much more!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1332c078-5c8d-4fb7-b1e5-93d9a4e415eb/cover",
-          "start_time": "11:50",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "The Lost World",
-          "show_description": "A blindingly bright meteor crashes into the Plateau and when Marguerite, Challenger and Roxton go to investigate they discover a frozen woman. S3, Ep11/22",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4321af90-c8a3-49a4-9821-0a454291039c/cover",
-          "start_time": "12:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "The Poseidon Adventure",
-          "show_description": "Nautical drama with Adam Baldwin. Disaster strikes at sea when a luxury liner is capsized by a terrorist bomb, uniting a group of strangers in a struggle to survive.  S1, Ep2(2005)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ce022dc2-0ffb-4dcc-b962-61f9315b623e/cover",
-          "start_time": "13:00",
-          "end_time": "14:50"
-        },
-        {
-          "show_name": "This is Legend Xtra",
-          "show_description": "Welcome to LEGEND XTRA - your home for movies and series full of action, adventure, suspense and much more!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/380fc4b6-6d31-4a1c-b6b0-cfb5f2ceb8c0/cover",
-          "start_time": "14:50",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Polar Storm",
-          "show_description": "Sci-fi with Jack Coleman. A scientist scrambles to save his family - and the world - when a comet passes Earth and shifts the planet's magnetic field, leading to a deadly storm. (2009)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/391d90c2-8e1b-42be-9ac9-16b01eba7811/cover",
-          "start_time": "15:00",
-          "end_time": "16:50"
-        },
-        {
-          "show_name": "This is Legend Xtra",
-          "show_description": "Welcome to LEGEND XTRA - your home for movies and series full of action, adventure, suspense and much more!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/74e17dfe-0945-49c6-9611-4e053b9d1ad2/cover",
-          "start_time": "16:50",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Walker, Texas Ranger",
-          "show_description": "Chuck Norris fights crime and helps the community as the eponymous Walker. A boy with a mental health disability faces a lynching, so Walker steps in... S3, Ep8",
-          "show_logo": "https://images.metadata.sky.com/pd-image/448b0bc3-5dbd-4860-a097-edafbc6eda0b/cover",
-          "start_time": "17:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Meteor Apocalypse",
-          "show_description": "Adventure with Babylon 5's Claudia Christian. A huge meteor begins to disintegrate over Earth, putting all life on it in grave danger. (2010)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d9e01524-1cc8-4b47-a4a8-e20175807bf7/cover",
-          "start_time": "18:00",
-          "end_time": "19:50"
-        },
-        {
-          "show_name": "This is Legend Xtra",
-          "show_description": "Welcome to LEGEND XTRA - your home for movies and series full of action, adventure, suspense and much more!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0abe251c-4790-46af-9b67-971d6d8ed3ce/cover",
-          "start_time": "19:50",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "The Lost World",
-          "show_description": "Ambushed in the jungle, Roxton narrowly escapes with his life, but Death takes the form of a beautiful woman determined to claim his soul. S3, Ep12/22",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a521edfb-a346-4176-ad1b-688865dc87e6/cover",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "The Fall Guy",
-          "show_description": "Colt and Howie head for Argentina to rescue a bail jumper who is sentenced to death for stealing valuable horse embryos. S3, Ep16",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9cbb1b3a-b2f7-4e56-8e98-6bdde145f310/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The Outsider",
-          "show_description": "Crime drama with Craig Fairbrass. When a British military contractor learns that his daughter has died, he arrives in Los Angeles to discover a stranger's body and sets out to find her. (2013)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/23ca000a-6fbb-4a4d-b960-6002be8538df/cover",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "3 April 2026",
       "programmes": [
         {
           "show_name": "Last Knights",
           "show_description": "Medieval action adventure with Clive Owen. In an age of honour and justice by the sword, a disgraced warrior seeks redemption by leading a band of soldiers to avenge his master's death. (2015)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e63e65a2-d350-4f5f-b3d3-c584c264d601/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7d318a83-26ba-4643-9e9d-63972947e554/cover",
           "start_time": "00:00",
           "end_time": "02:25"
         },
         {
           "show_name": "The Outsider",
           "show_description": "Crime drama with Craig Fairbrass. When a British military contractor learns that his daughter has died, he arrives in Los Angeles to discover a stranger's body and sets out to find her. (2013)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a8296062-1ef6-4b49-a615-435b4c03e122/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7266adeb-2253-3a4c-a4c8-d03812f164c4/cover",
           "start_time": "02:25",
           "end_time": "04:15"
         },
         {
           "show_name": "Meteor Apocalypse",
           "show_description": "Adventure with Babylon 5's Claudia Christian. A huge meteor begins to disintegrate over Earth, putting all life on it in grave danger. (2010)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c94915dd-78a7-49f6-8f06-d2bd36f49189/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a2caf49d-b0f7-4d5e-b15e-c7cea5eb3f8f/cover",
           "start_time": "04:15",
           "end_time": "06:00"
         },
         {
           "show_name": "The Lost World",
           "show_description": "Ambushed in the jungle, Roxton narrowly escapes with his life, but Death takes the form of a beautiful woman determined to claim his soul. S3, Ep12/22",
-          "show_logo": "https://images.metadata.sky.com/pd-image/20a466a4-55ca-4d25-bda4-5196bbfb75cd/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/129c30ee-6829-36cc-82cc-632b1f70cf18/cover",
           "start_time": "06:00",
           "end_time": "07:00"
         },
@@ -174,7 +43,7 @@
         {
           "show_name": "Polar Storm",
           "show_description": "Sci-fi with Jack Coleman. A scientist scrambles to save his family - and the world - when a comet passes Earth and shifts the planet's magnetic field, leading to a deadly storm. (2009)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/56eb5698-c685-43c1-814e-9063682bc586/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8fc1e8d8-3e10-493c-86ff-47b7df8b6948/cover",
           "start_time": "10:00",
           "end_time": "11:50"
         },
@@ -188,14 +57,14 @@
         {
           "show_name": "The Lost World",
           "show_description": "Ambushed in the jungle, Roxton narrowly escapes with his life, but Death takes the form of a beautiful woman determined to claim his soul. S3, Ep12/22",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6ed33885-5f63-43ce-9336-1a97bf74c0c5/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/129c30ee-6829-36cc-82cc-632b1f70cf18/cover",
           "start_time": "12:00",
           "end_time": "13:00"
         },
         {
           "show_name": "Meteor Apocalypse",
           "show_description": "Adventure with Babylon 5's Claudia Christian. A huge meteor begins to disintegrate over Earth, putting all life on it in grave danger. (2010)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/47b5cc4e-fff4-4b6d-a3d3-5db724ef9e3d/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a2caf49d-b0f7-4d5e-b15e-c7cea5eb3f8f/cover",
           "start_time": "13:00",
           "end_time": "14:50"
         },
@@ -209,7 +78,7 @@
         {
           "show_name": "Shark Season",
           "show_description": "Thriller based on true events. It's a toss-up between teeth and the tide when three kayakers find themselves trapped on a small sinking island, stalked by a shark. (2020)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9d2a037f-d68a-4d51-8ec6-df3dce070c0e/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e86cfd16-b62c-3904-be99-a93e203bc796/cover",
           "start_time": "15:00",
           "end_time": "16:50"
         },
@@ -223,14 +92,14 @@
         {
           "show_name": "Walker, Texas Ranger",
           "show_description": "Chuck Norris is Walker in this modern high kicking martial arts western. A rafting trip becomes another case for Alex and Walker. Part 1 of 2. S3, Ep9",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d98afdda-2c2a-40bf-8d41-636bfc56d046/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c93c8043-1f82-4039-9281-d5c6c964407e/cover",
           "start_time": "17:00",
           "end_time": "18:00"
         },
         {
           "show_name": "The People That Time Forgot",
           "show_description": "Fantasy adventure sequel. An explorer encounters dinosaurs as he leads an expedition to a mysterious prehistoric island to rescue his friend from a forgotten civilisation. (1977)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/30f3aa67-dc56-4aad-875e-d0252dc1a035/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6c7c7b26-cd18-47a9-9f9e-0ba87106a6b9/cover",
           "start_time": "18:00",
           "end_time": "19:50"
         },
@@ -244,23 +113,161 @@
         {
           "show_name": "The Lost World",
           "show_description": "Veronica goes for a walk and is drawn toward some piano music that she can hear, and walking through a mist she comes out in a village 100 years in the past. S3, Ep13/22",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4c976c7c-8b4a-4b1d-847b-dc26cb073297/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ce6c51c3-488d-32b3-b3d2-735524b6dfe4/cover",
           "start_time": "20:00",
           "end_time": "21:00"
         },
         {
           "show_name": "The Fall Guy",
           "show_description": "At the Sarajevo Winter Olympics, Colt's sister, a professional skier, inadvertently films a kidnapping, which leads to her life being in danger. S3, Ep17",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ffcfe595-ee73-4c76-9725-77ac201f5063/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4c46c89f-b1b0-4d1b-8224-3f532e6d8a63/cover",
           "start_time": "21:00",
           "end_time": "22:00"
         },
         {
           "show_name": "Faster",
           "show_description": "Action adventure with Dwayne Johnson. After a decade in prison, a criminal sets out to avenge the murder of his brother - while being pursued by a cop and a ruthless hitman. (2010)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f7d6119a-98ef-4d01-b7ca-66c428f3a247/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/040cd2aa-0f7a-4d5e-bc87-7df7f6e29407/cover",
           "start_time": "22:00",
           "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "4 April 2026",
+      "programmes": [
+        {
+          "show_name": "Lucky Number Slevin",
+          "show_description": "Tense thriller with Josh Hartnett. An unfortunate case of mistaken identity leaves an ordinary man with the task of paying off a debt to an underworld kingpin by assassinating a rival mobster. (2005)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5a052995-2c8b-4267-8975-3cbb8ec7bff3/cover",
+          "start_time": "00:00",
+          "end_time": "02:20"
+        },
+        {
+          "show_name": "Faster",
+          "show_description": "Action adventure with Dwayne Johnson. After a decade in prison, a criminal sets out to avenge the murder of his brother - while being pursued by a cop and a ruthless hitman. (2010)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/040cd2aa-0f7a-4d5e-bc87-7df7f6e29407/cover",
+          "start_time": "02:20",
+          "end_time": "04:15"
+        },
+        {
+          "show_name": "The People That Time Forgot",
+          "show_description": "Fantasy adventure sequel. An explorer encounters dinosaurs as he leads an expedition to a mysterious prehistoric island to rescue his friend from a forgotten civilisation. (1977)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6c7c7b26-cd18-47a9-9f9e-0ba87106a6b9/cover",
+          "start_time": "04:15",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "The Lost World",
+          "show_description": "Veronica goes for a walk and is drawn toward some piano music that she can hear, and walking through a mist she comes out in a village 100 years in the past. S3, Ep13/22",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ce6c51c3-488d-32b3-b3d2-735524b6dfe4/cover",
+          "start_time": "06:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Innovative, value-for-money products brought directly to you at home. Shop 'til you drop whilst avoiding the hustle and bustle of the High Street.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "The Twilight Zone",
+          "show_description": "A Western film star faces a real shoot-out with the legendary Jesse James. S3, Ep20",
+          "show_logo": "https://images.metadata.sky.com/pd-image/391a48f9-8149-44e8-8152-f3c0374bb0c2/cover",
+          "start_time": "10:00",
+          "end_time": "10:30"
+        },
+        {
+          "show_name": "The Twilight Zone",
+          "show_description": "An old man believes a child's game holds the magical power to restore youth. S3, Ep21",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8cb72af8-7d40-4eda-821d-cf0959a16671/cover",
+          "start_time": "10:30",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "End Of The World (2018)",
+          "show_description": "Apocalyptic action. After a series of massive solar storms causes widespread destruction, one family must travel through floods, tsunamis and volcanic eruptions to reach safety. (2018)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c414588b-efd1-49bd-b735-bdbdc7b44d35/cover",
+          "start_time": "11:00",
+          "end_time": "12:50"
+        },
+        {
+          "show_name": "This is Legend Xtra",
+          "show_description": "Welcome to LEGEND XTRA - your home for movies and series full of action, adventure, suspense and much more!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6fad60ab-64c3-427e-a21c-096d56b38df1/cover",
+          "start_time": "12:50",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Guardians Of The Tomb",
+          "show_description": "Fantasy thriller with Kelsey Grammer. A team of explorers find themselves facing a horrific fate after they unearth the mummified remains of a Chinese emperor in an ancient labyrinth. (2018)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/97fb85d1-b2d2-4389-b6a5-3c1733ee8853/cover",
+          "start_time": "13:00",
+          "end_time": "14:50"
+        },
+        {
+          "show_name": "This is Legend Xtra",
+          "show_description": "Welcome to LEGEND XTRA - your home for movies and series full of action, adventure, suspense and much more!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fb199114-0846-4be3-b13a-52318ac175a6/cover",
+          "start_time": "14:50",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "The Lost Continent",
+          "show_description": "Fantasy horror from Hammer. Passengers travelling on a dilapidated steamer find themselves marooned on a misty sea, surrounded by killer seaweed, murderous crustaceans and Spanish pirates. (1968)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/58066e22-518a-4dd9-94bb-962a0cb2fba4/cover",
+          "start_time": "15:00",
+          "end_time": "16:50"
+        },
+        {
+          "show_name": "This is Legend Xtra",
+          "show_description": "Welcome to LEGEND XTRA - your home for movies and series full of action, adventure, suspense and much more!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a0c5cef1-783f-4b7f-947c-07425f1038a5/cover",
+          "start_time": "16:50",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "The Lost World",
+          "show_description": "The group encounter a powerful witch who seems determined to put an end to Challenger and his scientific experiments. S3, Ep9/22",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6ae114bf-16fb-4e7a-9296-d813c8cd6608/cover",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "The Lost World",
+          "show_description": "Malone comes under attack and is shot with a poison dart, evoking disturbing flashbacks of his time in the trenches during World War I. S3, Ep10/22",
+          "show_logo": "https://images.metadata.sky.com/pd-image/afa72f5a-b021-455a-b883-be45cdc558c7/cover",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "The Lost World",
+          "show_description": "A blindingly bright meteor crashes into the Plateau and when Marguerite, Challenger and Roxton go to investigate they discover a frozen woman. S3, Ep11/22",
+          "show_logo": "https://images.metadata.sky.com/pd-image/acbef5c9-07c6-4f70-a0c2-7224f9524c4c/cover",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "The Lost World",
+          "show_description": "Ambushed in the jungle, Roxton narrowly escapes with his life, but Death takes the form of a beautiful woman determined to claim his soul. S3, Ep12/22",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5703f78e-d244-4194-bda6-b6a4b45ad27f/cover",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "The Lost World",
+          "show_description": "Veronica goes for a walk and is drawn toward some piano music that she can hear, and walking through a mist she comes out in a village 100 years in the past. S3, Ep13/22",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8dc4df61-5f2b-4b95-891d-9162fd978003/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "The Arrival",
+          "show_description": "Sci-fi thriller starring Charlie Sheen. A radio astronomer unwittingly uncovers an alien conspiracy to take over the planet and finds his own life in danger. (1996)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/33815b61-8e96-4b32-8f69-38fc68c69fc7/cover",
+          "start_time": "22:00",
+          "end_time": "00:25"
         }
       ]
     }

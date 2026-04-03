@@ -3,802 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-24-fr.png",
   "schedule": [
     {
-      "date": "2 April 2026",
-      "programmes": [
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/467afff0-0b2d-4112-a932-1cf86e1a836b/cover",
-          "start_time": "00:00",
-          "end_time": "00:15"
-        },
-        {
-          "show_name": "Business",
-          "show_description": "The program brings the latest daily international business updates with all the important news on finances and economics.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c6d80ec0-4e11-4eb1-b6b1-76e4ca728be6/cover",
-          "start_time": "00:15",
-          "end_time": "00:20"
-        },
-        {
-          "show_name": "Focus",
-          "show_description": "Exclusive reports from France 24 correspondents around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fc7f5271-e0f1-4850-a63c-0e04d5a4341d/cover",
-          "start_time": "00:20",
-          "end_time": "00:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ad65e583-683d-4081-89ab-5217564f293a/cover",
-          "start_time": "00:30",
-          "end_time": "00:45"
-        },
-        {
-          "show_name": "Arts24",
-          "show_description": "Culture news from the worlds art food and fashion capital Paris. Join us every day for reviews and conversations on whats arguably the only daily arts programme on TV.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2d3172f9-4840-4b52-92ee-f10b4ae01f8b/cover",
-          "start_time": "00:45",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/78d7af30-f303-4202-9fec-f6a4450e30c0/cover",
-          "start_time": "01:00",
-          "end_time": "01:15"
-        },
-        {
-          "show_name": "A PROPOS",
-          "show_description": "A comprehensive look at just one story that is making the headlines around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9a0fc69f-e38a-4cbc-8ae4-45d0bfa0f2f0/cover",
-          "start_time": "01:15",
-          "end_time": "01:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/83a29d5a-f31a-4769-9a74-3ac5c38765ea/cover",
-          "start_time": "01:30",
-          "end_time": "01:45"
-        },
-        {
-          "show_name": "Eye on Africa",
-          "show_description": "Join Georja Calvin-Smith for all the news from Africa and the Maghreb together with France 24s correspondents and guests of the show.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a5cf902a-4f7f-4719-924f-cfdd6cf95b9d/cover",
-          "start_time": "01:45",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ed8c6ab4-073e-49f7-830a-f81c248b7b1f/cover",
-          "start_time": "02:00",
-          "end_time": "02:10"
-        },
-        {
-          "show_name": "The Debate",
-          "show_description": "Live debate show on the key topic of the day with four guests from different spots of the globe from Monday to Thursday. Keep up with up-to-date issues from all over the world in politics...",
-          "show_logo": "https://images.metadata.sky.com/pd-image/769773a7-bea7-4031-8b27-277ba721400e/cover",
-          "start_time": "02:10",
-          "end_time": "02:53"
-        },
-        {
-          "show_name": "Short Cuts",
-          "show_description": "Inspiring topics and positive initiatives that are changing the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1cc6eb09-0ac9-4001-b045-fc898d68b122/cover",
-          "start_time": "02:53",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a5dd15c2-436f-48b4-8f1a-2be164a50978/cover",
-          "start_time": "03:00",
-          "end_time": "03:10"
-        },
-        {
-          "show_name": "Focus",
-          "show_description": "Exclusive reports from France 24 correspondents around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/32bdbce6-d940-4faf-b7aa-fd57c3190906/cover",
-          "start_time": "03:10",
-          "end_time": "03:15"
-        },
-        {
-          "show_name": "Talking Europe",
-          "show_description": "Politicians activists and researchers debate the issues facing the EU and an interview a special guest.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cc586443-e15f-4de8-8978-c6167061f191/cover",
-          "start_time": "03:15",
-          "end_time": "03:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/386b4b9d-8004-4e41-84b7-f877381d1193/cover",
-          "start_time": "03:30",
-          "end_time": "03:40"
-        },
-        {
-          "show_name": "Revisited",
-          "show_description": "Revisited presents certain places in different parts of the world several years after some significant events or accidents. Are there any changes?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/79cd8732-46b7-41fd-bce7-86ed2cd31f6d/cover",
-          "start_time": "03:40",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/26ead096-2fab-4a40-800c-eb7dbb9e9194/cover",
-          "start_time": "04:00",
-          "end_time": "04:15"
-        },
-        {
-          "show_name": "Eye on Africa",
-          "show_description": "Join Georja Calvin-Smith for all the news from Africa and the Maghreb together with France 24s correspondents and guests of the show.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c9a7d4fb-c753-4fb8-89b9-58a8c0c12f98/cover",
-          "start_time": "04:15",
-          "end_time": "04:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/782958fe-47e9-4a07-af2e-79d07753bc85/cover",
-          "start_time": "04:30",
-          "end_time": "04:45"
-        },
-        {
-          "show_name": "Arts24",
-          "show_description": "Culture news from the worlds art food and fashion capital Paris. Join us every day for reviews and conversations on whats arguably the only daily arts programme on TV.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a8acefde-a16a-41c4-baa8-46d97c849272/cover",
-          "start_time": "04:45",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/342fb146-00b6-4841-8a6b-987978a9348b/cover",
-          "start_time": "05:00",
-          "end_time": "05:20"
-        },
-        {
-          "show_name": "Focus",
-          "show_description": "Exclusive reports from France 24 correspondents around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f1afafec-7f51-499f-92c7-65036e0fc50c/cover",
-          "start_time": "05:20",
-          "end_time": "05:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ec374a35-6497-401c-a37d-caf9357ad85e/cover",
-          "start_time": "05:30",
-          "end_time": "05:50"
-        },
-        {
-          "show_name": "Sports",
-          "show_description": "A summary of world sports news of the day both on and off the pitch.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dd3dda28-0fab-45a9-ad46-61e6176e87ea/cover",
-          "start_time": "05:50",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3ce73eda-3a4b-4a8f-9d19-892fce676f0a/cover",
-          "start_time": "06:00",
-          "end_time": "06:20"
-        },
-        {
-          "show_name": "Press Review",
-          "show_description": "An overview of the stories making the French and international newspaper headlines.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e7189722-77d5-4f2b-8312-18ec4ab0f8a0/cover",
-          "start_time": "06:20",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8db259fa-aae5-4ef1-9a5d-5e5d282c17aa/cover",
-          "start_time": "06:30",
-          "end_time": "06:45"
-        },
-        {
-          "show_name": "Global Grid",
-          "show_description": "France 24s International Affairs Editors come on set to give you their take on world events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/470cfc98-eee0-4ed2-8f1a-4114de03912c/cover",
-          "start_time": "06:45",
-          "end_time": "06:51"
-        },
-        {
-          "show_name": "Focus",
-          "show_description": "Exclusive reports from France 24 correspondents around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/43cc1f4e-d182-4fa5-a3fa-830897516cd4/cover",
-          "start_time": "06:51",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b7269015-c04d-4d5c-b6ed-5f7769104112/cover",
-          "start_time": "07:00",
-          "end_time": "07:20"
-        },
-        {
-          "show_name": "In the Press",
-          "show_description": "Join presenters Dheepthika Laurent Solange Mougin and Alison Sargent as they show viewers all the latest and most interesting stories from the newspaper headlines in France and around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/10914a01-5198-4669-86bc-3c0bacec7a42/cover",
-          "start_time": "07:20",
-          "end_time": "07:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ae23277e-56ef-4273-a95b-1cc627cd913b/cover",
-          "start_time": "07:30",
-          "end_time": "07:45"
-        },
-        {
-          "show_name": "Focus",
-          "show_description": "Exclusive reports from France 24 correspondents around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d7d9d288-706c-4ca9-96b1-82744b4cd143/cover",
-          "start_time": "07:45",
-          "end_time": "07:50"
-        },
-        {
-          "show_name": "Sports",
-          "show_description": "A summary of world sports news of the day both on and off the pitch.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/43707b14-8327-4985-a02a-1833093a7072/cover",
-          "start_time": "07:50",
-          "end_time": "07:57"
-        },
-        {
-          "show_name": "Headlines",
-          "show_description": "Interesting programme that gives viewers a chance to find out more and review the latest press titles from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1f7781d6-8f83-426d-9def-8e0cdbb2df8e/cover",
-          "start_time": "07:57",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/350223c7-d13e-493f-a182-3f69c5dfbfe1/cover",
-          "start_time": "08:00",
-          "end_time": "08:15"
-        },
-        {
-          "show_name": "Business",
-          "show_description": "The program brings the latest daily international business updates with all the important news on finances and economics.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b22a90b5-6342-49c5-b088-317c3b8169d7/cover",
-          "start_time": "08:15",
-          "end_time": "08:21"
-        },
-        {
-          "show_name": "Press Review",
-          "show_description": "An overview of the stories making the French and international newspaper headlines.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ca0dc5f6-a9c2-43df-95db-e7c776961ba1/cover",
-          "start_time": "08:21",
-          "end_time": "08:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a5fa88c6-dd76-4ee8-8804-40d9ac22a85d/cover",
-          "start_time": "08:30",
-          "end_time": "08:40"
-        },
-        {
-          "show_name": "Perspective",
-          "show_description": "Join presenters Eve Irvine and Stuart Norval as they talk to various notable people about important topics such as social issues culture sport science business and much more.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/580060ff-0aa3-48f5-a1f0-5bd2ebe0ab47/cover",
-          "start_time": "08:40",
-          "end_time": "08:45"
-        },
-        {
-          "show_name": "Focus",
-          "show_description": "Exclusive reports from France 24 correspondents around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dd7db9ee-430c-4efb-acf1-7e30bf758dfc/cover",
-          "start_time": "08:45",
-          "end_time": "08:50"
-        },
-        {
-          "show_name": "Sports",
-          "show_description": "A summary of world sports news of the day both on and off the pitch.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9d448fc7-f5f9-464d-8159-8c35a5410d8f/cover",
-          "start_time": "08:50",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0c801fda-b46a-4883-a471-47fe83ee965f/cover",
-          "start_time": "09:00",
-          "end_time": "09:15"
-        },
-        {
-          "show_name": "Perspective",
-          "show_description": "Join presenters Eve Irvine and Stuart Norval as they talk to various notable people about important topics such as social issues culture sport science business and much more.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cdd87e6f-367b-4c7f-b3a7-8e98d124dcfb/cover",
-          "start_time": "09:15",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c411d88a-a5aa-4d95-827f-00c783f3edc4/cover",
-          "start_time": "09:30",
-          "end_time": "09:45"
-        },
-        {
-          "show_name": "Focus",
-          "show_description": "Exclusive reports from France 24 correspondents around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/33c1e7fd-0906-4737-9d0f-41cbf059d426/cover",
-          "start_time": "09:45",
-          "end_time": "09:50"
-        },
-        {
-          "show_name": "Sports",
-          "show_description": "A summary of world sports news of the day both on and off the pitch.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5707e0a7-54b2-47e9-ad3d-6652d1d8b21e/cover",
-          "start_time": "09:50",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4dbc2192-bfb5-488e-8a2b-55b4f232421f/cover",
-          "start_time": "10:00",
-          "end_time": "10:15"
-        },
-        {
-          "show_name": "France In Focus",
-          "show_description": "France in Focus brings top stories and most essential reports on France its political and social life. Be the first to know about latest events in politics culture and economy.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/42626583-7e47-4240-b518-0ea65987072b/cover",
-          "start_time": "10:15",
-          "end_time": "10:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2c9bc6ca-8372-466d-976a-83904ca784b9/cover",
-          "start_time": "10:30",
-          "end_time": "10:45"
-        },
-        {
-          "show_name": "Reporters",
-          "show_description": "International in-depth reports from the France 24 teams and senior reporters around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bce03b91-c92a-4395-9065-22c654b39c1f/cover",
-          "start_time": "10:45",
-          "end_time": "10:58"
-        },
-        {
-          "show_name": "Headlines",
-          "show_description": "Interesting programme that gives viewers a chance to find out more and review the latest press titles from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e5b6b71b-8556-4dd8-bd5a-a35dc7e1176c/cover",
-          "start_time": "10:58",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/de3f8b0b-f8fe-40cd-a211-78a91493921a/cover",
-          "start_time": "11:00",
-          "end_time": "11:15"
-        },
-        {
-          "show_name": "Arts24",
-          "show_description": "Culture news from the worlds art food and fashion capital Paris. Join us every day for reviews and conversations on whats arguably the only daily arts programme on TV.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/04051e8b-6279-4746-bd83-73807fba870b/cover",
-          "start_time": "11:15",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d433d5cb-b5a5-4d9f-ad24-f89a1011345e/cover",
-          "start_time": "11:30",
-          "end_time": "11:45"
-        },
-        {
-          "show_name": "Focus",
-          "show_description": "Exclusive reports from France 24 correspondents around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a7f0c7ed-62c6-426d-bc14-233208b6b8a8/cover",
-          "start_time": "11:45",
-          "end_time": "11:51"
-        },
-        {
-          "show_name": "Sports",
-          "show_description": "A summary of world sports news of the day both on and off the pitch.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/71c70208-4766-44ca-8c9b-8d2ad971b054/cover",
-          "start_time": "11:51",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/79ec91db-5bab-439a-aa59-3fe7dba5adf7/cover",
-          "start_time": "12:00",
-          "end_time": "12:22"
-        },
-        {
-          "show_name": "Business",
-          "show_description": "The program brings the latest daily international business updates with all the important news on finances and economics.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/580747d8-f94f-4b05-8ef6-74959861377b/cover",
-          "start_time": "12:22",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dc3d6d2b-04b6-434a-983b-aad1a3b7dbec/cover",
-          "start_time": "12:30",
-          "end_time": "12:40"
-        },
-        {
-          "show_name": "Focus",
-          "show_description": "Exclusive reports from France 24 correspondents around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9ddc32a3-5711-4c39-95f6-dcf3cbff67af/cover",
-          "start_time": "12:40",
-          "end_time": "12:45"
-        },
-        {
-          "show_name": "Down To Earth",
-          "show_description": "We meet the people behind fascinating environmental health and technological innovations in a bid for sustainable solutions to our changing world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4f1fdaca-f336-4739-b541-9c6a2e80b189/cover",
-          "start_time": "12:45",
-          "end_time": "12:51"
-        },
-        {
-          "show_name": "French Connections",
-          "show_description": "A quirky insiders guide to understanding France and the French from the sublime to the ridiculous.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/137d0534-ba8b-4a76-85b4-129c90b2e4bc/cover",
-          "start_time": "12:51",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/05c55ac8-2aaf-4ce5-9770-9e3560c91a0f/cover",
-          "start_time": "13:00",
-          "end_time": "13:15"
-        },
-        {
-          "show_name": "Culture Critics",
-          "show_description": "Program reviewing the latest international news stories and trends form the world of culture including film music literature and art.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cc125210-77bf-4b9c-85be-36a6598c454c/cover",
-          "start_time": "13:15",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3c016948-3403-4129-94e8-13120fdc3bc2/cover",
-          "start_time": "13:30",
-          "end_time": "13:45"
-        },
-        {
-          "show_name": "Tech 24",
-          "show_description": "The latest trends in the world of high-tech and the impact of digital revolutions on everyday life.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/21e79bee-5a48-4670-a215-37d7b23a76b0/cover",
-          "start_time": "13:45",
-          "end_time": "13:50"
-        },
-        {
-          "show_name": "Focus",
-          "show_description": "Exclusive reports from France 24 correspondents around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9afb53be-2482-429b-a171-8eba6b5f9951/cover",
-          "start_time": "13:50",
-          "end_time": "13:57"
-        },
-        {
-          "show_name": "Headlines",
-          "show_description": "Interesting programme that gives viewers a chance to find out more and review the latest press titles from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cf495b6e-8195-4d0d-9529-08a1ea05848e/cover",
-          "start_time": "13:57",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/afb07105-614a-4d12-926e-738600efd2c0/cover",
-          "start_time": "14:00",
-          "end_time": "14:42"
-        },
-        {
-          "show_name": "Across Africa",
-          "show_description": "Across Africa is a weekly news program presenting latest news and stories up-to-date full coverage of politics social events from the African continent to the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f42e6c43-29fb-4e74-96e7-58fa2dd3fb2d/cover",
-          "start_time": "14:42",
-          "end_time": "14:54"
-        },
-        {
-          "show_name": "Short Cuts",
-          "show_description": "Inspiring topics and positive initiatives that are changing the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c706834a-038e-4eb2-acfe-10d7bc98a769/cover",
-          "start_time": "14:54",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d8e318a4-c3df-4258-8a45-c137b2803452/cover",
-          "start_time": "15:00",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/75c631ab-2c2d-4af6-ac27-7f7ac2135e84/cover",
-          "start_time": "15:30",
-          "end_time": "15:45"
-        },
-        {
-          "show_name": "People And Profit",
-          "show_description": "The business show that goes beyond the numbers and the corporate jargon! Stephen Carroll breaks down major business stories and looks at how they affect our lives.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6d5e1f6e-2982-4e65-8daa-74e334ebca92/cover",
-          "start_time": "15:45",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0bf38c98-1d9c-4922-8e9a-da51ef668538/cover",
-          "start_time": "16:00",
-          "end_time": "16:15"
-        },
-        {
-          "show_name": "Arts24",
-          "show_description": "Culture news from the worlds art food and fashion capital Paris. Join us every day for reviews and conversations on whats arguably the only daily arts programme on TV.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/38d70a8f-3c0f-4a91-a91a-7bf8df165673/cover",
-          "start_time": "16:15",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/08344124-1653-4916-b20e-11a7faf9a9ca/cover",
-          "start_time": "16:30",
-          "end_time": "16:45"
-        },
-        {
-          "show_name": "French Connections",
-          "show_description": "A quirky insiders guide to understanding France and the French from the sublime to the ridiculous.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9861cb38-8621-4366-b9c4-42ff7e201c77/cover",
-          "start_time": "16:45",
-          "end_time": "16:52"
-        },
-        {
-          "show_name": "The Observers",
-          "show_description": "A show produced with photos videos and personal accounts from our Observers around the world _ all checked by our staff here in Paris. Saturday at 10.15 am Paris time.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/eaa6219a-65bf-469d-94ab-b4812e93148f/cover",
-          "start_time": "16:52",
-          "end_time": "16:58"
-        },
-        {
-          "show_name": "Headlines",
-          "show_description": "Interesting programme that gives viewers a chance to find out more and review the latest press titles from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b880a71b-f92b-4333-bd98-d3630f98419e/cover",
-          "start_time": "16:58",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9338a364-6f9c-4e78-9190-4d6fa3845f5c/cover",
-          "start_time": "17:00",
-          "end_time": "17:15"
-        },
-        {
-          "show_name": "Spotlight",
-          "show_description": "Prime time interview of the day goes beyond the headlines join us as news-making guests from around the globe go in depth on the stories that matter.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/55d37d08-bee1-44e9-b6ce-066f3400f3c6/cover",
-          "start_time": "17:15",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9f4bca0f-dcc9-45cb-8c3b-2ee00032aada/cover",
-          "start_time": "17:30",
-          "end_time": "17:45"
-        },
-        {
-          "show_name": "Business",
-          "show_description": "The program brings the latest daily international business updates with all the important news on finances and economics.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/61c17dae-afdb-4098-885a-90c10dd46949/cover",
-          "start_time": "17:45",
-          "end_time": "17:51"
-        },
-        {
-          "show_name": "Sports",
-          "show_description": "A summary of world sports news of the day both on and off the pitch.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cab69475-f9d1-4f0a-a3cc-297b646cf66e/cover",
-          "start_time": "17:51",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/49ba1f51-41c5-4e40-b54b-668b1e912780/cover",
-          "start_time": "18:00",
-          "end_time": "18:10"
-        },
-        {
-          "show_name": "The Debate",
-          "show_description": "Live debate show on the key topic of the day with four guests from different spots of the globe from Monday to Thursday. Keep up with up-to-date issues from all over the world in politics...",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cee6853f-3fe3-4aee-a6df-1f088f3b0f92/cover",
-          "start_time": "18:10",
-          "end_time": "18:53"
-        },
-        {
-          "show_name": "Short Cuts",
-          "show_description": "Inspiring topics and positive initiatives that are changing the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f71c18ea-79a2-426b-84d1-7db98f700805/cover",
-          "start_time": "18:53",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e7b4a624-d070-49a9-97d5-d9db39c48e37/cover",
-          "start_time": "19:00",
-          "end_time": "19:20"
-        },
-        {
-          "show_name": "Sports",
-          "show_description": "A summary of world sports news of the day both on and off the pitch.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c95d6edb-bc2b-4262-97e4-9b1f4aa9cec2/cover",
-          "start_time": "19:20",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0f668de5-118e-4891-a853-c33cc3ca6eb8/cover",
-          "start_time": "19:30",
-          "end_time": "19:45"
-        },
-        {
-          "show_name": "Truth or Fake",
-          "show_description": "In our fast-moving world it is of fundamental importance to sort whats true from whats fake online. The Truth or Fake is a short program designed to alert everyone to the dangers of fake news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/61e590fe-16c0-483c-abbc-eb5f0dfbef7c/cover",
-          "start_time": "19:45",
-          "end_time": "19:51"
-        },
-        {
-          "show_name": "Focus",
-          "show_description": "Exclusive reports from France 24 correspondents around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d44f4180-c03e-40e5-8c56-fc27ca7dd16b/cover",
-          "start_time": "19:51",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7af8ce46-eb16-4f56-94dd-aa999a490453/cover",
-          "start_time": "20:00",
-          "end_time": "20:20"
-        },
-        {
-          "show_name": "Business",
-          "show_description": "The program brings the latest daily international business updates with all the important news on finances and economics.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/31781b24-22fb-4f1e-b342-c3a4b2e05a03/cover",
-          "start_time": "20:20",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1ca4e36b-295b-4b28-8f73-c81fa65d9783/cover",
-          "start_time": "20:30",
-          "end_time": "20:40"
-        },
-        {
-          "show_name": "Eye on Africa",
-          "show_description": "Join Georja Calvin-Smith for all the news from Africa and the Maghreb together with France 24s correspondents and guests of the show.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b965afbf-7838-4bf5-9ba8-9f0d611b849d/cover",
-          "start_time": "20:40",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4d8adcbd-312d-4ebe-a43d-e68c0ec47a08/cover",
-          "start_time": "21:00",
-          "end_time": "21:15"
-        },
-        {
-          "show_name": "Business",
-          "show_description": "The program brings the latest daily international business updates with all the important news on finances and economics.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b44edfb1-4498-4f46-9bec-689e8805f930/cover",
-          "start_time": "21:15",
-          "end_time": "21:21"
-        },
-        {
-          "show_name": "Truth or Fake",
-          "show_description": "In our fast-moving world it is of fundamental importance to sort whats true from whats fake online. The Truth or Fake is a short program designed to alert everyone to the dangers of fake news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0fe46e44-7fc4-4dbe-b62a-d4eb438ef86d/cover",
-          "start_time": "21:21",
-          "end_time": "21:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/97417cd9-1695-42c5-b754-71acecc96b70/cover",
-          "start_time": "21:30",
-          "end_time": "21:32"
-        },
-        {
-          "show_name": "A PROPOS",
-          "show_description": "A comprehensive look at just one story that is making the headlines around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b8cfda8a-689f-41e5-bf2f-02b96b1bc191/cover",
-          "start_time": "21:32",
-          "end_time": "21:44"
-        },
-        {
-          "show_name": "Eye on Africa",
-          "show_description": "Join Georja Calvin-Smith for all the news from Africa and the Maghreb together with France 24s correspondents and guests of the show.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/165c969e-ef0a-4d1c-8c9f-e9e4b36f759b/cover",
-          "start_time": "21:44",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/61a4e627-1621-4516-ab34-e855cf2dbdb0/cover",
-          "start_time": "22:00",
-          "end_time": "22:15"
-        },
-        {
-          "show_name": "Business  Truth or Fake",
-          "show_description": "The presenters offer you the latest news developments and updates from the world of business and economy.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/06bc0170-073b-4ad9-a6c7-971ed232cc2e/cover",
-          "start_time": "22:15",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/753585a6-7368-49e9-80f4-0bea6f0c0481/cover",
-          "start_time": "22:30",
-          "end_time": "22:45"
-        },
-        {
-          "show_name": "Sports",
-          "show_description": "A summary of world sports news of the day both on and off the pitch.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4d446842-5e6b-4ccd-802e-562945495571/cover",
-          "start_time": "22:45",
-          "end_time": "22:51"
-        },
-        {
-          "show_name": "Focus",
-          "show_description": "Exclusive reports from France 24 correspondents around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fefc1335-4db4-471a-91bc-769deb078a8c/cover",
-          "start_time": "22:51",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ff2a6d4c-7df5-42cb-9a0c-7706fdef7211/cover",
-          "start_time": "23:00",
-          "end_time": "23:10"
-        },
-        {
-          "show_name": "The Debate",
-          "show_description": "Live debate show on the key topic of the day with four guests from different spots of the globe from Monday to Thursday. Keep up with up-to-date issues from all over the world in politics...",
-          "show_logo": "https://images.metadata.sky.com/pd-image/47fe078c-f36f-434d-a164-0459ab31fc63/cover",
-          "start_time": "23:10",
-          "end_time": "23:53"
-        },
-        {
-          "show_name": "Short Cuts",
-          "show_description": "Inspiring topics and positive initiatives that are changing the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/476f7d03-f5ee-4325-a961-514431888e16/cover",
-          "start_time": "23:53",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "3 April 2026",
       "programmes": [
         {
@@ -1492,6 +696,690 @@
           "show_description": "Our panel of Paris-based journalists review the weeks international news the stories that made the headlines and also those you may have missed!",
           "show_logo": "https://images.metadata.sky.com/pd-image/d800aa13-525c-47e3-b91c-1b003acb31e1/cover",
           "start_time": "23:10",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "4 April 2026",
+      "programmes": [
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e40346c6-fb64-4cfa-9e1e-39346f8928fc/cover",
+          "start_time": "00:00",
+          "end_time": "00:15"
+        },
+        {
+          "show_name": "French Connections",
+          "show_description": "A quirky insiders guide to understanding France and the French from the sublime to the ridiculous.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/605d13be-d398-4086-ace8-5663648b4d65/cover",
+          "start_time": "00:15",
+          "end_time": "00:21"
+        },
+        {
+          "show_name": "Focus",
+          "show_description": "Exclusive reports from France 24 correspondents around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7f0f4040-2c6d-4b0a-90da-6401522ddc08/cover",
+          "start_time": "00:21",
+          "end_time": "00:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8f45d862-0887-4636-a639-554a3a19851d/cover",
+          "start_time": "00:30",
+          "end_time": "00:45"
+        },
+        {
+          "show_name": "Arts24",
+          "show_description": "Culture news from the worlds art food and fashion capital Paris. Join us every day for reviews and conversations on whats arguably the only daily arts programme on TV.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d4d02cff-bf29-405e-aafe-54096a421758/cover",
+          "start_time": "00:45",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c967840b-3c77-4972-a914-80d5901775ab/cover",
+          "start_time": "01:00",
+          "end_time": "01:15"
+        },
+        {
+          "show_name": "People And Profit",
+          "show_description": "The business show that goes beyond the numbers and the corporate jargon! Stephen Carroll breaks down major business stories and looks at how they affect our lives.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bc161434-d6c5-4550-8b6e-3b7147fbe7e0/cover",
+          "start_time": "01:15",
+          "end_time": "01:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cb06f647-652f-4287-81f3-771eccf85ce8/cover",
+          "start_time": "01:30",
+          "end_time": "01:45"
+        },
+        {
+          "show_name": "Eye on Africa",
+          "show_description": "Join Georja Calvin-Smith for all the news from Africa and the Maghreb together with France 24s correspondents and guests of the show.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a6eea1fb-c8d9-4dd2-aef5-f9fdf4bcd248/cover",
+          "start_time": "01:45",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/40514e9f-12df-4d79-b729-51e7714a5b00/cover",
+          "start_time": "02:00",
+          "end_time": "02:10"
+        },
+        {
+          "show_name": "The World This Week",
+          "show_description": "Our panel of Paris-based journalists review the weeks international news the stories that made the headlines and also those you may have missed!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4ed3a8fe-9265-4802-9549-28166dfcffc8/cover",
+          "start_time": "02:10",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/17676f56-b5a2-479f-a572-502863bb4026/cover",
+          "start_time": "03:00",
+          "end_time": "03:15"
+        },
+        {
+          "show_name": "Across Africa",
+          "show_description": "Across Africa is a weekly news program presenting latest news and stories up-to-date full coverage of politics social events from the African continent to the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/68e3134d-9073-4dfc-9680-d7e37b3e4fa6/cover",
+          "start_time": "03:15",
+          "end_time": "03:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c3775bed-1760-4aea-bec8-ad2aae43b853/cover",
+          "start_time": "03:30",
+          "end_time": "03:45"
+        },
+        {
+          "show_name": "Scoop",
+          "show_description": "Scoop provides a critical lens on the ever-evolving media landscape.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/878124ac-81db-40af-88d2-928777b0c7d6/cover",
+          "start_time": "03:45",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cf93be4a-9143-45e1-a428-750cd5664230/cover",
+          "start_time": "04:00",
+          "end_time": "04:15"
+        },
+        {
+          "show_name": "Eye on Africa",
+          "show_description": "Join Georja Calvin-Smith for all the news from Africa and the Maghreb together with France 24s correspondents and guests of the show.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/30bc6b93-7877-47d8-a14a-317c557ad894/cover",
+          "start_time": "04:15",
+          "end_time": "04:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/afab8e36-f9b4-45ba-aac4-fc169502288b/cover",
+          "start_time": "04:30",
+          "end_time": "04:45"
+        },
+        {
+          "show_name": "Arts24",
+          "show_description": "Culture news from the worlds art food and fashion capital Paris. Join us every day for reviews and conversations on whats arguably the only daily arts programme on TV.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cef5d6ad-229b-45bf-812b-899f38a4da25/cover",
+          "start_time": "04:45",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/186a30bb-7c3a-4a47-8691-01843f22ffe5/cover",
+          "start_time": "05:00",
+          "end_time": "05:12"
+        },
+        {
+          "show_name": "The World This Week",
+          "show_description": "Our panel of Paris-based journalists review the weeks international news the stories that made the headlines and also those you may have missed!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f8d149f5-03be-4514-9e98-b95bb50a45d0/cover",
+          "start_time": "05:12",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d89afc39-36bb-4d7c-97bb-2cc89af085ef/cover",
+          "start_time": "06:00",
+          "end_time": "06:20"
+        },
+        {
+          "show_name": "Sports Sunday",
+          "show_description": "Sports Sunday presents top scores and covers top sports news from all over the world and latest sports events. In ten minutes Elliot Richardson provides sports round-up for you not to miss a thing.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b8a26626-15e0-44c4-9d15-46a52a5787c0/cover",
+          "start_time": "06:20",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/47f9424b-4ec7-4320-a414-4be979049103/cover",
+          "start_time": "06:30",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0e6275a0-e3ef-4848-9092-af2641276db0/cover",
+          "start_time": "07:00",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d6736562-70cb-400b-9fd2-8df209061423/cover",
+          "start_time": "07:30",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/62e0388b-5b26-4c4f-a030-014194a002be/cover",
+          "start_time": "08:00",
+          "end_time": "08:15"
+        },
+        {
+          "show_name": "Guest of the day",
+          "show_description": "This is France 24 HD",
+          "show_logo": "https://images.metadata.sky.com/pd-image/04a2f413-7182-48b3-a5bb-f99468bde115/cover",
+          "start_time": "08:15",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9ce33668-e51c-497a-b8ec-98fc0d555671/cover",
+          "start_time": "08:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6a524d69-6251-41ec-9a97-cfd812d2b987/cover",
+          "start_time": "09:00",
+          "end_time": "09:14"
+        },
+        {
+          "show_name": "Access Asia",
+          "show_description": "Access Asia opens the diverse continent and presents the latest updates on the social events and political stories thorough analysis of the cutting-edge current affairs.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b473a4a9-d8db-4c05-8edf-2ece3c8d445d/cover",
+          "start_time": "09:14",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0cd2cc44-6186-47ee-a320-faf2557f01b8/cover",
+          "start_time": "09:30",
+          "end_time": "09:45"
+        },
+        {
+          "show_name": "The Observers",
+          "show_description": "A show produced with photos videos and personal accounts from our Observers around the world _ all checked by our staff here in Paris. Saturday at 10.15 am Paris time.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/761b92de-a296-4818-816d-4bd43e018a6d/cover",
+          "start_time": "09:45",
+          "end_time": "09:52"
+        },
+        {
+          "show_name": "Focus",
+          "show_description": "Exclusive reports from France 24 correspondents around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6b37d4cf-6946-4446-a758-f31ac6d18c6b/cover",
+          "start_time": "09:52",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/656b32d2-a6f7-4db3-9c4a-74a2f23efe97/cover",
+          "start_time": "10:00",
+          "end_time": "10:09"
+        },
+        {
+          "show_name": "Revisited",
+          "show_description": "Revisited presents certain places in different parts of the world several years after some significant events or accidents. Are there any changes?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/27737f50-b8bf-4f60-a730-17080e2b86f2/cover",
+          "start_time": "10:09",
+          "end_time": "10:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/56e4909f-7b55-4dfc-8117-7a9daf1e5911/cover",
+          "start_time": "10:30",
+          "end_time": "10:39"
+        },
+        {
+          "show_name": "The Paris of the Arts",
+          "show_description": "See Paris through the eyes of an artist for a cultural insight into their favourite haunts.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/705de780-e059-4927-a58e-fdca550fc2ad/cover",
+          "start_time": "10:39",
+          "end_time": "10:55"
+        },
+        {
+          "show_name": "Short Cuts",
+          "show_description": "Inspiring topics and positive initiatives that are changing the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5691557d-2fdb-4ba2-8773-89bfb7b2ab11/cover",
+          "start_time": "10:55",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1b678b05-b958-4aef-92bc-c99adb966959/cover",
+          "start_time": "11:00",
+          "end_time": "11:14"
+        },
+        {
+          "show_name": "Arts24",
+          "show_description": "Culture news from the worlds art food and fashion capital Paris. Join us every day for reviews and conversations on whats arguably the only daily arts programme on TV.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/89e77f6f-b973-406b-95d5-8f2fac6dc82c/cover",
+          "start_time": "11:14",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7358da3e-e40f-4e7f-b542-ba11023a6e67/cover",
+          "start_time": "11:30",
+          "end_time": "11:44"
+        },
+        {
+          "show_name": "Focus",
+          "show_description": "Exclusive reports from France 24 correspondents around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4c37a97c-6ecf-4ea2-a716-f65ddfb497f1/cover",
+          "start_time": "11:44",
+          "end_time": "11:50"
+        },
+        {
+          "show_name": "Sports",
+          "show_description": "A summary of world sports news of the day both on and off the pitch.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b4a31b14-161d-40ba-87a7-3fbc3f1a8656/cover",
+          "start_time": "11:50",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/55a24916-be3a-4b9c-ac24-995920fddcab/cover",
+          "start_time": "12:00",
+          "end_time": "12:15"
+        },
+        {
+          "show_name": "Guest of the day",
+          "show_description": "This is France 24 HD",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8ce2d888-ac0a-4238-b403-ae85cf1c6b07/cover",
+          "start_time": "12:15",
+          "end_time": "12:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9663d8b1-11af-4446-ab5c-4d62c32707ca/cover",
+          "start_time": "12:30",
+          "end_time": "12:45"
+        },
+        {
+          "show_name": "The 51 Percent",
+          "show_description": "The 51 Percent is revolving around women and their role in the world and presents various stories of women with different backgrounds from all over the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c087e871-1cf8-418a-9fac-4dd668a461f2/cover",
+          "start_time": "12:45",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bcd8f3ad-23d0-4640-aa73-c3a6fbf50737/cover",
+          "start_time": "13:00",
+          "end_time": "13:15"
+        },
+        {
+          "show_name": "A Week in France",
+          "show_description": "Follow coverage of events in Paris and across France Corsica and the French overseas territories. An insider look at French politics and culture.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/92b589f6-8360-4ede-ae79-e92cbd2bd1f7/cover",
+          "start_time": "13:15",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/915b0dd0-1b04-446d-86be-8d5f8997917d/cover",
+          "start_time": "13:30",
+          "end_time": "13:45"
+        },
+        {
+          "show_name": "The Reporters Week",
+          "show_description": "International in-depth reports from the France 24 teams and senior reporters around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3cc5010a-0b3c-4376-9f9c-51bea0ec433c/cover",
+          "start_time": "13:45",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2525401e-38c8-48ff-9b48-3e21e4edd532/cover",
+          "start_time": "14:00",
+          "end_time": "14:09"
+        },
+        {
+          "show_name": "The Paris of the Arts",
+          "show_description": "See Paris through the eyes of an artist for a cultural insight into their favourite haunts.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/040c19a1-972a-456c-90fd-b96080919731/cover",
+          "start_time": "14:09",
+          "end_time": "14:25"
+        },
+        {
+          "show_name": "Short Cuts",
+          "show_description": "Inspiring topics and positive initiatives that are changing the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/263313c7-c332-415b-b3ee-7707c84b3d3a/cover",
+          "start_time": "14:25",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/508ad45e-352a-4c22-8005-36b89589a0d8/cover",
+          "start_time": "14:30",
+          "end_time": "14:39"
+        },
+        {
+          "show_name": "Revisited",
+          "show_description": "Revisited presents certain places in different parts of the world several years after some significant events or accidents. Are there any changes?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/139f61a8-c880-4536-8286-8f58d28cefb6/cover",
+          "start_time": "14:39",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0ff59ec3-72aa-4969-a10f-d2e0cc20cf58/cover",
+          "start_time": "15:00",
+          "end_time": "15:14"
+        },
+        {
+          "show_name": "French Connections",
+          "show_description": "A quirky insiders guide to understanding France and the French from the sublime to the ridiculous.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f598d6e2-1dbb-42ba-8255-b25740768520/cover",
+          "start_time": "15:14",
+          "end_time": "15:21"
+        },
+        {
+          "show_name": "Entre Nous",
+          "show_description": "From life questions to social norms to what is making headlines in France an in-depth look at our society.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/06b837c0-d34b-44d4-bea1-2d1c7efb0f81/cover",
+          "start_time": "15:21",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/73ac3c22-c456-4585-8763-2e4558257f4f/cover",
+          "start_time": "15:30",
+          "end_time": "15:44"
+        },
+        {
+          "show_name": "Arts24",
+          "show_description": "Culture news from the worlds art food and fashion capital Paris. Join us every day for reviews and conversations on whats arguably the only daily arts programme on TV.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2d0e5f95-8552-4c1f-b4fe-ae1a3624b95f/cover",
+          "start_time": "15:44",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c1dd8068-ab67-440e-9ac7-ebc99ca7aa65/cover",
+          "start_time": "16:00",
+          "end_time": "16:14"
+        },
+        {
+          "show_name": "Across Africa",
+          "show_description": "Across Africa is a weekly news program presenting latest news and stories up-to-date full coverage of politics social events from the African continent to the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5e90b4ab-0f11-430a-83a5-93c803e43d5f/cover",
+          "start_time": "16:14",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c98f1c40-e74b-4337-8b16-4f823f6ed12d/cover",
+          "start_time": "16:30",
+          "end_time": "16:44"
+        },
+        {
+          "show_name": "Tete a tete",
+          "show_description": "An interview with a personality from the world of economics politics culture or diplomacy.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/41b38175-c9d7-48f1-a09a-29d40f8f8a2b/cover",
+          "start_time": "16:44",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3e11e066-2da2-40fe-a042-78cb676c1d10/cover",
+          "start_time": "17:00",
+          "end_time": "17:15"
+        },
+        {
+          "show_name": "Spotlight",
+          "show_description": "Prime time interview of the day goes beyond the headlines join us as news-making guests from around the globe go in depth on the stories that matter.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fe3762b0-68fb-4a09-9d26-7d55f1f0cf1a/cover",
+          "start_time": "17:15",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0d2c25c8-0c31-4b24-ac91-2931f240d4b7/cover",
+          "start_time": "17:30",
+          "end_time": "17:45"
+        },
+        {
+          "show_name": "Global Grid",
+          "show_description": "France 24s International Affairs Editors come on set to give you their take on world events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0404a6dd-5332-4663-8673-6d042102c44b/cover",
+          "start_time": "17:45",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/28bced52-11a1-42c0-a1e7-9a1e35ea588c/cover",
+          "start_time": "18:00",
+          "end_time": "18:15"
+        },
+        {
+          "show_name": "Talking Europe",
+          "show_description": "Politicians activists and researchers debate the issues facing the EU and an interview a special guest.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ec58c814-bdc3-460c-8b3c-e9017c9260ac/cover",
+          "start_time": "18:15",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/254bc95d-40dc-47fb-803b-7c558d84814e/cover",
+          "start_time": "18:30",
+          "end_time": "18:45"
+        },
+        {
+          "show_name": "Talking Europe",
+          "show_description": "Politicians activists and researchers debate the issues facing the EU and an interview a special guest.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/732c06e7-4869-412d-9183-fbb2620b8876/cover",
+          "start_time": "18:45",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/88f432a7-3eb3-4a2d-9698-79c1273e4662/cover",
+          "start_time": "19:00",
+          "end_time": "19:15"
+        },
+        {
+          "show_name": "French Connections",
+          "show_description": "A quirky insiders guide to understanding France and the French from the sublime to the ridiculous.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7b04c2b2-3560-497e-bfb0-c5882fb1317f/cover",
+          "start_time": "19:15",
+          "end_time": "19:22"
+        },
+        {
+          "show_name": "Focus",
+          "show_description": "Exclusive reports from France 24 correspondents around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4893c17a-fa62-4a69-b359-d143a8eaa435/cover",
+          "start_time": "19:22",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3e51e372-f36d-411a-aa1c-ff097f084ef8/cover",
+          "start_time": "19:30",
+          "end_time": "19:45"
+        },
+        {
+          "show_name": "France In Focus",
+          "show_description": "France in Focus brings top stories and most essential reports on France its political and social life. Be the first to know about latest events in politics culture and economy.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/47d4ca4b-ff10-475d-b56c-d59d431f9586/cover",
+          "start_time": "19:45",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2ceafaa9-7f88-4c75-ba51-1888ab9f8843/cover",
+          "start_time": "20:00",
+          "end_time": "20:15"
+        },
+        {
+          "show_name": "Global Grid",
+          "show_description": "France 24s International Affairs Editors come on set to give you their take on world events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/412e8db6-f6eb-43ae-b525-e7115dec498d/cover",
+          "start_time": "20:15",
+          "end_time": "20:21"
+        },
+        {
+          "show_name": "Sports Sunday",
+          "show_description": "Sports Sunday presents top scores and covers top sports news from all over the world and latest sports events. In ten minutes Elliot Richardson provides sports round-up for you not to miss a thing.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2afc3447-97a1-491e-a363-8c7929492e3b/cover",
+          "start_time": "20:21",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b04620ec-828d-4e0f-a255-75219df33277/cover",
+          "start_time": "20:30",
+          "end_time": "20:45"
+        },
+        {
+          "show_name": "A Week in France",
+          "show_description": "Follow coverage of events in Paris and across France Corsica and the French overseas territories. An insider look at French politics and culture.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/30810295-9954-4b9b-a338-7a5d3217b355/cover",
+          "start_time": "20:45",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/80e038fe-478b-4236-a849-a67fa83a5ed5/cover",
+          "start_time": "21:00",
+          "end_time": "21:15"
+        },
+        {
+          "show_name": "Reporters",
+          "show_description": "International in-depth reports from the France 24 teams and senior reporters around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ead9a52c-1b1c-481e-b675-c0cab7647d1c/cover",
+          "start_time": "21:15",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/295b1381-94bc-4f8f-a6f9-0efa97aaf4a3/cover",
+          "start_time": "21:30",
+          "end_time": "21:45"
+        },
+        {
+          "show_name": "The Reporters Week",
+          "show_description": "International in-depth reports from the France 24 teams and senior reporters around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6dd4a5ba-e9e3-4f41-9fbc-d8562ede7a73/cover",
+          "start_time": "21:45",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/81e51354-10e2-46b7-a4a0-d494c29d994e/cover",
+          "start_time": "22:00",
+          "end_time": "22:15"
+        },
+        {
+          "show_name": "Sports Sunday",
+          "show_description": "Sports Sunday presents top scores and covers top sports news from all over the world and latest sports events. In ten minutes Elliot Richardson provides sports round-up for you not to miss a thing.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1413c6d4-5709-47e3-9c9b-94551d207185/cover",
+          "start_time": "22:15",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/edc674c9-7afb-433a-a9e5-f54a4f405a8c/cover",
+          "start_time": "22:30",
+          "end_time": "22:45"
+        },
+        {
+          "show_name": "Arts24",
+          "show_description": "Culture news from the worlds art food and fashion capital Paris. Join us every day for reviews and conversations on whats arguably the only daily arts programme on TV.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e9cba0e6-cc5b-4c3f-9ba0-40e9a56ca1d4/cover",
+          "start_time": "22:45",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/08ba0469-a898-4eec-b6c2-684ad0433282/cover",
+          "start_time": "23:00",
+          "end_time": "23:15"
+        },
+        {
+          "show_name": "French Connections",
+          "show_description": "A quirky insiders guide to understanding France and the French from the sublime to the ridiculous.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2ec23884-73b6-45c8-a141-acb4a5f79bcb/cover",
+          "start_time": "23:15",
+          "end_time": "23:21"
+        },
+        {
+          "show_name": "Fashion",
+          "show_description": "All the best of the Parisian catwalks and a look behind the scenes at the big names in Haute Couture.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fe7df311-5e2f-4da6-b14b-68ae6df099b1/cover",
+          "start_time": "23:21",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "The latest news headlines and developments from all over the world. With analysis opinion and insight on the biggest stories. Providing all you need to know on the days events.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1ee7a4f7-bf3d-42c6-baae-1dc0ae8bffdc/cover",
+          "start_time": "23:30",
+          "end_time": "23:45"
+        },
+        {
+          "show_name": "Tete a tete",
+          "show_description": "An interview with a personality from the world of economics politics culture or diplomacy.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3bf4af71-6a11-492d-83ad-fdea30115101/cover",
+          "start_time": "23:45",
           "end_time": "00:00"
         }
       ]
