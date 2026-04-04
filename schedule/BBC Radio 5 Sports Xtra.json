@@ -3,67 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-5-Sports-Extra.png",
   "schedule": [
     {
-      "date": "3 April 2026",
-      "programmes": [
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "County Championship Cricket",
-          "show_description": "Kevin Howells presents live ball-by-ball cricket commentary from the County Championship.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "12:25"
-        },
-        {
-          "show_name": "Rugby League",
-          "show_description": "Live rugby league commentary from BBC Radio Humberside of Hull Kingston Rovers v Hull FC in the Super League Rivals Round.",
-          "show_logo": "",
-          "start_time": "12:25",
-          "end_time": "14:45"
-        },
-        {
-          "show_name": "Rugby League",
-          "show_description": "Live rugby league commentary of St Helens v Wigan Warriors in the Super League Rivals Round.",
-          "show_logo": "",
-          "start_time": "14:45",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "County Championship Cricket",
-          "show_description": "Kevin Howells presents live ball-by-ball cricket commentary from the County Championship.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "18:30",
-          "end_time": "19:45"
-        },
-        {
-          "show_name": "Rugby Union",
-          "show_description": "Live rugby union commentary of Northampton Saints v Castres in the last 16 of the European Champions Cup.",
-          "show_logo": "",
-          "start_time": "19:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "4 April 2026",
       "programmes": [
         {
@@ -124,10 +63,71 @@
         },
         {
           "show_name": "Boxing",
-          "show_description": "Live heavyweight boxing commentary of Derek Chisora v Deontay Wilder at the 02 Arena in London, plus coverage of the undercard.",
+          "show_description": "Live heavyweight boxing commentary of Derek Chisora v Deontay Wilder at the 02 Arena in London, plus coverage of the undercard. Contains some strong language.",
           "show_logo": "",
           "start_time": "19:15",
           "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "5 April 2026",
+      "programmes": [
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "10:55"
+        },
+        {
+          "show_name": "County Championship Cricket",
+          "show_description": "Kevin Howells presents live ball-by-ball cricket commentary from the County Championship.",
+          "show_logo": "",
+          "start_time": "10:55",
+          "end_time": "14:55"
+        },
+        {
+          "show_name": "Rugby Union",
+          "show_description": "Live rugby union commentary from BBC Radio Leicester of Bordeaux Bègles v Leicester Tigers in the last 16 of the European Champions Cup.",
+          "show_logo": "",
+          "start_time": "14:55",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "County Championship Cricket",
+          "show_description": "Kevin Howells presents live ball-by-ball cricket commentary from the County Championship.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Boxing",
+          "show_description": "Live boxing commentary of Caroline Dubois v Terri Harper, plus undercard bouts including Chantelle Cameron v Michaela Kotaskova and Ellie Scotney v Mayelli Flores. Contains some strong language.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "06:00"
         }
       ]
     }

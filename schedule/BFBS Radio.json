@@ -3,95 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BFBS-Radio.png",
   "schedule": [
     {
-      "date": "3 April 2026",
-      "programmes": [
-        {
-          "show_name": "Nicky Smith",
-          "show_description": "Nicky presents music, sport and entertainment bringing together the Forces communities overseas and in the UK.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "90s Takeover: Ops Breakfast",
-          "show_description": "Join Ryan for all the latest news and, more importantly, nowt but 90s tunes!",
-          "show_logo": "",
-          "start_time": "04:00",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "90s Takeover: Global Breakfast",
-          "show_description": "Join Tim for all the latest from around the forces world including the hottest stories PLUS nowt but awesome tunes from the 90s!",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "90s Takeover: One Hit Wonders",
-          "show_description": "Join Kam & Danni for a nostalgic for some iconic one-hit wonders of the 1990s.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "90s Takeover: Girl Power",
-          "show_description": "Rachael Price is turning the clock back to when girl power ruled the world. An hour of the biggest 90's female icons from Spice Girls to Britney Spears.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "90s Takeover: Boy Power",
-          "show_description": "Join Gemma-Leigh for a trip back to the 90s, where it's all about the boyz! Expect all those classic tunes you haven't heard in ages and maybe still know every word to!",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "The 90s Takeover",
-          "show_description": "One Hit Wonders",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "The 90s School Disco",
-          "show_description": "90s School Disco.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Hip Hop and R&B",
-          "show_description": "Hip Hop and R&B",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Movie Mania",
-          "show_description": "Movie Mania",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Terrific Twos",
-          "show_description": "Terrific Twos",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The 90s Takeover",
-          "show_description": "One Hit Wonders",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "4 April 2026",
       "programmes": [
         {
@@ -183,6 +94,116 @@
           "show_description": "Kick off the Forces Saturday night with the best house, trance, upfront and classic floor-fillers.",
           "show_logo": "",
           "start_time": "21:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "5 April 2026",
+      "programmes": [
+        {
+          "show_name": "Guilty Pleasures",
+          "show_description": "Guilty Pleasures",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "Movie Mania",
+          "show_description": "Movie Mania",
+          "show_logo": "",
+          "start_time": "02:00",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Terrific Twos",
+          "show_description": "Terrific Twos",
+          "show_logo": "",
+          "start_time": "03:00",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Ops Breakfast",
+          "show_description": "Good morning from Ops! E-mail: ops@bfbs.com",
+          "show_logo": "",
+          "start_time": "04:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Sunday Breakfast",
+          "show_description": "Music, sport, and entertainment to get you ready for the weekend.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Forgotten Gems",
+          "show_description": "Forgotten Gems",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Breakthru Bands",
+          "show_description": "Breakthru Bands",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "The Charlatans Music Special",
+          "show_description": "Charlatans Music Special.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "The 90s Takeover",
+          "show_description": "One Hit Wonders",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Hip Hop and R&B",
+          "show_description": "Hip Hop and R&B",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "The 90s Chart",
+          "show_description": "90s Chart.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Britpop",
+          "show_description": "Britpop",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "One Hit Wonders",
+          "show_description": "One Hit Wonders",
+          "show_logo": "",
+          "start_time": "20:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Nu Metal Special",
+          "show_description": "Nu Metal Special",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "The Peter Andre Music Special",
+          "show_description": "A Peter Andre Music Special.",
+          "show_logo": "",
+          "start_time": "23:00",
           "end_time": "00:00"
         }
       ]

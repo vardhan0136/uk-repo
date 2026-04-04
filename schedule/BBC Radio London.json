@@ -3,81 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-London.png",
   "schedule": [
     {
-      "date": "3 April 2026",
-      "programmes": [
-        {
-          "show_name": "Weekday overnights with BBC Radio 5 Live",
-          "show_description": "Local BBC Radio joins BBC Radio 5 Live through the night on a weekday.",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Riz Lateef",
-          "show_description": "Have your say on the day's news with Riz.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "The Make a Difference Show",
-          "show_description": "The pop band Blue (Simon Webbe, Duncan James, Antony Costa and Lee Ryan) join Gaby Roslin and some of the winners of the BBC Make a Difference Awards.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Robert Elms",
-          "show_description": "Everything you need to know about London from architecture to accents and great music.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Total Sport: Pre-match",
-          "show_description": "All the build-up and interviews ahead of today's matches featuring our local teams.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Total Sport London",
-          "show_description": "Coverage of Queens Park Rangers v Watford in the Championship. Kick-off at 3pm. NOT online.",
-          "show_logo": "",
-          "start_time": "15:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Total Sport: The Far Post",
-          "show_description": "The final say on all that's happened on the London football scene.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "The Make a Difference Show",
-          "show_description": "The pop band Blue (Simon Webbe, Duncan James, Antony Costa and Lee Ryan) join Gaby Roslin and some of the winners of the BBC Make a Difference Awards.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Jacqueline Shepherd",
-          "show_description": "Great music, good vibes and stories from our African and Caribbean communities.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Late Night Jo",
-          "show_description": "Jo Good with late-night conversation, amazing stories and the soundtrack to your night.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "4 April 2026",
       "programmes": [
         {
@@ -146,6 +71,74 @@
         {
           "show_name": "Late Night Jo",
           "show_description": "Jo Good with late-night conversation, amazing stories and the soundtrack to your night.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "5 April 2026",
+      "programmes": [
+        {
+          "show_name": "Weekend overnights with BBC Radio 5 Live",
+          "show_description": "Local BBC Radio joins BBC Radio 5 Live through the night on a weekend.",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Keeping Faith",
+          "show_description": "Church of England Priest and broadcaster Frances Finn looks at the significance of Easter with British adventurer Bear Grylls and Great British Bake Off winner Jasmine Mitchell.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Inspirit with Jumoké Fashola",
+          "show_description": "Debating the week's big religious, moral and ethical issues.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Robert Elms",
+          "show_description": "Everything you need to know about London from architecture to accents and great music.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "The Make a Difference Show",
+          "show_description": "Gaby Roslin talks to some amazing people making a difference where we live.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Total Sport: Pre-match",
+          "show_description": "All the build-up and interviews ahead of today's matches featuring our local teams.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "Total Sport London",
+          "show_description": "Live FA Cup quarter-final commentary of West Ham United v Leeds United. Kick-off at 4.30pm. UK only.",
+          "show_logo": "",
+          "start_time": "16:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Dotun Adebayo",
+          "show_description": "Dotun Adebayo brings you the best of community programming from across England.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "The Late Show",
+          "show_description": "Asma Younus with late-night conversation, stories and the soundtrack to your night.",
           "show_logo": "",
           "start_time": "22:00",
           "end_time": "01:00"

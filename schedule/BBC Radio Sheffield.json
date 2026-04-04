@@ -3,67 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Sheffield.png",
   "schedule": [
     {
-      "date": "3 April 2026",
-      "programmes": [
-        {
-          "show_name": "As Radio 5 Live",
-          "show_description": "A simulcast with the BBC's news and sport network Radio 5 Live",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Ellie Colton",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Make a Difference - Award Winners Special",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Xanthe Palmer",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Football Heaven Live",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Make a Difference - Award Winners Special",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Sile Sibanda",
-          "show_description": "Chat and conversation",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Jo Good",
-          "show_description": "Music and chat",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "4 April 2026",
       "programmes": [
         {
@@ -111,6 +50,60 @@
         {
           "show_name": "Jo Good",
           "show_description": "Music and chat",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "5 April 2026",
+      "programmes": [
+        {
+          "show_name": "As Radio 5 Live",
+          "show_description": "A simulcast with the BBC's news and sport network Radio 5 Live",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "This Is Easter with Frances Finn",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Xanthe Palmer",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Colson Smith",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "The Make a Difference Show",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Dotun Adebayo",
+          "show_description": "Community reports from around the country",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "The Late Show",
+          "show_description": "",
           "show_logo": "",
           "start_time": "22:00",
           "end_time": "01:00"

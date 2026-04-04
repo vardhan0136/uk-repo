@@ -3,102 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Scotland.png",
   "schedule": [
     {
-      "date": "3 April 2026",
-      "programmes": [
-        {
-          "show_name": "Scotcast",
-          "show_description": "David Wallace Lockhart, Natalie Higgins and Phil Sim on the week's political news.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "00:30"
-        },
-        {
-          "show_name": "As BBC Radio 5 Live",
-          "show_description": "Joining Radio 5 Live.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Good Friday: Trials and Transformations",
-          "show_description": "Alison Jack and Linden Bicket find meaning in the human suffering at the heart of the Good Friday story and explore its enduring impact in turbulent and anxious times.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Good Friday: Confronting Chaos",
-          "show_description": "The life story of Jesus can seem distant, but as we face the fears of our current world, can the meaning of Good Friday offer ways to peace and grace in an uncertain age?",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Radio Scotland Breakfast",
-          "show_description": "News from across Scotland and the world, plus sport, weather, entertainment and big name interviews.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Mornings",
-          "show_description": "Stephen Jardine gets to the heart of the stories making the news.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Lunchtime Live",
-          "show_description": "News updates from Scotland and beyond, plus all your lunchtime sport, travel and weather.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Breaking the News",
-          "show_description": "Des Clarke hosts Scotland's award-winning satirical news quiz.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Afternoons",
-          "show_description": "Nicola Meighan brings you feel-good music and chat with celebrity guests.",
-          "show_logo": "",
-          "start_time": "13:30",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Drivetime",
-          "show_description": "Breaking down the day's talking points with comment and opinion, plus sport, travel and weather.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Grant Stott's Vinyl Collective",
-          "show_description": "New and classic cuts all played from 7', 12' and vinyl LPs. Grant shares the treasures from his own shopping adventures and discovers the stories about your record collections.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "BBC Introducing in Scotland",
-          "show_description": "Phoebe and Steph bring you the best new music coming out of Scotland and reflect on Alice Faye winning BBC Introducing's Scottish Act of the Year.",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Up Late",
-          "show_description": "The best company to end the day, with lively chat and some of your favourite tunes.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "4 April 2026",
       "programmes": [
         {
@@ -124,7 +28,7 @@
         },
         {
           "show_name": "The Saturday Show",
-          "show_description": "Amy Irons and Steven Mill kick-start your Saturday with lots of laughs, great guests and timeless tunes as we look back on the week's news and preview the day's football fixtures.",
+          "show_description": "Carol Kirkwood, Hammy McMillan Jr. and Rebecca Morrison chat to Amy Irons and Steven Mill as they kick-off the weekend with lots of laughs, great guests and timeless tunes.",
           "show_logo": "",
           "start_time": "09:00",
           "end_time": "12:00"
@@ -177,6 +81,88 @@
           "show_logo": "",
           "start_time": "22:00",
           "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "5 April 2026",
+      "programmes": [
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "Joining Radio 5 Live.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Scotcast",
+          "show_description": "Martin Geissler and the team bring you thoughtful conversation and expert analysis covering the most interesting news stories in Scotland.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "New Every Sunday",
+          "show_description": "A celebration of Easter Day with The Very Rev John Conway of St Mary's Episcopal Cathedral, Edinburgh.",
+          "show_logo": "",
+          "start_time": "07:30",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Sunday Morning",
+          "show_description": "Two hours of music and conversation with a faith and ethical perspective. Taking the week's events to ask what they say about our values and beliefs.",
+          "show_logo": "",
+          "start_time": "08:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "The Sunday Show",
+          "show_description": "News, discussion and interviews from politics and beyond.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Off the Ball",
+          "show_description": "The most petty and ill-informed football show on radio.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Sportsound",
+          "show_description": "Sportsound brings you all the action from the first of Sunday's Scottish Premiership matches which sees Hearts travel to bottom side Livingston.",
+          "show_logo": "",
+          "start_time": "13:30",
+          "end_time": "16:25"
+        },
+        {
+          "show_name": "Sportsound",
+          "show_description": "Sunday's Scottish Premiership football action continues on Sportsound with Dundee hosting Celtic.",
+          "show_logo": "",
+          "start_time": "16:25",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Classical Now",
+          "show_description": "An Easter-themed programme featuring Fanny Mendelssohn's Easter Sonata, sacred choral music by Byrd and Tikey Zes, and Mahler's Resurrection Symphony.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Roddy Hart's Mix Tape",
+          "show_description": "Settle in as Roddy Hart plays handpicked tracks, breakthrough artists and fresh sounds to close out your Easter Sunday.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "Joining Radio 5 Live.",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "06:00"
         }
       ]
     }
