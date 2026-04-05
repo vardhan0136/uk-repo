@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
   "schedule": [
     {
-      "date": "4 April 2026",
-      "programmes": [
-        {
-          "show_name": "Through the Night",
-          "show_description": "The Spanish vocal ensemble Qvinta Essençia showcase the polyphonic musical tradition and poetry that flourished in the Iberian peninsula of the 16th century.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "Hannah French presents Radio 3's Breakfast show. You can contact the show by emailing 3breakfast@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Saturday Morning",
-          "show_description": "Tom Service introduces the perfect classical soundtrack for the weekend, and meets acclaimed French conductor Raphaël Pichon.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Earlier... with Jools Holland",
-          "show_description": "Jools is joined by poet Pádraig Ó Tuama with music by Sibelius, Richter and Kapsberger.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Key Changes: Radio 3's...",
-          "show_description": "...Essential History of Classical Music. The year is 1026. Monk Guido d'Arezzo causes a musical revolution with a new invention.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Record Review",
-          "show_description": "Andrew McGregor with the week's best new classical releases, plus news and recommendations.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Sound of Cinema",
-          "show_description": "Edith Bowman presents a weekly compendium of distinguished film scores and soundtrack compositions - joined this week by composers Sheridan Tongue and Kathryn Tickell.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "This Classical Life",
-          "show_description": "Jess Gillam swaps favourite music with film composer David Arnold.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Opera on 3",
-          "show_description": "A dreamlike tale of love and fate, wrapped in Debussy's hypnotic harmonies. This performance with the BBC Scottish Symphony Orchestra brings Debussy's astonishing score to life.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "21:30"
-        },
-        {
-          "show_name": "Music Planet",
-          "show_description": "Lopa Kothari curates a selection of roots-based music from across the globe, including highlights from a recent London concert appearance from Mongolian ensemble Anda Union.",
-          "show_logo": "",
-          "start_time": "21:30",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "New Music Show",
-          "show_description": "The world premiere of British composer Tansy Davies's The Passion of Mary Magdalene, recorded at the Barbican in London with the Dunedin Consort.",
-          "show_logo": "",
-          "start_time": "22:30",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "5 April 2026",
       "programmes": [
         {
@@ -181,6 +99,88 @@
         {
           "show_name": "Unclassified",
           "show_description": "Elizabeth Alker with a late-night journey through new music from today's most exciting genre-defying artists.",
+          "show_logo": "",
+          "start_time": "23:30",
+          "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "6 April 2026",
+      "programmes": [
+        {
+          "show_name": "Through the Night",
+          "show_description": "The Swedish Radio Symphony Orchestra and conductor Daniel Harding are joined by Orfeó Català and soloists Johanna Wallroth and Avery Amereau in Mahler's Resurrection Symphony.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Essential Classics",
+          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Classical Live",
+          "show_description": "Radio 3 New Generation Artist, tenor Santiago Sanchez, in a live recital from Wigmore Hall with pianist Ian Tindale, plus Chopin from LSO St Luke's and music inspired by the past.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Composer of the Week: Gershwin",
+          "show_description": "1/5. Donald Macleod explores the early life of George Gershwin, the composer of the American 'melting pot'.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "In Tune",
+          "show_description": "Live music from pianist Nicholas McCarthy and soprano Louise alder with Joseph Middleton.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Classical Mixtape",
+          "show_description": "Take time out with a 30-minute soundscape of classical favourites.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Radio 3 in Concert",
+          "show_description": "The world-renowned Tallis Scholars explore music inspired by miraculous events in the life of Jesus in works by Tallis, Victoria and Gabrieli along with Judith Weir and Arvo Pärt.",
+          "show_logo": "",
+          "start_time": "19:30",
+          "end_time": "21:45"
+        },
+        {
+          "show_name": "The Essay: Healing Musicians",
+          "show_description": "Renowned cellist Julian Lloyd Webber talks to Kate Kennedy about the injury which forced him to stop playing. Where does this leave a musician's relationship with their instrument?",
+          "show_logo": "",
+          "start_time": "21:45",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Night Tracks",
+          "show_description": "Sara Mohr-Pietsch presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "'Round Midnight",
+          "show_description": "Soweto is back with another week of top picks from the UK and international jazz scenes, and emerging jazz saxophonist Allexa Nava celebrates some of the artists that inspire her.",
           "show_logo": "",
           "start_time": "23:30",
           "end_time": "00:30"

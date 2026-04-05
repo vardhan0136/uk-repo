@@ -3,67 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cymru-2.png",
   "schedule": [
     {
-      "date": "4 April 2026",
-      "programmes": [
-        {
-          "show_name": "Gweler BBC Radio 2",
-          "show_description": "Mae Radio Cymru 2 yn ymuno â BBC Radio 2 dros nos.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "05:30"
-        },
-        {
-          "show_name": "Richard Rees",
-          "show_description": "Cerddoriaeth a chwmnïaeth ar gyfer bore Sadwrn. Music and companionship for Saturday morning.",
-          "show_logo": "",
-          "start_time": "05:30",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Sioe Frecwast",
-          "show_description": "Miwsig gorau'r bore gydag Alun Williams. Music and entertainment breakfast show with Alun Williams.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Tudur Owen",
-          "show_description": "Lot o fwydro, 'chydig o sylwedd, dim swmp. Music and laughs for Saturday morning.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "Shelley a Rhydian",
-          "show_description": "Cerddoriaeth ac adloniant gyda Shelley Rees, a Rhodri Owen sydd yn sedd Rhydian. Music and entertainment with Shelley Rees and Rhodri Owen sits in for Rhydian Bowen Phillips.",
-          "show_logo": "",
-          "start_time": "11:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Pnawn Sadwrn Catrin Angharad",
-          "show_description": "Cerddoriaeth a sgyrsiau i godi calon, gyda Catrin Angharad. Music and chat for Saturday afternoon.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "Marc Griffiths",
-          "show_description": "Cymysgedd o'r hen a'r newydd i ddiddanu ar nos Sadwrn, gan gynnwys llwyth o geisiadau. Music old and new, including plenty of Saturday night requests.",
-          "show_logo": "",
-          "start_time": "17:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Ffion Emyr",
-          "show_description": "Tair awr o gerddoriaeth a chwmnïaeth yng nghwmni Ffion Emyr. Three hours of music and companionship with Ffion Emyr.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "5 April 2026",
       "programmes": [
         {
@@ -134,6 +73,67 @@
           "show_description": "Cerddoriaeth a sgwrsio i gloi'r penwythnos. Music and chat to bring the weekend to a close.",
           "show_logo": "",
           "start_time": "21:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "6 April 2026",
+      "programmes": [
+        {
+          "show_name": "Gweler BBC Radio 2",
+          "show_description": "Mae Radio Cymru 2 yn ymuno â BBC Radio 2 dros nos.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Sioe Frecwast",
+          "show_description": "Cerddoriaeth ac adloniant gyda Lisa Angharad. Music and entertainment breakfast show with Lisa Angharad.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Lisa Gwilym",
+          "show_description": "Alistair James sydd yn sedd Lisa Gwilym yn chwarae eich hoff fiwsig. Alistair James sits in for Lisa Gwilym with your favourite music.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Ifan Jones Evans",
+          "show_description": "Digon o gerddoriaeth, chwerthin a sgwrsio, yn ogystal â chystadleuaeth neu ddwy. Music and chat, plus a competition or two.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Traciau Radio Cymru 2",
+          "show_description": "Tiwns trwy'r dydd yn parhau ar Radio Cymru 2. More tunes on Radio Cymru 2.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Rhys Mwyn",
+          "show_description": "MR mewn sesiwn wrth i ni ddathlu deg mlynedd o raglen Rhys Mwyn ar nos Lun. A special session from MR to celebrate ten years of Rhys Mwyn's Monday night show.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Caryl",
+          "show_description": "Cerddoriaeth a hwyl gyda'r hwyr gyda Steffan Hughes yn sedd Caryl Parry Jones gan gynnwys Pigion Teledu Aled Illtud. Music and fun with Steffan Hughes sitting in for Caryl.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Y Clwb PJs",
+          "show_description": "Ymunwch â Caryl i ymlacio wrth wrando ar gerddoriaeth hudolus cyn cysgu. Unwind with Caryl while listening to soothing music before sleeping.",
+          "show_logo": "",
+          "start_time": "23:00",
           "end_time": "00:00"
         }
       ]

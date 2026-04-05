@@ -3,74 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Wales.png",
   "schedule": [
     {
-      "date": "4 April 2026",
-      "programmes": [
-        {
-          "show_name": "The Party Playlist with H",
-          "show_description": "H from Steps has your ultimate party playlist. Not just for Fridays!",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "As BBC Radio 5 Live",
-          "show_description": "See listings for BBC Radio 5 Live on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Radio Wales Breakfast",
-          "show_description": "Everything you need to know as you wake up.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Money for Nothing",
-          "show_description": "Your dedications and song requests from the 1950s-90s. Can you guess the Stuck in the Middle song? Text 81012, email moneyfornothing@bbc.co.uk or call 03700 100 110.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Lucy Owen",
-          "show_description": "Opera star Sir Bryn Terfel chats about Y Llais/The Voice on S4C, and actor Jason Hughes on 30 years of hit drama This Life and his debut solo single, Beat.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Sofia Rizzi",
-          "show_description": "Great music for your Saturday afternoon at Easter as Sofia Rizzi celebrates the world of movie soundtracks on BBC Radio Wales.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Mal Pope at Easter",
-          "show_description": "Mal Pope brings you inspiring conversations and the very best Easter music.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Scrum V Live",
-          "show_description": "Live commentary of Benetton v Cardiff (KO 5.30pm) and Ulster v Ospreys (KO 8pm).",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "BBC Introducing with Adam Walton",
-          "show_description": "A celebration of songs from Wales that are under three minutes long.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "5 April 2026",
       "programmes": [
         {
@@ -184,6 +116,88 @@
           "show_logo": "",
           "start_time": "22:00",
           "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "6 April 2026",
+      "programmes": [
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "See listings for BBC Radio 5 Live on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Wake Up with Radio Wales",
+          "show_description": "A lively mix of music to start the day. Perfect for your pod!",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "06:31"
+        },
+        {
+          "show_name": "Radio Wales Arts Show",
+          "show_description": "Portraits and dancers, unreadings, photography and the work of deaf and disabled writers.",
+          "show_logo": "",
+          "start_time": "06:31",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Radio Wales Breakfast",
+          "show_description": "Everything you need to know as you wake up.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Justine Jones",
+          "show_description": "Justine brightens your morning with great music and entertainment. Call 03700 100 110 Text 81012 or message via X @bbcradiowales.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Solid Gold Soul",
+          "show_description": "Owen Money plays two hours of big soul hits from the 60s, 70s and 80s to start your Easter Monday afternoon.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Radio Wales Sport",
+          "show_description": "Live football commentary.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "Radio Wales Drive",
+          "show_description": "Everything you need to know as you head home.",
+          "show_logo": "",
+          "start_time": "17:30",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "A Valleys Chapel at Easter",
+          "show_description": "Rhys Locke, minister at Saron Chapel in Crynant, blends the nostalgia , memories and story of a community pulling together in the Welsh Valleys at Easter.",
+          "show_logo": "",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Huw Stephens",
+          "show_description": "Huw Stephens plays classic tracks, introduces his Artist of the Week and features new music from Wales and beyond.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Eleri Siôn",
+          "show_description": "Eleri brightens your night-time with great music and chat. Call 03700 100 110 Text 81012 or via X @bbcradiowales.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "00:00"
         }
       ]
     }

@@ -3,256 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-UK.png",
   "schedule": [
     {
-      "date": "4 April 2026",
-      "programmes": [
-        {
-          "show_name": "Murder UK",
-          "show_description": "Nurse Beverley Allitt, the 'Angel of Death,' murdered four children and harmed nine others at Grantham Hospital in 1991, driven by a desperate need for attention. S3, Ep7",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fadf9e30-9b7a-4049-8b0b-e204bb7c317c/cover",
-          "start_time": "00:00",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "Fraud Squad",
-          "show_description": "A scam artist faking disability to claim thousands of pounds; and the most prolific dental fraudster ever! S2, Ep10",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a757a9a2-d584-4402-a05a-b806df0b63cd/cover",
-          "start_time": "01:00",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "Murder By The Sea",
-          "show_description": "Defending herself against her husband Robert, Hazel Williams bludgeoned him to death. She then proceeded to hide his body in the cellar and told people he had left her. S7, Ep5",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f6853ec7-de09-4f5e-bf93-ddc307a2055b/cover",
-          "start_time": "02:00",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Descent of a Serial Killer",
-          "show_description": "Michael Gargiulo was dubbed the 'Hollywood Ripper' as well as the 'Chiller Killer' for the series of brutal murders he carried out. S1, Ep7",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dcd53f80-54ec-4517-8976-8d8403c7751b/cover",
-          "start_time": "03:00",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "Medical Detectives",
-          "show_description": "In a Texan hospital, more kids are dying than in any other hospital in the country. Police close in on a nurse who was on duty during the fatalities. S5, Ep10",
-          "show_logo": "https://images.metadata.sky.com/pd-image/200afa58-f6e6-42b3-9ce6-b6d3fb2f1da4/cover",
-          "start_time": "04:00",
-          "end_time": "04:30"
-        },
-        {
-          "show_name": "Facing Evil",
-          "show_description": "In two months, 20 patients at a Texas hospital are murdered. Nurse Vickie Jackson is sentenced to life with no parole when she pleads 'no contest' to the murders. S5, Ep3",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5f216ce2-95d2-4a26-a285-21838d9c9b41/cover",
-          "start_time": "04:30",
-          "end_time": "04:55"
-        },
-        {
-          "show_name": "Close Calls: On Camera",
-          "show_description": "Two close friends body board off an Australian beach: one must go to the aid of his pal when a great white shark attacks. S4, Ep15/20",
-          "show_logo": "https://images.metadata.sky.com/pd-image/10d10692-1d57-3c31-9dc2-4a5966ba16cd/cover",
-          "start_time": "04:55",
-          "end_time": "05:20"
-        },
-        {
-          "show_name": "Close Calls: On Camera",
-          "show_description": "Two little girls dial 999 and save their mum after she falls from the loft. Plus, the stories of two cousins climbing a sea stack when one plunges 60 feet onto rocks. S4, Ep16/20",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2a986b8c-10c2-36a1-baa3-ec9875f67144/cover",
-          "start_time": "05:20",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Teleshopping",
-          "show_description": "Innovative, value-for-money products brought directly to you at home. Shop 'til you drop whilst avoiding the hustle and bustle of the High Street.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Judge Judy",
-          "show_description": "An emotional discussion about death turns into an alleged choke hold by a family member and a lawsuit over an arrest. S22, Ep231",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1daeb665-d11f-3e14-a29c-37e011266fd4/cover",
-          "start_time": "09:00",
-          "end_time": "09:25"
-        },
-        {
-          "show_name": "Judge Judy",
-          "show_description": "A father fighting colon cancer accuses his son of motorcycle theft and a false arrest; his son claims he took his father in when he needed help. S22, Ep232",
-          "show_logo": "https://images.metadata.sky.com/pd-image/193449f8-b8bc-34d1-ab8f-7dfb6cf3bd08/cover",
-          "start_time": "09:25",
-          "end_time": "09:50"
-        },
-        {
-          "show_name": "Judge Judy",
-          "show_description": "A man claims his married ex-lover wanted to be with a bad boy and came between he and his new girlfriend; she demands payback for bailing him out of jail. S22, Ep233",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b2fca485-8e8a-3010-b9ab-7d9ad2352778/cover",
-          "start_time": "09:50",
-          "end_time": "10:15"
-        },
-        {
-          "show_name": "Judge Judy",
-          "show_description": "An angry ex-girlfriend shows up at midnight to retrieve 'her' dog from her ex-lover; an alleged assault and arrest soon follow. S22, Ep234",
-          "show_logo": "https://images.metadata.sky.com/pd-image/746cf7a2-6435-35d1-86b6-e2b8787ed03b/cover",
-          "start_time": "10:15",
-          "end_time": "10:40"
-        },
-        {
-          "show_name": "Judge Judy",
-          "show_description": "A woman says she asked her pot-smoking roommate to take a break when her father was visiting but was allegedly met with nothing but disrespect. S22, Ep235",
-          "show_logo": "https://images.metadata.sky.com/pd-image/31b4d239-fa5a-3328-8523-8cc2821b743a/cover",
-          "start_time": "10:40",
-          "end_time": "11:05"
-        },
-        {
-          "show_name": "Judge Judy",
-          "show_description": "Two sisters fight to get paid the full price of $3,500 for the French Bulldog they could no longer care for; they are countersued for harassment. S24, Ep64",
-          "show_logo": "https://images.metadata.sky.com/pd-image/886b4498-fa2b-43a1-89fb-a090d2591d9a/cover",
-          "start_time": "11:05",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Judge Judy",
-          "show_description": "When a cat breaks through a door and mauls a young mother, the cat owner says it was probably a fox she was feeding and counters for moving expenses. S24, Ep65",
-          "show_logo": "https://images.metadata.sky.com/pd-image/874f9baf-36e4-40ca-8372-e402ca3e2474/cover",
-          "start_time": "11:30",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Judge Judy",
-          "show_description": "Lying teenagers, rocks thrown at cars from a bridge, and felony charges come into play when $7,000 in restitution fees is disputed by angry parents. S18, Ep1",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1722ac49-4e05-4f17-bd39-dfd6a30c5d17/cover",
-          "start_time": "12:00",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "Judge Judy",
-          "show_description": "Two young women attending a video game convention claim they were forced to sleep in their car after seven men showed up in the room they rented. S18, Ep2",
-          "show_logo": "https://images.metadata.sky.com/pd-image/883472a8-053f-4b85-af82-c30c9e7e1bc6/cover",
-          "start_time": "12:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Judge Judy",
-          "show_description": "A 14-year-old boy is accused of shooting out a woman's car windshield with a pellet gun. The boy denies the charge. S18, Ep3",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9f0ac60f-16f9-4277-828e-31ea81931a92/cover",
-          "start_time": "13:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Judge Judy",
-          "show_description": "A driver delivering honey is sued by her boss for taking the company car without permission and wrecking it. S18, Ep4",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4a06c2f6-0140-420f-9ee6-aeb8daadd0ea/cover",
-          "start_time": "13:30",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Judge Judy",
-          "show_description": "After drinking half a bottle of vodka, a man is accused of slapping his girlfriend and destroying her belongings; he claims she attacked him. S18, Ep5",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fe7a93d6-cca8-4c78-8507-da5f68c1788b/cover",
-          "start_time": "14:00",
-          "end_time": "14:30"
-        },
-        {
-          "show_name": "Judge Judy",
-          "show_description": "A man sues his ex-boyfriend's sister-in-law for falsely accusing him of burglarizing her home. S18, Ep6",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b7006451-b37f-48c6-b73d-0803dd810ec0/cover",
-          "start_time": "14:30",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Judge Judy",
-          "show_description": "A woman accused of being a retaliatory nuisance is arrested by cops despite her confinement to a wheelchair; she denies all charges. S18, Ep7",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b27859e6-c58a-459f-83f1-ada39cefbf7b/cover",
-          "start_time": "15:00",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Judge Judy",
-          "show_description": "A convenience store owner is accused of attacking a man with a baseball bat; the man is accused of being a panhandler and a thief. S18, Ep8",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0beba98a-8fa5-48b5-af2c-55fc5841ce89/cover",
-          "start_time": "15:30",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Judge Judy",
-          "show_description": "A false restraining order, a custody battle and questionable living conditions for a 7-year-old come into play when unwed parents sue each other. S20, Ep1",
-          "show_logo": "https://images.metadata.sky.com/pd-image/50662b2e-8efa-4db9-a910-1b2b583ab447/cover",
-          "start_time": "16:00",
-          "end_time": "16:25"
-        },
-        {
-          "show_name": "Judge Judy",
-          "show_description": "A casino jackpot allegedly drives a wedge between two sisters after a $100 loan turns into much more; custody of three TVs get caught in the middle. S20, Ep2",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3097491e-ffea-497d-bcb6-c0521a2ca420/cover",
-          "start_time": "16:25",
-          "end_time": "16:50"
-        },
-        {
-          "show_name": "Judge Judy",
-          "show_description": "When a child is allegedly injured because 'daddy was mad at me', a nanny waits until after she is fired to call CPS. S24, Ep66",
-          "show_logo": "https://images.metadata.sky.com/pd-image/aaa11e5d-9137-48f3-a724-4248e2b8782f/cover",
-          "start_time": "16:50",
-          "end_time": "17:15"
-        },
-        {
-          "show_name": "Judge Judy",
-          "show_description": "A man agrees to take back a car he sold and promises to repair it. When the buyers sue him, he regrets being so nice in the first place. S24, Ep67",
-          "show_logo": "https://images.metadata.sky.com/pd-image/350c9253-30d0-4f53-a6bb-92837d10e2a8/cover",
-          "start_time": "17:15",
-          "end_time": "17:40"
-        },
-        {
-          "show_name": "Judge Judy",
-          "show_description": "When a man's car is towed for parking illegally, his passenger posts that the tow company owner is a thief with a long criminal history. S24, Ep68",
-          "show_logo": "https://images.metadata.sky.com/pd-image/24d534f8-a0a6-4606-989d-737dc31d2e8b/cover",
-          "start_time": "17:40",
-          "end_time": "18:05"
-        },
-        {
-          "show_name": "48 Hours",
-          "show_description": "C.C. Opanowski survived a vicious attack by her ex-boyfriend, Shawn Doyle, a man she once trusted. Doyle pleaded guilty to menacing in the second degree. S37, Ep29",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dcbfb911-fcd0-46c6-9b93-ffae84bcbb43/cover",
-          "start_time": "18:05",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "48 Hours",
-          "show_description": "The murder of Ivy League student Blaze Bernstein, allegedly murdered because he was gay and Jewish, and the trial of former high school classmate Sam Woodward. S37, Ep1",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f16ca5ac-8c30-490c-bd49-42709755aedf/cover",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "48 Hours",
-          "show_description": "Law enforcement officials try to get a convicted serial killer to reveal where he left the body of Sara Anne Wood, a 12-year-old girl he murdered 30 years ago. S37, Ep2",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6bc58382-f631-4119-a6f5-f85ea60c4b53/cover",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "When Death Comes Knocking",
-          "show_description": "When Maria Munoz dies from an overdose, it looks like suicide. That is until doorbell camera footage reveals a dark story of love, betrayal and murder. S1, Ep1",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0a6b7c63-a581-4795-bdd1-41614e0cdeca/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "When Death Comes Knocking",
-          "show_description": "When Robert Penn is murdered, it appears a stranger is responsible. But, a doorbell camera points to someone close to home. S1, Ep2",
-          "show_logo": "https://images.metadata.sky.com/pd-image/22c016f7-03a7-459a-bc64-bd5bea7d0c3f/cover",
-          "start_time": "22:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "When Death Comes Knocking",
-          "show_description": "When tech CEO Fahim Saleh is found dismembered in his Manhattan home, lift footage reveals his killer - and a shocking betrayal. S1, Ep3",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6e607f33-31a4-463b-8fc7-5b59d51edcb4/cover",
-          "start_time": "23:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "5 April 2026",
       "programmes": [
         {
@@ -497,6 +247,263 @@
           "show_name": "Cult Justice",
           "show_description": "Explore the dangerous cult of Dwight York, aka Dr. Love. S1, Ep6",
           "show_logo": "https://images.metadata.sky.com/pd-image/2403608c-63f2-36e8-8286-494c5788f4d9/cover",
+          "start_time": "23:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "6 April 2026",
+      "programmes": [
+        {
+          "show_name": "48 Hours",
+          "show_description": "Former Idaho state trooper Dan Howard is charged with murdering his wife three years after her death. S37, Ep3",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7bdd40fe-0e43-47f3-b5cb-b02805eee530/cover",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "48 Hours",
+          "show_description": "The investigation into the death of Sarah Harris raises questions about the relationship between a doctor and his much younger girlfriend. S37, Ep4",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d403189b-46d3-4717-b290-36c059db19cd/cover",
+          "start_time": "01:00",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "Descent of a Serial Killer",
+          "show_description": "Randy Kraft known as the Scorecard Killer, the Southern California Strangler, and the Freeway Killer, raped, tortured, and murdered a minimum of sixteen young men between 1972 and 1983. S1, Ep9",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c3075efd-fc80-4dbc-a011-0c75b2c7b2fc/cover",
+          "start_time": "02:00",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Descent of a Serial Killer",
+          "show_description": "Cary Stayner is a serial killer who was convicted of the murders of four women in 1999. Stayner was sentenced to death for the four murders. S1, Ep10",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1c169274-dab1-49b6-8aef-7c377adf572c/cover",
+          "start_time": "03:00",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "Punchy reality show about a female judge who has made a real impact on the American justice system. Judge Judy is real, honest and keen to get to the bottom of emotional cases. S10, Ep97",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5be0567e-37fe-33cb-b86d-a15914083c92/cover",
+          "start_time": "04:00",
+          "end_time": "04:30"
+        },
+        {
+          "show_name": "Facing Evil",
+          "show_description": "Baby Dylan was three-months-old when his mother, Alexandra Tobias shook him to death. She claims it was an accident but was found guilty of second degree murder. S5, Ep5",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a0054158-0b5d-4606-a2c7-f9279a429b06/cover",
+          "start_time": "04:30",
+          "end_time": "04:55"
+        },
+        {
+          "show_name": "Close Calls: On Camera",
+          "show_description": "Series presented by Nick Knowles which shows the split-second moments when everyday events are transformed into disasters and meets the people who lived to tell the tale. S4, Ep19/20",
+          "show_logo": "https://images.metadata.sky.com/pd-image/81df4fcd-2934-3885-8729-cbccb1f29403/cover",
+          "start_time": "04:55",
+          "end_time": "05:20"
+        },
+        {
+          "show_name": "Close Calls: On Camera",
+          "show_description": "Series presented by Nick Knowles which shows the split-second moments when everyday events are transformed into disasters and meets the people who lived to tell the tale. S4, Ep20/20",
+          "show_logo": "https://images.metadata.sky.com/pd-image/707a2190-9ade-3617-bb14-95a74118b35e/cover",
+          "start_time": "05:20",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Teleshopping",
+          "show_description": "Innovative, value-for-money products brought directly to you at home. Shop 'til you drop whilst avoiding the hustle and bustle of the High Street.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "A woman sues a man for vet bills after his larger dog allegedly attacked her Yorkie; he claims she is lying about witnessing the attack. S22, Ep206",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4ce75385-f724-3911-9e8a-e107ad5b4ffc/cover",
+          "start_time": "09:00",
+          "end_time": "09:25"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "A young man claims his ex-girlfriend was cheating on him; she says he threatened to post photos of her online. S22, Ep207",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b6f32f41-c035-390b-baef-52f19265603e/cover",
+          "start_time": "09:25",
+          "end_time": "09:50"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "A woman claims she paid thousands for sneakers but demands a refund when the shoebox that arrives is allegedly empty. S22, Ep208",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b34d5894-ed61-3dea-a99e-9bf654e6b7ca/cover",
+          "start_time": "09:50",
+          "end_time": "10:15"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "A young man's defence for allegedly damaging a teenager's phone with a laser beam is that he's a redneck and that's what he does for fun. S22, Ep209",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5f39e210-96e7-313e-8ffd-0b6e6e8eba08/cover",
+          "start_time": "10:15",
+          "end_time": "10:40"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "After drinking half a bottle of vodka, a man is accused of slapping his girlfriend and destroying her belongings; he claims she attacked him. S18, Ep5",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fe7a93d6-cca8-4c78-8507-da5f68c1788b/cover",
+          "start_time": "10:40",
+          "end_time": "11:05"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "A man sues his ex-boyfriend's sister-in-law for falsely accusing him of burglarizing her home. S18, Ep6",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b7006451-b37f-48c6-b73d-0803dd810ec0/cover",
+          "start_time": "11:05",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "A woman accused of being a retaliatory nuisance is arrested by cops despite her confinement to a wheelchair; she denies all charges. S18, Ep7",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b27859e6-c58a-459f-83f1-ada39cefbf7b/cover",
+          "start_time": "11:30",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "A convenience store owner is accused of attacking a man with a baseball bat; the man is accused of being a panhandler and a thief. S18, Ep8",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0beba98a-8fa5-48b5-af2c-55fc5841ce89/cover",
+          "start_time": "12:00",
+          "end_time": "12:30"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "A homeless woman gets a master's degree and buys her own home; her mistake is renting to a mother of three who was living in her car. S24, Ep74",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7b0df4ef-7f5c-43d3-af5c-48a636b0f443/cover",
+          "start_time": "12:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "A woman waits six days before clarifying that she owned the gun that police found in her apartment and not her roommate, who is an ex-con. S24, Ep75",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f2d41a6a-653b-4550-803f-c7d86931ed1a/cover",
+          "start_time": "13:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "A man says he provided a home for woman after falling for her sob story, only to be accused of poisoning her dog by feeding him goulash. S24, Ep76",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d844acf7-3a1c-4fd3-8195-58a8b9621bec/cover",
+          "start_time": "13:30",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "A man hires detectives to find a handyman that he alleges owes him money and vandalized his property. S22, Ep241",
+          "show_logo": "https://images.metadata.sky.com/pd-image/11dceaaf-7600-3565-891b-35f96e5e127e/cover",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "A woman neglects to tell her dear friend that the car she is making payments on is about to be repossessed. S22, Ep242",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f4bb985b-249e-331a-84a1-e1a09d9173ee/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "A father hires a woman to care for his child while he is away for business then accuses her of maxing out the credit card he co-signed for her. S22, Ep243",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d0ad0add-f6e6-3820-9878-02d749d1594c/cover",
+          "start_time": "15:00",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "A man's demeanour in court leads the Judge to rule that she wouldn't let him drive a tricycle let alone a car which he is accused of wrecking. S22, Ep244",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9f08e7ba-9220-3538-9b65-b5722b7f4ea5/cover",
+          "start_time": "15:30",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "Unwed parents of a six-year-old girl fight over a tax refund after alleged jail time, job loss and drug possession. S22, Ep245",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c0837fe2-f3dd-3644-9f90-08aeca876e5e/cover",
+          "start_time": "16:00",
+          "end_time": "16:25"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "A woman sues her former friend for profits from a litter of pit bulls and for allegedly making a false arrest. S22, Ep246",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e3b41a2d-dd2c-33b1-9020-e409f7b4aa17/cover",
+          "start_time": "16:25",
+          "end_time": "16:50"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "Teenagers rumoured to have a history with the police are accused of damaging their own apartment; their mother is sued for repairs. S22, Ep247",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fca447eb-ab80-3514-a5ce-82113022e260/cover",
+          "start_time": "16:50",
+          "end_time": "17:15"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "A young man insists that he was doing his landlord a favour by ripping out all her kitchen appliances shortly before he moved out. S20, Ep13",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b0534fcd-8a7e-4066-b573-5c5f2db1dcbf/cover",
+          "start_time": "17:15",
+          "end_time": "17:40"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "A woman claims her nephew shot her in the head with a BB gun; her sister claims she broke in and stole her belongings. S20, Ep14",
+          "show_logo": "https://images.metadata.sky.com/pd-image/81efee12-cf9d-437d-aad9-3f9181b7c4f3/cover",
+          "start_time": "17:40",
+          "end_time": "18:05"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "A woman's violent past comes back to haunt her when she points the harassment finger at a woman she neglected to pay back for an earlier crime. S20, Ep15",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6c2a5ac6-a094-3b5f-98e0-c232a4f18bc3/cover",
+          "start_time": "18:05",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "Judge Judy",
+          "show_description": "After a pizza delivery driver hears a 'thump' while driving, he discovers that a 9-year-old boy accidentally ran into his car while playing in the street. S20, Ep16",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cc9c8b6b-67c8-4234-8a3f-2338510d97da/cover",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "UK Crime Files: Connecting a Killer",
+          "show_description": "",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c2e10f40-952c-410c-8f4e-fe0bc63ca69c/cover",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "UK Crime Files: Murder: A Fight for Justice",
+          "show_description": "",
+          "show_logo": "https://images.metadata.sky.com/pd-image/eda2395d-a5a3-4a8b-b008-758bab011fc5/cover",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Britain's Countryside Killers",
+          "show_description": "A look at the case of teenager Alex Davies, who was murdered by Brian Healless after the pair met on the dating app Grindr. S1, Ep1",
+          "show_logo": "https://images.metadata.sky.com/pd-image/26857e99-f865-4944-b4f6-3afa154d7918/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "New: Donal MacIntyre's UK Killer Evidence",
+          "show_description": "Pennie Davis from Hampshire was killed in 2014, after a revived feud led Ben Carr to hire a hitman. S3, Ep1",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bde60afc-99a8-4a9c-9c90-f7005536fcd4/cover",
+          "start_time": "22:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Murder UK",
+          "show_description": "After 18 years with his childhood sweetheart, Wayne Coventry from the UK seeks love. But his toxic relationship blinds him to dangers until it's too late. S1, Ep1",
+          "show_logo": "https://images.metadata.sky.com/pd-image/09b7c472-1f74-428c-a965-21e856dd8740/cover",
           "start_time": "23:00",
           "end_time": "00:00"
         }

@@ -3,53 +3,6 @@
   "channel_logo": "/public/Virgin Radio/virgin-radio.webp",
   "schedule": [
     {
-      "date": "4 April 2026",
-      "programmes": [
-        {
-          "show_name": "Vicki Blight",
-          "show_description": "Vicki Blight has the best anthems just for you!",
-          "show_logo": "/public/Virgin Radio/vicki-blight.webp",
-          "start_time": "02:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Tim Cocker",
-          "show_description": "When you're dining Al-Desko, Tim is perfect company. He's playing the best music, including his Record of the Week. Get in touch: Text VIRGIN and message to 87222 (texts cost standard network rate).",
-          "show_logo": "/public/Virgin Radio/tim-cocker.webp",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "The Huey Show",
-          "show_description": "Huey Morgan brings you the perfect weekend playlist of 90s, 00s and bangers live from the Top of The Tower. WhatsApp the show on +44 333 00 333 00.",
-          "show_logo": "/public/Virgin Radio/the-huey-show.webp",
-          "start_time": "10:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Tim Burgess",
-          "show_description": "The Charlatans front man brings the best songs and musical memories to your Easter Weekend.",
-          "show_logo": "/public/Virgin Radio/tim-burgess.webp",
-          "start_time": "14:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Ana Matronic",
-          "show_description": "Ana Matronic kicks off your New Year's Eve party with the biggest anthems!",
-          "show_logo": "/public/Virgin Radio/ana-matronic.webp",
-          "start_time": "18:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Alan Brazil's Legends Takeover",
-          "show_description": "Alan Brazil brings the most legendary songs of all time to your Saturday night.",
-          "show_logo": "/public/Virgin Radio/alan-brazils-legends-takeover.webp",
-          "start_time": "22:00",
-          "end_time": "02:00"
-        }
-      ]
-    },
-    {
       "date": "5 April 2026",
       "programmes": [
         {
@@ -91,6 +44,53 @@
           "show_name": "Stu Elmore",
           "show_description": "Whether you're on a night shift or just enjoying the start of your weekend, the best soundtrack continues with Stu Elmore.",
           "show_logo": "/public/Virgin Radio/stu-elmore.webp",
+          "start_time": "22:00",
+          "end_time": "02:00"
+        }
+      ]
+    },
+    {
+      "date": "6 April 2026",
+      "programmes": [
+        {
+          "show_name": "Vicki Blight",
+          "show_description": "Vicki Blight has the best anthems just for you!",
+          "show_logo": "/public/Virgin Radio/vicki-blight.webp",
+          "start_time": "02:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Steve Denyer on The Chris Evans Breakfast Show",
+          "show_description": "Steve Denyer starts your day with the best 90s, 00s and bangers live from the Top of the Tower! Get involved and send him a WhatsApp on +44 333 00 333 00.",
+          "show_logo": "/public/Virgin Radio/steve-denyer-on-the-chris-evans-breakfast-show.webp",
+          "start_time": "06:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Goldierocks",
+          "show_description": "Goldierocks has the biggest 90s and 00s bangers to help you through the night.",
+          "show_logo": "/public/Virgin Radio/goldierocks.webp",
+          "start_time": "10:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "James Merritt",
+          "show_description": "More top tunes with Merritt.",
+          "show_logo": "/public/Virgin Radio/james-merritt.webp",
+          "start_time": "14:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Geoff Lloyd",
+          "show_description": "The great Geoff Lloyd is back on Virgin Radio playing the biggest songs to soundtrack your evening. WhatsApp him on +44 333 00 333 00.",
+          "show_logo": "/public/Virgin Radio/geoff-lloyd.webp",
+          "start_time": "18:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Jen Thomas",
+          "show_description": "Jen Thomas plays you the biggest songs to take you into the morning.",
+          "show_logo": "/public/Virgin Radio/jen-thomas.webp",
           "start_time": "22:00",
           "end_time": "02:00"
         }

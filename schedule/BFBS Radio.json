@@ -3,102 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BFBS-Radio.png",
   "schedule": [
     {
-      "date": "4 April 2026",
-      "programmes": [
-        {
-          "show_name": "Undercover",
-          "show_description": "Undercover",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "Britpop",
-          "show_description": "Britpop",
-          "show_logo": "",
-          "start_time": "02:00",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Unwind",
-          "show_description": "Unwind",
-          "show_logo": "",
-          "start_time": "03:00",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "Ops Breakfast",
-          "show_description": "Good morning from Ops! E-mail: ops@bfbs.com",
-          "show_logo": "",
-          "start_time": "04:00",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Saturday Breakfast",
-          "show_description": "Music, sport, and entertainment to get you ready for the weekend.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "The 90s Chart",
-          "show_description": "90s Chart.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Stars & Stripes",
-          "show_description": "Stars & Stripes",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "The Peter Andre Music Special",
-          "show_description": "A Peter Andre Music Special.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Saturday Sport",
-          "show_description": "The Saturday Show with music, sport, interaction and chat.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "The Charlatans Music Special",
-          "show_description": "Charlatans Music Special.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Floorfillers",
-          "show_description": "Floorfillers",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Drum & Bass",
-          "show_description": "A weekend of festival anthems.",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Club Culture",
-          "show_description": "Kick off the Forces Saturday night with the best house, trance, upfront and classic floor-fillers.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "5 April 2026",
       "programmes": [
         {
@@ -202,6 +106,109 @@
         {
           "show_name": "The Peter Andre Music Special",
           "show_description": "A Peter Andre Music Special.",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "6 April 2026",
+      "programmes": [
+        {
+          "show_name": "The 90s Takeover",
+          "show_description": "One Hit Wonders",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "The 90s Takeover",
+          "show_description": "One Hit Wonders",
+          "show_logo": "",
+          "start_time": "02:00",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Ops Breakfast",
+          "show_description": "Good morning from Ops! E-mail: ops@bfbs.com",
+          "show_logo": "",
+          "start_time": "04:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "The 90s Takeover",
+          "show_description": "One Hit Wonders",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Guilty Pleasures",
+          "show_description": "Guilty Pleasures",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Movie Mania",
+          "show_description": "Movie Mania",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Terrific Twos",
+          "show_description": "Terrific Twos",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "The 90s Takeover",
+          "show_description": "One Hit Wonders",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Undercover",
+          "show_description": "Undercover",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Girl Power",
+          "show_description": "Girl Power",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Boy Power",
+          "show_description": "Boy Power",
+          "show_logo": "",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Breakthru Bands",
+          "show_description": "Breakthru Bands",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Unwind",
+          "show_description": "Unwind",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Stars & Stripes",
+          "show_description": "Stars & Stripes",
           "show_logo": "",
           "start_time": "23:00",
           "end_time": "00:00"

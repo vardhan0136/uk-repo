@@ -3,74 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Gold-Radio.png",
   "schedule": [
     {
-      "date": "4 April 2026",
-      "programmes": [
-        {
-          "show_name": "Gold Radio Through the Night",
-          "show_description": "All Time Classics through the night on Gold Radio.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "Early Morning Gold",
-          "show_description": "Start the day with All Time Classics on Gold Radio.",
-          "show_logo": "",
-          "start_time": "04:00",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "Simon Rimmer",
-          "show_description": "Simon Rimmer plays All Time Classics from the biggest Gold Radio Legends ever!",
-          "show_logo": "",
-          "start_time": "08:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Russ Morris",
-          "show_description": "Russ Morris plays All Time Classics from the biggest Gold Radio Legends ever!",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Non-Stop Gold Radio",
-          "show_description": "All Time Classics - Non-Stop! Only on Gold Radio.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "60s at 6",
-          "show_description": "One hour of All Time 60s Classics on Gold Radio.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "70s at 7",
-          "show_description": "One hour of All Time 70s Classics on Gold Radio.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "80s at 8",
-          "show_description": "One hour of All Time 80s Classics on Gold Radio.",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Late Night Gold Radio",
-          "show_description": "Unwind with laid-back All Time Classics on Gold Radio",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "5 April 2026",
       "programmes": [
         {
@@ -113,6 +45,74 @@
           "show_description": "The soundtrack to your evening, with All Time Classics on Gold Radio.",
           "show_logo": "",
           "start_time": "19:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Late Night Gold Radio",
+          "show_description": "Unwind with laid-back All Time Classics on Gold Radio",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "6 April 2026",
+      "programmes": [
+        {
+          "show_name": "Gold Radio Through the Night",
+          "show_description": "All Time Classics through the night on Gold Radio.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Early Morning Gold",
+          "show_description": "Start the day with All Time Classics on Gold Radio.",
+          "show_logo": "",
+          "start_time": "04:00",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Gold Breakfast",
+          "show_description": "James Bassam plays All Time Classics from the biggest Gold Radio Legends ever!",
+          "show_logo": "",
+          "start_time": "08:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Russ Morris",
+          "show_description": "Russ Morris plays All Time Classics from the biggest Gold Radio Legends ever!",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Non-Stop Gold Radio",
+          "show_description": "All Time Classics - Non-Stop! Only on Gold Radio.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "60s at 6",
+          "show_description": "One hour of All Time 60s Classics on Gold Radio.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "70s at 7",
+          "show_description": "One hour of All Time 70s Classics on Gold Radio.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "80s at 8",
+          "show_description": "One hour of All Time 80s Classics on Gold Radio.",
+          "show_logo": "",
+          "start_time": "20:00",
           "end_time": "21:00"
         },
         {
