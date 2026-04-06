@@ -3,109 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
   "schedule": [
     {
-      "date": "5 April 2026",
-      "programmes": [
-        {
-          "show_name": "Through the Night",
-          "show_description": "Sofi Jeannin directs the Copenhagen choir in a programme exploring Eastertide themes of sorrow and comfort, spanning centuries of liturgical music. John Shea presents.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "Mark Forrest presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Sunday Morning",
-          "show_description": "Sarah Walker with three hours of classical music to reflect, restore and refresh, whether you're heading to an Easter service or preparing a special lunch for the family.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Private Passions",
-          "show_description": "Michael Berkeley's guest is the award-winning writer Francis Spufford.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Music Map",
-          "show_description": "Sara Mohr-Pietsch explores the musical paths leading to Rimsky-Korsakov's joyful Russian Easter Overture, including Shrovetide plainchant and his star student, Stravinsky.",
-          "show_logo": "",
-          "start_time": "13:30",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Music Matters: Curtain Up -...",
-          "show_description": "...Classical Stories of Musical Theatre. Tenor Nicky Spence explores the deep and often-overlooked connections between classical music and the world of musical theatre.",
-          "show_logo": "",
-          "start_time": "15:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Jazz Record Requests",
-          "show_description": "Alyn Shipton has the perfect mix of jazz to soundtrack your Easter Sunday, including music from Ella Fitzgerald, Duke Ellington, Colin Steele, Carmen McRae & more.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "The Early Music Show",
-          "show_description": "Hannah French explores plainchant in music for Easter, heard in its original single line as a cantus firmus and as settings of the text which transition from Lent to Easter.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Choral Evensong",
-          "show_description": "From the Chapel of King's College, Cambridge on Easter Day, with music by Wood and Elgar.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Sunday Feature: February House",
-          "show_description": "For a year during World War II, an unremarkable residence in Brooklyn Heights, New York City, became an epicentre of Western music and literature.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:45"
-        },
-        {
-          "show_name": "Words and Music",
-          "show_description": "Readings from Natalie Simpson and Ray Fearon on the transcendent and numinous, from Shakespeare and Donne to Wordsworth and Larkin. Music from Beethoven to Bruckner.",
-          "show_logo": "",
-          "start_time": "19:45",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Ultimate Calm with Erland Cooper",
-          "show_description": "1/12. Scottish composer Erland Cooper sits at the helm for this new series, starting simply in the realm of sleep and dreams. Plus we visit the musical safe haven of author Ian Rankin.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Night Tracks",
-          "show_description": "Sara Mohr-Pietsch presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "Unclassified",
-          "show_description": "Elizabeth Alker with a late-night journey through new music from today's most exciting genre-defying artists.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "6 April 2026",
       "programmes": [
         {
@@ -181,6 +78,88 @@
         {
           "show_name": "'Round Midnight",
           "show_description": "Soweto is back with another week of top picks from the UK and international jazz scenes, and emerging jazz saxophonist Allexa Nava celebrates some of the artists that inspire her.",
+          "show_logo": "",
+          "start_time": "23:30",
+          "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "7 April 2026",
+      "programmes": [
+        {
+          "show_name": "Through the Night",
+          "show_description": "The Berlin Radio Symphony Orchestra and Chorus perform Szymanowski's Stabat Mater. Soprano Amanda Majeski later joins the orchestra for Mahler's 4th Symphony.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Essential Classics",
+          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Classical Live",
+          "show_description": "Liszt and Rachmaninov take inspiration from ancient plainsong and Stravinsky looks to the past for his commedia dell'arte infused ballet Pulcinella, plus Chopin from Perth.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Composer of the Week: Gershwin",
+          "show_description": "2/5. Donald Macleod explores the years after George Gershwin's huge success with Rhapsody in Blue.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "In Tune",
+          "show_description": "Live music from bass baritone Tristan Hambleton and pianist Simon Lepper.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Classical Mixtape",
+          "show_description": "Take time out with a 30-minute soundscape of classical favourites.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Radio 3 in Concert",
+          "show_description": "The BBC National Orchestra and Chorus of Wales are joined by conductor Thomas Zehetmair to perform Brahms's German Requiem and Mozart's 40th Symphony.",
+          "show_logo": "",
+          "start_time": "19:30",
+          "end_time": "21:45"
+        },
+        {
+          "show_name": "The Essay: Healing Musicians",
+          "show_description": "Kate Kennedy talks to prize-winning pianist Stephen Marquiss about the injury that nearly destroyed his career and what he did to establish a new relationship with his instrument.",
+          "show_logo": "",
+          "start_time": "21:45",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Night Tracks",
+          "show_description": "Sara Mohr-Pietsch presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "'Round Midnight",
+          "show_description": "Soweto Kinch with an hour of exciting new jazz music including a new release from guitarist Fabiano Do Nascimento, and saxophonist Allexa Nava shares a track which inspires her.",
           "show_logo": "",
           "start_time": "23:30",
           "end_time": "00:30"

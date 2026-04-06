@@ -3,116 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BFBS-Radio.png",
   "schedule": [
     {
-      "date": "5 April 2026",
-      "programmes": [
-        {
-          "show_name": "Guilty Pleasures",
-          "show_description": "Guilty Pleasures",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "Movie Mania",
-          "show_description": "Movie Mania",
-          "show_logo": "",
-          "start_time": "02:00",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Terrific Twos",
-          "show_description": "Terrific Twos",
-          "show_logo": "",
-          "start_time": "03:00",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "Ops Breakfast",
-          "show_description": "Good morning from Ops! E-mail: ops@bfbs.com",
-          "show_logo": "",
-          "start_time": "04:00",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Sunday Breakfast",
-          "show_description": "Music, sport, and entertainment to get you ready for the weekend.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Forgotten Gems",
-          "show_description": "Forgotten Gems",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Breakthru Bands",
-          "show_description": "Breakthru Bands",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "The Charlatans Music Special",
-          "show_description": "Charlatans Music Special.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "The 90s Takeover",
-          "show_description": "One Hit Wonders",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Hip Hop and R&B",
-          "show_description": "Hip Hop and R&B",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "The 90s Chart",
-          "show_description": "90s Chart.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Britpop",
-          "show_description": "Britpop",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "One Hit Wonders",
-          "show_description": "One Hit Wonders",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Nu Metal Special",
-          "show_description": "Nu Metal Special",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "The Peter Andre Music Special",
-          "show_description": "A Peter Andre Music Special.",
-          "show_logo": "",
-          "start_time": "23:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "6 April 2026",
       "programmes": [
         {
@@ -209,6 +99,95 @@
         {
           "show_name": "Stars & Stripes",
           "show_description": "Stars & Stripes",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "7 April 2026",
+      "programmes": [
+        {
+          "show_name": "The Charlatans Music Special",
+          "show_description": "Charlatans Music Special.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "Britpop",
+          "show_description": "Britpop",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "The Peter Andre Music Special",
+          "show_description": "A Peter Andre Music Special.",
+          "show_logo": "",
+          "start_time": "02:00",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Hip Hop and R&B",
+          "show_description": "Hip Hop and R&B",
+          "show_logo": "",
+          "start_time": "03:00",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Ops Breakfast",
+          "show_description": "Good morning from Ops! E-mail: ops@bfbs.com",
+          "show_logo": "",
+          "start_time": "04:00",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "UK Breakfast with Kam & Danni",
+          "show_description": "Waking you up the best way with chances to win, celebrity guests, great chat and fresh music to start your day!",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Rewind with Kam & Danni",
+          "show_description": "Waking you up the best way with chances to win, celebrity guests, great chat and fresh music to start your day!",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Totally Connected",
+          "show_description": "Keeping you connected across the Forces world. E-mail: connected@bfbs.com",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "UK Afternoons",
+          "show_description": "Join us for fresh music, great chat, the latest Forces stories, fantastic guests and more!",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "UK Drivetime",
+          "show_description": "Where it all happens - we bring you news from the Forces world, celebrity guests, the latest trends and great music! Email: messages@bfbs.com",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "UK Evening Show",
+          "show_description": "Bringing you the hottest new music and the latest stories from around the Forces world.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Nicky Smith",
+          "show_description": "Nicky presents music, sport and entertainment bringing together the Forces communities overseas and in the UK.",
           "show_logo": "",
           "start_time": "23:00",
           "end_time": "00:00"

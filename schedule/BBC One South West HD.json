@@ -3,193 +3,6 @@
   "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
   "schedule": [
     {
-      "date": "5 April 2026",
-      "programmes": [
-        {
-          "show_name": "Weather for the Week Ahead",
-          "show_description": "Detailed weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3cf8ea6c-9bca-4e01-85e9-a40187fbae92/cover",
-          "start_time": "00:30",
-          "end_time": "00:35"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a313b260-fb3a-47c6-9b49-6207f9f99ae8/cover",
-          "start_time": "00:35",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fa7db10d-c47d-444b-8962-bf6871987707/cover",
-          "start_time": "06:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Harry Clark Goes to Rome",
-          "show_description": "Harry Clark embarks on a personal pilgrimage to Rome, where he attempts to meet the pope. Contains some scenes which some viewers may find upsetting.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f662bb5c-bb23-4027-8070-2507a694fb8d/cover",
-          "start_time": "09:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Easter Day Service from Ripon Cathedral",
-          "show_description": "A triumphant celebration of the resurrection of Jesus, with music, readings and prayers, from the gothic splendour of Ripon Cathedral in the heart of rural North Yorkshire.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/85a196a4-b22a-4338-9054-8caafaeef4e0/cover",
-          "start_time": "10:00",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "Urbi et Orbi",
-          "show_description": "The Pope's traditional Easter greeting and blessing from St Peter's Square.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3a1263d3-0637-409f-88a2-65d7f74513e7/cover",
-          "start_time": "11:00",
-          "end_time": "11:25"
-        },
-        {
-          "show_name": "Homes Under the Hammer",
-          "show_description": "Timescales are out the window at three projects in Kent, Yorkshire and London, but will it be worth the wait?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/899e314d-dd84-467d-a14f-6d6ba60f4ab8/cover",
-          "start_time": "11:25",
-          "end_time": "12:25"
-        },
-        {
-          "show_name": "Bargain Hunt",
-          "show_description": "The teams find themselves in the expert hands of Stephanie Connell and Philip Serrell, while presenter Eric Knowles has a mystery item for fair-goers to identify.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/06369ae9-6295-34fb-8fce-c58541abd1cb/cover",
-          "start_time": "12:25",
-          "end_time": "13:15"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/30aa0c59-a182-4468-a97c-4210b4252618/cover",
-          "start_time": "13:15",
-          "end_time": "13:25"
-        },
-        {
-          "show_name": "Weather for the Week Ahead",
-          "show_description": "Detailed weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6dd29378-8af5-42a6-9a00-e11e6ddcbee5/cover",
-          "start_time": "13:25",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Songs of Praise: Easter Sunday",
-          "show_description": "To celebrate the resurrection of Jesus, Pam Rhodes introduces favourite Easter hymns and joins Christians in Cornwall as they mark 50 years of raising the towering Carn Brea Easter Cross.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2554633e-2d97-4ee1-b4ce-a4ca088c254d/cover",
-          "start_time": "13:30",
-          "end_time": "14:05"
-        },
-        {
-          "show_name": "Attenborough's Life in Colour",
-          "show_description": "2/2. David Attenborough reveals the extraordinary ways in which some animals use colour to hide and disappear into the background. Contains scenes of flashing images.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dacbdf27-48bf-4050-a54a-25d227a71331/cover",
-          "start_time": "14:05",
-          "end_time": "15:05"
-        },
-        {
-          "show_name": "Crookhaven",
-          "show_description": "5/8. A spy wreaks havoc in the school, Gabriel's search for his parents leads him into the heart of Crookhaven, and Edgar will stop at nothing to win the shilling test.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b9e80cf7-be81-4b4f-9d65-6f9e73601730/cover",
-          "start_time": "15:05",
-          "end_time": "15:50"
-        },
-        {
-          "show_name": "Crookhaven",
-          "show_description": "6/8. The Crooklings are back home and breaking school rules, Amira and Nicki lock horns as Penelope demands answers, and a real-world heist brings the gang face-to-face with the enemy.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c604c4c1-21c8-4b45-842e-67f5d7e04ae9/cover",
-          "start_time": "15:50",
-          "end_time": "16:35"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d304f883-647c-48f7-ba44-571fd9a5f596/cover",
-          "start_time": "16:35",
-          "end_time": "16:50"
-        },
-        {
-          "show_name": "Spotlight",
-          "show_description": "The latest news, sport, weather and features from the South West of England.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/37c4b344-fdc4-4782-87fd-0eb46d99f528/cover",
-          "start_time": "16:50",
-          "end_time": "16:55"
-        },
-        {
-          "show_name": "Weather",
-          "show_description": "The latest weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fbd6e747-514b-4ec0-a46a-0b19f4ab399c/cover",
-          "start_time": "16:55",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Countryfile",
-          "show_description": "Matt Baker and Margherita Taylor visit Bisterne Estate in Hampshire's Avon Valley.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d48b21ee-189d-40ed-95b5-306f332027d9/cover",
-          "start_time": "17:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Secret Garden",
-          "show_description": "1/5. David Attenborough reveals the lives of kingfishers, otters and other animals whose home is a river garden. Life here seems idyllic, but all are at the mercy of seasonal floods.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a79958a0-ff17-498e-a353-76b9e399aac1/cover",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Antiques Roadshow",
-          "show_description": "The roadshow travels to Belfast's Botanic Gardens, where treasures include a valuable silver tea set and an extraordinary pearl necklace with a poignant past.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ee0f3dd7-db99-3682-820f-27c68b75682c/cover",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "The Other Bennet Sister",
-          "show_description": "7/10. Mary weighs up a bold offer from Mr Ryder. Under pressure from her mother, Mary must decide what she truly wants and if she has the courage to disappoint her family one more time.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c28e9a3b-b3a0-45d9-b075-8648ad3636f4/cover",
-          "start_time": "20:00",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "The Other Bennet Sister",
-          "show_description": "8/10. Mary finds peace and a growing connection with Mr Hayward in the Lake District - until the arrival of a group of unexpected guests threatens their new understanding.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/14478aaf-8124-4d01-94ef-832b3c752a78/cover",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "The Capture",
-          "show_description": "5/6. Seeking answers, Carey and Pierson are pursued through a network of underground tunnels. Contains strong language, some violence and upsetting scenes.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3cfcd9a0-30e8-4a03-8d70-ee6a18052ec3/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "BBC News and Weather",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e0734bb1-c03b-4c93-a1f2-1a1690694feb/cover",
-          "start_time": "22:00",
-          "end_time": "22:25"
-        },
-        {
-          "show_name": "Spotlight",
-          "show_description": "The latest news, sport, weather and features from the South West of England.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6bcbef8a-ce47-4ac2-9a63-1447afb2ca36/cover",
-          "start_time": "22:25",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "The Hunger Games: The Ballad of Songbirds & Snakes",
-          "show_description": "Before his rise to power, young Coriolanus Snow mentors at the tenth Hunger Games. Contains some violence and some upsetting scenes. [2023]",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cf7ade42-9b0c-386c-b760-7607f95d1b26/cover",
-          "start_time": "22:30",
-          "end_time": "00:55"
-        }
-      ]
-    },
-    {
       "date": "6 April 2026",
       "programmes": [
         {
@@ -366,6 +179,193 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/c93de2c7-5ed3-47f9-9aa7-f18e080da7f9/cover",
           "start_time": "23:00",
           "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "7 April 2026",
+      "programmes": [
+        {
+          "show_name": "The Repair Shop",
+          "show_description": "Dean restores a pair of shoes with a surprising past, Mark revives a retro recording device, and Sonnaz and Angelina pair up to salvage a battered survivor of heady days in London.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c0536c07-3d17-4c4d-aae1-fd54fb440cf8/cover",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "Weather for the Week Ahead",
+          "show_description": "Detailed weather forecast.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/859353aa-82b5-4693-baed-83db0ee5f279/cover",
+          "start_time": "01:00",
+          "end_time": "01:05"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d1054965-dd03-4173-9df1-4be1005f514e/cover",
+          "start_time": "01:05",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fef655af-f48b-432f-bf2b-8314e2cce1a9/cover",
+          "start_time": "06:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Animal Park",
+          "show_description": "11/15. Longleat's keepers must establish which wolf could be the new leader of the pack.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cbea1c8a-5fa1-36a7-9632-5d588c7e1277/cover",
+          "start_time": "09:30",
+          "end_time": "10:15"
+        },
+        {
+          "show_name": "Farm 999",
+          "show_description": "7/15. A gang steals farm equipment worth thousands, a pregnant cow sparks a swimming pool emergency, and Paul Colgan explores how soil DNA could help catch illegal off-road riders.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8bfaae0d-0ca4-4390-9132-da57fdd600b7/cover",
+          "start_time": "10:15",
+          "end_time": "10:45"
+        },
+        {
+          "show_name": "SAS: Catching the Criminals",
+          "show_description": "12/15. Ex-SAS leader Billy Billingham, Trading Standards and the police hunt down suspected rogue traders who are breaking the law and ripping off customers.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a7e425fd-a834-3d43-ab19-3391aa702e79/cover",
+          "start_time": "10:45",
+          "end_time": "11:15"
+        },
+        {
+          "show_name": "Celebrity Homes Under the Hammer",
+          "show_description": "James Bye swaps Albert Square for a Leicestershire property snoop with Martel, who auditions for a role in EastEnders while James gets stuck into the stripping-out.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/86e38ce7-e96c-43c3-bd80-b9815e0cf791/cover",
+          "start_time": "11:15",
+          "end_time": "12:15"
+        },
+        {
+          "show_name": "Bargain Hunt",
+          "show_description": "Two teams hunt for bargains at a huge antiques centre in Derbyshire under the guidance of experts Nick Hall and Izzie Balmer.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1a12cc01-6862-3bd5-b341-371dea230c27/cover",
+          "start_time": "12:15",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "BBC News at One including Spotlight",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/43b407a7-9737-49a0-95ac-d2d3f8e41a79/cover",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Just One Thing",
+          "show_description": "10/12. Zoe Ball explains how you don't need to ditch chocolate to improve your health - you just need to move over to the dark side and eat chocolate with a minimum of 70 per cent cocoa.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/dbff6c7d-a985-44f3-9b6a-9c4e7d27bcc1/cover",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "The Travelling Auctioneers",
+          "show_description": "5/20. Janine inherited two shipping containers filled by her antique-collecting dad. What treasures hide within? Christina finds a gold watch and a silver owl to put under her gavel.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d7df2115-eebd-3360-9f16-9df551349c8a/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Escape to the Country",
+          "show_description": "41/50. Sonali Shah helps Norman and Linda swap London for a breath of fresh sea air in Dorset, with a standout mystery house and a relaxing stop at a seaweed spa.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8d5200fc-eea3-4fb9-913d-c891c5651628/cover",
+          "start_time": "15:00",
+          "end_time": "15:45"
+        },
+        {
+          "show_name": "I Made It at Market",
+          "show_description": "1/10. Dom revisits stained-glass artist Emily and metal artist John, who have achieved life-changing success, and finds out how much money they are earning from their skills.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d13ee3d3-b50d-4acf-9b12-6d7b4c1dee69/cover",
+          "start_time": "15:45",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "The Finish Line",
+          "show_description": "5/30. Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/34993cd0-acd3-47ff-ac9a-e568c25ef5b9/cover",
+          "start_time": "16:30",
+          "end_time": "17:15"
+        },
+        {
+          "show_name": "New: Pointless",
+          "show_description": "46/46. Alexander Armstrong is joined by co-host Tom Allen for the quiz where contestants try to score as few points as possible by coming up with the answers no-one else could think of.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/dc2536cb-e81a-4432-99c3-54482f93e263/cover",
+          "start_time": "17:15",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d7466c45-8aeb-471e-9142-5906968e25da/cover",
+          "start_time": "18:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "Spotlight",
+          "show_description": "The latest news, sport, weather and features from the South West of England.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/676af4da-e55c-4a5b-8057-1ab4e22a05e7/cover",
+          "start_time": "18:30",
+          "end_time": "18:55"
+        },
+        {
+          "show_name": "Party Election Broadcast by the Labour Party",
+          "show_description": "A party election broadcast by the Labour Party for the local and mayoral elections on 7 May.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5146c528-fc99-44b1-b256-e5fea55c6e88/cover",
+          "start_time": "18:55",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "The One Show",
+          "show_description": "Alex Jones and Clara Amfo bring you the stories that matter from across the country.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0f036d91-9a9c-4a9c-9eae-dcf89e166235/cover",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "EastEnders",
+          "show_description": "Tensions are high as Jasmine's trial commences, George makes a declaration, and Ross grows paranoid.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c4e86042-52cd-4d47-b8f7-1180c9a8efad/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Sort Your Life Out with Stacey Solomon",
+          "show_description": "5/6. Stacey and the team head to Twickenham to help the Allan family tackle their overflowing home.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e25f0656-dfe3-4f3c-b17f-37b98632bd43/cover",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Babies",
+          "show_description": "4/6. At a wedding, Lisa deals with Amanda's pregnancy, while Stephen seeks to confront Dave. Contains strong language and scenes which some viewers may find upsetting.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e8cfa985-1e76-418d-a102-846d559a4dc3/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "BBC News and Weather",
+          "show_description": "The latest national and international news, with reports from BBC correspondents worldwide.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c828bf0a-6934-4466-bea9-fadbf5fec375/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Spotlight",
+          "show_description": "The latest news, sport, weather and features from the South West of England.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5f57e25e-8935-4b4a-ad8e-3f50d88ef003/cover",
+          "start_time": "22:30",
+          "end_time": "22:40"
+        },
+        {
+          "show_name": "Brooklyn",
+          "show_description": "Drama set in the 1950s about an Irish immigrant who lands in Brooklyn and finds romance. Contains some strong language and some scenes of a sexual nature. [2015]",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e042d076-6a59-4457-8c37-9fd1d93f8285/cover",
+          "start_time": "22:40",
+          "end_time": "00:20"
         }
       ]
     }
