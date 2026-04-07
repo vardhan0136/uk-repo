@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
   "schedule": [
     {
-      "date": "6 April 2026",
-      "programmes": [
-        {
-          "show_name": "Through the Night",
-          "show_description": "The Swedish Radio Symphony Orchestra and conductor Daniel Harding are joined by Orfeó Català and soloists Johanna Wallroth and Avery Amereau in Mahler's Resurrection Symphony.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Essential Classics",
-          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Classical Live",
-          "show_description": "Radio 3 New Generation Artist, tenor Santiago Sanchez, in a live recital from Wigmore Hall with pianist Ian Tindale, plus Chopin from LSO St Luke's and music inspired by the past.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Composer of the Week: Gershwin",
-          "show_description": "1/5. Donald Macleod explores the early life of George Gershwin, the composer of the American 'melting pot'.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "In Tune",
-          "show_description": "Live music from pianist Nicholas McCarthy and soprano Louise alder with Joseph Middleton.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Classical Mixtape",
-          "show_description": "Take time out with a 30-minute soundscape of classical favourites.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Radio 3 in Concert",
-          "show_description": "The world-renowned Tallis Scholars explore music inspired by miraculous events in the life of Jesus in works by Tallis, Victoria and Gabrieli along with Judith Weir and Arvo Pärt.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "The Essay: Healing Musicians",
-          "show_description": "Renowned cellist Julian Lloyd Webber talks to Kate Kennedy about the injury which forced him to stop playing. Where does this leave a musician's relationship with their instrument?",
-          "show_logo": "",
-          "start_time": "21:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Night Tracks",
-          "show_description": "Sara Mohr-Pietsch presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "'Round Midnight",
-          "show_description": "Soweto is back with another week of top picks from the UK and international jazz scenes, and emerging jazz saxophonist Allexa Nava celebrates some of the artists that inspire her.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "7 April 2026",
       "programmes": [
         {
@@ -160,6 +78,95 @@
         {
           "show_name": "'Round Midnight",
           "show_description": "Soweto Kinch with an hour of exciting new jazz music including a new release from guitarist Fabiano Do Nascimento, and saxophonist Allexa Nava shares a track which inspires her.",
+          "show_logo": "",
+          "start_time": "23:30",
+          "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "8 April 2026",
+      "programmes": [
+        {
+          "show_name": "Through the Night",
+          "show_description": "Angela Hewitt plays Ravel's Piano Concerto in G with the Polish National Radio Symphony Orchestra, in a programme including Dutilleux's Métaboles and Ravel's Rapsodie espagnole.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Essential Classics",
+          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Classical Live",
+          "show_description": "The plainsong inspired theme continues with perfomances from Voces 8 and the WDR Symphony Orchestra, Cologne and there's more specially recorded chamber music by Chopin from Perth.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Choral Evensong",
+          "show_description": "From Christ Church Moss Side, Manchester, with the Choral Scholars of St Martin-in-the-Fields and Diocese of Manchester Choral Scholars.",
+          "show_logo": "",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Composer of the Week: Gershwin",
+          "show_description": "3/5. Donald Macleod explores George Gershwin's time in Paris in the spring of 1928 and the music it inspired.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "In Tune",
+          "show_description": "British cellist Julian Lloyd Webber, and Michael Beek on the London Soundtrack Festival.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Classical Mixtape",
+          "show_description": "Take time out with a 30-minute soundscape of classical music.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Radio 3 in Concert",
+          "show_description": "The London Philharmonic Orchestra performs Anna Thorvaldsdottir's CATAMORPHOSIS and Beethoven's 6th Symphony. Plus Bruch's Violin Concerto with Nikolaj Szeps-Znaider.",
+          "show_logo": "",
+          "start_time": "19:30",
+          "end_time": "21:45"
+        },
+        {
+          "show_name": "The Essay: Healing Musicians",
+          "show_description": "Kate Kennedy meets principal French horn player Robin Graham to learn what it means for a musician's relationship with their instrument when injury forces them to stop playing.",
+          "show_logo": "",
+          "start_time": "21:45",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Night Tracks",
+          "show_description": "Sara Mohr-Pietsch presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "'Round Midnight",
+          "show_description": "Soweto Kinch presents more of the best in jazz from the UK and around the world and shares a swinging release from the late English jazz singer Beryl Bryden.",
           "show_logo": "",
           "start_time": "23:30",
           "end_time": "00:30"

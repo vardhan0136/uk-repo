@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-2.png",
   "schedule": [
     {
-      "date": "6 April 2026",
-      "programmes": [
-        {
-          "show_name": "Richie Anderson",
-          "show_description": "Richie Anderson is live from Salford with your Monday Motivation to kick-start a brand new week, plus Secret Star and This Week in Songs.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Alternative Sounds of the 90s with Dermot O'Leary",
-          "show_description": "Dermot picks his favourite 90s albums which include The Color and The Shape, Urban Hymns and Automatic For The People. Plus, Kylie picks her favourite 90s band for us.",
-          "show_logo": "",
-          "start_time": "03:00",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "Owain Wyn Evans",
-          "show_description": "It's Early Breakfast with Owain Wyn Evans, featuring Step Back in Time and Airdrum Anthems -  Owain is asking about your first pets and advice on being a first time dog owner!",
-          "show_logo": "",
-          "start_time": "04:00",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "The OJ Borg Breakfast Show",
-          "show_description": "OJ has your morning sorted with Sinitta and music to get you up and out!",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Gary Davies",
-          "show_description": "Making your mid-mornings memorable, Gary's bringing big tunes, big names and big laughs!",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Tony Blackburn's Sounds of Soul",
-          "show_description": "Tony lights up bank holiday Monday with a live Soulful celebration of the very best music, including Luther Vandross, Candi Staton, Beverley Knight, George Benson & Ce Ce Peniston.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Mark Goodier's Most Played",
-          "show_description": "Mark Goodier presents his essential selection of the finest 'billion streamers' from the past six decades of rock and pop.",
-          "show_logo": "",
-          "start_time": "15:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Radio 2's Piano Room",
-          "show_description": "Vernon Kay presents highlights of the performances from this year's Piano Room Month, accompanied by the BBC Concert Orchestra in the BBC's Maida Vale studios.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Radio 2 In Concert",
-          "show_description": "Jo Whiley introduces Pulp performing in front of a small audience at the BBC Radio Theatre.",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "The Blues Show with Cerys Matthews",
-          "show_description": "Grammy-nominated Malian singer-songwriter, guitarist, and actress, Fatoumata Diawara pops in to chat about her new music and to share her favourite blues records and influences.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The Good Groove with DJ Spoony",
-          "show_description": "Feel-good dancefloor favourites and soul gems, all five minutes in duration and longer to make you groove! Super luxurious tuneage to round up your bank holiday weekend!",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "7 April 2026",
       "programmes": [
         {
@@ -174,6 +92,109 @@
         {
           "show_name": "The Good Groove with DJ Spoony",
           "show_description": "Feel-good tunes to make you groove! Plus, Maverick Sabre chooses the tracks that take him back to the dance floors of his youth in Rewind Selector.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "8 April 2026",
+      "programmes": [
+        {
+          "show_name": "OJ Borg",
+          "show_description": "OJ is live through the night from the Salford Riviera and he needs your celebrity puns to build a new team. Plus, Midnight Mastermind, Wish You Were There and Shiftfaced.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "02:30"
+        },
+        {
+          "show_name": "One Hit Wonders with OJ Borg",
+          "show_description": "OJ's replaying part of his chat with Leanne Brown from Sweet Female Attitude, as it's 26 years this month since Flowers reached number 2 in the UK. Plus, even more tracks from 2000.",
+          "show_logo": "",
+          "start_time": "02:30",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Dance Sounds of the 90s with Vernon Kay",
+          "show_description": "Vernon unleashes a heavyweight selection of iconic 90s dance bass lines. Back-to-back bangers from Daft Punk, Roni Size, Double 99, Mr Oizo, Les Rythmes Digitales and many more!",
+          "show_logo": "",
+          "start_time": "03:00",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Owain Wyn Evans",
+          "show_description": "It's Early Breakfast with Owain Wyn Evans, featuring Step Back in Time! We want to know about the sounds you love and loath! PLUS Airdrum Anthems this week has gone 'School Disco'.",
+          "show_logo": "",
+          "start_time": "04:00",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "The Gary Davies Breakfast Show",
+          "show_description": "Gary Davies has your morning sorted with showbiz guests and music to get you up and out!",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Mark Goodier",
+          "show_description": "Mark Goodier sits in with the mid-morning music quiz Ten To The Top. Plus singer, actor and Radio 2 Love Songs presenter Michael Ball chooses this week's Tracks Of My Years.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Jeremy Vine",
+          "show_description": "Jeremy and guests discuss the news headlines and talk to the people making them.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Trevor Nelson",
+          "show_description": "Trevor is bringing you some of the best music from across the decades to get you through the afternoon.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Sara Cox",
+          "show_description": "Sara gets you through teatime with plenty of giggles and some fab music. Plus Totally Teavoted, the SARA Awards, Bunch of 5s and Hatched, Matched and Dispatched.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "Sara Cox's Half Wower",
+          "show_description": "Sara plays the biggest and best tunes to get you up dancing!",
+          "show_logo": "",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Jo Whiley's Shiny Happy Playlist",
+          "show_description": "Jo brings her Shiny Happy Playlist, 30 minutes of feel-good music from 7-7.30pm to soundtrack listeners' weekday evening.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Jo Whiley",
+          "show_description": "Paris Paloma performs a Sofa Session for Jo, including a cover!",
+          "show_logo": "",
+          "start_time": "19:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "The Folk Show with Mark Radcliffe",
+          "show_description": "The best folk music. Kris Drever introduces his new album, Doing This For Love.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "The Good Groove with DJ Spoony",
+          "show_description": "Feel-good tunes to make you groove, from soulful house to RnB, disco to doo-wop and everything else in-between. Join in with addictive guessing game 'Music Is The Answer'.",
           "show_logo": "",
           "start_time": "22:00",
           "end_time": "00:00"

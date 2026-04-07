@@ -3,151 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/stv-uk.png",
   "schedule": [
     {
-      "date": "6 April 2026",
-      "programmes": [
-        {
-          "show_name": "Shop on TV",
-          "show_description": "",
-          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/aac68f56-48b3-5869-a5fd-7e0462b7c6d7.jpg",
-          "start_time": "00:25",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Unwind with STV",
-          "show_description": "Daily escape designed to calm the mind and encourage relaxation and reflection",
-          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/a7ceb8c0-e28b-5bd9-b35c-20300915b022.jpg",
-          "start_time": "04:45",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Good Morning Britain",
-          "show_description": "Morning magazine featuring a lively mix of news and current affairs, plus health, entertainment and lifestyle features",
-          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/cb2bc614-b4da-5156-a64b-d709b438b68c.jpg",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "This Morning",
-          "show_description": "A mix of celebrity chat, lifestyle features, advice and competitions",
-          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/a195f51a-39d8-59f6-9ede-4312142f027c.jpg",
-          "start_time": "10:00",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "ITV Lunchtime News; Weather",
-          "show_description": "The key headlines from the day so far",
-          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/b41b57a0-be9f-5ee2-a609-3c9168559698.jpg",
-          "start_time": "12:30",
-          "end_time": "12:35"
-        },
-        {
-          "show_name": "STV News; Weather",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "12:35",
-          "end_time": "12:40"
-        },
-        {
-          "show_name": "Celebrity Catchphrase",
-          "show_description": "Stephen Mulhern hosts a celebrity special of the classic game show, with Charlotte Church, Melvin Odoom and Katherine Ryan all trying to say what they see, as they guess well-known phrases for the chance to win a £50,000 jackpot for their chosen charity",
-          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/0a4bab05-9896-591a-b684-570712c69248.jpg",
-          "start_time": "12:40",
-          "end_time": "13:40"
-        },
-        {
-          "show_name": "Celebrity Lingo",
-          "show_description": "Adil Ray hosts the game of words as Coronation Street stars Lucy Fallon, Julia Goulding, Jack P Shepherd and former Weatherfield regular Colson Smith go head-to-head in a battle to win big money for charity",
-          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/d914d4d8-b9a2-52bf-ae67-98dbc85d5502.jpg",
-          "start_time": "13:40",
-          "end_time": "14:15"
-        },
-        {
-          "show_name": "STV Racing Live: Irish Grand National",
-          "show_description": "Rishi Persad presents coverage of one of the biggest races in the Irish calendar from Fairyhouse, plus racing from Plumpton and Kempton Park. With analysis from Mick Fitzgerald and Megan Nicholls, reports by Sally Ann Grassick and commentary from Mark Johnson",
-          "show_logo": "",
-          "start_time": "14:15",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "Tipping Point: Lucky Stars",
-          "show_description": "Ben Shephard hosts as Janette Manrara, Ade Adepitan and Sarah Millican answer questions to win turns on an arcade-style machine. Dropping tokens down a choice of four chutes, they hope to knock piles of them off a moving shelf - and the more they collect, the better their chances of collecting the £20,000 prize for their selected charity",
-          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/c6ecd43d-5a76-557c-9965-d1523fc95f72.jpg",
-          "start_time": "17:30",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "STV News; Weather",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "18:30",
-          "end_time": "18:40"
-        },
-        {
-          "show_name": "ITV Evening News; Weather",
-          "show_description": "A round-up of the day's news headlines and talking points from the UK and around the world",
-          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/fd7e3947-664d-570c-9582-e67b40d38e68.jpg",
-          "start_time": "18:40",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "The Chase Celebrity Special",
-          "show_description": "Bradley Walsh presents as Christine Ohuruogu, Max George, Maisie Smith and Owain Wyn-Evans pit their wits against one of the ruthless Chasers in the hope of winning a potential prize pot worth thousands of pounds. They must work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught",
-          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/9b336091-e94c-56cc-b4e6-f87a6caaf42c.jpg",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Emmerdale",
-          "show_description": "Rhona has a big decision to make, while Cain confides in Moira and Kerry is furious",
-          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/5c5fab43-e3a9-5aca-af11-a05939997012.jpg",
-          "start_time": "20:00",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "Coronation Street",
-          "show_description": "Ronnie learns of Carl's latest ploy to extort cash from Debbie, Ben reels from the paternity revelation, Jodie joins David on his day off, and Hope taunts Will in front of Sam",
-          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/a2aef64e-b6c0-52c2-a1c3-68c0728bf135.jpg",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "I'm a Celebrity South Africa: Sneak Peek",
-          "show_description": "A preview of the second series of the programme in which memorable campmates from past series of I'm A Celebrity...Get Me Out Of Here! compete against each other in challenges that are bigger and tougher than before - and more unforgiving",
-          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/d0be3a56-ec03-5e5d-8a08-0658bf598662.jpg",
-          "start_time": "21:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "ITV News; Weather",
-          "show_description": "A fresh perspective on the major stories of the day, featuring national and international news, with reports and analysis from ITV's correspondents",
-          "show_logo": "",
-          "start_time": "22:30",
-          "end_time": "22:49"
-        },
-        {
-          "show_name": "STV Weather North",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "22:49",
-          "end_time": "22:50"
-        },
-        {
-          "show_name": "The 1% Club Rollover",
-          "show_description": "Lee Mack hosts the first of five special editions of the quiz in which the prize pot that is not won on one show is carried over to the next day's edition, meaning there could be up to £500,000 to be won. As usual, 100 contestants begin every show, but those who make it through to the final question return the next day to play the quiz again",
-          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/d6a68613-2fd2-5cab-a79d-ed3af0044f01.jpg",
-          "start_time": "22:50",
-          "end_time": "23:50"
-        },
-        {
-          "show_name": "Millionaire Hot Seat",
-          "show_description": "Jeremy Clarkson hosts the quiz where each episode sees six hopefuls compete for the £1 million prize - however, only one player can take their place in the Hot Seat at a time and answer multiple-choice questions to work their way up the Money Ladder. Unlike classic Millionaire, each question is against the clock and there is no room for indecision - only one player will have a chance to win the top prize remaining on the ladder, but will they be able to do so?",
-          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/cdfd0bc9-42f0-5a08-af85-391165a8b3c9.jpg",
-          "start_time": "23:50",
-          "end_time": "00:20"
-        }
-      ]
-    },
-    {
       "date": "7 April 2026",
       "programmes": [
         {
@@ -158,9 +13,9 @@
           "end_time": "03:00"
         },
         {
-          "show_name": "I'm a Celebrity South Africa: Sneak Peek",
-          "show_description": "A preview of the second series of the programme in which memorable campmates from past series of I'm A Celebrity...Get Me Out Of Here! compete against each other in challenges that are bigger and tougher than before - and more unforgiving",
-          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/d0be3a56-ec03-5e5d-8a08-0658bf598662.jpg",
+          "show_name": "I'm a Celebrity South Africa",
+          "show_description": "Ant and Dec host as memorable campmates from past series of I'm a Celebrity Get Me Out of Here! compete against one another in the South African jungle. They survived the Australian jungle or the Welsh castle, but this is an even harder proposition that will push them to their limits and test them like never before",
+          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/e4ef2550-5d16-5bef-aad4-ce0b4e95b0f3..jpg",
           "start_time": "03:00",
           "end_time": "04:15"
         },
@@ -324,6 +179,193 @@
           "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/6683e0c9-98cf-51e6-a0f3-c6e61750c742.jpg",
           "start_time": "23:25",
           "end_time": "00:20"
+        }
+      ]
+    },
+    {
+      "date": "8 April 2026",
+      "programmes": [
+        {
+          "show_name": "Shop on TV",
+          "show_description": "",
+          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/aac68f56-48b3-5869-a5fd-7e0462b7c6d7.jpg",
+          "start_time": "00:20",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "I'm a Celebrity South Africa",
+          "show_description": "Ant and Dec introduce further coverage as the campmates are split into two groups, which causes drama and two new famous faces join them. The first eating trial of the series sees the celebs battling it out to win dinner that evening, with the losers having to make do with rice and beans",
+          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/edbedd31-59bf-5535-b5cf-0b742d602845.jpg",
+          "start_time": "03:00",
+          "end_time": "04:05"
+        },
+        {
+          "show_name": "Night Vision",
+          "show_description": "News, sport and weather from across Scotland",
+          "show_logo": "",
+          "start_time": "04:05",
+          "end_time": "05:05"
+        },
+        {
+          "show_name": "Celebrity Sabotage",
+          "show_description": "Joel Dommett, Judi Love, Sam Thompson and GK Barry deceive unsuspecting members of the public as they take part in a fake love-themed show hosted by Matt and Emma Willis, who are also in on the whole thing and even get set their own mission in a hot tub. Plus, Olivia Attwood is the guest saboteur",
+          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/1babb79c-fbec-5e22-97cb-8fe969d4552f.jpg",
+          "start_time": "05:05",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Good Morning Britain",
+          "show_description": "Morning magazine featuring a lively mix of news and current affairs, plus health, entertainment and lifestyle features",
+          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/1e7b83cf-49fb-5d05-925f-f656b6629fba.jpg",
+          "start_time": "06:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "This Morning",
+          "show_description": "A mix of celebrity chat, lifestyle features, advice and competitions",
+          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/6515c860-509d-5ed9-8dd5-9075c78d9ae1.jpg",
+          "start_time": "10:00",
+          "end_time": "12:30"
+        },
+        {
+          "show_name": "ITV Lunchtime News; Weather",
+          "show_description": "The key headlines from the day so far",
+          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/fecd9848-9274-583e-8523-8ee5f79d4654.jpg",
+          "start_time": "12:30",
+          "end_time": "12:55"
+        },
+        {
+          "show_name": "STV News; Weather",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "12:55",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Celebrity Catchphrase",
+          "show_description": "Stephen Mulhern hosts as contestants Alexander Armstrong, Natasha Hamilton and Jamie Laing to 'see it and say it' as they try to guess the familiar phrases hidden in animated clues. After the first elimination, the two remaining players battle to reach the Super Catchphrase round, where one of them could win £50,000 for the charity of their choice",
+          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/cf72609b-2b03-5930-9f02-2211b9e5f8ea.jpg",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Dickinson's Real Deal",
+          "show_description": "David Dickinson is in Wolverhampton with his dealers Karen Dalmeny, James Layte, Mark Stevens and Fay Rutter",
+          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/60fd3763-2d0b-5bf3-8123-b9e42bee43ee.jpg",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Deal or No Deal",
+          "show_description": "Stephen Mulhern hosts the exciting and iconic gameshow as one of his brave contestants faces the infamous Banker and tries to open those iconic 22 red boxes in the right order.",
+          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/a2863fa7-adae-54bc-a21c-2908091c1081.jpg",
+          "start_time": "15:00",
+          "end_time": "15:59"
+        },
+        {
+          "show_name": "STV Weather North",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "15:59",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Tipping Point",
+          "show_description": "Ben Shephard hosts the quiz in which contestants answer questions to win turns on an arcade-style machine. Dropping tokens down a choice of four chutes, they hope to knock piles of them off a moving shelf - and the more they collect, the greater the prize fund. The player who has won the least amount is then eliminated, and the last one standing competes for a £10,000 jackpot",
+          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/bb97d45c-e7cf-512e-a002-05ba15a124b4.jpg",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "The Chase",
+          "show_description": "Bradley Walsh presents as contestants Christopher, Fenella, Shane and Elizabeth pit their wits against one of the ruthless Chasers in the hope of winning a potential prize pot worth thousands of pounds. They work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught",
+          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/89387d00-a34a-55db-8d63-5d1f97a2122a.jpg",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "STV News; Weather",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "18:25"
+        },
+        {
+          "show_name": "Party Election Broadcast",
+          "show_description": "By the Scottish Conservative Party",
+          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/30636def-7b79-510d-875d-58759ff40a23.jpg",
+          "start_time": "18:25",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "ITV Evening News; Weather",
+          "show_description": "A round-up of the day's news headlines and talking points from the UK and around the world",
+          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/6bac3640-d5ce-5cea-b567-cf83e28d1f76.jpg",
+          "start_time": "18:30",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Celebrity Lingo",
+          "show_description": "Adil Ray hosts the game of words as journalist Cathy Newman and wordsmith Gyles Brandreth compete against Loose Women's Kaye Adams and Morning Live's Dr Ranj Singh for charity",
+          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/97f09eda-5e28-5545-874f-c5cb68683695.jpg",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Emmerdale",
+          "show_description": "Kyle finds Cain lying unconscious, while Kerry starts to have suspicions and Moira is concerned",
+          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/73d8568a-6c2f-5285-8f06-33d2f0854a79.jpg",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Coronation Street",
+          "show_description": "Summer challenges Debbie's version of how Billy died, Will denies Sam's allegation that he's still seeing Megan, and Lisa and Carla leave Jodie in charge of Connie",
+          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/9eb1cb1b-792b-5b83-b103-a6a253cd4215.jpg",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "I'm a Celebrity South Africa",
+          "show_description": "While some embrace their new surroundings, one celebrity is far from impressed with their new living quarters. They aren't holding back, making their frustrations loud and clear to their fellow campmates. As night falls, there is a series of emotional and heartwarming revelations. But the peace is short-lived as the episode culminates in a showdown as one member from each team is selected by the other camp to face a bone-chilling trial that will test their courage to the limit. Ant and Dec host",
+          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/0afd3077-5ef3-54e6-a057-cdd047f1749b.jpg",
+          "start_time": "21:00",
+          "end_time": "22:05"
+        },
+        {
+          "show_name": "The Assembly",
+          "show_description": "Stephen Fry faces a grilling from a cast of autistic and learning-disabled interviewers. Did he take drugs in Buckingham Palace? Is he happy to be alive? As the questions come thick and fast, Stephen opens up about mental health, shame and self-criticism. There are probing questions about love, identity and belief, alongside moments of pure mischief and laughter - including an explosive question about his sexual preferences",
+          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/32300eab-7a6d-506d-a9fd-9427b9746a31.jpg",
+          "start_time": "22:05",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "ITV News",
+          "show_description": "A fresh perspective on the major stories of the day, featuring national and international news, with reports and analysis from ITV's correspondents",
+          "show_logo": "",
+          "start_time": "22:30",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "STV News; Weather",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "23:10"
+        },
+        {
+          "show_name": "Scotland Tonight; Weather",
+          "show_description": "Current affairs show tackling the issues behind the headlines from a Scottish perspective, with studio debate and analysis of major stories",
+          "show_logo": "",
+          "start_time": "23:10",
+          "end_time": "23:35"
+        },
+        {
+          "show_name": "The 1% Club Rollover",
+          "show_description": "Lee Mack hosts a special edition of the quiz in which the prize pot that is not won on one show is carried over to the next day's edition, meaning a potential jackpot of £500,000. What's more, anyone who makes it through to the final question automatically comes back to compete again the following day",
+          "show_logo": "https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/content/3a4c5d53-443b-5f44-937b-b6a08e38a631.jpg",
+          "start_time": "23:35",
+          "end_time": "00:35"
         }
       ]
     }
