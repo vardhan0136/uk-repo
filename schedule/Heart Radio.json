@@ -3,8 +3,15 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/Heart.png",
   "schedule": [
     {
-      "date": "7 April 2026",
+      "date": "8 April 2026",
       "programmes": [
+        {
+          "show_name": "Ben Atkinson",
+          "show_description": "Turn up the Feel Good with Ben Atkinson to end the day right. Send a message to Ben on your Alexa, just say... \"Alexa, send a comment to Heart\"!",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
         {
           "show_name": "Guy Howard",
           "show_description": "If you're up late, working or heading home, Guy's got the best feel good music. Send a message to Guy on your Alexa, just say... \"Alexa, send a comment to Heart\".",
@@ -64,7 +71,7 @@
       ]
     },
     {
-      "date": "8 April 2026",
+      "date": "9 April 2026",
       "programmes": [
         {
           "show_name": "Guy Howard",

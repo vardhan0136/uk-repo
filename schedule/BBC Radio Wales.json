@@ -3,102 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Wales.png",
   "schedule": [
     {
-      "date": "7 April 2026",
-      "programmes": [
-        {
-          "show_name": "Relax with Radio Wales",
-          "show_description": "Relax, unwind and chill out with an hour of classic and contemporary tunes.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "As BBC Radio 5 Live",
-          "show_description": "See listings for BBC Radio 5 Live on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Radio Wales News Update",
-          "show_description": "The latest news from Wales and the world.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "06:05"
-        },
-        {
-          "show_name": "Wake Up with Radio Wales",
-          "show_description": "A lively mix of music to start the day. Perfect for your pod!",
-          "show_logo": "",
-          "start_time": "06:05",
-          "end_time": "06:31"
-        },
-        {
-          "show_name": "A Valleys Chapel at Easter",
-          "show_description": "Rhys Locke, minister at Saron Chapel in Crynant, blends the nostalgia , memories and story of a community pulling together in the Welsh Valleys at Easter.",
-          "show_logo": "",
-          "start_time": "06:31",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Radio Wales Breakfast",
-          "show_description": "Everything you need to know as you wake up.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Justine Jones",
-          "show_description": "Justine brightens your morning with great music and entertainment. Call 03700 100 110 Text 81012 or message via X @bbcradiowales.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "The Phone In",
-          "show_description": "Be part of the nation's conversation.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Behnaz Akhgar",
-          "show_description": "Celebrity guests, expert advice, and we test your anagram-solving skills in The Name Game! Call or WhatsApp 03700 100 110 Text 81012.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Radio Wales Drive",
-          "show_description": "Everything you need to know as you head home.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "The Swansea Boys Who Built Bombs",
-          "show_description": "The little known story of the Welsh scientists who developed atomic weapons and how their research eventually turned to peace.",
-          "show_logo": "",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Molly Palmer",
-          "show_description": "Molly Palmer plays classic tracks and features new music from Wales and beyond.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Eleri Siôn",
-          "show_description": "Eleri brightens your night-time with great music and chat. Call 03700 100 110 Text 81012 or via X @bbcradiowales.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "8 April 2026",
       "programmes": [
         {
@@ -169,11 +73,18 @@
           "show_description": "Everything you need to know as you head home.",
           "show_logo": "",
           "start_time": "17:00",
+          "end_time": "18:27"
+        },
+        {
+          "show_name": "Party Election Broadcast by Welsh Conservatives",
+          "show_description": "A party election broadcast by the Welsh Conservatives for the Senedd election on 7 May 2026.",
+          "show_logo": "",
+          "start_time": "18:27",
           "end_time": "18:30"
         },
         {
           "show_name": "Country Focus",
-          "show_description": "Programme serving everyone living in the countryside and tackling the issues affecting them. With rural, farming and environmental news.",
+          "show_description": "A Pembrokeshire dairy farm diversifies into adventure tourism, while north Wales farmers prepare for a charity challenge ahead of the Royal Welsh Show.",
           "show_logo": "",
           "start_time": "18:30",
           "end_time": "19:00"
@@ -197,6 +108,109 @@
           "show_description": "The Walescast team present a live edition of their podcast following the leaders' debate.",
           "show_logo": "",
           "start_time": "21:30",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Eleri Siôn",
+          "show_description": "Eleri brightens your night-time with great music and chat. Call 03700 100 110 Text 81012 or via X @bbcradiowales.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "9 April 2026",
+      "programmes": [
+        {
+          "show_name": "Relax with Radio Wales",
+          "show_description": "Relax, unwind and chill out with an hour of classic and contemporary tunes.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "See listings for BBC Radio 5 Live on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Radio Wales News Update",
+          "show_description": "The latest news from Wales and the world.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "06:05"
+        },
+        {
+          "show_name": "Wake Up with Radio Wales",
+          "show_description": "A lively mix of music to start the day. Perfect for your pod!",
+          "show_logo": "",
+          "start_time": "06:05",
+          "end_time": "06:31"
+        },
+        {
+          "show_name": "Country Focus",
+          "show_description": "A Pembrokeshire dairy farm diversifies into adventure tourism, while north Wales farmers prepare for a charity challenge ahead of the Royal Welsh Show.",
+          "show_logo": "",
+          "start_time": "06:31",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Radio Wales Breakfast",
+          "show_description": "Everything you need to know as you wake up.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Bronwen Lewis",
+          "show_description": "Bronwen brightens your morning with great music and entertainment. Call 03700 100 110 Text 81012 or message via X @bbcradiowales.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "The Phone In",
+          "show_description": "Be part of the nation's conversation.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Behnaz Akhgar",
+          "show_description": "Celebrity guests, expert advice, and we test your anagram-solving skills in The Name Game. Call or WhatsApp 03700 100 110 Text 81012.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Radio Wales Drive",
+          "show_description": "Everything you need to know as you head home.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "18:27"
+        },
+        {
+          "show_name": "Party Election Broadcast by Plaid Cymru",
+          "show_description": "A party election broadcast by Plaid Cymru for the Senedd election on 7 May 2026.",
+          "show_logo": "",
+          "start_time": "18:27",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "What Just Happened?",
+          "show_description": "1/4. Robin Morgan and Kiri Pritchard-McLean take a look back at the week's news with the help of Leila Navabi, Ignacio Lopez and Mel Owen.",
+          "show_logo": "",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Aleighcia Scott",
+          "show_description": "Aleighcia Scott with a show mixing old school, new school and in-between school.",
+          "show_logo": "",
+          "start_time": "19:00",
           "end_time": "22:00"
         },
         {

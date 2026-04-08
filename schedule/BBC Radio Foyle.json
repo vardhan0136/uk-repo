@@ -3,7 +3,7 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Foyle.png",
   "schedule": [
     {
-      "date": "7 April 2026",
+      "date": "8 April 2026",
       "programmes": [
         {
           "show_name": "As BBC Radio 5 live",
@@ -35,7 +35,7 @@
         },
         {
           "show_name": "Vinny & Cate",
-          "show_description": "From the kitchen to the office, the work van and beyond... This is YOUR mid-morning escape, with Vinny & Cate.",
+          "show_description": "Traitors: Rachel Duffy talks about winning the show and what's next!",
           "show_logo": "",
           "start_time": "10:30",
           "end_time": "12:00"
@@ -91,7 +91,7 @@
         },
         {
           "show_name": "Connor Phillips",
-          "show_description": "Spend your afternoon with Peter Cinnamond with great music, craic and stories to make you smile.",
+          "show_description": "Spend your afternoon with Connor Phillips with great music, craic and stories to make you smile.",
           "show_logo": "",
           "start_time": "16:00",
           "end_time": "17:00"
@@ -112,16 +112,37 @@
         },
         {
           "show_name": "Anne-Marie Wallace",
-          "show_description": "Anne-Marie brings you a lively selection of music this Easter Tuesday. Music from Maximo Park, Ed Sheeran and Blondie. An easy guess who's on the Set List tonight...",
+          "show_description": "Downtown Abbey actor Peter Egan on being a voice for animals and staying busy. Anne-Marie takes a visit to Belfast Tool library. Music from David Bowie, Stevie Nicks & Bruno Mars.",
           "show_logo": "",
           "start_time": "18:05",
           "end_time": "19:30"
         },
         {
-          "show_name": "Sportsound",
-          "show_description": "A busy night of action in the Sports Direct Irish Premiership. All 12 teams play as the race for the Gibson Cup and the battle to avoid relegation hots up.",
+          "show_name": "Súil Charad",
+          "show_description": "Labhraíonn Dara agus Caoimhe faoi spórt, faisean agus ceol.",
           "show_logo": "",
           "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "BBC News NI update",
+          "show_description": "The latest national and international news.",
+          "show_logo": "",
+          "start_time": "20:00",
+          "end_time": "20:04"
+        },
+        {
+          "show_name": "Ralph McLean - Country",
+          "show_description": "Ralph has new music from The Long Ryders, Buck Meek and Ringo Starr.",
+          "show_logo": "",
+          "start_time": "20:04",
+          "end_time": "21:55"
+        },
+        {
+          "show_name": "Wah Yan Jee Sing",
+          "show_description": "Local information on health and social issues in Cantonese.",
+          "show_logo": "",
+          "start_time": "21:55",
           "end_time": "22:00"
         },
         {
@@ -148,7 +169,7 @@
       ]
     },
     {
-      "date": "8 April 2026",
+      "date": "9 April 2026",
       "programmes": [
         {
           "show_name": "As BBC Radio 5 live",
@@ -257,14 +278,14 @@
         },
         {
           "show_name": "Anne-Marie Wallace",
-          "show_description": "Downtown Abbey actor Peter Egan on being a voice for animals and staying busy. Anne-Marie takes a visit to Belfast Tool library. Music from David Bowie, Stevie Nicks & Bruno Mars.",
+          "show_description": "Astronomer Paul Evans is back to chat about the Artemis II mission & what is on the dark side of the moon? The mosh pit is back after 7pm. Music from Creedance, U2 & Niall Horan.",
           "show_logo": "",
           "start_time": "18:05",
           "end_time": "19:30"
         },
         {
           "show_name": "Súil Charad",
-          "show_description": "Labhraíonn Dara agus Caoimhe faoi spórt, faisean agus ceol.",
+          "show_description": "Labhraíonn Dara agus Caoimhe faoi bhia, faoi chúrsaí cócaireachta agus faoi bialanna.",
           "show_logo": "",
           "start_time": "19:30",
           "end_time": "20:00"
@@ -277,17 +298,24 @@
           "end_time": "20:04"
         },
         {
-          "show_name": "Ralph McLean - Country",
-          "show_description": "Ralph has new music from The Long Ryders, Buck Meek and Ringo Starr.",
+          "show_name": "Blas Ceoil",
+          "show_description": "Rogha ceoil Jack Warnock, le tús spleodrach a chur le do dheireadh seachtaine. Ceol traidisiúnta, fréamh agus dúchasach.",
           "show_logo": "",
           "start_time": "20:04",
-          "end_time": "21:55"
+          "end_time": "21:00"
         },
         {
-          "show_name": "Wah Yan Jee Sing",
-          "show_description": "Local information on health and social issues in Cantonese.",
+          "show_name": "BBC News NI update",
+          "show_description": "The latest national and international news.",
           "show_logo": "",
-          "start_time": "21:55",
+          "start_time": "21:00",
+          "end_time": "21:04"
+        },
+        {
+          "show_name": "The Siobhan Brown Soul Show",
+          "show_description": "Singer Siobhan Brown celebrates soul music in all its many forms.",
+          "show_logo": "",
+          "start_time": "21:04",
           "end_time": "22:00"
         },
         {

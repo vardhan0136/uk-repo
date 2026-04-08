@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
   "schedule": [
     {
-      "date": "7 April 2026",
-      "programmes": [
-        {
-          "show_name": "Through the Night",
-          "show_description": "The Berlin Radio Symphony Orchestra and Chorus perform Szymanowski's Stabat Mater. Soprano Amanda Majeski later joins the orchestra for Mahler's 4th Symphony.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Essential Classics",
-          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Classical Live",
-          "show_description": "Liszt and Rachmaninov take inspiration from ancient plainsong and Stravinsky looks to the past for his commedia dell'arte infused ballet Pulcinella, plus Chopin from Perth.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Composer of the Week: Gershwin",
-          "show_description": "2/5. Donald Macleod explores the years after George Gershwin's huge success with Rhapsody in Blue.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "In Tune",
-          "show_description": "Live music from bass baritone Tristan Hambleton and pianist Simon Lepper.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Classical Mixtape",
-          "show_description": "Take time out with a 30-minute soundscape of classical favourites.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Radio 3 in Concert",
-          "show_description": "The BBC National Orchestra and Chorus of Wales are joined by conductor Thomas Zehetmair to perform Brahms's German Requiem and Mozart's 40th Symphony.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "The Essay: Healing Musicians",
-          "show_description": "Kate Kennedy talks to prize-winning pianist Stephen Marquiss about the injury that nearly destroyed his career and what he did to establish a new relationship with his instrument.",
-          "show_logo": "",
-          "start_time": "21:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Night Tracks",
-          "show_description": "Sara Mohr-Pietsch presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "'Round Midnight",
-          "show_description": "Soweto Kinch with an hour of exciting new jazz music including a new release from guitarist Fabiano Do Nascimento, and saxophonist Allexa Nava shares a track which inspires her.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "8 April 2026",
       "programmes": [
         {
@@ -131,7 +49,7 @@
         },
         {
           "show_name": "In Tune",
-          "show_description": "British cellist Julian Lloyd Webber, and Michael Beek on the London Soundtrack Festival.",
+          "show_description": "Petroc Trelawny is joined by cellists Julian Lloyd Webber and Jiaxin Lloyd Webber, and pianist Rebeca Omordia, as well as London Soundtrack Festival artistic director Michael Beek.",
           "show_logo": "",
           "start_time": "17:00",
           "end_time": "19:00"
@@ -167,6 +85,88 @@
         {
           "show_name": "'Round Midnight",
           "show_description": "Soweto Kinch presents more of the best in jazz from the UK and around the world and shares a swinging release from the late English jazz singer Beryl Bryden.",
+          "show_logo": "",
+          "start_time": "23:30",
+          "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "9 April 2026",
+      "programmes": [
+        {
+          "show_name": "Through the Night",
+          "show_description": "Nelson Goerner performs Mozart's Piano Concerto no 23 with the Orchestre de la Suisse Romande, conducted by Jonathan Nott. Later, Tchaikovsky's rarely performed Third Symphony.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Essential Classics",
+          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Classical Live",
+          "show_description": "The plainsong-inspired theme continues with highlights from Monteverdi's Vespers of 1610 in a specially made recording from Monaco, plus Chopin, Schumann and Falla from Perth.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Composer of the Week: Gershwin",
+          "show_description": "4/5. Donald Macleod tells the story of George Gershwin's first experience of working in Hollywood.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "In Tune",
+          "show_description": "Pianist Edward Leung performs live in the studio and we talk to Mark Ravenhill on directing a new production of Salome by Regents Opera.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Classical Mixtape",
+          "show_description": "Take time out with a 30-minute soundscape of classical favourites.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Radio 3 in Concert",
+          "show_description": "From Birmingham, the CBSO plays Rachmaninov's Rhapsody on a theme of Paganini with pianist Nelson Goerner, alongside music by Hindemith and Bartok's Concerto for Orchestra.",
+          "show_logo": "",
+          "start_time": "19:30",
+          "end_time": "21:45"
+        },
+        {
+          "show_name": "The Essay: Healing Musicians",
+          "show_description": "Kate Kennedy meets Ludwig Quandt, principal cellist of the Berlin Philharmonic, to discover how an unexpected injury forced him to rethink his life and career.",
+          "show_logo": "",
+          "start_time": "21:45",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Night Tracks",
+          "show_description": "Sara Mohr-Pietsch presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "'Round Midnight",
+          "show_description": "Soweto shares more exciting new jazz selections including a track from the leading British jazz, reggae and soul singer Julie Dexter, and Allexa Nava presents another Flowers pick.",
           "show_logo": "",
           "start_time": "23:30",
           "end_time": "00:30"

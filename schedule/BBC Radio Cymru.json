@@ -3,95 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cymru.png",
   "schedule": [
     {
-      "date": "7 April 2026",
-      "programmes": [
-        {
-          "show_name": "Gweler BBC World Service",
-          "show_description": "Mae Radio Cymru'n ymuno â'r BBC World Service dros nos. Radio Cymru joins the BBC World Service overnight.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "05:30"
-        },
-        {
-          "show_name": "John Hardy",
-          "show_description": "Cerddoriaeth a chwmnïaeth ben bore, gyda bwletinau newyddion, chwaraeon, tywydd a thraffig. Hefyd, y bwletin amaeth dyddiol, yn ogystal â golwg ar y papurau. Early breakfast show.",
-          "show_logo": "",
-          "start_time": "05:30",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Dros Frecwast",
-          "show_description": "Y newyddion diweddaraf yng Nghymru a thu hwnt, gyda Dylan Ebenezer. The latest news in Wales and beyond, presented by Dylan Ebenezer.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Aled Hughes",
-          "show_description": "Straeon cyfredol, cerddoriaeth, a holi'r cwestiynau sydd ar feddwl pawb. Topical stories and music.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "Bore Cothi",
-          "show_description": "Croeso cynnes dros baned gyda Shân Cothi. A warm welcome over a cuppa with Shân Cothi.",
-          "show_logo": "",
-          "start_time": "11:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Dros Ginio",
-          "show_description": "Trin a thrafod Cymru a'r byd, gan godi'r pynciau a gofyn y cwestiynau sy'n bwysig i chi. Discussing Wales and the world.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Ifan Jones Evans",
-          "show_description": "Digon o gerddoriaeth, chwerthin a sgwrsio, yn ogystal â chystadleuaeth neu ddwy. Music and chat, plus a competition or two.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Post Prynhawn",
-          "show_description": "Newyddion y dydd yng Nghymru a thu hwnt. The day's news in Wales and beyond.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Dei Tomos",
-          "show_description": "Ffion Mair Jones sy'n rhannu hanes yr hynafiaethydd o Gaerwys, Angharad Llwyd. Ffion Mair Jones shares the history of Caerwys born antiquarian, Angharad Llwyd.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Georgia Ruth",
-          "show_description": "Dewis eclectig o gerddoriaeth o gasgliad Georgia Ruth, yn cynnwys cerddoriaeth ryngwladol, byd a thraciau Cymraeg arbrofol. An eclectic selection of music.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Caryl",
-          "show_description": "Cerddoriaeth a hwyl gyda'r hwyr gyda Caryl Parry Jones ac Aled Evans sy'n sgwrsio am ras geffylau y Grand National. Music and fun with Caryl Parry Jones.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Y Clwb PJs",
-          "show_description": "Ymunwch â Caryl i ymlacio wrth wrando ar gerddoriaeth hudolus cyn cysgu. Unwind with Caryl while listening to soothing music before sleeping.",
-          "show_logo": "",
-          "start_time": "23:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "8 April 2026",
       "programmes": [
         {
@@ -174,6 +85,109 @@
         {
           "show_name": "Caryl",
           "show_description": "Cerddoriaeth a hwyl gyda'r hwyr gyda Caryl Parry Jones gan gynnwys  Llyfr Wrth Ochr y Gwely gyda'r awdur Rhian Sion. Music and fun with Caryl Parry Jones.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Y Clwb PJs",
+          "show_description": "Ymunwch â Caryl i ymlacio wrth wrando ar gerddoriaeth hudolus cyn cysgu. Unwind with Caryl while listening to soothing music before sleeping.",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "9 April 2026",
+      "programmes": [
+        {
+          "show_name": "Gweler BBC World Service",
+          "show_description": "Mae Radio Cymru'n ymuno â'r BBC World Service dros nos. Radio Cymru joins the BBC World Service overnight.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "05:30"
+        },
+        {
+          "show_name": "John Hardy",
+          "show_description": "Cerddoriaeth a chwmnïaeth ben bore, gyda bwletinau newyddion, chwaraeon, tywydd a thraffig. Hefyd, y bwletin amaeth dyddiol, yn ogystal â golwg ar y papurau. Early breakfast show.",
+          "show_logo": "",
+          "start_time": "05:30",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Dros Frecwast",
+          "show_description": "Y newyddion diweddaraf yng Nghymru a thu hwnt, gyda Kate Crockett a Dylan Ebenezer. The latest news in Wales and beyond, presented by Kate Crockett and Dylan Ebenezer.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Aled Hughes",
+          "show_description": "Straeon cyfredol, cerddoriaeth, a holi'r cwestiynau sydd ar feddwl pawb. Topical stories and music.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "Bore Cothi",
+          "show_description": "Croeso cynnes dros baned gyda Heledd Cynwal yn sedd Shân Cothi. A warm welcome over a cuppa with Heledd Cynwal sitting in for Shân Cothi.",
+          "show_logo": "",
+          "start_time": "11:00",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Dros Ginio",
+          "show_description": "Trin a thrafod Cymru a'r byd, gan godi'r pynciau a gofyn y cwestiynau sy'n bwysig i chi. Discussing Wales and the world.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Ifan Jones Evans",
+          "show_description": "Digon o gerddoriaeth, chwerthin a sgwrsio, yn ogystal â chystadleuaeth neu ddwy. Music and chat, plus a competition or two.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Post Prynhawn",
+          "show_description": "Newyddion y dydd yng Nghymru a thu hwnt. The day's news in Wales and beyond.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "17:56"
+        },
+        {
+          "show_name": "Darllediad Etholiadol",
+          "show_description": "Darllediad gan Plaid Cymru cyn Etholiad Senedd Cymru ar Fai 7fed 2026. A broadcast by Plaid Cymru ahead of the Senedd Election on 7 May 2026.",
+          "show_logo": "",
+          "start_time": "17:56",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Beti a'i Phobol",
+          "show_description": "Beti George sydd yn holi Alun Llwyd. Beti George interviews Alun Llwyd.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Huw Stephens",
+          "show_description": "Cerddoriaeth newydd ac ambell berl anghyfarwydd. New music and some unexpected gems from the archive.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Rhestr Chwarae Huw",
+          "show_description": "Rhestr chwarae wedi'i churadu gan Huw Stephens. A playlist curated by Huw Stephens.",
+          "show_logo": "",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Caryl",
+          "show_description": "Cerddoriaeth a hwyl gyda'r hwyr gyda Caryl Parry Jones a'r cerddor Rhisiart Arwel sy'n mynd Trwy'r Traciau. Music and fun with Caryl Parry Jones.",
           "show_logo": "",
           "start_time": "21:00",
           "end_time": "23:00"

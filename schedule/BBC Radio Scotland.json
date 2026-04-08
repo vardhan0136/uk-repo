@@ -3,109 +3,20 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Scotland.png",
   "schedule": [
     {
-      "date": "7 April 2026",
-      "programmes": [
-        {
-          "show_name": "Scotcast",
-          "show_description": "Laura Miller speaks to a woman who was raped in a barber shop by a man pretending to be a taxi driver.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "00:30"
-        },
-        {
-          "show_name": "As BBC Radio 5 Live",
-          "show_description": "Joining Radio 5 Live.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Radio Scotland Breakfast",
-          "show_description": "News from across Scotland and the world, plus sport, weather, entertainment and big name interviews.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Mornings",
-          "show_description": "Connie McLaughlin gets to the heart of the stories making the news.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Lunchtime Live",
-          "show_description": "News updates from Scotland and beyond, plus all your lunchtime sport, travel and weather.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Afternoons",
-          "show_description": "Michelle McManus brings you feel-good music and chat with celebrity guests.",
-          "show_logo": "",
-          "start_time": "13:30",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Afternoons",
-          "show_description": "Len Pennie keeps you up to date on what's happening in the arts and culture scene across Scotland.",
-          "show_logo": "",
-          "start_time": "15:30",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Drivetime",
-          "show_description": "Breaking down the day's talking points with comment and opinion, plus sport, travel and weather.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:58"
-        },
-        {
-          "show_name": "Party Election Broadcasts 2026",
-          "show_description": "A party election broadcast by the the Scottish National party for the Scottish Parliament Election on Thursday the 7th of May 2026.",
-          "show_logo": "",
-          "start_time": "17:58",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Get It On with Bryan Burnett",
-          "show_description": "You might love each other but that doesn't mean you love each other's favourite songs. What do you adore that your loved ones just don't get? Let us know the songs that divide you.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Another Country with Ricky Ross",
-          "show_description": "Showcasing new and classic country and Americana music.",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Up Late",
-          "show_description": "The best company to end the day, with lively chat and some of your favourite tunes.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "8 April 2026",
       "programmes": [
         {
           "show_name": "Scotcast",
-          "show_description": "Martin Geissler and the team bring you thoughtful conversation and expert analysis covering the most interesting news stories in Scotland.",
+          "show_description": "Martin Geissler and Natalie Higgins discuss a proposal by a Scottish Green election candidate to abolish prisons.",
           "show_logo": "",
           "start_time": "00:00",
-          "end_time": "00:30"
+          "end_time": "00:25"
         },
         {
           "show_name": "As BBC Radio 5 Live",
           "show_description": "Joining Radio 5 Live.",
           "show_logo": "",
-          "start_time": "00:30",
+          "start_time": "00:25",
           "end_time": "06:00"
         },
         {
@@ -138,7 +49,7 @@
         },
         {
           "show_name": "Afternoons",
-          "show_description": "Len Pennie keeps you up to date on what's happening in the arts and culture scene across Scotland.",
+          "show_description": "Director Rob Petit and writer Robert MacFarlane tell Len about their film Underland, adapted from Robert MacFarlane's book, which explores the hidden worlds beneath our feet.",
           "show_logo": "",
           "start_time": "15:30",
           "end_time": "16:00"
@@ -166,7 +77,96 @@
         },
         {
           "show_name": "The Quay Sessions",
-          "show_description": "Live sessions and archive performances from Pacific Quay alongside news of upcoming gigs and festivals with upfront releases and classic tracks from some of your favourite artists.",
+          "show_description": "The Divine Comedy in session and conversation, recorded last year around the release of the latest album, Rainy Sunday Afternoon, and a Sofa Session from Blossom Caldarone.",
+          "show_logo": "",
+          "start_time": "20:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Up Late",
+          "show_description": "The best company to end the day, with lively chat and some of your favourite tunes.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "9 April 2026",
+      "programmes": [
+        {
+          "show_name": "Scotcast",
+          "show_description": "Martin Geissler and the team bring you thoughtful conversation and expert analysis covering the most interesting news stories in Scotland.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "00:30"
+        },
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "Joining Radio 5 Live.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Radio Scotland Breakfast",
+          "show_description": "News from across Scotland and the world, plus sport, weather, entertainment and big name interviews.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Mornings",
+          "show_description": "Stephen Jardine gets to the heart of the stories making the news.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Lunchtime Live",
+          "show_description": "News updates from Scotland and beyond, plus all your lunchtime sport, travel and weather.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Afternoons",
+          "show_description": "Michelle McManus brings you feel-good music and chat with celebrity guests.",
+          "show_logo": "",
+          "start_time": "13:30",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "Afternoons",
+          "show_description": "Len Pennie keeps you up to date on what's happening in the arts and culture scene across Scotland.",
+          "show_logo": "",
+          "start_time": "15:30",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Drivetime",
+          "show_description": "Breaking down the day's talking points with comment and opinion, plus sport, travel and weather.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:58"
+        },
+        {
+          "show_name": "Party Election Broadcasts 2026",
+          "show_description": "A party election broadcast by the Scottish Labour party for the Scottish Parliament Election on Thursday the 7th of May 2026.",
+          "show_logo": "",
+          "start_time": "17:58",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Get It On with Bryan Burnett",
+          "show_description": "Tonight, we'd love to hear songs that demand more. Maybe it's No More Mr Nice Guy or is it simply More Than A Feeling. Let us know who wants more tonight, on Get It On.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Travelling Folk",
+          "show_description": "Anna Massie with the very best of folk and roots music from Scotland and beyond.",
           "show_logo": "",
           "start_time": "20:00",
           "end_time": "22:00"
