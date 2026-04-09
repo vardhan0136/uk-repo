@@ -3,550 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-World-Service.png",
   "schedule": [
     {
-      "date": "8 April 2026",
-      "programmes": [
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "00:06"
-        },
-        {
-          "show_name": "The Arts Hour",
-          "show_description": "Nikki Bedi talks to Norwegian crime writer Jo Nesbo about his Netflix series, Jo Nesbo's Detective Hole.",
-          "show_logo": "",
-          "start_time": "00:06",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "01:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "01:06",
-          "end_time": "01:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "01:30",
-          "end_time": "01:32"
-        },
-        {
-          "show_name": "The Global Story",
-          "show_description": "A BBC investigation uncovers devastating side effects of a class of prescription drugs.",
-          "show_logo": "",
-          "start_time": "01:32",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "02:00",
-          "end_time": "02:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "02:06",
-          "end_time": "02:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "02:30",
-          "end_time": "02:32"
-        },
-        {
-          "show_name": "The Climate Question",
-          "show_description": "Amsterdam is the first capital city to bring in a ban on adverts for flights, petrol cars and gas. But do these ads actually influence behaviour?",
-          "show_logo": "",
-          "start_time": "02:32",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "03:00",
-          "end_time": "03:06"
-        },
-        {
-          "show_name": "Outlook",
-          "show_description": "When Joshua Henry's father was dying, they bonded over an unknown musician's magical songs. He made it his mission to find to the elusive Bill Fay.",
-          "show_logo": "",
-          "start_time": "03:06",
-          "end_time": "03:50"
-        },
-        {
-          "show_name": "Witness History",
-          "show_description": "In October 1942, Marcel Duchamp helped stage New York's first major Surrealist exhibition, featuring his now-famous urinal.",
-          "show_logo": "",
-          "start_time": "03:50",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "04:00",
-          "end_time": "04:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "04:06",
-          "end_time": "04:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "04:30",
-          "end_time": "04:32"
-        },
-        {
-          "show_name": "Good Bad Billionaire",
-          "show_description": "How Panda Express CEO Peggy Cherng used engineering and orange chicken to create America's biggest Chinese fast-food empire.",
-          "show_logo": "",
-          "start_time": "04:32",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "05:00",
-          "end_time": "05:06"
-        },
-        {
-          "show_name": "Newsday",
-          "show_description": "Live news, business and sport from around the world.",
-          "show_logo": "",
-          "start_time": "05:06",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "06:06"
-        },
-        {
-          "show_name": "Newsday",
-          "show_description": "Live news, business and sport from around the world.",
-          "show_logo": "",
-          "start_time": "06:06",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "07:06"
-        },
-        {
-          "show_name": "Newsday",
-          "show_description": "Live news, business and sport from around the world.",
-          "show_logo": "",
-          "start_time": "07:06",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "08:00",
-          "end_time": "08:06"
-        },
-        {
-          "show_name": "The Interview",
-          "show_description": "Misha Glenny speaks to tech expert Parmy Olson about the battle for supremacy in artificial intelligence and whether it will empower societies or deepen inequality.",
-          "show_logo": "",
-          "start_time": "08:06",
-          "end_time": "08:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "08:30",
-          "end_time": "08:32"
-        },
-        {
-          "show_name": "Business Daily",
-          "show_description": "We chart the company's meteoric rise to become an AI giant that's now in a high-stakes clash with Washington over how its technology is used in war.",
-          "show_logo": "",
-          "start_time": "08:32",
-          "end_time": "08:50"
-        },
-        {
-          "show_name": "Witness History",
-          "show_description": "In 1945 a search begins for Hitler's dentist to prove the Führer's burnt corpse is genuine. A Russian war interpreter, Yelena Rzhevskaya, claims she is put in charge of his teeth.",
-          "show_logo": "",
-          "start_time": "08:50",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "09:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "09:06",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "09:32"
-        },
-        {
-          "show_name": "The Climate Question",
-          "show_description": "Amsterdam is the first capital city to bring in a ban on adverts for flights, petrol cars and gas. But do these ads actually influence behaviour?",
-          "show_logo": "",
-          "start_time": "09:32",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "10:06"
-        },
-        {
-          "show_name": "World Book Club",
-          "show_description": "Octavia Bright talks to Ragnar Jonasson about his thriller - The Darkness.",
-          "show_logo": "",
-          "start_time": "10:06",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "11:00",
-          "end_time": "11:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "11:06",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "11:30",
-          "end_time": "11:32"
-        },
-        {
-          "show_name": "The Global Story",
-          "show_description": ".",
-          "show_logo": "",
-          "start_time": "11:32",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "12:06"
-        },
-        {
-          "show_name": "Outlook",
-          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
-          "show_logo": "",
-          "start_time": "12:06",
-          "end_time": "12:50"
-        },
-        {
-          "show_name": "Witness History",
-          "show_description": "In 1945 a search begins for Hitler's dentist to prove the Führer's burnt corpse is genuine. A Russian war interpreter, Yelena Rzhevskaya, claims she is put in charge of his teeth.",
-          "show_logo": "",
-          "start_time": "12:50",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "13:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "13:06",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "13:30",
-          "end_time": "13:32"
-        },
-        {
-          "show_name": "Good Bad Billionaire",
-          "show_description": "How Panda Express CEO Peggy Cherng used engineering and orange chicken to create America's biggest Chinese fast-food empire.",
-          "show_logo": "",
-          "start_time": "13:32",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "14:06"
-        },
-        {
-          "show_name": "Newshour",
-          "show_description": "Interviews, news and analysis of the day's global events.",
-          "show_logo": "",
-          "start_time": "14:06",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "15:00",
-          "end_time": "15:06"
-        },
-        {
-          "show_name": "The Interview",
-          "show_description": "Misha Glenny speaks to tech expert Parmy Olson about the battle for supremacy in artificial intelligence and whether it will empower societies or deepen inequality.",
-          "show_logo": "",
-          "start_time": "15:06",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "15:30",
-          "end_time": "15:32"
-        },
-        {
-          "show_name": "Business Daily",
-          "show_description": "We chart the company's meteoric rise to become an AI giant that's now in a high-stakes clash with Washington over how its technology is used in war.",
-          "show_logo": "",
-          "start_time": "15:32",
-          "end_time": "15:50"
-        },
-        {
-          "show_name": "World Business Express",
-          "show_description": "Finance, economy and business news from BBC journalists around the world.",
-          "show_logo": "",
-          "start_time": "15:50",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "16:06"
-        },
-        {
-          "show_name": "Outside Source",
-          "show_description": "A vibrant account of the day's events with explanation and reaction from those involved.",
-          "show_logo": "",
-          "start_time": "16:06",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "17:06"
-        },
-        {
-          "show_name": "Outside Source",
-          "show_description": "A vibrant account of the day's events with explanation and reaction from those involved.",
-          "show_logo": "",
-          "start_time": "17:06",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "18:06"
-        },
-        {
-          "show_name": "Outlook",
-          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
-          "show_logo": "",
-          "start_time": "18:06",
-          "end_time": "18:50"
-        },
-        {
-          "show_name": "Witness History",
-          "show_description": "In 1945 a search begins for Hitler's dentist to prove the Führer's burnt corpse is genuine. A Russian war interpreter, Yelena Rzhevskaya, claims she is put in charge of his teeth.",
-          "show_logo": "",
-          "start_time": "18:50",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "19:06",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "19:32"
-        },
-        {
-          "show_name": "Sport Today",
-          "show_description": "BBC sports correspondents tell the story behind today's top sporting news, with interviews and reports from across the world.",
-          "show_logo": "",
-          "start_time": "19:32",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "20:06"
-        },
-        {
-          "show_name": "The Climate Question",
-          "show_description": "Amsterdam is the first capital city to bring in a ban on adverts for flights, petrol cars and gas. But do these ads actually influence behaviour?",
-          "show_logo": "",
-          "start_time": "20:06",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "20:30",
-          "end_time": "20:32"
-        },
-        {
-          "show_name": "Health Check",
-          "show_description": "How the feeling of awe can aid our mental and physical health.",
-          "show_logo": "",
-          "start_time": "20:32",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "21:06"
-        },
-        {
-          "show_name": "Newshour",
-          "show_description": "Interviews, news and analysis of the day's global events.",
-          "show_logo": "",
-          "start_time": "21:06",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "22:06"
-        },
-        {
-          "show_name": "The Interview",
-          "show_description": "Misha Glenny speaks to tech expert Parmy Olson about the battle for supremacy in artificial intelligence and whether it will empower societies or deepen inequality.",
-          "show_logo": "",
-          "start_time": "22:06",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "22:30",
-          "end_time": "22:32"
-        },
-        {
-          "show_name": "Good Bad Billionaire",
-          "show_description": "How Panda Express CEO Peggy Cherng used engineering and orange chicken to create America's biggest Chinese fast-food empire.",
-          "show_logo": "",
-          "start_time": "22:32",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest five minute news bulletin from BBC World Service.",
-          "show_logo": "",
-          "start_time": "23:00",
-          "end_time": "23:06"
-        },
-        {
-          "show_name": "The Newsroom",
-          "show_description": "The world's Newsroom brings you global events as they happen.",
-          "show_logo": "",
-          "start_time": "23:06",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "BBC News Summary",
-          "show_description": "The latest two minute news summary from BBC World Service.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "23:32"
-        },
-        {
-          "show_name": "World Business Report",
-          "show_description": "The latest business and finance news from around the world, on the BBC.",
-          "show_logo": "",
-          "start_time": "23:32",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "9 April 2026",
       "programmes": [
         {
@@ -558,7 +14,7 @@
         },
         {
           "show_name": "World Book Club",
-          "show_description": "Octavia Bright talks to Ragnar Jonasson about his thriller - The Darkness.",
+          "show_description": "Octavia Bright talks to Ragnar Jonasson about his thriller, The Darkness.",
           "show_logo": "",
           "start_time": "00:06",
           "end_time": "01:00"
@@ -586,7 +42,7 @@
         },
         {
           "show_name": "The Global Story",
-          "show_description": ".",
+          "show_description": "Iran and the US have agreed to a conditional two-week ceasefire. Will it hold?",
           "show_logo": "",
           "start_time": "01:32",
           "end_time": "02:00"
@@ -628,7 +84,7 @@
         },
         {
           "show_name": "Outlook",
-          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
+          "show_description": "Everlyn Nicodemus fell in love with painting in her 20s. But it was only when she was much older, widowed and struggling to pay her bills, that she found remarkable success.",
           "show_logo": "",
           "start_time": "03:06",
           "end_time": "03:50"
@@ -733,7 +189,7 @@
         },
         {
           "show_name": "Business Daily",
-          "show_description": "The Middle East war is pushing up fertiliser and fuel costs - now food prices are rising too.",
+          "show_description": "Fertiliser and fuel costs have surged during the Middle East conflict, with disruption around Hormuz feeding into food prices.",
           "show_logo": "",
           "start_time": "08:32",
           "end_time": "08:50"
@@ -796,7 +252,7 @@
         },
         {
           "show_name": "The Global Jigsaw",
-          "show_description": "The Global Jigsaw investigates issues around the world.",
+          "show_description": "Viktor Orban faces a high-stakes showdown as a former ally-turned-rival takes him on in one of Europe's most consequential elections in years.",
           "show_logo": "",
           "start_time": "10:32",
           "end_time": "11:00"
@@ -838,7 +294,7 @@
         },
         {
           "show_name": "Outlook",
-          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
+          "show_description": "D:Ream frontman Peter Cunnah, who was adopted as a baby, discovered that his birth parents were also in a successful band.",
           "show_logo": "",
           "start_time": "12:06",
           "end_time": "12:50"
@@ -915,7 +371,7 @@
         },
         {
           "show_name": "Business Daily",
-          "show_description": "The Middle East war is pushing up fertiliser and fuel costs - now food prices are rising too.",
+          "show_description": "Fertiliser and fuel costs have surged during the Middle East conflict, with disruption around Hormuz feeding into food prices.",
           "show_logo": "",
           "start_time": "15:32",
           "end_time": "15:50"
@@ -964,7 +420,7 @@
         },
         {
           "show_name": "Outlook",
-          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
+          "show_description": "D:Ream frontman Peter Cunnah, who was adopted as a baby, discovered that his birth parents were also in a successful band.",
           "show_logo": "",
           "start_time": "18:06",
           "end_time": "18:50"
@@ -1070,6 +526,564 @@
         {
           "show_name": "The Food Chain",
           "show_description": "Fewer people are cooking from scratch. Three food professionals share practical tips on getting started in the kitchen and building confidence, even if you think you can't cook.",
+          "show_logo": "",
+          "start_time": "22:32",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "23:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "23:06",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "23:30",
+          "end_time": "23:32"
+        },
+        {
+          "show_name": "World Business Report",
+          "show_description": "The latest business and finance news from around the world, on the BBC.",
+          "show_logo": "",
+          "start_time": "23:32",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "10 April 2026",
+      "programmes": [
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "00:06"
+        },
+        {
+          "show_name": "The Explanation",
+          "show_description": "Where the world is explained. Making sense of the big stories - looking behind the spin.",
+          "show_logo": "",
+          "start_time": "00:06",
+          "end_time": "00:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "00:32"
+        },
+        {
+          "show_name": "Happy News",
+          "show_description": "Football fans in Iraq are celebrating reaching their first World Cup since 1986, and for the DRC supporters, it's been 52 years since they were in the tournament.",
+          "show_logo": "",
+          "start_time": "00:32",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "01:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "01:06",
+          "end_time": "01:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "01:30",
+          "end_time": "01:32"
+        },
+        {
+          "show_name": "The Global Story",
+          "show_description": ".",
+          "show_logo": "",
+          "start_time": "01:32",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "02:00",
+          "end_time": "02:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "02:06",
+          "end_time": "02:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "02:30",
+          "end_time": "02:32"
+        },
+        {
+          "show_name": "Tech Life",
+          "show_description": "Can we trust AI? Its answers are not always correct. And it only knows what it's been trained on, so some of its responses can contain bias. Tech experts offer us some solutions.",
+          "show_logo": "",
+          "start_time": "02:32",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "03:00",
+          "end_time": "03:06"
+        },
+        {
+          "show_name": "Outlook",
+          "show_description": "D:Ream frontman Peter Cunnah, who was adopted as a baby, discovered that his birth parents were also in a successful band.",
+          "show_logo": "",
+          "start_time": "03:06",
+          "end_time": "03:50"
+        },
+        {
+          "show_name": "Witness History",
+          "show_description": "In April 1970, people gathered at an open stage in Kathmandu to celebrate the beginning of multi-party democracy in Nepal.",
+          "show_logo": "",
+          "start_time": "03:50",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "04:00",
+          "end_time": "04:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "04:06",
+          "end_time": "04:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "04:30",
+          "end_time": "04:32"
+        },
+        {
+          "show_name": "Heart and Soul",
+          "show_description": "A former pop singer finds peace as a Buddhist nail artist in frantic Hong Kong, alongside his partner Carl.",
+          "show_logo": "",
+          "start_time": "04:32",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "05:00",
+          "end_time": "05:06"
+        },
+        {
+          "show_name": "Newsday",
+          "show_description": "Live news, business and sport from around the world.",
+          "show_logo": "",
+          "start_time": "05:06",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "06:06"
+        },
+        {
+          "show_name": "Newsday",
+          "show_description": "Live news, business and sport from around the world.",
+          "show_logo": "",
+          "start_time": "06:06",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "07:06"
+        },
+        {
+          "show_name": "Newsday",
+          "show_description": "Live news, business and sport from around the world.",
+          "show_logo": "",
+          "start_time": "07:06",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "08:00",
+          "end_time": "08:06"
+        },
+        {
+          "show_name": "The Interview",
+          "show_description": "Conversations with people shaping our world. The best interviews from the BBC.",
+          "show_logo": "",
+          "start_time": "08:06",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "08:30",
+          "end_time": "08:32"
+        },
+        {
+          "show_name": "Business Daily",
+          "show_description": "We meet Alexander Rinke, whose billion-dollar company Celonis reveals how businesses actually operate.",
+          "show_logo": "",
+          "start_time": "08:32",
+          "end_time": "08:50"
+        },
+        {
+          "show_name": "Witness History",
+          "show_description": "In 1984, Jorge became trapped and was moved to an aquarium in Mendoza, in Argentina. He was kept in captivity for 41 years until a campaign led to his release in 2025.",
+          "show_logo": "",
+          "start_time": "08:50",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "09:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "09:06",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "09:32"
+        },
+        {
+          "show_name": "BBC Inside Science",
+          "show_description": "A weekly show exploring science, its mysteries, and the debates it sparks.",
+          "show_logo": "",
+          "start_time": "09:32",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "10:06"
+        },
+        {
+          "show_name": "Unexpected Elements",
+          "show_description": "This month, India began the immense undertaking of surveying over 1 billion people in the world's largest ever census, inspiring us to explore some population science.",
+          "show_logo": "",
+          "start_time": "10:06",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "11:00",
+          "end_time": "11:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "11:06",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "11:30",
+          "end_time": "11:32"
+        },
+        {
+          "show_name": "The Global Story",
+          "show_description": ".",
+          "show_logo": "",
+          "start_time": "11:32",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "12:06"
+        },
+        {
+          "show_name": "Outlook",
+          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
+          "show_logo": "",
+          "start_time": "12:06",
+          "end_time": "12:50"
+        },
+        {
+          "show_name": "Witness History",
+          "show_description": "In 1984, Jorge became trapped and was moved to an aquarium in Mendoza, in Argentina. He was kept in captivity for 41 years until a campaign led to his release in 2025.",
+          "show_logo": "",
+          "start_time": "12:50",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "13:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "13:06",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "13:30",
+          "end_time": "13:32"
+        },
+        {
+          "show_name": "Heart and Soul",
+          "show_description": "A former pop singer finds peace as a Buddhist nail artist in frantic Hong Kong, alongside his partner Carl.",
+          "show_logo": "",
+          "start_time": "13:32",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "14:06"
+        },
+        {
+          "show_name": "Newshour",
+          "show_description": "Interviews, news and analysis of the day's global events.",
+          "show_logo": "",
+          "start_time": "14:06",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "15:00",
+          "end_time": "15:06"
+        },
+        {
+          "show_name": "The Interview",
+          "show_description": "Conversations with people shaping our world. The best interviews from the BBC.",
+          "show_logo": "",
+          "start_time": "15:06",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "15:30",
+          "end_time": "15:32"
+        },
+        {
+          "show_name": "Business Daily",
+          "show_description": "We meet Alexander Rinke, whose billion-dollar company Celonis reveals how businesses actually operate.",
+          "show_logo": "",
+          "start_time": "15:32",
+          "end_time": "15:50"
+        },
+        {
+          "show_name": "World Business Express",
+          "show_description": "Finance, economy and business news from BBC journalists around the world.",
+          "show_logo": "",
+          "start_time": "15:50",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "16:06"
+        },
+        {
+          "show_name": "Outside Source",
+          "show_description": "A vibrant account of the day's events with explanation and reaction from those involved.",
+          "show_logo": "",
+          "start_time": "16:06",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "17:06"
+        },
+        {
+          "show_name": "Outside Source",
+          "show_description": "A vibrant account of the day's events with explanation and reaction from those involved.",
+          "show_logo": "",
+          "start_time": "17:06",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "18:06"
+        },
+        {
+          "show_name": "Outlook",
+          "show_description": "True stories of ordinary people and the extraordinary events that have shaped their lives.",
+          "show_logo": "",
+          "start_time": "18:06",
+          "end_time": "18:50"
+        },
+        {
+          "show_name": "Witness History",
+          "show_description": "In 1984, Jorge became trapped and was moved to an aquarium in Mendoza, in Argentina. He was kept in captivity for 41 years until a campaign led to his release in 2025.",
+          "show_logo": "",
+          "start_time": "18:50",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:06"
+        },
+        {
+          "show_name": "The Newsroom",
+          "show_description": "The world's Newsroom brings you global events as they happen.",
+          "show_logo": "",
+          "start_time": "19:06",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "19:30",
+          "end_time": "19:32"
+        },
+        {
+          "show_name": "Sport Today",
+          "show_description": "BBC sports correspondents tell the story behind today's top sporting news, with interviews and reports from across the world.",
+          "show_logo": "",
+          "start_time": "19:32",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "20:00",
+          "end_time": "20:06"
+        },
+        {
+          "show_name": "BBC Conversations",
+          "show_description": "How major news stories are affecting the lives of people around the world.",
+          "show_logo": "",
+          "start_time": "20:06",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "20:30",
+          "end_time": "20:32"
+        },
+        {
+          "show_name": "CrowdScience",
+          "show_description": "Answering your questions about life, Earth and the universe.",
+          "show_logo": "",
+          "start_time": "20:32",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "21:06"
+        },
+        {
+          "show_name": "Newshour",
+          "show_description": "Interviews, news and analysis of the day's global events.",
+          "show_logo": "",
+          "start_time": "21:06",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest five minute news bulletin from BBC World Service.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "22:06"
+        },
+        {
+          "show_name": "The Interview",
+          "show_description": "Conversations with people shaping our world. The best interviews from the BBC.",
+          "show_logo": "",
+          "start_time": "22:06",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "BBC News Summary",
+          "show_description": "The latest two minute news summary from BBC World Service.",
+          "show_logo": "",
+          "start_time": "22:30",
+          "end_time": "22:32"
+        },
+        {
+          "show_name": "Heart and Soul",
+          "show_description": "A former pop singer finds peace as a Buddhist nail artist in frantic Hong Kong, alongside his partner Carl.",
           "show_logo": "",
           "start_time": "22:32",
           "end_time": "23:00"

@@ -3,165 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-alba-uk.png",
   "schedule": [
     {
-      "date": "8 April 2026",
-      "programmes": [
-        {
-          "show_name": "Alba Today",
-          "show_description": "Sealladh ùr bho Alba. A new view from Scotland.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Alba Today",
-          "show_description": "Sealladh ùr bho Alba. A new view from Scotland.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Oscar & Ealasaid",
-          "show_description": "5/26. The mice are preparing for their annual ball, which Célestine has been invited to for the first time.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/44f16fd7-76ad-49fc-819d-67b2fd78d723/cover",
-          "start_time": "17:00",
-          "end_time": "17:15"
-        },
-        {
-          "show_name": "Beathaichean a' Bocadaich",
-          "show_description": "9/15. Tha Sophie agus a caraidean a' bocadaich coltach ri crogall agus leumadair. Sophie and her friends dance like a crocodile and a dolphin.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c70bbea5-a354-40a2-a28f-992b3ab590b2/cover",
-          "start_time": "17:15",
-          "end_time": "17:20"
-        },
-        {
-          "show_name": "Meaban is Moo",
-          "show_description": "2/10. Linda visits Meaban and Moo with a challenge. Today, they must find shiny silver things.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cc19b5cc-2563-4983-b537-0798789e3ce4/cover",
-          "start_time": "17:20",
-          "end_time": "17:25"
-        },
-        {
-          "show_name": "Na Clangairean",
-          "show_description": "13/52. Tha Meanbh is Beag ri miastadh 's tha seabhal Granaidh ga mhilleadh. Meanbh and Beag are up to no good and Granny's shawl gets ruined.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d2c05114-fb41-33f2-8d88-c25be2f116b2/cover",
-          "start_time": "17:25",
-          "end_time": "17:40"
-        },
-        {
-          "show_name": "Na Clangairean",
-          "show_description": "14/52. Tha iomadh seòrs' ionnsramaid ga chluich an-diugh - fuaimneach, ach ceòlmhor cuideachd! There are lots of instruments being played today, noisy but also musical!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d5c56fcb-d4b0-3d4a-84d1-db5c576a35b1/cover",
-          "start_time": "17:40",
-          "end_time": "17:50"
-        },
-        {
-          "show_name": "'S E Iasg a Th'Annam (I'm a Fish)",
-          "show_description": "6/52. Tha an t-Iasg-leòmhainn ag innse dhuinn mar a tha 'ad os cionn nan cuantan. The Lionfish tells us how they are the boss of the ocean.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5229604e-fe75-4eeb-86a7-0fd75d2ccd7e/cover",
-          "start_time": "17:50",
-          "end_time": "17:55"
-        },
-        {
-          "show_name": "Stòiridh",
-          "show_description": "41/80. Pàdruig Morrison reads Dotag anns an t-Sneachda, written by Corrinne Averiss and illustrated by Fiona Woodcock.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2d10f6ee-0113-4c06-a221-cd75198623dc/cover",
-          "start_time": "17:55",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Clann na Cruinne",
-          "show_description": "6/9. At four months old, conjoined twins Hussan and Hussein underwent an operation to separate them. Now they take up a climbing challenge.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f4473fba-9b4c-4ef4-9562-2c01301efd91/cover",
-          "start_time": "18:00",
-          "end_time": "18:15"
-        },
-        {
-          "show_name": "Belle agus Sebastian",
-          "show_description": "1/52. Tha Belle is Sebastian a' dol air cuairt-dànachd gus an dràgon geal a lorg. Belle and Sebastian go on an adventure to find the white dragon.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6bd4a379-66a3-3792-89da-6a5d54cc3743/cover",
-          "start_time": "18:15",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "Seonaidh/Shaun the Sheep",
-          "show_description": "14/20. Never meet your Heroes. The Farmers Rock 'n' Roll idol is stranded at the farm when his limousine breaks down. Soon revealed as a spoilt pretender, Shaun decides to show him a lesson.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0c334067-22f0-4be7-9fdc-7d1fa3cf7997/cover",
-          "start_time": "18:30",
-          "end_time": "18:40"
-        },
-        {
-          "show_name": "Uaine",
-          "show_description": "2/8. Tha Calum air bòrd an MV Hallaig, bàta-aiseig hybrid a tha siubhal eadar Sgonnsair agus Ratharsair. Calum is on the MV Hallaig, a hybrid ferry sailing between Sconser and Raasay.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7cb4ec21-2856-4764-842a-8e47ae7e626d/cover",
-          "start_time": "18:40",
-          "end_time": "18:45"
-        },
-        {
-          "show_name": "Bogaisean is...",
-          "show_description": "...Gumbalan/Bottersnikes and Gumbles. 44/52. Tha na Gumbalan 'g ionnsachadh mu Ghum Fu an-diugh. The Gumbalan are learning about Gum Fu today.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c3b2f7d0-2073-34a4-8ff1-e4c3268be6e4/cover",
-          "start_time": "18:45",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Geamannan nan Eilean 2025/Island Games 2025",
-          "show_description": "Alasdair MacLennan and Allan MacLeod look back on team Western Isles' efforts at the World Island Games which were held in Orkney this summer.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/00500ad6-d417-4b17-9ee4-45a54c55a9bc/cover",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "SpeakGaelic",
-          "show_description": "26/26. Marcel Gurillo from Valencia in Spain chats to Joy in the studio, and Calum Maclean visits a poignant location.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/652ad864-86c8-37fb-a6ec-76f36be6adf7/cover",
-          "start_time": "19:30",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "An Là",
-          "show_description": "Naidheachdan ionadail, nàiseanta is eadar-nàiseanta gach là cuide ri fiosrachadh coimhearsnachd bho BBC ALBA. Local, national and international news and information from BBC ALBA.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2f45538e-c7d0-46f8-9571-9f9046d46b99/cover",
-          "start_time": "20:00",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "Immigration Tracks - Canada, le Anne NicAilpein",
-          "show_description": "2/7. The journey continues to Nova Scotia via a vineyard on the edge of the Bras d'Or Lake.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3cfbbc66-69e9-3887-a3e3-898a747c039d/cover",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Miorbhail na Monach - Secrets in the Peat",
-          "show_description": "3/3. Anne McAlpine learns how peatlands are an amazing carbon store. Tha Anne NicAlpein ag ionnsachadh mar a tha mòintichean nan stòran mòra de chàrboin.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/02f4b1f1-8a27-3fc3-88ba-448ea0f86728/cover",
-          "start_time": "21:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "OMC!",
-          "show_description": "4/4. Sketch show featuring the latest updates from the ferry office, a recipe with a difference, and red hot passion finds physical expression via a clown love triangle.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/134171ba-c297-4c4e-8e46-bf943c5f1849/cover",
-          "start_time": "22:00",
-          "end_time": "22:25"
-        },
-        {
-          "show_name": "Trusadh - Mo Mhac-Meanmna...",
-          "show_description": "...Otasamach -My Autistic Imagination. 1/3. Tha neach-ealain òtasamach a coinneachadh cuid eile coltach rithe fhèin. Autistic artist M Evan MacGregor meets others like themself.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/146d4b49-daff-40cc-b0d1-32492c3e8c29/cover",
-          "start_time": "22:25",
-          "end_time": "23:25"
-        },
-        {
-          "show_name": "Belladrum 2025 - Skipinnish",
-          "show_description": "13/30. Skipinnish le set beothail bho Àrd-Ùrlar Hot House aig Belladrum 2025. Skipinnish with an energetic set from the Hot House Stage at Belladrum.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9b5faec0-fc97-4125-beca-f0a8f84a1453/cover",
-          "start_time": "23:25",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "9 April 2026",
       "programmes": [
         {
@@ -309,6 +150,172 @@
           "show_description": "4/4. Sketch show featuring the latest updates from the ferry office, a recipe with a difference, and red hot passion finds physical expression via a clown love triangle.",
           "show_logo": "https://images.metadata.sky.com/pd-image/134171ba-c297-4c4e-8e46-bf943c5f1849/cover",
           "start_time": "23:30",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "10 April 2026",
+      "programmes": [
+        {
+          "show_name": "Alba Today",
+          "show_description": "Sealladh ùr bho Alba. A new view from Scotland.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Alba Today",
+          "show_description": "Sealladh ùr bho Alba. A new view from Scotland.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Na Clangairean",
+          "show_description": "13/52. Tha Meanbh is Beag ri miastadh 's tha seabhal Granaidh ga mhilleadh. Meanbh and Beag are up to no good and Granny's shawl gets ruined.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d2c05114-fb41-33f2-8d88-c25be2f116b2/cover",
+          "start_time": "17:00",
+          "end_time": "17:10"
+        },
+        {
+          "show_name": "Meaban is Moo",
+          "show_description": "2/10. Linda visits Meaban and Moo with a challenge. Today, they must find shiny silver things.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cc19b5cc-2563-4983-b537-0798789e3ce4/cover",
+          "start_time": "17:10",
+          "end_time": "17:20"
+        },
+        {
+          "show_name": "Creag nam Buthaidean/Puffin Rock",
+          "show_description": "5/21. Phoenix eagerly joins in some Puffin Practice with Oona, Isabelle and Baba. Tha Phoenix, gun dàil a' gabhail pàirt ann am Practas nam Buthaid,còmhla ri Oona, Iseabail is Baba.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cee1737a-ce1f-4993-92cc-a4c31a33e37e/cover",
+          "start_time": "17:20",
+          "end_time": "17:25"
+        },
+        {
+          "show_name": "Creag nam Buthaidean/Puffin Rock",
+          "show_description": "6/21. Oona and Baba go to the Secret Den to shelter from a thunderstorm. Tha Oona is Baba a' dol dhan t-Sadhbhaidh Dhìomhair gus fasgadh a ghabhail bhon stoirm.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/eda6e1b7-6e27-4555-8363-884f03aad299/cover",
+          "start_time": "17:25",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "Peicein/Petit",
+          "show_description": "10/26. Petit is tired of his little sister and decides that he will be an only child again.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3ff5d243-17b8-3c08-93a1-3085ce0b9eb2/cover",
+          "start_time": "17:30",
+          "end_time": "17:40"
+        },
+        {
+          "show_name": "Sionnach agus Maigheach (Fox & Hare)",
+          "show_description": "13/26. Seal organises a swimming contest in the lake. Owl decides to sign up.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/321fb246-b4e8-4708-a46f-619696fc4ee2/cover",
+          "start_time": "17:40",
+          "end_time": "17:50"
+        },
+        {
+          "show_name": "Stòiridh",
+          "show_description": "43/80. Michael Hill reads An t-Ailbhean Croiseil, written by David Walliams, illustrated by Tony Ross and translated into Gaelic by Jo Macdonald.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/19fce691-4a15-4171-8da4-0e57ca1488d1/cover",
+          "start_time": "17:50",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "An Teaghlach Rìoghail an...",
+          "show_description": "...Ath-dhoras/The Royals Next Door. 43/52. Tha oidhche spà dol a bhith ann. A spa night is going to take place.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e2fa138d-aec1-35b8-8be4-577cdc453052/cover",
+          "start_time": "18:00",
+          "end_time": "18:10"
+        },
+        {
+          "show_name": "An Teaghlach Rìoghail an...",
+          "show_description": "...Ath-dhoras/The Royals Next Door. 44/52. Tha Mrs Kaufmann a' buinnig duais ach chan eil fhios cò a thabhainn i. Mrs Kaufmann wins a prize, but no-one knows who donated it!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6e446309-5ceb-3121-9d63-aac9bdb4ae4b/cover",
+          "start_time": "18:10",
+          "end_time": "18:20"
+        },
+        {
+          "show_name": "Clann na Cruinne",
+          "show_description": "6/9. At four months old, conjoined twins Hussan and Hussein underwent an operation to separate them. Now they take up a climbing challenge.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f4473fba-9b4c-4ef4-9562-2c01301efd91/cover",
+          "start_time": "18:20",
+          "end_time": "18:40"
+        },
+        {
+          "show_name": "Belle agus Sebastian",
+          "show_description": "1/52. Tha Belle is Sebastian a' dol air cuairt-dànachd gus an dràgon geal a lorg. Belle and Sebastian go on an adventure to find the white dragon.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6bd4a379-66a3-3792-89da-6a5d54cc3743/cover",
+          "start_time": "18:40",
+          "end_time": "18:50"
+        },
+        {
+          "show_name": "Seonaidh/Shaun the Sheep",
+          "show_description": "14/20. Never meet your Heroes. The Farmers Rock 'n' Roll idol is stranded at the farm when his limousine breaks down. Soon revealed as a spoilt pretender, Shaun decides to show him a lesson.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0c334067-22f0-4be7-9fdc-7d1fa3cf7997/cover",
+          "start_time": "18:50",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "An Là",
+          "show_description": "Naidheachdan ionadail, nàiseanta is eadar-nàiseanta gach là cuide ri fiosrachadh coimhearsnachd bho BBC ALBA. Local, national and international news and information from BBC ALBA.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a0bd40d1-3cb1-430a-b14d-5769fe9fd2ee/cover",
+          "start_time": "19:00",
+          "end_time": "19:25"
+        },
+        {
+          "show_name": "Brunch le Abigail",
+          "show_description": "1/12. Tha Abigail a' toirt dà rud math còmhla agus a' dèanamh Cruffins. Abigail makes a hybrid, cruffins!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ad49144f-24b2-42f6-b114-988e14231509/cover",
+          "start_time": "19:25",
+          "end_time": "19:35"
+        },
+        {
+          "show_name": "Machair",
+          "show_description": "7/13. Drama Gàidhlig stèidhichte ann an Leòdhas. Gaelic soap based on the Isle of Lewis.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/46366590-9691-3b6d-8c07-2b849737908d/cover",
+          "start_time": "19:35",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Mach à Seo!",
+          "show_description": "7/8. Ramsay follows in Scottish legend Rob Roy's footsteps in Stirlingshire's hills and glens. Ramsay an tòir air Rob Ruadh MacGriogair a measg nam beann san gleann sna Trosachan.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/13f2fb31-f23b-463b-8543-5d987b1aca48/cover",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Cruit Phadruig",
+          "show_description": "5/6. Peter expands his crofting skill set as he learns how to build fences and make hay. Tha sgilean chruitearachd Phàdruig a' fàs 's e 'g ionnsachadh mu fheansaireachd is spealan.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7a327c53-fcd7-41ef-9139-0f320708991e/cover",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Niteworks",
+          "show_description": "Go behind the scenes with Niteworks as they record their third studio album. Contains some strong language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/68a3a913-539d-461f-b5a6-a330effc2481/cover",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Fàsach na h-Eòrpa/Europe's Wilderness",
+          "show_description": "1/4. The capercaillie's story begins in the far north as biologists capture wild animals in central Sweden to take to Germany's Niederlausitz Natural Park.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/37e51018-6561-3292-8ff9-278e5f918c1e/cover",
+          "start_time": "22:00",
+          "end_time": "22:50"
+        },
+        {
+          "show_name": "Binneas - Na Trads",
+          "show_description": "4/6. Featuring performances from the acclaimed Gary Sutherland Ceilidh Band, recorded at the Trad Awards 2021. With Gary and his first class band performing a lively set of jigs.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/00d7363e-aad2-4c82-ad7b-e303c1339b21/cover",
+          "start_time": "22:50",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Seirm | Celtic Connections",
+          "show_description": "4/4. Mary Ann Kennedy presents a music show from Celtic Connections 2026, featuring Mary Frances, Heidi Talbot, Boubacar Samaké, Maggie MacInnes and Michael McGovern.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/62077625-ef70-49b6-9495-c7a079e0acaf/cover",
+          "start_time": "23:00",
           "end_time": "00:00"
         }
       ]

@@ -3,95 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-3.png",
   "schedule": [
     {
-      "date": "8 April 2026",
-      "programmes": [
-        {
-          "show_name": "Through the Night",
-          "show_description": "Angela Hewitt plays Ravel's Piano Concerto in G with the Polish National Radio Symphony Orchestra, in a programme including Dutilleux's Métaboles and Ravel's Rapsodie espagnole.",
-          "show_logo": "",
-          "start_time": "00:30",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
-          "show_logo": "",
-          "start_time": "06:30",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Essential Classics",
-          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
-          "show_logo": "",
-          "start_time": "09:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Classical Live",
-          "show_description": "The plainsong inspired theme continues with perfomances from Voces 8 and the WDR Symphony Orchestra, Cologne and there's more specially recorded chamber music by Chopin from Perth.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "Choral Evensong",
-          "show_description": "From Christ Church Moss Side, Manchester, with the Choral Scholars of St Martin-in-the-Fields and Diocese of Manchester Choral Scholars.",
-          "show_logo": "",
-          "start_time": "15:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Composer of the Week: Gershwin",
-          "show_description": "3/5. Donald Macleod explores George Gershwin's time in Paris in the spring of 1928 and the music it inspired.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "In Tune",
-          "show_description": "Petroc Trelawny is joined by cellists Julian Lloyd Webber and Jiaxin Lloyd Webber, and pianist Rebeca Omordia, as well as London Soundtrack Festival artistic director Michael Beek.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Classical Mixtape",
-          "show_description": "Take time out with a 30-minute soundscape of classical music.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Radio 3 in Concert",
-          "show_description": "The London Philharmonic Orchestra performs Anna Thorvaldsdottir's CATAMORPHOSIS and Beethoven's 6th Symphony. Plus Bruch's Violin Concerto with Nikolaj Szeps-Znaider.",
-          "show_logo": "",
-          "start_time": "19:30",
-          "end_time": "21:45"
-        },
-        {
-          "show_name": "The Essay: Healing Musicians",
-          "show_description": "Kate Kennedy meets principal French horn player Robin Graham to learn what it means for a musician's relationship with their instrument when injury forces them to stop playing.",
-          "show_logo": "",
-          "start_time": "21:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Night Tracks",
-          "show_description": "Sara Mohr-Pietsch presents an adventurous, immersive soundtrack for late-night listening, from classical to contemporary and everything in between.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "'Round Midnight",
-          "show_description": "Soweto Kinch presents more of the best in jazz from the UK and around the world and shares a swinging release from the late English jazz singer Beryl Bryden.",
-          "show_logo": "",
-          "start_time": "23:30",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "9 April 2026",
       "programmes": [
         {
@@ -138,7 +49,7 @@
         },
         {
           "show_name": "Classical Mixtape",
-          "show_description": "Take time out with a 30-minute soundscape of classical favourites.",
+          "show_description": "Take time out with a 30-minute soundscape of classical favourites, including music by Elgar, Schubert and Ravel.",
           "show_logo": "",
           "start_time": "19:00",
           "end_time": "19:30"
@@ -167,6 +78,88 @@
         {
           "show_name": "'Round Midnight",
           "show_description": "Soweto shares more exciting new jazz selections including a track from the leading British jazz, reggae and soul singer Julie Dexter, and Allexa Nava presents another Flowers pick.",
+          "show_logo": "",
+          "start_time": "23:30",
+          "end_time": "00:30"
+        }
+      ]
+    },
+    {
+      "date": "10 April 2026",
+      "programmes": [
+        {
+          "show_name": "Through the Night",
+          "show_description": "The pianist Alexandre Kantorow performs Liszt's second piano concerto. Joined by the WDR Symphony Orchestra, who perform Schumann's Rhenish Symphony and Wagner's Faust Overture.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "Tom McKinney presents Radio 3's Breakfast show. To get in touch, email 3breakfast@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Essential Classics",
+          "show_description": "Georgia Mann plays the best in classical music, with discoveries and surprises rubbing shoulders with familiar favourites.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "Classical Live",
+          "show_description": "Mark Forrest introduces specially recorded performances from Perth of chamber music evoking the night and concludes his plainsong-inspired theme with a symphony by Rachmaninov.",
+          "show_logo": "",
+          "start_time": "13:00",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Composer of the Week: Gershwin",
+          "show_description": "5/5. Donald Macleod explores the origins and evolution of George Gershwin's opera Porgy and Bess.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "In Tune",
+          "show_description": "Petroc introduces live music from the Urban Folk Quartet and pianist Hanni Liang.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Classical Mixtape",
+          "show_description": "Take time out with a 30-minute soundscape of classical favourites.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "Friday Night is Music Night",
+          "show_description": "Jérôme Kuhn conducts the BBC Concert Orchestra in music which features American songs from soprano Alison Scherzer. Recorded at Chichester Festival Theatre in January.",
+          "show_logo": "",
+          "start_time": "19:30",
+          "end_time": "21:45"
+        },
+        {
+          "show_name": "The Essay: Healing Musicians",
+          "show_description": "Kate Kennedy hears from young musicians Rebecca Toal and Hattie Butterworth how mental health issues forced them to rethink their  relationship with their instruments.",
+          "show_logo": "",
+          "start_time": "21:45",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Late Junction",
+          "show_description": "Join Verity Sharp as she takes a spin around the world of experimental listening, from the bellows of church organs to the existential questioning of a virtual assistant.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "'Round Midnight",
+          "show_description": "Tonight, Soweto is joined by leading British jazz saxophonist, multi-instrumentalist and composer Courtney Pine, as his Friday night guest.",
           "show_logo": "",
           "start_time": "23:30",
           "end_time": "00:30"
