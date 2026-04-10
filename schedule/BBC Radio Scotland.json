@@ -3,11 +3,11 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Scotland.png",
   "schedule": [
     {
-      "date": "9 April 2026",
+      "date": "10 April 2026",
       "programmes": [
         {
           "show_name": "Scotcast",
-          "show_description": "Martin Geissler speaks to a former detective about gang boss Steven Lyons's extradition and the fight against organised crime.",
+          "show_description": "Political analysis with Natalie Higgins and Phil Sim.",
           "show_logo": "",
           "start_time": "00:00",
           "end_time": "00:25"
@@ -17,95 +17,6 @@
           "show_description": "Joining Radio 5 Live.",
           "show_logo": "",
           "start_time": "00:25",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Radio Scotland Breakfast",
-          "show_description": "News from across Scotland and the world, plus sport, weather, entertainment and big name interviews.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Mornings",
-          "show_description": "Stephen Jardine gets to the heart of the stories making the news.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Lunchtime Live",
-          "show_description": "News updates from Scotland and beyond, plus all your lunchtime sport, travel and weather.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Afternoons",
-          "show_description": "Michelle McManus brings you feel-good music and chat with celebrity guests.",
-          "show_logo": "",
-          "start_time": "13:30",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Afternoons",
-          "show_description": "Len Pennie keeps you up to date on what's happening in the arts and culture scene across Scotland.",
-          "show_logo": "",
-          "start_time": "15:30",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Drivetime",
-          "show_description": "Breaking down the day's talking points with comment and opinion, plus sport, travel and weather.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "17:58"
-        },
-        {
-          "show_name": "Party Election Broadcasts 2026",
-          "show_description": "A party election broadcast by the Scottish Labour party for the Scottish Parliament Election on Thursday the 7th of May 2026.",
-          "show_logo": "",
-          "start_time": "17:58",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Get It On with Bryan Burnett",
-          "show_description": "As the Artemis II crew get set to land on planet earth, let's provide a great homecoming. An ode to Mr Blue Sky, Take the Long Way Home, or just Straight Back Down to Earth.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Travelling Folk",
-          "show_description": "Anna Massie with the very best of folk and roots music from Scotland and beyond.",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Up Late",
-          "show_description": "The best company to end the day, with lively chat and some of your favourite tunes.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
-      "date": "10 April 2026",
-      "programmes": [
-        {
-          "show_name": "Scotcast",
-          "show_description": "Martin Geissler and the team bring you thoughtful conversation and expert analysis covering the most interesting news stories in Scotland.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "00:30"
-        },
-        {
-          "show_name": "As BBC Radio 5 Live",
-          "show_description": "Joining Radio 5 Live.",
-          "show_logo": "",
-          "start_time": "00:30",
           "end_time": "06:00"
         },
         {
@@ -152,7 +63,7 @@
         },
         {
           "show_name": "Grant Stott's Vinyl Collective",
-          "show_description": "New and classic cuts all played from 7', 12' and vinyl LPs. Grant shares the treasures from his own shopping adventures and discovers the stories about your record collections.",
+          "show_description": "Roddy Hart, presenter of Quay Sessions and Mixtape, shares his favourite vinyl record. The top ten albums this week in 1989, and Grant celebrates a big birthday for Lisa Stansfield.",
           "show_logo": "",
           "start_time": "18:00",
           "end_time": "20:00"
@@ -167,6 +78,81 @@
         {
           "show_name": "Up Late",
           "show_description": "The best company to end the day, with lively chat and some of your favourite tunes.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "11 April 2026",
+      "programmes": [
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "Joining Radio 5 Live.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Out of Doors",
+          "show_description": "Mark Stephen and Rachel Stewart with stories from the great outdoors.",
+          "show_logo": "",
+          "start_time": "06:30",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Radio Scotland Breakfast",
+          "show_description": "News from across Scotland and the world, plus sport, weather, entertainment and big name interviews.",
+          "show_logo": "",
+          "start_time": "08:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "The Saturday Show",
+          "show_description": "Maisie Adam, Caroline Weir and Mark Nelson chat to Amy Irons and Steven Mill as they kick-off the weekend with lots of laughs, great guests and timeless tunes.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Off the Ball",
+          "show_description": "The most petty and ill-informed football show on radio.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Sportsound",
+          "show_description": "Comprehensive coverage of Scottish sport, including live and exclusive commentary.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "Sportsound",
+          "show_description": "Debating the big talking points across Scottish football following today's action as the fans get their say.",
+          "show_logo": "",
+          "start_time": "17:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Take the Floor",
+          "show_description": "For the very best in traditional music, join Gary Innes for Take the Floor. We share with you once again the fantastic debut session from Rory Matheson and his Scottish Dance Band.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Piping Sounds",
+          "show_description": "Mìcheal Steele with a selection of the best in pipe music. This week, he features sets recorded at the 2026 Donald MacLeod Memorial Competition.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Roddy Hart's Mix Tape",
+          "show_description": "Roddy Hart with a mix of classic tracks and new discoveries.",
           "show_logo": "",
           "start_time": "22:00",
           "end_time": "00:00"

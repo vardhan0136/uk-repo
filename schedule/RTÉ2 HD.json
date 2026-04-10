@@ -3,319 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/ireland/rte-2-ie.png",
   "schedule": [
     {
-      "date": "9 April 2026",
-      "programmes": [
-        {
-          "show_name": "Amanda and Alan's Spanish Job",
-          "show_description": "The Master Suite: Amanda and Alan go all out designing a Moorish-themed master bedroom, but they struggle to see eye to eye in a debate over keeping a statement curved arch. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a069e82f-68d4-417f-af1e-e36a3094a8dd/cover",
-          "start_time": "00:20",
-          "end_time": "00:55"
-        },
-        {
-          "show_name": "Am I Being Unreasonable?",
-          "show_description": "A revelation shocks the family and sends Nic spiralling into panic. Have her worst fears come true? Is everything unravelling, or will she get away with murder? (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0a57f23c-8745-427a-9f31-a5567e20f6be/cover",
-          "start_time": "00:55",
-          "end_time": "01:35"
-        },
-        {
-          "show_name": "The Change",
-          "show_description": "Linda can't remember what a shoe is called. She's sure it's early-onset dementia. When she finds out it's the menopause, she's not too thrilled. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7d809f6d-eefa-3624-b162-8f7651e45a89/cover",
-          "start_time": "01:35",
-          "end_time": "02:05"
-        },
-        {
-          "show_name": "EuroNews",
-          "show_description": "The latest international news headlines. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/26326115-8270-4c42-8463-60588630dceb/cover",
-          "start_time": "02:05",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "EuroNews",
-          "show_description": "The latest international news headlines. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/edb50a84-8fde-4c66-9e5a-27d1dc6276bc/cover",
-          "start_time": "06:00",
-          "end_time": "07:50"
-        },
-        {
-          "show_name": "Puffin Rock (As Gaeilge)",
-          "show_description": "Lá agus Oíche: Tá na hulchabháin meáite urú na gréine a fheiceáil inniu agus tá cuidiú Oona agus Bhaba de dhíth orthu le fanacht múscailte. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c615417a-4ab2-4940-9742-1ca05a6a7ea1/cover",
-          "start_time": "07:50",
-          "end_time": "07:55"
-        },
-        {
-          "show_name": "Puffin Rock (As Gaeilge)",
-          "show_description": "Baba chun tarrthála: Níl Isabelle ná Oona dírithe ar a gcuid cúramaí. Tugann Baba aire do Lala. An chuma air go bhfuil Baba ábalta aire a thabhairt dó fhéin. Agus Lala!! Maith thú a Bhaba. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/23d429b0-5dcd-4d9b-8dc8-5f4a43bd6b0f/cover",
-          "start_time": "07:55",
-          "end_time": "08:05"
-        },
-        {
-          "show_name": "Baile na Samhlaíochta",
-          "show_description": "Tá Sonia ag déanamh a míle dícheall chun fanacht socair ach níl sé éasca! (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/66c207bb-94e8-3d5e-a78b-8e271143246f/cover",
-          "start_time": "08:05",
-          "end_time": "08:10"
-        },
-        {
-          "show_name": "Baile na Samhlaíochta",
-          "show_description": "Is cosúil go bhfuil brioscaí Hugo agus Sonia ite ag duine éigin ach meas tú cé a d'ith an briosca deireanach? (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6f54c0f4-9fa5-3b2d-8932-92268b7deaa2/cover",
-          "start_time": "08:10",
-          "end_time": "08:15"
-        },
-        {
-          "show_name": "The Wee Littles",
-          "show_description": "Tá Eoinín mar dhraíodóir ar a rothar pháiste. Tá an iomarca cleasa aige, dá bhrí sin ceapann Bhaibín agus Chóilín go bhfuil sin in am dó rothar nua a fháil. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ce59aca9-5cc1-4b0a-a6b8-f00687cbbab3/cover",
-          "start_time": "08:15",
-          "end_time": "08:20"
-        },
-        {
-          "show_name": "The Wee Littles",
-          "show_description": "An t-Earrach atá ann agus tá na Bheigíní ag réiteach an ghairdín le cur chun fás. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ce59aca9-5cc1-4b0a-a6b8-f00687cbbab3/cover",
-          "start_time": "08:20",
-          "end_time": "08:25"
-        },
-        {
-          "show_name": "The Wee Littles",
-          "show_description": "Tá moill ar Chóilín agus é ar a mbealach chuig oifig an phoist roimh a ndúnann sé. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b849360f-a3e2-410c-b41f-4715e400280d/cover",
-          "start_time": "08:25",
-          "end_time": "08:30"
-        },
-        {
-          "show_name": "Dizzy Deliveries",
-          "show_description": "Joe meets Shay and his coach Ken at the bowling alley where they all learn how to bowl and celebrate with chocolate milkshakes at the end. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e9b2add1-0eb1-4dd2-b130-ded048d32880/cover",
-          "start_time": "08:30",
-          "end_time": "08:45"
-        },
-        {
-          "show_name": "Let's Find Out",
-          "show_description": "Curious kids Ruby and Mia show Zoom some disappearing tricks with bending light. Amy uses her laser to make things go pop! (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9866df89-e48a-4f1b-b555-c9fe42c53d8e/cover",
-          "start_time": "08:45",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Nova Jones",
-          "show_description": "Nova's abilities to sing and dance are stolen. Can the team track the talent thief down?. (SL,HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5cfd13a8-3bf0-47b0-918b-d2c3a3420477/cover",
-          "start_time": "09:00",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Millie Inbetween",
-          "show_description": "Dream Christmas: Dad's parents turn up all the way from America on Christmas morning, although their visit turns out to be more complicated than anyone thought. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/322d8eb6-0bb2-41b5-9dcb-b5377df035ff/cover",
-          "start_time": "09:30",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Boy Girl Dog Cat Mouse Cheese",
-          "show_description": "Boy and Tuck offer to build a clubhouse for Cat and Charlotte, but the two boys have a hard time letting go of their wonderful creation, driving the two girls up the wall. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dc5d3735-ce88-3c2b-8d04-368b2aa9213e/cover",
-          "start_time": "10:00",
-          "end_time": "10:10"
-        },
-        {
-          "show_name": "Boy Girl Dog Cat Mouse Cheese",
-          "show_description": "When Girl and K-Jam find Gherkin crying because nobody likes him, he confesses to them that he wants to change and become nicer. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5b4f9584-a0c5-3da9-98fd-a7d338c33c60/cover",
-          "start_time": "10:10",
-          "end_time": "10:25"
-        },
-        {
-          "show_name": "Holt",
-          "show_description": "The teens find the Hyper Gate, but a swarm of deadly centipedes threatens their escape - forcing Roo to choose between going home alone or staying loyal to his friends. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3fcac7eb-3824-417e-ba0f-9e91c38dd8a1/cover",
-          "start_time": "10:25",
-          "end_time": "10:40"
-        },
-        {
-          "show_name": "The Coop Troop",
-          "show_description": "Too Hot to Handle: When Prince calls up complaining about the cold, Flo installs one of her inventions to heat the place up, but it works too well. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/49c3dd34-a2ad-3183-a8e8-46d542c38e78/cover",
-          "start_time": "10:40",
-          "end_time": "10:55"
-        },
-        {
-          "show_name": "The Coop Troop",
-          "show_description": "Mac takes a walk: Puppy Mac wants to walk to the park by himself so the Troop convince Sam to let him, as they'll be watching him all the way. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1fc9dafd-1a95-3727-9a1e-593e6471a039/cover",
-          "start_time": "10:55",
-          "end_time": "11:10"
-        },
-        {
-          "show_name": "Mortina",
-          "show_description": "The crazy parcel: A mysterious package arrives for Aunt Departed and it refuses to open. Mortina and the Mystery Squad are determined to uncover its secret. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/43de548f-6f3f-49c7-9d81-a79810096632/cover",
-          "start_time": "11:10",
-          "end_time": "11:25"
-        },
-        {
-          "show_name": "Mortina",
-          "show_description": "A creepy concert: Instruments play by themselves at Crumbling Manor. The Mystery Squad solves the case and learns they should have listened to Dilbert sooner. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f00f35b3-6f91-4b7e-871a-8efb0d2af178/cover",
-          "start_time": "11:25",
-          "end_time": "11:35"
-        },
-        {
-          "show_name": "Mortina",
-          "show_description": "A very rotten mystery: After neglecting a strange egg, thumps shake the manor. Investigating the chaos, the Mystery Squad learns responsibility can't be ignored. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ab59a87b-e54f-48c5-b3c6-db5022c1f135/cover",
-          "start_time": "11:35",
-          "end_time": "11:50"
-        },
-        {
-          "show_name": "Shaun The Sheep",
-          "show_description": "The Rabbit: Shaun and the flock are called into action to help track down an illusive pet rabbit - but they do not seem to understand exactly what they are looking for.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f7e9cd5e-8897-49f7-9788-c137cff241df/cover",
-          "start_time": "11:50",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Horrible Science",
-          "show_description": "Space Vomit, Pet Mushrooms and Death by Chicken: Revolting space travel, evolving cows, pet mushrooms, and Einstein watches a car on a trampoline. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d1337491-4481-4f0f-861e-bc465b2f2fd5/cover",
-          "start_time": "12:00",
-          "end_time": "12:25"
-        },
-        {
-          "show_name": "Horrible Histories",
-          "show_description": "A prank-loving emperor hosts a dinner party in Roman Come Dine with Me, members of the Durham Home Guard learn first aid, and a Viking rock band paint the town red.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8a4877e3-7ebb-4c66-8ee9-0379de9ed6b7/cover",
-          "start_time": "12:25",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Millie Inbetween",
-          "show_description": "Dream Christmas: Dad's parents turn up all the way from America on Christmas morning, although their visit turns out to be more complicated than anyone thought. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/322d8eb6-0bb2-41b5-9dcb-b5377df035ff/cover",
-          "start_time": "13:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Malory Towers",
-          "show_description": "Jean reveals hidden Grayling family history that shocks Lily, while Darrell and Alicia plan the best prank ever involving curses and a skeleton! (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/796b9a05-0804-4a7f-8200-a982eee51947/cover",
-          "start_time": "13:30",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "My Babysitter's a Vampire",
-          "show_description": "Indpendence Daze: When Ethan, Benny and Sarah boast about being able to manage on their own Grandma warns them something sinister is coming and they'll have to work together to defeat it. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4e5209b1-7327-31ea-ab2e-d8de4af728e4/cover",
-          "start_time": "14:00",
-          "end_time": "14:30"
-        },
-        {
-          "show_name": "Nova Jones",
-          "show_description": "Nova resorts to desperate measures when she struggles to hide her green-eyed monster. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/65ac9922-1729-4e0b-91fb-60d3c58385dc/cover",
-          "start_time": "14:30",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "The Curious Case of Dolphin Bay",
-          "show_description": "A group of teenagers investigate the secrets surrounding a shipwreck while working at a marine research centre. Adventure, starring Izabela Rose. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4673cb3f-3735-459b-a63b-9a2d12b3b741/cover",
-          "start_time": "15:00",
-          "end_time": "16:30"
-        },
-        {
-          "show_name": "The Goldbergs",
-          "show_description": "Hoping that Pops' good luck can rub off on him, Adam takes to gambling at school - but ends up losing his toys. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/df045937-febb-4ea4-bc74-2099fe8ef3d9/cover",
-          "start_time": "16:30",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Young Sheldon",
-          "show_description": "When Mary's faith is shaken by a tragedy in the community, Sheldon becomes an unlikely ally. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/50f8f9cc-817b-45f0-838a-5f4d3becc9ac/cover",
-          "start_time": "17:00",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "Big Bang Theory",
-          "show_description": "The Hesitation Ramification: Following a failed role on a TV show, Penny makes a big decision. Raj practices his social skills, and Sheldon works on his sense of humour. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ba396e2d-fcd4-43b9-bb85-1379a68a4fa3/cover",
-          "start_time": "17:30",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Shortland Street",
-          "show_description": "Madonna fails a friend. Desi can't let go. Chris' ruthlessness leads to tragedy. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3f4bf405-266a-44b3-9e20-1c0b301d178e/cover",
-          "start_time": "18:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "Home and Away",
-          "show_description": "Remi is on his bike, in the driveway. Eden rails against his decision to ride. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/750bf07b-d4d7-467a-a5eb-4431ba6dd356/cover",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Bake Off: The Professionals",
-          "show_description": "It's the quarter-final and the teams create illusion desserts and a Singapore ice cream sandwich, before they combine sugar and chocolate in a spectacular theme park showpiece. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3a36aeb4-3fa6-4fad-b00b-83fc1528ccbe/cover",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Build Your Own Home",
-          "show_description": "Master builder Harrison Gardner helps people take on the challenge of constructing or renovating their own homes, beginning with Dublin couple Grace and Robbie. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/60938260-4477-4442-8551-5cb660f12c4d/cover",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Here We Go",
-          "show_description": "Mum's Bad Tooth: Rachel is maybe too keen to befriend their new neighbours, and Paul is determined to prove he's not boring. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/67afe475-21e7-40fe-b773-0e9d99953da5/cover",
-          "start_time": "21:00",
-          "end_time": "21:35"
-        },
-        {
-          "show_name": "First Dates Ireland",
-          "show_description": "Emma (21) from Limerick meets James (21) from Louth, who doesn't drink coffee because he has 'enough energy as it is'. Will sparks fly between them? (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7c91af45-d94a-46b6-8e30-43f7d9d8fda0/cover",
-          "start_time": "21:35",
-          "end_time": "22:35"
-        },
-        {
-          "show_name": "Derry Girls",
-          "show_description": "Erin and co are excited to attend an outdoor pursuits weekend as part of a peace initiative. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a2a85dd3-2a40-4739-b3e8-f36977e3b62b/cover",
-          "start_time": "22:35",
-          "end_time": "23:05"
-        },
-        {
-          "show_name": "NCIS",
-          "show_description": "Empty Nest: NCIS searches for a missing undercover agent in the midst of an active hostage situation. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/334cf2ef-776e-4225-8380-95a772c8d03c/cover",
-          "start_time": "23:05",
-          "end_time": "23:55"
-        },
-        {
-          "show_name": "Shush",
-          "show_description": "Ruth's love for baby Fia is undeniable. But under the strain of loneliness and a difficult domestic existence, the mother impulsively makes a drastic decision. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e8edefcb-8e8e-330f-81a8-4d1f6c43a8e5/cover",
-          "start_time": "23:55",
-          "end_time": "00:30"
-        }
-      ]
-    },
-    {
       "date": "10 April 2026",
       "programmes": [
         {
@@ -335,7 +22,7 @@
         {
           "show_name": "Remembering Mathausen",
           "show_description": "The Mauthausen concentration camp, established on Hitler's orders in 1938. Some 200,000 people were deported there and over 120,000 perished. (HD)",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f2916200-59fc-452c-8aa0-57d6580a76f5/cover",
+          "show_logo": "https://images.metadata.sky.com/pd-image/87ce2d06-c209-41fd-ba4e-b62f408d8f12/cover",
           "start_time": "01:35",
           "end_time": "02:35"
         },
@@ -618,6 +305,172 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/ab8665b8-f10f-43dc-9aee-51c6a1e2827e/cover",
           "start_time": "23:15",
           "end_time": "00:20"
+        }
+      ]
+    },
+    {
+      "date": "11 April 2026",
+      "programmes": [
+        {
+          "show_name": "Breaking Out",
+          "show_description": "Fergus O'Farrell was the charismatic voice of Interference, one of the most compelling and influential bands to emerge from the Irish music scene in the 1990s. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/acd05c07-95b0-41e7-b8ea-c340a30d918e/cover",
+          "start_time": "00:20",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "Godfather Of Harlem",
+          "show_description": "Union Blues: Bumpy battles a union strike threatening club construction. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7ad7212b-56e0-4983-b287-194652f13a42/cover",
+          "start_time": "02:00",
+          "end_time": "02:50"
+        },
+        {
+          "show_name": "EuroNews",
+          "show_description": "The latest international news headlines. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/28812353-28fd-4710-8730-c1a1d59dd978/cover",
+          "start_time": "02:50",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "EuroNews",
+          "show_description": "The latest International and European news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/43876c85-7f51-445b-a325-b8b9a356336e/cover",
+          "start_time": "06:00",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Flix",
+          "show_description": "When Flix and friends stumble onto a Mac Cat action movie set, their chaotic ski attempts turn heroic as they must rescue rival Burma from a runaway snowball disaster. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7b6159c2-72ce-423b-897c-1333c9c67e8a/cover",
+          "start_time": "08:00",
+          "end_time": "08:15"
+        },
+        {
+          "show_name": "Flix",
+          "show_description": "Flix hosts a turbo-charged bingo night to earn his final scout badge, but his wild new approach causes chaos and sends him scrambling to save the night. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0b0fdb58-c427-4aa3-9fbc-a22ec2d8f48d/cover",
+          "start_time": "08:15",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "Storybud",
+          "show_description": "Dustin The Turkey makes his 'Storybud' debut with the tale that proves you can never escape who you truly are, no matter how fast you run. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b3bfa2b1-491e-35f7-bddd-2d50622e5e6a/cover",
+          "start_time": "08:30",
+          "end_time": "08:35"
+        },
+        {
+          "show_name": "Jamie Johnson",
+          "show_description": "Boggy forces Duncan to come clean as Phoenix play well and make it through to the semi-finals. But when the referee makes a bad decision Jamie is left with a huge moral dilemma. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c636c424-4bda-4d5b-8bbc-43258b508118/cover",
+          "start_time": "08:35",
+          "end_time": "09:10"
+        },
+        {
+          "show_name": "Jamie Johnson",
+          "show_description": "Can Jamie lead Phoenix FC to a cup final? Or will Duncan's secret come back to haunt him? (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/08cd5df2-7869-4d9b-9746-f9042d058fa8/cover",
+          "start_time": "09:10",
+          "end_time": "09:45"
+        },
+        {
+          "show_name": "The Next Step",
+          "show_description": "Fresh off their win at Internationals, Miss Kate and the Next Step dancers hold an Open House to welcome prospective new dancers to the studio. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/30731eed-5d7c-47d0-9e97-197affea5fb2/cover",
+          "start_time": "09:45",
+          "end_time": "10:15"
+        },
+        {
+          "show_name": "The Next Step",
+          "show_description": "Pete auditions for dance captain, and Olive and Grace search for their place on the team. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/47bafc1e-710a-44ce-838e-8d431d9285a9/cover",
+          "start_time": "10:15",
+          "end_time": "10:45"
+        },
+        {
+          "show_name": "Home and Away",
+          "show_description": "In the morning, David and Lacey have a cup of coffee, and Lacey asks if the AVO has gone out to Holden. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/aa783e0c-f509-4542-a1ed-89614de2d3ce/cover",
+          "start_time": "10:45",
+          "end_time": "11:15"
+        },
+        {
+          "show_name": "Home and Away",
+          "show_description": "On his way up from a surf, Justin passes John, who's rushing to bring in the flags. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/881d1dbd-bb91-4293-bc7d-1c6fcdd51c7b/cover",
+          "start_time": "11:15",
+          "end_time": "11:45"
+        },
+        {
+          "show_name": "Home and Away",
+          "show_description": "Eden stays by Remi's side following a session of radiation therapy, and it's hard for her to watch him struggle with the uncomfortable side effects. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/408827e0-24f9-4627-80d2-fe516e518159/cover",
+          "start_time": "11:45",
+          "end_time": "12:15"
+        },
+        {
+          "show_name": "Flowers and Honey",
+          "show_description": "Sparks fly between a city florist and the owner of an apiary business after she inherits her great aunt's farmland. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0fa08147-8d73-419e-b371-791d2bb434e4/cover",
+          "start_time": "12:15",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Guinness Women's Six Nations",
+          "show_description": "England v Ireland (Kick-off 2.25pm). All the action from both teams' opening match of the championship, held at Allianz Stadium Twickenham. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b31fbe8f-386c-4014-bcc2-dd678b1f3abe/cover",
+          "start_time": "14:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "UCL Weekly Magazine",
+          "show_description": "The latest news and updates from the UEFA Champions League. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1934b97d-d85f-4106-b70b-f95179162b77/cover",
+          "start_time": "17:00",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "Animal Control",
+          "show_description": "Peacocks and Pumas: Frank and Victoria go on a stake out in the midst of a prank war, while Patel and Emily care for a recently concussed Shred. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c3fdfcbd-f1c3-325c-a34c-d2d0290fa4e2/cover",
+          "start_time": "17:30",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "Amazing Hotels: Life Beyond The Lobby",
+          "show_description": "Rob Rinder and Monica Galetti visit Wilderness Hotel Inari, an adventure hotel above the Arctic Circle in Lapland. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ed1d477a-0675-45f6-ad36-421436b43854/cover",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Saving Lives At Sea",
+          "show_description": "In Thurso, Scotland's most northerly mainland station, the crew race to the rescue of an ocean-going rower who's run into trouble 40 miles out to sea (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7d291c4e-ea3a-4673-a948-41a76a203e40/cover",
+          "start_time": "19:00",
+          "end_time": "20:10"
+        },
+        {
+          "show_name": "Brotherhood of Lions",
+          "show_description": "The Route to the Top: Documentary following three lionesses and their nine cubs in Kenya's Masai Mara reserve, with cameras focusing on the youngsters' journey to adulthood over five years. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7ced3213-77b9-3b9b-9e63-bee2fd0f2c22/cover",
+          "start_time": "20:10",
+          "end_time": "21:10"
+        },
+        {
+          "show_name": "Rush",
+          "show_description": "The 1976 Formula One Championship season is dominated by a fierce rivalry between two contrasting racers, James Hunt and Niki Lauda. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2568b543-2808-4691-b326-398fbf8e577f/cover",
+          "start_time": "21:10",
+          "end_time": "23:15"
+        },
+        {
+          "show_name": "Nightsleeper",
+          "show_description": "With the entire network now out of control, Abby starts to doubt everyone around her too. (HD)",
+          "show_logo": "https://images.metadata.sky.com/pd-image/90f559f1-3301-3761-b1fd-3b24f5da4023/cover",
+          "start_time": "23:15",
+          "end_time": "00:10"
         }
       ]
     }

@@ -3,39 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-5-Sports-Extra.png",
   "schedule": [
     {
-      "date": "9 April 2026",
-      "programmes": [
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "The Masters",
-          "show_description": "Live golf commentary of the first round of The Masters at Augusta National Golf Club.",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "10 April 2026",
       "programmes": [
         {
@@ -82,7 +49,7 @@
         },
         {
           "show_name": "Rugby Union",
-          "show_description": "Live rugby union commentary of Bath Rugby v Northampton Saints in the quarter finals of the European Champions Cup.",
+          "show_description": "Live rugby union commentary of Bath Rugby v Northampton Saints in the quarter-finals of the European Champions Cup.",
           "show_logo": "",
           "start_time": "19:45",
           "end_time": "22:00"
@@ -92,6 +59,60 @@
           "show_description": "Live golf commentary of the second round of The Masters at Augusta National Golf Club.",
           "show_logo": "",
           "start_time": "22:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "11 April 2026",
+      "programmes": [
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "10:55"
+        },
+        {
+          "show_name": "County Championship Cricket",
+          "show_description": "Kevin Howells presents live ball-by-ball cricket commentary from the County Championship.",
+          "show_logo": "",
+          "start_time": "10:55",
+          "end_time": "14:55"
+        },
+        {
+          "show_name": "Premier League Football",
+          "show_description": "Live football commentary of Brentford v Everton in the Premier League.",
+          "show_logo": "",
+          "start_time": "14:55",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Women's Six Nations",
+          "show_description": "Live rugby union commentary from BBC Radio Wales of Wales v Scotland in the Women's Six Nations.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "The Masters",
+          "show_description": "Live golf commentary of the third round of The Masters at Augusta National Golf Club.",
+          "show_logo": "",
+          "start_time": "19:30",
           "end_time": "01:00"
         }
       ]
