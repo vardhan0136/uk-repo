@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Scotland.png",
   "schedule": [
     {
-      "date": "10 April 2026",
-      "programmes": [
-        {
-          "show_name": "Scotcast",
-          "show_description": "Political analysis with Natalie Higgins and Phil Sim.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "00:25"
-        },
-        {
-          "show_name": "As BBC Radio 5 Live",
-          "show_description": "Joining Radio 5 Live.",
-          "show_logo": "",
-          "start_time": "00:25",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Radio Scotland Breakfast",
-          "show_description": "News from across Scotland and the world, plus sport, weather, entertainment and big name interviews.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Mornings",
-          "show_description": "Stephen Jardine gets to the heart of the stories making the news.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Lunchtime Live",
-          "show_description": "News updates from Scotland and beyond, plus all your lunchtime sport, travel and weather.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Breaking the News",
-          "show_description": "Des Clarke hosts Scotland's award-winning satirical news quiz.",
-          "show_logo": "",
-          "start_time": "13:30",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Afternoons",
-          "show_description": "Nicola Meighan brings you feel-good music and chat with celebrity guests.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "Drivetime",
-          "show_description": "Breaking down the day's talking points with comment and opinion, plus sport, travel and weather.",
-          "show_logo": "",
-          "start_time": "16:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Grant Stott's Vinyl Collective",
-          "show_description": "Roddy Hart, presenter of Quay Sessions and Mixtape, shares his favourite vinyl record. The top ten albums this week in 1989, and Grant celebrates a big birthday for Lisa Stansfield.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "BBC Introducing in Scotland",
-          "show_description": "With Brontës' debut album on the way they're tonight's featured artist, find out all about them along with the best new music coming out of Scotland. WhatsApp 08085 92 95 00.",
-          "show_logo": "",
-          "start_time": "20:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Up Late",
-          "show_description": "The best company to end the day, with lively chat and some of your favourite tunes.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "11 April 2026",
       "programmes": [
         {
@@ -124,14 +42,28 @@
         },
         {
           "show_name": "Sportsound",
-          "show_description": "Comprehensive coverage of Scottish sport, including live and exclusive commentary.",
+          "show_description": "Open All Mics with all the goal action and big moments from across Scottish football, including the option of Hearts v Motherwell commentary. (KO 15:00).",
           "show_logo": "",
           "start_time": "14:00",
+          "end_time": "14:55"
+        },
+        {
+          "show_name": "Sportsound",
+          "show_description": "Full commentary live from Tynecastle as Premiership leaders Hearts take on Motherwell (KO 15:00).",
+          "show_logo": "",
+          "start_time": "14:55",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Sportsound",
+          "show_description": "Open All Mics with all the goal action and big moments from across Scottish football, including the option of Hearts v Motherwell commentary. (KO 15:00).",
+          "show_logo": "",
+          "start_time": "17:00",
           "end_time": "17:30"
         },
         {
           "show_name": "Sportsound",
-          "show_description": "Debating the big talking points across Scottish football following today's action as the fans get their say.",
+          "show_description": "Michael Stewart and Stephen Craigan are joined by the fans debating the big talking points following Saturday's action.",
           "show_logo": "",
           "start_time": "17:30",
           "end_time": "19:00"
@@ -152,10 +84,92 @@
         },
         {
           "show_name": "Roddy Hart's Mix Tape",
-          "show_description": "Roddy Hart with a mix of classic tracks and new discoveries.",
+          "show_description": "This year's BBC Introducing Scottish Act of the Year winner Alice Faye goes On the Record. Snail Mail are on Heavy Rotation, plus tracks from Happy Mondays and Trashcan Sinatras.",
           "show_logo": "",
           "start_time": "22:00",
           "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "12 April 2026",
+      "programmes": [
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "Joining Radio 5 Live.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Scotcast",
+          "show_description": "The best bits from the past seven days of the BBC's Scottish news podcast, with Martin Geissler.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "New Every Sunday",
+          "show_description": "An act of worship by The Very Reverend John Conway, Provost of St Mary's Episcopal Cathedral Edinburgh.",
+          "show_logo": "",
+          "start_time": "07:30",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "Sunday Morning",
+          "show_description": "Tony's This Spiritual Life guest is An American Marriage author: Tayari Jones.",
+          "show_logo": "",
+          "start_time": "08:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "The Sunday Show",
+          "show_description": "News, discussion and interviews from politics and beyond.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "Sportsound",
+          "show_description": "Falkirk host Rangers in their final Scottish Premiership match before the split, and all the action is live on Sportsound.",
+          "show_logo": "",
+          "start_time": "11:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Off the Ball",
+          "show_description": "The most petty and ill-informed football show on radio.",
+          "show_logo": "",
+          "start_time": "15:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Your Requests with Gary Innes",
+          "show_description": "Join Gary as he shares your special messages and dedications and plays your favourite Scottish Music requests.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Classical Now",
+          "show_description": "Music by Korngold and De Falla sits alongside Mendelssohn's rarely heard concerto for two pianos, and John Butt plays Bach.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Roddy Hart's Mix Tape",
+          "show_description": "Settle in as Roddy Hart plays handpicked tracks, breakthrough artists, and fresh sounds to close out the weekend.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "Joining Radio 5 Live.",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "06:00"
         }
       ]
     }

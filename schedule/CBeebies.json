@@ -3,515 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbeebies-uk.png",
   "schedule": [
     {
-      "date": "10 April 2026",
-      "programmes": [
-        {
-          "show_name": "..programmes start at 6.00am",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "00:58",
-          "end_time": "05:29"
-        },
-        {
-          "show_name": "This Is CBeebies",
-          "show_description": "This Is CBeebies. Programmes start at 6.00am.",
-          "show_logo": "",
-          "start_time": "05:30",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Roots and Fruits",
-          "show_description": "Banana. Live from the Roots and Fruits theatre, it's Banana revealing an astonishing secret about herself in the opera piece, I've Got a Secret.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9231801d-3095-439d-905f-73593c7425d1/cover",
-          "start_time": "06:00",
-          "end_time": "06:05"
-        },
-        {
-          "show_name": "Bing",
-          "show_description": "Dark. Children's animation. It is bedtime, but where is Hoppity? Bing remembers playing with him in the garden, but now it is dark out there and he doesn't really like the dark.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1b9f9d09-2bf8-4efe-a98e-006f7808eca4/cover",
-          "start_time": "06:05",
-          "end_time": "06:15"
-        },
-        {
-          "show_name": "Teletubbies",
-          "show_description": "Running around in Circles. Preschool series. Tinky Winky, Dipsy, Laa-Laa and Po run around in circles in the Home Dome. The Noo-noo joins in and the Teletubbies have fun chasing.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d35ab3e3-b56f-4205-ad26-48183b86d4be/cover",
-          "start_time": "06:15",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Tee and Mo",
-          "show_description": "Come on, Mo! Tee and Mo go around the Super Adventure Jungle Gym together and find it's more difficult than it looks.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/97666c4f-ff94-4fdb-922c-875728663796/cover",
-          "start_time": "06:30",
-          "end_time": "06:35"
-        },
-        {
-          "show_name": "Supertato",
-          "show_description": "The Throne Thief. Someone has stolen Evil Pea's throne, and all clues point to Supertato as the thief!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4d1b884a-8eb1-390c-bb20-656da7cd1e61/cover",
-          "start_time": "06:35",
-          "end_time": "06:45"
-        },
-        {
-          "show_name": "Bing",
-          "show_description": "Hose Pipe. Bing turns the garden hose on too fast, turning it into a big snake!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/98649422-8609-4c60-9c6c-1bb3b8c344db/cover",
-          "start_time": "06:45",
-          "end_time": "06:55"
-        },
-        {
-          "show_name": "Mojo Swoptops",
-          "show_description": "The Chickening. Carrying a giant chicken to the country fair proves trickier than Mojo and Bo expected!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f22d0134-e63a-44d6-86bb-b8f985bc83cf/cover",
-          "start_time": "06:55",
-          "end_time": "07:05"
-        },
-        {
-          "show_name": "Hey Duggee's Squirrel Club",
-          "show_description": "I'm Hungry. King Tiger and the Jelly wonder what Duggee has planned for today. Tag wants a snack, Enid has a musical cheese chase, and Norrie has a haircut.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7254a85a-19ee-4095-90f9-4daa97a6977a/cover",
-          "start_time": "07:05",
-          "end_time": "07:15"
-        },
-        {
-          "show_name": "Hey Duggee",
-          "show_description": "The Telling Time Badge. John the Crab needs help planning a surprise party for Nigel. It will only work if everyone is on time with the preparations.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/916fe409-d2ca-4ce3-befa-66b7c4f99d7d/cover",
-          "start_time": "07:15",
-          "end_time": "07:20"
-        },
-        {
-          "show_name": "Bluey",
-          "show_description": "Slide. Bingo and Lila are excited to play on their new waterslide.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a54a2133-1b6b-31d4-aad3-318c2b83033b/cover",
-          "start_time": "07:20",
-          "end_time": "07:30"
-        },
-        {
-          "show_name": "Bluey",
-          "show_description": "Escape. Mum and Dad describe a made-up world where they relax, but Bluey and Bingo burst in!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fbc2cfd0-3e5d-4040-b74d-5ba2a93f65fd/cover",
-          "start_time": "07:30",
-          "end_time": "07:35"
-        },
-        {
-          "show_name": "Go Jetters",
-          "show_description": "Go Jet Academy: Around the World in 80 Days. The team can't go outside, but a book and a little imagination takes them on an adventure.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cf2fcf3b-0f02-42b9-88f8-bbd04e4f2889/cover",
-          "start_time": "07:35",
-          "end_time": "07:50"
-        },
-        {
-          "show_name": "Peter Rabbit",
-          "show_description": "The Tale of the Squabbling Squirrels. Animated series. Felix and Nutkin quarrel, leaving the Squirrel Camp in chaos. It's down to Peter to help them make up before disaster strikes.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bf1dd221-9092-4928-9f64-569dcc07a7b2/cover",
-          "start_time": "07:50",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "Octonauts",
-          "show_description": "The Flying Fish. Animated deep sea adventures with Captain Barnacles and his band of explorers. A school of flying fish accidentally make off with Professor Inkling's rare book.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5cdd296c-7d4c-42c4-836c-943218b91272/cover",
-          "start_time": "08:00",
-          "end_time": "08:15"
-        },
-        {
-          "show_name": "Numberblocks",
-          "show_description": "Hide-and-Seek. Children's animation. Five is so good at hide-and-seek, she can find the others without looking up from her book - but how? Learn how to add to five.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/db1934b8-c822-41c6-b1e0-a4a6ad7cbbeb/cover",
-          "start_time": "08:15",
-          "end_time": "08:20"
-        },
-        {
-          "show_name": "Alphablocks",
-          "show_description": "Web. The adventures of 26 lively letters who can make words come to life by holding hands. W wants to be a superhero, but saving Alphablocks is not as easy as it looks.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b4595053-40c5-41e3-841a-e35da1830450/cover",
-          "start_time": "08:20",
-          "end_time": "08:25"
-        },
-        {
-          "show_name": "Nick Cope's Popcast",
-          "show_description": "Owl's First Flight. The caravan is visited by a little owl learning to fly. The owl and Alva, Nick's granddaughter, give Nick the perfect idea for today's song.   Followed by Tiny Wonders.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d01a34c8-5772-4994-b647-a4a4632b49fa/cover",
-          "start_time": "08:25",
-          "end_time": "08:35"
-        },
-        {
-          "show_name": "Octonauts Special: The Mariana Trench Adventure",
-          "show_description": "The Mariana Trench Adventure. Tweak has designed a deep sea station to study the deepest, darkest reaches of the ocean.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/76e55647-9498-3537-b8e1-d902a24a2386/cover",
-          "start_time": "08:35",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Bing",
-          "show_description": "Helping Hoppity. Bing, Sula and Pando are playing superheroes in the park.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/77131023-31ff-4ee2-8238-15b739d82e1e/cover",
-          "start_time": "09:00",
-          "end_time": "09:10"
-        },
-        {
-          "show_name": "Yakka Dee!",
-          "show_description": "Slippers. Dee encourages a friend to say 'slippers', and we go on a whirlwind word adventure. This episode is all about slippers - green, blue, little and big slippers.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0a76b63d-cf7b-4c87-b533-20b250be07c7/cover",
-          "start_time": "09:10",
-          "end_time": "09:15"
-        },
-        {
-          "show_name": "Lu & the Bally Bunch",
-          "show_description": "Goodbye Rain Boots. Lu has difficulty letting go of her favourite rain boots that are now too small.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b9a9d0a1-caff-3c41-8c33-a27c4042b396/cover",
-          "start_time": "09:15",
-          "end_time": "09:25"
-        },
-        {
-          "show_name": "Piggy Builders",
-          "show_description": "Speedy Cat. Kitty asks the Piggies to build her a racetrack. Cornelia tries to prove she's the fastest builder, but she will need her brothers' help to succeed.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/77b41abe-2f15-4890-9749-3200d76172c6/cover",
-          "start_time": "09:25",
-          "end_time": "09:35"
-        },
-        {
-          "show_name": "Twirlywoos",
-          "show_description": "More About Through. Stop-motion preschool programme. The Piece of Paper rolls in to a tube for the Twirlywoos to run through, but will Great BigHoo and Toodloo fit?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d6cf6d36-08e5-443d-b93d-01e479a9c5fd/cover",
-          "start_time": "09:35",
-          "end_time": "09:45"
-        },
-        {
-          "show_name": "Something Special: We're All Friends",
-          "show_description": "Trampolining. Mr Tumble is having trouble finding his trampoline in the garden, whilst Justin and his friends have lots of fun at an indoor adventure park.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/177575f4-fe93-4b84-bbd6-833d7bae5b9b/cover",
-          "start_time": "09:45",
-          "end_time": "10:10"
-        },
-        {
-          "show_name": "Teletubbies",
-          "show_description": "Inside Outside. Preschool fun from Teletubbyland. The Teletubbies have lots of fun playing inside and outside Home Dome. They wave to the Tiddlytubbies from inside and outside too.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/166e64c1-8338-4336-a149-6686d5f7647f/cover",
-          "start_time": "10:10",
-          "end_time": "10:25"
-        },
-        {
-          "show_name": "The Baby Club",
-          "show_description": "Numbers. Giovanna and Baby Bear invite little ones and their grown-ups to explore numbers through discovery, play, song and story. Babies and grown-ups at home can join in too!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/23bc35e6-4bb9-4cb3-9f45-2e0c325eddab/cover",
-          "start_time": "10:25",
-          "end_time": "10:40"
-        },
-        {
-          "show_name": "I Spy, You Spy",
-          "show_description": "Canal Boat. Elsee plays I-spy with her friend Athena whilst on a canal boat trip.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/714454fa-1102-412a-a794-8c916a89c58b/cover",
-          "start_time": "10:40",
-          "end_time": "10:45"
-        },
-        {
-          "show_name": "New: What's in Your Plant Pot?",
-          "show_description": "Roses. Sue and the Fact Pack explore the lovely smells and flavour of roses.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9b76a56e-bbff-4660-a635-f3c90ae7f7c5/cover",
-          "start_time": "10:45",
-          "end_time": "10:55"
-        },
-        {
-          "show_name": "Monster Makes",
-          "show_description": "Ants! It's picnic day! Rebecca and Murphi create a 'soup-er' fly in a bowl of soup. On the Recycling Express, an old storage tub becomes a totally terrific tub drum kit.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9e4352f3-d8ac-41d2-b9d8-22dd92da760a/cover",
-          "start_time": "10:55",
-          "end_time": "11:10"
-        },
-        {
-          "show_name": "Vegesaurs",
-          "show_description": "Day at the Beach. On a hot summer's day, Ginger and the Peas try to find the perfect spot on the beach.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3d5a8003-453e-44ca-a462-2c4bbaed3cdf/cover",
-          "start_time": "11:10",
-          "end_time": "11:15"
-        },
-        {
-          "show_name": "Bluey",
-          "show_description": "The Creek. Bored of the local playground, Dad and the kids go out on a journey to the creek.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fdfa668c-5606-4aab-9ace-186414a4a687/cover",
-          "start_time": "11:15",
-          "end_time": "11:25"
-        },
-        {
-          "show_name": "Hey Duggee",
-          "show_description": "The Action Hero Badge. The Squirrels learn about an action hero called Jet Rocket who always saves the day by smashing and crashing things. But there are other ways to save the day!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/86866f69-f5e0-46c7-8823-ca2a91373b57/cover",
-          "start_time": "11:25",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "Hey Duggee: Top of the Pups",
-          "show_description": "Being Kind. Let's all be groovy like the Rabbits! You might find there's more fun in being kind.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7d3f3e77-68eb-36b1-b00b-6083aad3f2d5/cover",
-          "start_time": "11:30",
-          "end_time": "11:35"
-        },
-        {
-          "show_name": "Let's Go for a Walk",
-          "show_description": "Tide Bell and Giant Egg Walk. Ranger Hamza and the Ramblers meet a dragon and discover a giant egg on a walk to play on the beach!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/71bdfbdf-942c-4847-9105-f57a19b0965a/cover",
-          "start_time": "11:35",
-          "end_time": "11:50"
-        },
-        {
-          "show_name": "Our Family",
-          "show_description": "Meet Ted's Family. Ted has big plans for his sister Sofia's birthday and organises a fun family tea party.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f9522b1d-8338-4141-b3b5-ce7275cff497/cover",
-          "start_time": "11:50",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "My World Kitchen",
-          "show_description": "Reese's Filipino Cassava Cake. Cassava cake is a very popular dessert in the Philippines, and Reese is making one for her friends to try when they come to visit.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0c90ee98-f129-4069-9d31-3a13543e3bf0/cover",
-          "start_time": "12:00",
-          "end_time": "12:10"
-        },
-        {
-          "show_name": "CBeebies: Thumbelina",
-          "show_description": "The stars of CBeebies bring to life the magical adventure of Thumbelina, a thumb-sized girl in an oversized world of plants and animals who tries to find out who she really is.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ab7797dc-bf1d-42c5-a75c-f79f3c4a28d8/cover",
-          "start_time": "12:10",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Puffin Rock",
-          "show_description": "The Empty Shell. Oona's curiosity puts the red crabs in danger.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/82ec7dfa-94e0-43d0-bab5-b430d3f313e6/cover",
-          "start_time": "13:00",
-          "end_time": "13:10"
-        },
-        {
-          "show_name": "Small Potatoes",
-          "show_description": "Potato Train. Animated series about a group of singing potatoes. The Small Potatoes hop on board the Potato Train and chug through town, greeting local townspotatoes along the way.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d548033b-b5ad-3187-9722-1d285c3a9ddb/cover",
-          "start_time": "13:10",
-          "end_time": "13:15"
-        },
-        {
-          "show_name": "Yukee",
-          "show_description": "All Change. Yukee is struggling with a tune on her ukulele, so she tells her friends she's going to give it up.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ca3854b5-7097-318e-bea1-fdb12920f3bf/cover",
-          "start_time": "13:15",
-          "end_time": "13:20"
-        },
-        {
-          "show_name": "Maddie + Triggs",
-          "show_description": "Waves. While playing at the beach, Maddie and Triggs try to save their sandcastle from the incoming tide, so it can be a fancy home for their magical new friend, Sailor Nancy.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6dccbc8f-e1b1-39fa-a367-1c86395b318c/cover",
-          "start_time": "13:20",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Hey Duggee",
-          "show_description": "The Round Up Badge. The Squirrels go on the trail of a lost herd of cattle with Duggee and his old pal Rodeo Horse, who teaches them how to be cowhands and earn their Round Up Badges!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a455f8d7-3036-4622-b8c4-0201f0881c5b/cover",
-          "start_time": "13:30",
-          "end_time": "13:35"
-        },
-        {
-          "show_name": "Numberblocks",
-          "show_description": "The All-Knowing Nine. Nine finds new ways to add numbers as he puts on a magic show for the Numberblobs.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8cdd030f-7dee-429a-b7ef-d78cdd034ab1/cover",
-          "start_time": "13:35",
-          "end_time": "13:40"
-        },
-        {
-          "show_name": "Alphablocks",
-          "show_description": "Castles. Using a HAT and a MUG, Alphablocks H and M build sandcastles. Alphablock I thinks it's a competition and decides to be the judge.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cd0ac8a8-d35a-471c-b7c4-42514835266f/cover",
-          "start_time": "13:40",
-          "end_time": "13:45"
-        },
-        {
-          "show_name": "Something Special: We're All Friends",
-          "show_description": "Magic Castle. Justin and his friends visit a magical castle, and there's magic with The Great Tumbleeny!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dd4b09f8-fcb7-4bc9-881a-a4b212e4d3e0/cover",
-          "start_time": "13:45",
-          "end_time": "14:10"
-        },
-        {
-          "show_name": "Teletubbies",
-          "show_description": "Not Enough Room. Preschool series. The Teletubbies are about to go on the Tubby Custard Ride with the hat, bag, ball and scooter when they realise there is not enough room.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d7739f26-2e54-445b-a51f-bb35ef34a186/cover",
-          "start_time": "14:10",
-          "end_time": "14:25"
-        },
-        {
-          "show_name": "Ranger Hamza's Eco Quest",
-          "show_description": "Dead Wood. Ranger Hamza and the Ramblers go on an eco quest to find out all about dead wood.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0a33dc8c-86cf-4241-8837-f7915adf2fa5/cover",
-          "start_time": "14:25",
-          "end_time": "14:40"
-        },
-        {
-          "show_name": "Football Fantastics",
-          "show_description": "The Zen Den. Sophie must infiltrate the sports hall without disturbing a relaxation class Val is running. Her aim is to retrieve bibs, goals and a big bag of footballs.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6f757b58-54d5-4d82-b75f-09abecc3b01b/cover",
-          "start_time": "14:40",
-          "end_time": "14:55"
-        },
-        {
-          "show_name": "Grace's Amazing Machines",
-          "show_description": "Green Machines. CBeebies' motorbike rider Grace shows off three amazing green machines.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f88016a6-b2a0-4ae1-9a5d-32cf3f5af003/cover",
-          "start_time": "14:55",
-          "end_time": "15:10"
-        },
-        {
-          "show_name": "Andy's Prehistoric Adventures",
-          "show_description": "Kimmerosaurus and Clamshell. Preschool adventure series. Andy returns 160 million years into the past to hunt for a prehistoric clamshell.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/85a2d686-78a6-4917-97e8-53741a6cc3f2/cover",
-          "start_time": "15:10",
-          "end_time": "15:25"
-        },
-        {
-          "show_name": "Octonauts: Above & Beyond",
-          "show_description": "Hot Spring Snake. The Octonauts brave the harsh Himalayan weather on the Terra-Gup-1 to relocate a snake.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a8511256-2908-345c-a43a-4d5a3b5443bf/cover",
-          "start_time": "15:25",
-          "end_time": "15:35"
-        },
-        {
-          "show_name": "Peter Rabbit",
-          "show_description": "The Tale of the Fierce Bad Rabbit. Animated series. Peter and his friends set out to taste the sweetest dandelions, only to find that they're protected by a mean character!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/69164a59-a847-4f57-9e97-284230fd0b16/cover",
-          "start_time": "15:35",
-          "end_time": "15:50"
-        },
-        {
-          "show_name": "Hey Duggee",
-          "show_description": "The Topiary Badge. After seeing Duggee's topiary skills, the Squirrels are keen to try it out for themselves.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/15bfa29f-7e5c-4ac9-8574-ed82d444262a/cover",
-          "start_time": "15:50",
-          "end_time": "15:55"
-        },
-        {
-          "show_name": "Vida the Vet",
-          "show_description": "Sunny's Naptime Blues. Sunny has trouble sleeping at the clinic. Vida gathers all his comforts of home to help.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d2feb832-8cee-38ae-a0ae-07f4863e695f/cover",
-          "start_time": "15:55",
-          "end_time": "16:10"
-        },
-        {
-          "show_name": "Supertato",
-          "show_description": "The Golden Snuggybear. Supertato helps Tomato get a rare toy for his museum from a giant toy capsule vending machine, but Evil Pea traps them inside and takes it for herself!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3031f145-aec3-41f7-98ab-70cc44cd40bc/cover",
-          "start_time": "16:10",
-          "end_time": "16:15"
-        },
-        {
-          "show_name": "The Weasy Family",
-          "show_description": "Mission Recipe. The ducklings cook up some lovely vegetable dishes, but Weasy will only eat his popcorn.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7508a319-dda1-4763-b4fb-2295f1941cfc/cover",
-          "start_time": "16:15",
-          "end_time": "16:25"
-        },
-        {
-          "show_name": "Mojo Swoptops",
-          "show_description": "Mojo Mail. What top would be best for delivering parcels around town? Mojo and Bo need to decide fast and get those parcels delivered, whether it's by land, water, or high in the air!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4acf12dd-1230-35f8-8027-e594d63e1cd8/cover",
-          "start_time": "16:25",
-          "end_time": "16:35"
-        },
-        {
-          "show_name": "Bluey",
-          "show_description": "Slide. Bingo and Lila are excited to play on their new waterslide.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a54a2133-1b6b-31d4-aad3-318c2b83033b/cover",
-          "start_time": "16:35",
-          "end_time": "16:45"
-        },
-        {
-          "show_name": "Piripenguins",
-          "show_description": "Pancake's Syncing Feeling. Pancake is worried about spoiling the synchronised swim team's contest hopes, because of his two left flippers.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/558789c7-4465-4dcf-811f-f5ec98a3bd79/cover",
-          "start_time": "16:45",
-          "end_time": "16:55"
-        },
-        {
-          "show_name": "Bluey",
-          "show_description": "Escape. Mum and Dad describe a made-up world where they relax, but Bluey and Bingo burst in!",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fbc2cfd0-3e5d-4040-b74d-5ba2a93f65fd/cover",
-          "start_time": "16:55",
-          "end_time": "17:05"
-        },
-        {
-          "show_name": "Andy's Dino Island",
-          "show_description": "Andy and the Prehistoric Picnic. Andy heads out to Dino Island for a prehistoric picnic, but the dinosaurs are also hungry.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2ae066c4-1b5e-4630-bead-44eb96f45c8c/cover",
-          "start_time": "17:05",
-          "end_time": "17:20"
-        },
-        {
-          "show_name": "Waffle the Wonder Dog",
-          "show_description": "Waffle Steals the Show. Doug, Ali and Mrs Hobbs all perform in the school show, but Evie nearly misses the finale.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a5fdd4a0-5e62-48fe-a267-6e8168f1fbad/cover",
-          "start_time": "17:20",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "Rafi the Wishing Wizard",
-          "show_description": "The Playground Wish. Rafi wishes for a magical zip line but realises playground fun means letting everyone have a turn.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1e439986-f2e7-4fbc-8ff2-b358a8ec76c8/cover",
-          "start_time": "17:30",
-          "end_time": "17:40"
-        },
-        {
-          "show_name": "JoJo & Gran Gran",
-          "show_description": "It's Time to Discover Somewhere New. On a trip to the library, Gran Gran helps JoJo discover new places they've not seen before.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1e4494e3-8af5-4dd5-85b8-b432675ef266/cover",
-          "start_time": "17:40",
-          "end_time": "17:50"
-        },
-        {
-          "show_name": "Sarah & Duck",
-          "show_description": "Cloud Jam. Animation for preschool children. Music Lady needs Sarah and Duck's help to return a music-loving stowaway back to the Cloud Tower.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cd18ca1b-b2d7-4575-94d6-599cde0dca4f/cover",
-          "start_time": "17:50",
-          "end_time": "17:55"
-        },
-        {
-          "show_name": "Clangers",
-          "show_description": "The Strange-Smelling Flower. Animation about a family of small creatures who live on, and inside, a planet. Mother Clanger has grown a beautiful new flower, but it smells horrible.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/784760d2-4dc7-4e3e-bc56-3019afcfa66c/cover",
-          "start_time": "17:55",
-          "end_time": "18:10"
-        },
-        {
-          "show_name": "BeddyByes",
-          "show_description": "Matching Game. MeMo and BaBa have fun finding and matching shapes all over Planet BeddyByes. MeMo helps BaBa match the shapes in a picture book when they visit their friends, the Yummies.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/610fd376-0a0f-4fb2-97e7-c86306bc589d/cover",
-          "start_time": "18:10",
-          "end_time": "18:20"
-        },
-        {
-          "show_name": "In the Night Garden",
-          "show_description": "Hurry Up Tombliboos. The Tombliboos are in their house when Makka Pakka comes to call.   Followed by Hushabye Lullabye.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b338f168-27c2-4b7d-97d0-1f4000888f33/cover",
-          "start_time": "18:20",
-          "end_time": "18:50"
-        },
-        {
-          "show_name": "CBeebies Bedtime Stories",
-          "show_description": "Sinead Keenan - Unicorn Expert. Join Sinead Keenan in the CBeebies House as we hear all about Sophie Johnson and her 17 unicorns. It's hard work being a unicorn expert, don't you know?",
-          "show_logo": "https://images.metadata.sky.com/pd-image/31b93311-3225-4ee8-851b-6eeb5925c752/cover",
-          "start_time": "18:50",
-          "end_time": "18:58"
-        },
-        {
-          "show_name": "..programmes start at 6.00am",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "18:58",
-          "end_time": "00:58"
-        }
-      ]
-    },
-    {
       "date": "11 April 2026",
       "programmes": [
         {
@@ -1050,6 +541,550 @@
           "show_name": "CBeebies Bedtime Stories",
           "show_description": "Lenny Rush - King Lion. Lenny Rush shares a funny story about a lonely lion and his attempts to make friends.",
           "show_logo": "https://images.metadata.sky.com/pd-image/6303623d-a03d-43c0-b54a-0aeb2c1eb1f7/cover",
+          "start_time": "18:50",
+          "end_time": "18:58"
+        },
+        {
+          "show_name": "..programmes start at 6.00am",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "18:58",
+          "end_time": "00:58"
+        }
+      ]
+    },
+    {
+      "date": "12 April 2026",
+      "programmes": [
+        {
+          "show_name": "..programmes start at 6.00am",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "00:58",
+          "end_time": "05:29"
+        },
+        {
+          "show_name": "This Is CBeebies",
+          "show_description": "This Is CBeebies. Programmes start at 6.00am.",
+          "show_logo": "",
+          "start_time": "05:30",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Colourblocks",
+          "show_description": "Red Meets Blue. Red discovers that she's not the only colour in the world when she meets Blue. Learn which objects can be red and which can be blue, and how some can be both red and blue.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e3c351e6-e884-41bd-b381-f4ef3d37291b/cover",
+          "start_time": "06:00",
+          "end_time": "06:05"
+        },
+        {
+          "show_name": "Puffin Rock",
+          "show_description": "The Shiny Shell. Baba finds a beautiful, shiny shell that causes some seagull trouble for Oona.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f1588b25-2698-3e29-813d-779c35eab6f8/cover",
+          "start_time": "06:05",
+          "end_time": "06:15"
+        },
+        {
+          "show_name": "Bing",
+          "show_description": "PJ Party. Bing is sleeping at Sula's house but has forgotten Hoppity!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e0a6e096-a638-4441-9448-7b109eb0512e/cover",
+          "start_time": "06:15",
+          "end_time": "06:20"
+        },
+        {
+          "show_name": "Love Monster",
+          "show_description": "Bouncy-Slidey Day. Love Monster has to overcome his fears of the big slide to rescue Tiniest Fluffiest Bunny when she gets scared.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0773bd37-0acd-4b6e-aae9-b0226367101b/cover",
+          "start_time": "06:20",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "Piggy Builders",
+          "show_description": "Drum Drama. The Drums Festival approaches, but everyone's drums keep vanishing. The Piggies hide inside a huge drum to try to discover what's going on.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/12edacfd-6275-4cb4-a3e3-0fe0ed0bfa00/cover",
+          "start_time": "06:30",
+          "end_time": "06:40"
+        },
+        {
+          "show_name": "Vegesaurs",
+          "show_description": "Treasure Hunt. Ginger wakes the Pea-Rexes with a surprise, a breakfast treasure hunt for yummy drops!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4991b10f-68eb-3790-980f-c79f74b16d59/cover",
+          "start_time": "06:40",
+          "end_time": "06:45"
+        },
+        {
+          "show_name": "Roots and Fruits",
+          "show_description": "Orange. Live from the Roots and Fruits theatre, it's the daring tightrope-walking Orange!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b1523275-039d-4e22-8127-5aa9be71f83d/cover",
+          "start_time": "06:45",
+          "end_time": "06:50"
+        },
+        {
+          "show_name": "Mojo Swoptops",
+          "show_description": "UFO. Mojo and Bo only wanted to help fix a satellite dish with Mojo's chopper top. Now they've been mistaken for a UFO, and the whole town is in a tizzy about invading aliens!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/da16326a-e9cf-30a4-b829-70a3eabc8f73/cover",
+          "start_time": "06:50",
+          "end_time": "07:05"
+        },
+        {
+          "show_name": "Chuggington",
+          "show_description": "The Three Ways of the Track. With guidance from the ever-wise Hanzo, an easily flustered Tai must learn how to remain focused, calm and balanced while on the job.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/da754329-138d-4f66-a16f-5dc71c1eb03e/cover",
+          "start_time": "07:05",
+          "end_time": "07:15"
+        },
+        {
+          "show_name": "Supertato",
+          "show_description": "Carrot Powers Up. Carrot wants to become superstrong, so she restores Evil Pea's robot suit for herself.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b436747c-0375-393b-b8ec-2a24a1bf86f5/cover",
+          "start_time": "07:15",
+          "end_time": "07:25"
+        },
+        {
+          "show_name": "Bing",
+          "show_description": "Dark. Children's animation. It is bedtime, but where is Hoppity? Bing remembers playing with him in the garden, but now it is dark out there and he doesn't really like the dark.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1b9f9d09-2bf8-4efe-a98e-006f7808eca4/cover",
+          "start_time": "07:25",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "Bing",
+          "show_description": "Magnets. Coco shows Bing how magnets work, but then Bing drops the magnet behind the flowerbed!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0e618d52-a7fc-4fef-8c8f-9d69f5c2259c/cover",
+          "start_time": "07:30",
+          "end_time": "07:40"
+        },
+        {
+          "show_name": "Hey Duggee",
+          "show_description": "The Same Badge. As Peggee and the Hummingbirds journey up the river to deliver a parcel, they have fun spotting and avoiding the wildlife that they meet along the way.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/297efa44-3333-41f2-be0b-2f716339c37d/cover",
+          "start_time": "07:40",
+          "end_time": "07:45"
+        },
+        {
+          "show_name": "Hey Duggee",
+          "show_description": "The Days of the Week Badge. After finding out that Mr Wobbly is visiting next Monday, the Squirrels impatiently want to know how long that means they need to wait.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d2ebc36e-3387-3958-9a1c-849f626b9913/cover",
+          "start_time": "07:45",
+          "end_time": "07:55"
+        },
+        {
+          "show_name": "Go Jetters",
+          "show_description": "Go Jetter Heroes: Amelia Earhart. Xuli follows in the footsteps of her hero Amelia Earhart in a transatlantic adventure.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4e28f2cc-6456-3e0c-a644-ecc532806324/cover",
+          "start_time": "07:55",
+          "end_time": "08:05"
+        },
+        {
+          "show_name": "Peter Rabbit",
+          "show_description": "The Tale of the Surprising Sisters. Animated series. Flopsy and Mopsy insist on accompanying Peter on one of his adventures.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c129e86b-cb08-4e10-9381-5ccdc601f344/cover",
+          "start_time": "08:05",
+          "end_time": "08:20"
+        },
+        {
+          "show_name": "Octonauts",
+          "show_description": "Octonauts and the Baby Sea Turtles. Animated deep sea adventure series. As newborn baby sea turtles make their way to the ocean, the Octonauts must help them avoid predators.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fbc326a8-f820-4e12-9ae8-d5e5af7ae8f4/cover",
+          "start_time": "08:20",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "Vida the Vet",
+          "show_description": "Sweetwood's Itchy Scratchies. When animal after animal show up at Vida's clinic with a mysterious rash, she's determined to find the cause. It's poison ivy!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6b78df82-fb4d-3251-a9c9-37f57e0fe7e9/cover",
+          "start_time": "08:30",
+          "end_time": "08:45"
+        },
+        {
+          "show_name": "Mojo Swoptops",
+          "show_description": "Panic at the Pumpkin Patch. Is there really a ghost at Jackson's pumpkin patch? Mojo and Bo need to find out!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4b355b5f-b2bb-4f21-9b66-5b809f954a4f/cover",
+          "start_time": "08:45",
+          "end_time": "08:55"
+        },
+        {
+          "show_name": "Activate with Joe Wicks",
+          "show_description": "Gamer. Can you complete every level of my Gamer Challenge? Level one is runners, two is squats and three is burpees. The boss battle is the Activate!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bf040829-cf60-4981-bb2f-468699ee0215/cover",
+          "start_time": "08:55",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Something Special: We're All Friends",
+          "show_description": "Colours. Educational series using Makaton sign language. Mr Tumble accidentally paints a rainbow, while Justin and his friends put on a colourful show at a theatre!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/de373578-9b9d-412e-add6-b1e9067f55b0/cover",
+          "start_time": "09:00",
+          "end_time": "09:20"
+        },
+        {
+          "show_name": "Bluey",
+          "show_description": "Work. In a game of 'Work', Dad hires Bluey and Bingo at his drainpipe factory. But when Bluey takes charge, Dad finds his new boss pretty tough, especially her no dancing rule.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a9d13a4e-6384-4865-9a45-91fbcb64644e/cover",
+          "start_time": "09:20",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Bluey",
+          "show_description": "Dragon. Bluey asks Dad to help her draw a dragon for her story.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/676cf35d-f16d-3724-80de-3d67a1a61354/cover",
+          "start_time": "09:30",
+          "end_time": "09:40"
+        },
+        {
+          "show_name": "Hey Duggee",
+          "show_description": "The Action Hero Badge. The Squirrels learn about an action hero called Jet Rocket who always saves the day by smashing and crashing things. But there are other ways to save the day!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/86866f69-f5e0-46c7-8823-ca2a91373b57/cover",
+          "start_time": "09:40",
+          "end_time": "09:45"
+        },
+        {
+          "show_name": "Hey Duggee",
+          "show_description": "The Training Badge. The Squirrels need some training to improve their concentration.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/115fc360-4a9d-4dcd-b42c-258d0f713210/cover",
+          "start_time": "09:45",
+          "end_time": "09:55"
+        },
+        {
+          "show_name": "Piripenguins",
+          "show_description": "Pancake's Syncing Feeling. Pancake is worried about spoiling the synchronised swim team's contest hopes, because of his two left flippers.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/558789c7-4465-4dcf-811f-f5ec98a3bd79/cover",
+          "start_time": "09:55",
+          "end_time": "10:05"
+        },
+        {
+          "show_name": "Big Lizard",
+          "show_description": "The Day We Landed. Cosima and Dad crash-land on an unexplored planet, Proxima B, and meet Big Lizard!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4c5bc5de-eb83-3ab3-9946-04e72e01d0f2/cover",
+          "start_time": "10:05",
+          "end_time": "10:15"
+        },
+        {
+          "show_name": "Vegesaurs",
+          "show_description": "Bubble Trouble. Ginger and the baby Pea-Rexes go on an underwater adventure inside a rubbery bubble.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3757a74e-9ea6-3270-bb45-fa7a297424cb/cover",
+          "start_time": "10:15",
+          "end_time": "10:20"
+        },
+        {
+          "show_name": "Go Jetters",
+          "show_description": "Tulip Fields, Netherlands. Flower power! Foz and Xuli race to stop a runaway harvester destroying a tulip field.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/864d0932-7375-4fa4-abfc-04c2c51f8cd7/cover",
+          "start_time": "10:20",
+          "end_time": "10:30"
+        },
+        {
+          "show_name": "The Weasy Family",
+          "show_description": "Mission Calm. The ducklings transfer Weasy's mind into the body of a snail - what could go wrong?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d5b18b2a-fed6-4b03-83fc-7063fe137790/cover",
+          "start_time": "10:30",
+          "end_time": "10:40"
+        },
+        {
+          "show_name": "Spidey and His Amazing Friends",
+          "show_description": "Ock's Obey Ray/Lemur at Large. Hulk obeys Doc Ock. A small lemur makes big trouble.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/407a8e74-c567-3028-ba0e-51e68399b757/cover",
+          "start_time": "10:40",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "Octonauts: Above & Beyond",
+          "show_description": "Orangutans. While cleaning up a fire, the Octonauts encounter some fast-learning orangutans.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/dcceb379-5695-37d1-ba69-ae31d8253107/cover",
+          "start_time": "11:00",
+          "end_time": "11:15"
+        },
+        {
+          "show_name": "Stan Can",
+          "show_description": "Leaves. Myrtle's house is full of leaves after an accident with a leaf blower. What will Stan do?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c3f10c75-74f8-408d-880b-4013b684917e/cover",
+          "start_time": "11:15",
+          "end_time": "11:20"
+        },
+        {
+          "show_name": "Supertato",
+          "show_description": "Tato Tower Takeover. Evil Pea and the Mini Peas take over the Tato Tower HQ and lock Supertato out.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cbeb6540-4a7d-43ee-a8c6-51faa3c98275/cover",
+          "start_time": "11:20",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "New: Talking Tom Heroes: Suddenly Super",
+          "show_description": "Ginger Finds Out. Ginger discovers the Peak City Heroes' big secret.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/298168dc-f4dd-440f-8adb-442cf0c7d631/cover",
+          "start_time": "11:30",
+          "end_time": "11:40"
+        },
+        {
+          "show_name": "Small Potatoes",
+          "show_description": "Moon Baby. Animated series about a group of singing potatoes. In this soft lullaby, Moon Baby observes the galaxy from up on the moon before floating back home to his cosy nursery.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/217ecb8e-a7f3-4fd8-90e1-82d4f9600edb/cover",
+          "start_time": "11:40",
+          "end_time": "11:45"
+        },
+        {
+          "show_name": "Monster Makes",
+          "show_description": "Time Machine. Rebecca and Murphi are planning to go on a travelling adventure, so they use straws to make a sailboat. They also create a paper plate dinosaur to keep them company!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d24e8861-df12-4688-8bbd-f794dcd344bd/cover",
+          "start_time": "11:45",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Big Cook Little Cook",
+          "show_description": "Isaac the Inventor. Jen makes a rain stick using rice, and Small wants one too. Isaac the inventor visits.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f8dcea33-b6a9-478b-8c70-884db623f215/cover",
+          "start_time": "12:00",
+          "end_time": "12:20"
+        },
+        {
+          "show_name": "Let's Go for a Walk",
+          "show_description": "Silly Faces and Picnic Walk. Ranger Hamza and the Ramblers explore a market and make silly faces on a walk to a picnic.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cf46c609-3b0f-44b7-9861-15dad3292a75/cover",
+          "start_time": "12:20",
+          "end_time": "12:35"
+        },
+        {
+          "show_name": "Aneeshwar and Lizzie Go Wild",
+          "show_description": "Giant Chinese Salamander and Alaotran Gentle Lemur. Aneeshwar and Lizzie meet Chinese giant salamanders and Alaotran gentle lemurs.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/27eb4d17-7159-4c6b-b741-91975b801c94/cover",
+          "start_time": "12:35",
+          "end_time": "12:40"
+        },
+        {
+          "show_name": "Waffle's After School Club",
+          "show_description": "Waffle Brings Us All Together. Mrs Hobbs challenges the After Schoolers to vote for their favourite activity - and to do it again on Mr Brooklyn-Bell's arrival.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ba9f3cdf-8398-4e75-8883-2bbbf72e6558/cover",
+          "start_time": "12:40",
+          "end_time": "12:50"
+        },
+        {
+          "show_name": "Hey Duggee",
+          "show_description": "The Tidy Up Badge. Animated preschool series. It is time for a Squirrel clubhouse spring clean. Duggee is dusting when the doorbell goes and a big package arrives for him.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fa42f7e8-899e-404d-9d12-7ff58bb62cd2/cover",
+          "start_time": "12:50",
+          "end_time": "13:05"
+        },
+        {
+          "show_name": "Octonauts",
+          "show_description": "Manatees. Animated deep sea adventures with Captain Barnacles and his explorers. Running out of air, Barnacles struggles to free his paw from the mouth of a giant clam.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/088b8dcc-955e-433e-99b1-c55c3f69d79e/cover",
+          "start_time": "13:05",
+          "end_time": "13:15"
+        },
+        {
+          "show_name": "Vida the Vet",
+          "show_description": "Pippen's Vanishing Voice. Pippen loses her voice before her concert. Can Vida help her get it back for her solo?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b07c5a90-93c5-3229-925a-eb5d4f127acf/cover",
+          "start_time": "13:15",
+          "end_time": "13:25"
+        },
+        {
+          "show_name": "Go Jetters",
+          "show_description": "The Grand Canyon, USA. Animated adventure comedy series. Kyan is wire-walking across the Grand Canyon, but Glitch wants to cheat and win. Can the Go Jetters stop him?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7bd18e92-29b2-4f7a-9d3e-ce9e81141cf1/cover",
+          "start_time": "13:25",
+          "end_time": "13:40"
+        },
+        {
+          "show_name": "Rafi the Wishing Wizard",
+          "show_description": "The Switch Places Wish. Rafi wishes she could be a grown-up for a while, and Aunty T wishes she could play in the park. A switching wish lets them swap places.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ec79b9ad-27a4-4669-9019-3d68b9ef42d2/cover",
+          "start_time": "13:40",
+          "end_time": "13:45"
+        },
+        {
+          "show_name": "Yukee",
+          "show_description": "Water Music. Sonny organises a tea party in his caravan to show off his new musical instrument, but rain comes pouring through the leaky roof. Are his plans for a musical afternoon a washout?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/226d2719-c7ce-3b5b-9408-58a6dd666ea4/cover",
+          "start_time": "13:45",
+          "end_time": "13:55"
+        },
+        {
+          "show_name": "Roots and Fruits",
+          "show_description": "Asparagus. Live from the Roots and Fruits theatre, it's young Asparagus, sharing his deep affection for wet weather in the song I Love the Rain.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/537f27d5-7b4b-39e2-9ff3-56be61f8ae92/cover",
+          "start_time": "13:55",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Something Special: We're All Friends",
+          "show_description": "A Big Concert! George from the CBeebies House helps Justin with a big concert.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/260fc89f-5ba9-43ce-a548-13f7fb91f023/cover",
+          "start_time": "14:00",
+          "end_time": "14:20"
+        },
+        {
+          "show_name": "The Toddler Club",
+          "show_description": "Making Sounds. Toddlers and their grown-ups explore making sounds, play, sing songs and share a story.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c84da0af-1994-4f6a-aae8-e627bab1dcee/cover",
+          "start_time": "14:20",
+          "end_time": "14:35"
+        },
+        {
+          "show_name": "Kiri and Lou",
+          "show_description": "Mother Earth. Lou is saved by Kiri from a nightmare in which the Earth seems to have a mind of its own.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/2caf0d0e-fb88-4d0b-94cb-218c7ec6ec2f/cover",
+          "start_time": "14:35",
+          "end_time": "14:40"
+        },
+        {
+          "show_name": "Piggy Builders",
+          "show_description": "Bed Bother. The Piggies make Rebecca a new bed, but Wilf falls asleep on it.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3f7ea076-1cfd-4ff4-a88e-b94e916282f5/cover",
+          "start_time": "14:40",
+          "end_time": "14:55"
+        },
+        {
+          "show_name": "Vida the Vet",
+          "show_description": "The Sweetwood Explorer's Helping Day. Grandpa Beaver has a leak in his dam, and it's up to the Sweetwood Explorers to help him!",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6852f38c-17e9-46dd-8d99-13e9ad6667a0/cover",
+          "start_time": "14:55",
+          "end_time": "15:05"
+        },
+        {
+          "show_name": "Stan Can",
+          "show_description": "Leaves. Myrtle's house is full of leaves after an accident with a leaf blower. What will Stan do?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c3f10c75-74f8-408d-880b-4013b684917e/cover",
+          "start_time": "15:05",
+          "end_time": "15:10"
+        },
+        {
+          "show_name": "The Game Catchers",
+          "show_description": "An Applephant for Boxy. The Game Catchers land on a planet with rivers and lakes made of fruit juice, and learn to play hoop game.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/918468a1-4ea4-4459-a46e-7ec8a308be91/cover",
+          "start_time": "15:10",
+          "end_time": "15:20"
+        },
+        {
+          "show_name": "Vegesaurs",
+          "show_description": "Playtime. The Jungle Park is full of baby Vegesaurs. Ginger and the Pea-Rexes invent a game for everyone to play.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/15fd0be0-5965-3a2d-a1aa-f5cf7625d3b4/cover",
+          "start_time": "15:20",
+          "end_time": "15:25"
+        },
+        {
+          "show_name": "Waffle's After School Club",
+          "show_description": "Waffle the Cheerleader. Mrs Hobbs's tidy up activity turns into cheerleading chaos when Waffle runs off with a pompom. Once the hall is clean, Evie leads a cheerleading finale.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ba542c0c-cfdb-46f3-b64f-38ae64d2d311/cover",
+          "start_time": "15:25",
+          "end_time": "15:35"
+        },
+        {
+          "show_name": "I Can Grow It",
+          "show_description": "Waking Up. Aaron, Novah and Joda go on a springtime adventure, meeting a beatboxing daffodil to find out why all the plants are starting to wake up.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/710041a4-f180-4d41-99b3-8aec4a2140f9/cover",
+          "start_time": "15:35",
+          "end_time": "15:45"
+        },
+        {
+          "show_name": "Talking Tom Heroes: Suddenly Super",
+          "show_description": "Super Like You. The Rakoonz are inspired by a comic to defeat the Peak City Heroes with a giant robot.   Followed by Ranger Hamza's Eco Quest.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/892a1247-06a4-4348-ba7b-c472ade8d613/cover",
+          "start_time": "15:45",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Andy's Dino Island",
+          "show_description": "Andy and the Runaway Ankylosaurus. Andy and Jen embark on an epic adventure across Dino Island with a runaway Ankylosaurus.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/09f69be5-27f2-455b-835e-4d4f877a3a43/cover",
+          "start_time": "16:00",
+          "end_time": "16:15"
+        },
+        {
+          "show_name": "Supertato",
+          "show_description": "Disco Fog. Evil Pea fogs up the supermarket by using a fog machine so that Supertato and the Tato Team get lost forever - but she ends up getting lost herself.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/456e265a-ba2b-44e0-a8c7-86dac564ff66/cover",
+          "start_time": "16:15",
+          "end_time": "16:25"
+        },
+        {
+          "show_name": "Magic Hands",
+          "show_description": "Wouldn't It Be Loverly. Pink Bird dons a pair of dancing shoes in the Magic Hands rendition of Wouldn't It Be Loverly from My Fair Lady, performed by Mae and Aimee in British Sign Language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c871528a-af68-4f89-8169-0e1d19db1019/cover",
+          "start_time": "16:25",
+          "end_time": "16:35"
+        },
+        {
+          "show_name": "Nick Cope's Popcast",
+          "show_description": "Nigel Had a Long Neck. Nick and the Popcasters create a song about Nigel the Giraffe, who longs to see the view from the top of Primrose Hill.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/19ed89db-60cc-4158-8b1e-b3c4e733904a/cover",
+          "start_time": "16:35",
+          "end_time": "16:40"
+        },
+        {
+          "show_name": "Vida the Vet",
+          "show_description": "Juno's Long-Lasting Cast. Juno struggles to be a calm patient while she waits for Vida to remove her cast.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/59539911-cb9b-3b7f-9801-471d9b8fa213/cover",
+          "start_time": "16:40",
+          "end_time": "16:55"
+        },
+        {
+          "show_name": "Big Lizard",
+          "show_description": "All About Home. Cosima is so excited to tell Big Lizard about her life on earth that she doesn't realise he has something exciting to say to her.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/10c8afc1-e223-3d29-bf5d-059c53293e45/cover",
+          "start_time": "16:55",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Rafi the Wishing Wizard",
+          "show_description": "The Unicorn Wish. Rafi's unicorn wish brings exciting quests, but she realises even heroes need rest - and the best adventures can be found at home.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cac2017c-9b7c-49ce-8c5a-6128b24eb6f5/cover",
+          "start_time": "17:00",
+          "end_time": "17:10"
+        },
+        {
+          "show_name": "Bluey",
+          "show_description": "Queens. During a game of queens, Bluey and Bingo find that playing the butler is much more fun. But someone must play the queen, even if it means not being afraid of a bit of hard work.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7dca3284-113e-45f7-8b5b-2b62920e7dd6/cover",
+          "start_time": "17:10",
+          "end_time": "17:15"
+        },
+        {
+          "show_name": "JoJo & Gran Gran",
+          "show_description": "It's Time to Find a Butterfly. JoJo searches for a butterfly to complete her nature tick-book. She learns that all butterflies start life as furry little caterpillars.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d8739bb3-b3fd-472d-b1a0-f32f7c3de3fb/cover",
+          "start_time": "17:15",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "Sarah & Duck",
+          "show_description": "World Bread Day. Animation. When there's a bread festival in the park, Sarah and Duck find themselves part of an exciting treasure hunt.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4cd86c77-3ff6-4537-bc97-032c70e9a74b/cover",
+          "start_time": "17:30",
+          "end_time": "17:35"
+        },
+        {
+          "show_name": "Charlie and Lola",
+          "show_description": "It Is Absolutely Completely Not Messy. Children's animation with the siblings. Lola won't tidy up the bedroom, and Charlie can't persuade her that a tidy room is a good thing.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0b266bbf-2ddf-427f-904e-8510f8cc5b04/cover",
+          "start_time": "17:35",
+          "end_time": "17:50"
+        },
+        {
+          "show_name": "Moon and Me",
+          "show_description": "Where Are the Friends? Everybody is very surprised to discover the Roundabout has been left in the sitting room.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4880ae91-0c81-4226-8846-11ac0d39bde9/cover",
+          "start_time": "17:50",
+          "end_time": "18:10"
+        },
+        {
+          "show_name": "BeddyByes",
+          "show_description": "Good to Share. BaBa enjoys sharing with friends but is disappointed when they are left with nothing. Luckily, MeMo and BaBa's other kind friends enjoy sharing back.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/746b323f-e069-4e7f-b4a1-2e0d09bb8517/cover",
+          "start_time": "18:10",
+          "end_time": "18:20"
+        },
+        {
+          "show_name": "In the Night Garden",
+          "show_description": "Washing the Haahoos. Children's series. Makka Pakka washes the smallest Pontipines' and the biggest Haahoos' faces. The Tombliboos have fun cleaning their teeth.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a54f3194-0f9d-4b5c-ae11-04a0e869f36e/cover",
+          "start_time": "18:20",
+          "end_time": "18:50"
+        },
+        {
+          "show_name": "CBeebies Bedtime Stories",
+          "show_description": "Katherine and Nat Sciver-Brunt - Find Your Happy. England cricketers Katherine and Nat Sciver-Brunt read a Bedtime Story about finding happiness.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/358ce465-cb1b-3338-bb9a-9be63f4003ef/cover",
           "start_time": "18:50",
           "end_time": "18:58"
         },

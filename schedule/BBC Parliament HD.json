@@ -3,39 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-parliament-uk.png",
   "schedule": [
     {
-      "date": "10 April 2026",
-      "programmes": [
-        {
-          "show_name": "BBC News",
-          "show_description": "BBC Parliament joins the BBC's rolling news channel.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/42c01536-b845-4133-8240-66c3f695380c/cover",
-          "start_time": "00:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "BBC Parliament joins the BBC's rolling news channel.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/93b96a10-6bd3-43c5-9181-482f454228c5/cover",
-          "start_time": "06:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "BBC Parliament joins the BBC's rolling news channel.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4bdd8c5c-65d9-4c3d-aea6-528fa64756fe/cover",
-          "start_time": "12:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "BBC Parliament joins the BBC's rolling news channel.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d15b1838-0575-4fda-ad69-ee8ea61eec08/cover",
-          "start_time": "18:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "11 April 2026",
       "programmes": [
         {
@@ -63,6 +30,39 @@
           "show_name": "BBC News",
           "show_description": "BBC Parliament joins the BBC's rolling news channel.",
           "show_logo": "https://images.metadata.sky.com/pd-image/6b7ee061-5cc0-468d-a64b-175e1977987b/cover",
+          "start_time": "18:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "12 April 2026",
+      "programmes": [
+        {
+          "show_name": "BBC News",
+          "show_description": "BBC Parliament joins the BBC's rolling news channel.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4f68f50d-c121-4fcb-ba2e-c39cb5998e1b/cover",
+          "start_time": "00:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "BBC Parliament joins the BBC's rolling news channel.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a2dd655e-cc25-4ffe-8537-a888be07af4b/cover",
+          "start_time": "06:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "BBC Parliament joins the BBC's rolling news channel.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d4f2d204-1f04-4295-88e8-2ed9a54104bd/cover",
+          "start_time": "12:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "BBC Parliament joins the BBC's rolling news channel.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1c3efc3d-0a14-437e-9e9d-1905902d36b9/cover",
           "start_time": "18:00",
           "end_time": "00:00"
         }

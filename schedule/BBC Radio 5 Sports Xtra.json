@@ -3,67 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-5-Sports-Extra.png",
   "schedule": [
     {
-      "date": "10 April 2026",
-      "programmes": [
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "10:55"
-        },
-        {
-          "show_name": "County Championship Cricket",
-          "show_description": "Kevin Howells presents live ball-by-ball cricket commentary from the County Championship.",
-          "show_logo": "",
-          "start_time": "10:55",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Horse Racing",
-          "show_description": "Live horse racing commentary of Ladies Day at the 2026 Grand National meeting at Aintree.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "16:15"
-        },
-        {
-          "show_name": "County Championship Cricket",
-          "show_description": "Kevin Howells presents live ball-by-ball cricket commentary from the County Championship.",
-          "show_logo": "",
-          "start_time": "16:15",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "This Is Sports Extra",
-          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "18:30",
-          "end_time": "19:45"
-        },
-        {
-          "show_name": "Rugby Union",
-          "show_description": "Live rugby union commentary of Bath Rugby v Northampton Saints in the quarter-finals of the European Champions Cup.",
-          "show_logo": "",
-          "start_time": "19:45",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The Masters",
-          "show_description": "Live golf commentary of the second round of The Masters at Augusta National Golf Club.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "11 April 2026",
       "programmes": [
         {
@@ -114,6 +53,53 @@
           "show_logo": "",
           "start_time": "19:30",
           "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "12 April 2026",
+      "programmes": [
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "10:55"
+        },
+        {
+          "show_name": "County Championship Cricket",
+          "show_description": "Kevin Howells presents live ball-by-ball cricket commentary from the County Championship.",
+          "show_logo": "",
+          "start_time": "10:55",
+          "end_time": "13:55"
+        },
+        {
+          "show_name": "Premier League Football",
+          "show_description": "Live football commentary of Nottingham Forest v Aston Villa in the Premier League.",
+          "show_logo": "",
+          "start_time": "13:55",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "County Championship Cricket",
+          "show_description": "Kevin Howells presents live ball-by-ball cricket commentary from the County Championship.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "This Is Sports Extra",
+          "show_description": "This is BBC Radio 5 Sports Extra - bringing you even more live commentaries from the world's greatest sporting events. Listen on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "18:30",
+          "end_time": "00:00"
         }
       ]
     }

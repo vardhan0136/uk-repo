@@ -3,81 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-scotland-uk.png",
   "schedule": [
     {
-      "date": "10 April 2026",
-      "programmes": [
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Reporting Scotland: News at Seven",
-          "show_description": "More from the day's top stories and communities across Scotland.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2267d17a-9897-4567-a4e2-857cb2f580a4/cover",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "Sportscene: Championship Live",
-          "show_description": "Live coverage as Queens Park host struggling Ross County in the Scottish Championship.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dad701df-cd43-4a21-9f8b-ecdc4dc41287/cover",
-          "start_time": "19:30",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Still Game",
-          "show_description": "5/6. Jack and Victor are determined to get their hands on the last steak pie at the butcher's. Contains adult humour.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ab6112f2-eceb-45c9-bb40-f7fc742836b8/cover",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "A View from the Terrace",
-          "show_description": "15/18. Every ounce of Scottish football from the SPFL to the Sunday league ringers. It means everything, it means nothing, and this is the view of the fans on the terrace.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c1cecda6-2eda-4876-811e-d4023bb6844c/cover",
-          "start_time": "22:30",
-          "end_time": "23:15"
-        },
-        {
-          "show_name": "Two Doors Down",
-          "show_description": "2/6. Eric tries to convalesce in peace but finds himself surrounded by curious visitors. Contains some strong language.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cb48a3ea-38a5-492d-8164-9e3e2bf64a62/cover",
-          "start_time": "23:15",
-          "end_time": "23:45"
-        },
-        {
-          "show_name": "Growing Up Scottish",
-          "show_description": "6/8. Some of Scotland's favourite comedians talk us through Scottish art, from finger painting to the Turner Prize via Mackintosh.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/add53e25-ce8c-44c9-a790-aa6579cbb1f0/cover",
-          "start_time": "23:45",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "11 April 2026",
       "programmes": [
         {
@@ -148,6 +73,88 @@
           "show_description": "Simon Bates and Richard Skinner present the chart programme, from November 1983. With Paul Young, Tina Turner, The Smiths, Marilyn, Simple Minds, The Style Council and Billy Joel.",
           "show_logo": "https://images.metadata.sky.com/pd-image/793bcff5-411b-32b9-95a2-7b445c53412a/cover",
           "start_time": "23:25",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "12 April 2026",
+      "programmes": [
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Reporting Scotland: News at Seven",
+          "show_description": "All the weekend national, UK-wide and international news on Sunday evening at 7.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/164cf3c3-3d13-480e-8592-cb11b104c6d7/cover",
+          "start_time": "19:00",
+          "end_time": "19:15"
+        },
+        {
+          "show_name": "Sportscene: Premiership Highlights",
+          "show_description": "Highlights of Falkirk v Rangers, and the best of Saturday's Premiership action.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/893f2cd6-4c22-4995-bc7a-0553b3555beb/cover",
+          "start_time": "19:15",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Paramedics on Scene",
+          "show_description": "8/10. Paramedics are at the scene of a huge, potentially toxic fire on an industrial estate.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/46691fa3-22b8-451a-93e9-6a3f327a0405/cover",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Still Game",
+          "show_description": "5/6. Jack and Victor are determined to get their hands on the last steak pie at the butcher's. Contains adult humour.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ab6112f2-eceb-45c9-bb40-f7fc742836b8/cover",
+          "start_time": "21:00",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "Scot Squad",
+          "show_description": "2/4. The cops deal with foul play at the farmyard and reckless road users. Contains some strong language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/27908514-b077-48c8-ad36-ae501c4cc424/cover",
+          "start_time": "21:30",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Situationships with Sophie and Christine",
+          "show_description": "8/8. Sophie and Christine find out whether looksmaxxing is dangerous or just a bit of filler. Contains some strong language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a44194cd-791b-4368-86ea-3a0319079ac3/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Debate Night: Leaders Special",
+          "show_description": "2/24. The first TV debate of the election campaign as Scotland prepares to go to the polls.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d6ab3666-bb99-43b9-b0f7-17acc9e1e535/cover",
+          "start_time": "22:30",
           "end_time": "00:00"
         }
       ]
