@@ -3,39 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-parliament-uk.png",
   "schedule": [
     {
-      "date": "11 April 2026",
-      "programmes": [
-        {
-          "show_name": "BBC News",
-          "show_description": "BBC Parliament joins the BBC's rolling news channel.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c58d5f85-0d69-42fd-9d03-13848ca76b7f/cover",
-          "start_time": "00:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "BBC Parliament joins the BBC's rolling news channel.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/798e5fc6-5d22-481c-a4d8-1d22e187a9f9/cover",
-          "start_time": "06:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "BBC Parliament joins the BBC's rolling news channel.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/eb49aca3-07ee-42ec-adad-6766467f8203/cover",
-          "start_time": "12:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "BBC Parliament joins the BBC's rolling news channel.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6b7ee061-5cc0-468d-a64b-175e1977987b/cover",
-          "start_time": "18:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "12 April 2026",
       "programmes": [
         {
@@ -64,6 +31,67 @@
           "show_description": "BBC Parliament joins the BBC's rolling news channel.",
           "show_logo": "https://images.metadata.sky.com/pd-image/1c3efc3d-0a14-437e-9e9d-1905902d36b9/cover",
           "start_time": "18:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "13 April 2026",
+      "programmes": [
+        {
+          "show_name": "BBC News",
+          "show_description": "BBC Parliament joins the BBC's rolling news channel.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3205cbbc-5417-45fd-ba44-907a750fd829/cover",
+          "start_time": "00:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "BBC Parliament joins the BBC's rolling news channel.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fe1a8b06-8c78-4e6b-a448-f6f3f6ccb396/cover",
+          "start_time": "06:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "BBC Parliament joins the BBC's rolling news channel.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/76e48e6c-3e5e-4aa1-836e-a3165cb5d5f6/cover",
+          "start_time": "12:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Live Northern Ireland Assembly...",
+          "show_description": "...- Executive Office Questions. Questions in Stormont to the Northern Ireland executive, with the deputy first minister Emma Little-Pengelly, on Monday 13 April.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/dfd1c5d6-7b6b-480d-81eb-a71684d2725f/cover",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "Live Housing, Communities and...",
+          "show_description": "...Local Government Questions. Coverage of questions to Steve Reed on Monday 13 April.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/953ada83-bb33-4d46-88b6-60a1fe8d67a1/cover",
+          "start_time": "14:30",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "Live House of Commons",
+          "show_description": "Coverage of the day's proceedings in the House of Commons on Monday 13 April.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d0a52aa7-dbd1-4e26-aa6b-86aa5c4f3f60/cover",
+          "start_time": "15:30",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "Northern Ireland Assembly -...",
+          "show_description": "...Executive Office Questions. Questions in Stormont to the Northern Ireland executive, with the deputy first minister Emma Little-Pengelly, on Monday 13 April.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/861cf2e5-25e8-49e8-a8c2-0f84d93793c4/cover",
+          "start_time": "22:30",
+          "end_time": "23:15"
+        },
+        {
+          "show_name": "Lords Questions",
+          "show_description": "Questions in the House of Lords to government ministers on Monday 13 April.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/24cbd5e1-b56c-4a25-afa0-197fc2730270/cover",
+          "start_time": "23:15",
           "end_time": "00:00"
         }
       ]

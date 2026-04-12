@@ -3,53 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-nan-Gaidheal.png",
   "schedule": [
     {
-      "date": "11 April 2026",
-      "programmes": [
-        {
-          "show_name": "Mar Radio Alba",
-          "show_description": "Tha BBC Radio nan Gaidheal mar BBC Radio Alba. BBC Radio nan Gaidheal joins BBC Radio Scotland.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Spòrs na Seachdain",
-          "show_description": "Spòrs ionadail, nàiseanta agus bho air feadh an t-saoghail còmhla ri Iain Moireasdan. Local, national and international sport presented by John Morrison.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Fàilt' air an Dùthaich",
-          "show_description": "Taghadh de cheòl dùthchail sean is ùr bho leithid Jo Dee Messina, Eddy Arnold agus Charly Reynolds. Choice of country music, old and new,  from Eddy Arnold and many more.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "Tiompan",
-          "show_description": "Ceòl Ceilteach, clàran ùra agus fios mu cò tha cluich càite le Mairead NicIllinnein. Celtic music, new releases and gig guide. Presented by Mairead MacLennan.",
-          "show_logo": "",
-          "start_time": "11:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Co-sheirm",
-          "show_description": "Liostaichean-chluiche de phìosan-ciùil a chaidh an clàradh aig fèis Celtic Connections. Music playlist recorded during Celtic Connections as part of the BBC Alba series, Seirm.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "Mar Radio Alba",
-          "show_description": "Tha BBC Radio nan Gaidheal mar BBC Radio Alba. BBC Radio nan Gaidheal joins BBC Radio Scotland.",
-          "show_logo": "",
-          "start_time": "13:00",
-          "end_time": "09:00"
-        }
-      ]
-    },
-    {
       "date": "12 April 2026",
       "programmes": [
         {
@@ -163,6 +116,116 @@
           "show_logo": "",
           "start_time": "22:00",
           "end_time": "07:30"
+        }
+      ]
+    },
+    {
+      "date": "13 April 2026",
+      "programmes": [
+        {
+          "show_name": "Aithris na Maidne",
+          "show_description": "Naidheachdan ionadail, nàiseanta is eadar-nàiseanta gach madainn. Local, national and international news each morning.",
+          "show_logo": "",
+          "start_time": "07:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Naoi gu Deich",
+          "show_description": "Tha Iain Caimbeul agus Iain X MacÌomhair a' toirt sùil tro cholbhan beachd an deireadh-sheachdain.  Iain Campbell and Iain X MacIver review the weekend newspaper columns.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "A' Mire ri Linda",
+          "show_description": "Tha Linda NicLeòid a' dol gar cuir ann an sunnd le taghadh de dh'òrain agus ceòl traidiseanta Gàidhlig. Linda Macleod presents a great choice of traditional Gaelic music.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Feasgar an-diugh",
+          "show_description": "Naidheachdan, còmhradh, spòrs, ceòl agus fealla-dhà. News, chat, sport, music and entertainment.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "Caithream Ciùil",
+          "show_description": "Ceòl Ceilteach agus fiosrachadh air na tha dol agaibhse. Gaelic and Celtic music and a round-up of what's on. Post-d - dethadol@bbc.co.uk.",
+          "show_logo": "",
+          "start_time": "13:30",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "Fàilte air a' Bhaile",
+          "show_description": "Prògram à tasglann Fàilte air a' Bhaile. Thadhal Mòrag Stiùbhart air Oilthigh Obar Dheathain ann an 1985. Fàilte air a' Bhaile from Aberdeen University in 1985.",
+          "show_logo": "",
+          "start_time": "15:30",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "Fàilt' air an Dùthaich",
+          "show_description": "Taghadh de cheòl dùthchail sean is ùr bho Megan Moroney, Kris Kristofferson is gu leòr eile. Choice of country music, old and new from Megan Moroney, Kris Kristofferson and others.",
+          "show_logo": "",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Aithris an Fheasgair",
+          "show_description": "Naidheachdan nàiseanta is ionadail.  Local, national and international news.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "17:28"
+        },
+        {
+          "show_name": "Craolaidhean Taghaidh 2026",
+          "show_description": "Craoladh Taghaidh bho Liberalaich Dheamocratach na h-Alba. A party election broadcast by the Scottish Liberal Democrats.",
+          "show_logo": "",
+          "start_time": "17:28",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "Siubhal gu Seachd le Pluto",
+          "show_description": "Ceòl, fealla-dhà agus sùil air spòrs ionadail, nàiseanta agus eadar-nàiseanta. Music and entertainment with Derek Pluto Murray along with his Musical Links. Tweet @DerekPluto.",
+          "show_logo": "",
+          "start_time": "17:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Spins",
+          "show_description": "Tha Grace airson a dhol a-mach spin na h-aonar ach tha daoine eile a' tighinn na rathad. It's Saturday night and Grace is out for a spin when she gets some unwanted company.",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "19:15"
+        },
+        {
+          "show_name": "Cruinn",
+          "show_description": "Ceòl, amaideas 's na beachdan agaibh air cuspairean a' là airson ur cuir ann a sunnd airson na seachdain. Music, opinion and general nonsense to get your week off to a good start.",
+          "show_logo": "",
+          "start_time": "19:15",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Fad Botal Fìon",
+          "show_description": "Tha Hannah, Lana agus Rachel a' dèanamh coimeas eadar na ficheadan agus tritheadan aca. Hannah, Lana and Rachel discuss the differences between your twenties and thirties.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "21:45"
+        },
+        {
+          "show_name": "Feasgar an-diugh",
+          "show_description": "Naidheachdan, còmhradh, spòrs, ceòl agus fealla-dhà. News, chat, sport, music and entertainment.",
+          "show_logo": "",
+          "start_time": "21:45",
+          "end_time": "23:10"
+        },
+        {
+          "show_name": "Naoi gu Deich",
+          "show_description": "Tha Iain Caimbeul agus Iain X MacÌomhair a' toirt sùil tro cholbhan beachd an deireadh-sheachdain.  Iain Campbell and Iain X MacIver review the weekend newspaper columns.",
+          "show_logo": "",
+          "start_time": "23:10",
+          "end_time": "00:10"
         }
       ]
     }

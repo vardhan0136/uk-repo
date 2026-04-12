@@ -3,347 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/TVC-News.png",
   "schedule": [
     {
-      "date": "11 April 2026",
-      "programmes": [
-        {
-          "show_name": "Politics Tonight",
-          "show_description": "A look at the day's political news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/788426c1-adf0-448b-ad6c-5391baab66a8/cover",
-          "start_time": "00:00",
-          "end_time": "00:30"
-        },
-        {
-          "show_name": "Politics Tonight",
-          "show_description": "A look at the day's political news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/04e4d4b0-6b2b-402f-bac8-fd317fc3985a/cover",
-          "start_time": "00:30",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "Business Nigeria",
-          "show_description": "Business news from Nigeria.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b27d26e2-a1e6-41fc-bae5-1a8225310cd3/cover",
-          "start_time": "01:00",
-          "end_time": "01:30"
-        },
-        {
-          "show_name": "Business Nigeria",
-          "show_description": "Business news from Nigeria.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b551c452-a5df-4747-9894-d525e7c24406/cover",
-          "start_time": "01:30",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "Your View",
-          "show_description": "The latest news and cultural trends are discussed in the studio by the panel, as they explore your views on the range of subjects.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2f641ecb-2106-42f5-bfcf-8bfe31506296/cover",
-          "start_time": "02:00",
-          "end_time": "02:30"
-        },
-        {
-          "show_name": "Your View",
-          "show_description": "The latest news and cultural trends are discussed in the studio by the panel, as they explore your views on the range of subjects.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/75ee08ca-aff1-467a-8003-5887e80c6dfc/cover",
-          "start_time": "02:30",
-          "end_time": "03:00"
-        },
-        {
-          "show_name": "Sports Desk",
-          "show_description": "A 30-minute topical programme, showcasing the latest in the world of sports.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/995ec4cc-e896-49b6-8166-76e5efbf5f04/cover",
-          "start_time": "03:00",
-          "end_time": "03:30"
-        },
-        {
-          "show_name": "Sports Desk",
-          "show_description": "A 30-minute topical programme, showcasing the latest in the world of sports.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1f0beda8-48bb-4af7-9de8-2e5684c966f5/cover",
-          "start_time": "03:30",
-          "end_time": "04:00"
-        },
-        {
-          "show_name": "This Morning",
-          "show_description": "An interview programme that focuses on highlighting various topical issues in the polity.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/61d3889d-f4f2-4804-83d2-65f4a3ebe945/cover",
-          "start_time": "04:00",
-          "end_time": "04:30"
-        },
-        {
-          "show_name": "This Morning",
-          "show_description": "An interview programme that focuses on highlighting various topical issues in the polity.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a868e665-56e8-4bab-b0ad-13e5c7c0a491/cover",
-          "start_time": "04:30",
-          "end_time": "05:00"
-        },
-        {
-          "show_name": "Journalists' Hangout",
-          "show_description": "Journalists from different media areas meet to discuss current issues.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b3c350d5-57b8-44d3-8b75-9de053334344/cover",
-          "start_time": "05:00",
-          "end_time": "05:30"
-        },
-        {
-          "show_name": "Journalists' Hangout",
-          "show_description": "Journalists from different media areas meet to discuss current issues.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1730c9be-ec9b-4401-a221-52e20b352c22/cover",
-          "start_time": "05:30",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Beyond Headlines",
-          "show_description": "Tune in and take a look at important topics and issues that need more attention, constructive discussions and in-depth analysis.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5cf4ea9b-3859-4c5d-8115-02fd674600c8/cover",
-          "start_time": "06:00",
-          "end_time": "06:30"
-        },
-        {
-          "show_name": "Sports Week",
-          "show_description": "A review of the week's action and reaction, news and views from the world of sport, with analysis by our studio experts and contributions from leading sports personalities.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5dd5c376-5e1f-445d-8718-cdc92491c18b/cover",
-          "start_time": "06:30",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "TVC Breakfast",
-          "show_description": "Breakfast news coverage from TVC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3c8c4292-5f00-4d62-91bc-a56371833e29/cover",
-          "start_time": "07:00",
-          "end_time": "07:30"
-        },
-        {
-          "show_name": "TVC Breakfast",
-          "show_description": "Breakfast news coverage from TVC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fa58b033-5abb-437d-aa44-1b63e520426f/cover",
-          "start_time": "07:30",
-          "end_time": "08:00"
-        },
-        {
-          "show_name": "TVC Breakfast",
-          "show_description": "Breakfast news coverage from TVC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e18da7e6-ad6d-4603-8b7f-87faa59101f6/cover",
-          "start_time": "08:00",
-          "end_time": "08:30"
-        },
-        {
-          "show_name": "TVC Breakfast",
-          "show_description": "Breakfast news coverage from TVC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/5414861c-7b1d-42f6-8cf2-45b624e6b45c/cover",
-          "start_time": "08:30",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "From its headquarters in Lagos, Nigeria, TVC News' teams of reporters and correspondents bring you the latest news and analysis of events from around Africa and beyond.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/477736c7-8150-4d23-bdeb-ffa2e3a64c58/cover",
-          "start_time": "09:00",
-          "end_time": "09:30"
-        },
-        {
-          "show_name": "Fireworks",
-          "show_description": "An investigative interview show looking at events and issues through hard-talk.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/042990f8-3dd1-4f6c-a1c0-6ae77073e6e6/cover",
-          "start_time": "09:30",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Technyfire",
-          "show_description": "A half-hour programme with cutting edge technologies and innovations from real estate to healthcare and fintech.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9513d1f9-f3df-4d55-88cb-379baa9fc803/cover",
-          "start_time": "10:00",
-          "end_time": "10:30"
-        },
-        {
-          "show_name": "TVC Insights",
-          "show_description": "This is a documentary series on special investigative stories made by our team of reporters.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/f4152f5c-0965-481e-8e46-a6b7c54e3556/cover",
-          "start_time": "10:30",
-          "end_time": "11:00"
-        },
-        {
-          "show_name": "The Big Issue",
-          "show_description": "Brings two opposing ends of an issue to a debate. Each party is allowed to state their position on the issue and then take on each other on points made.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ea805fd3-14ff-47e7-8d64-609db24b96bb/cover",
-          "start_time": "11:00",
-          "end_time": "11:30"
-        },
-        {
-          "show_name": "The Big Issue",
-          "show_description": "Brings two opposing ends of an issue to a debate. Each party is allowed to state their position on the issue and then take on each other on points made.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a6dd0605-9998-4434-b1dd-fef112135bca/cover",
-          "start_time": "11:30",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "Mid Day News",
-          "show_description": "A half hour live, breaking and in-depth news from across Nigeria.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/fd82df75-a6a0-493e-a6c3-2fe9161978c2/cover",
-          "start_time": "12:00",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "Sports Week",
-          "show_description": "A review of the week's action and reaction, news and views from the world of sport, with analysis by our studio experts and contributions from leading sports personalities.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/75bae379-583e-4995-b678-c48883b8d131/cover",
-          "start_time": "12:30",
-          "end_time": "13:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "From its headquarters in Lagos, Nigeria, TVC News' teams of reporters and correspondents bring you the latest news and analysis of events from around Africa and beyond.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/023d2ccc-b06c-4f3b-b6ff-41e635144ffe/cover",
-          "start_time": "13:00",
-          "end_time": "13:30"
-        },
-        {
-          "show_name": "Art Express",
-          "show_description": "News from the world of entertainment and the arts.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e62e4a11-2c99-4ad1-9025-e1cf589b1dba/cover",
-          "start_time": "13:30",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Standpoint",
-          "show_description": "Political news and discussions.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cc056b94-7ea5-4085-8a5f-8ff94cd26e75/cover",
-          "start_time": "14:00",
-          "end_time": "14:30"
-        },
-        {
-          "show_name": "Business Week",
-          "show_description": "A weekly round-up of all the business, economic and financial news and developments from around Africa, with location reports, studio interviews, analysis and comment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4effde15-edb9-43a5-9a58-010c0ad68c8a/cover",
-          "start_time": "14:30",
-          "end_time": "15:00"
-        },
-        {
-          "show_name": "World Now",
-          "show_description": "Latest news updates from around the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4d4df915-f9a1-4d24-87ec-18dfb003a35d/cover",
-          "start_time": "15:00",
-          "end_time": "15:30"
-        },
-        {
-          "show_name": "Sports Week",
-          "show_description": "A review of the week's action and reaction, news and views from the world of sport, with analysis by our studio experts and contributions from leading sports personalities.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/235b1046-75c7-45f0-8e4c-dfa27518cf07/cover",
-          "start_time": "15:30",
-          "end_time": "16:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "From its headquarters in Lagos, Nigeria, TVC News' teams of reporters and correspondents bring you the latest news and analysis of events from around Africa and beyond.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/87580722-3349-4535-976c-0daafe2a541c/cover",
-          "start_time": "16:00",
-          "end_time": "16:15"
-        },
-        {
-          "show_name": "Green Angle",
-          "show_description": "An exploration of issues related to the environment.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/674a690b-5650-4592-9585-0d77b0578c66/cover",
-          "start_time": "16:15",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "News",
-          "show_description": "From its headquarters in Lagos, Nigeria, TVC News' teams of reporters and correspondents bring you the latest news and analysis of events from around Africa and beyond.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/dd800a8b-4d79-481e-b5ed-b9f8603a4637/cover",
-          "start_time": "17:00",
-          "end_time": "17:30"
-        },
-        {
-          "show_name": "Reporters Files",
-          "show_description": "A feature of special stories by TVC News reporters.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4aeb3161-19de-45f6-8d9f-463fe8d19a2d/cover",
-          "start_time": "17:30",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Beyond Headlines",
-          "show_description": "Tune in and take a look at important topics and issues that need more attention, constructive discussions and in-depth analysis.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8b6bbdff-6717-4c4c-bdc9-c570c86f8b70/cover",
-          "start_time": "18:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "Technyfire",
-          "show_description": "A half-hour programme with cutting edge technologies and innovations from real estate to healthcare and fintech.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/02ad8967-8e07-4a00-be4b-4b3eed8bc652/cover",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "TVC News",
-          "show_description": "This is a half hour news bulletin of TVC News featuring breaking and in-depth news from Nigeria and across the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d41ec617-c7be-4f21-9ac9-849aa7bf98e7/cover",
-          "start_time": "19:00",
-          "end_time": "19:30"
-        },
-        {
-          "show_name": "TVC Insights",
-          "show_description": "This is a documentary series on special investigative stories made by our team of reporters.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/bbd7ffba-e616-4ee8-b04e-7c418727b3af/cover",
-          "start_time": "19:30",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Fireworks",
-          "show_description": "An investigative interview show looking at events and issues through hard-talk.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/70a9c1a1-d89f-49d7-b22e-f09961107eea/cover",
-          "start_time": "20:00",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "Art Express",
-          "show_description": "News from the world of entertainment and the arts.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/da2a34cf-5d20-4a41-9362-3836de13afa7/cover",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "The Hallowed Chambers",
-          "show_description": "Following the Hallowed Chambers.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/77a16e8d-06b3-4f37-b36e-f01c740b3af4/cover",
-          "start_time": "21:00",
-          "end_time": "21:30"
-        },
-        {
-          "show_name": "Labour Lens",
-          "show_description": "This is a half hour programme highlighting issues in Labour, work force, worker's welfare, unionism among others.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6c917b04-fd33-4ec1-a7e2-c67aa459e11d/cover",
-          "start_time": "21:30",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "TVC News",
-          "show_description": "This is a half hour news bulletin of TVC News featuring breaking and in-depth news from Nigeria and across the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a7e83fa7-e69f-471b-bb37-dcf82df7c064/cover",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "TVC News",
-          "show_description": "This is a half hour news bulletin of TVC News featuring breaking and in-depth news from Nigeria and across the world.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/cac22779-d50b-4522-958c-9aa7065029d7/cover",
-          "start_time": "22:30",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Standpoint",
-          "show_description": "Political news and discussions.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9f44dc47-513d-4dda-92aa-aa0f59079c3a/cover",
-          "start_time": "23:00",
-          "end_time": "23:30"
-        },
-        {
-          "show_name": "The Big Issue",
-          "show_description": "Brings two opposing ends of an issue to a debate. Each party is allowed to state their position on the issue and then take on each other on points made.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/db4ecfd3-744e-40ee-b485-e328e3e32845/cover",
-          "start_time": "23:30",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "12 April 2026",
       "programmes": [
         {
@@ -679,6 +338,340 @@
           "show_name": "Journalists' Hangout",
           "show_description": "Journalists from different media areas meet to discuss current issues.",
           "show_logo": "https://images.metadata.sky.com/pd-image/1318a169-d330-451a-a328-f9250a6046d1/cover",
+          "start_time": "23:30",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "13 April 2026",
+      "programmes": [
+        {
+          "show_name": "Journalists' Hangout",
+          "show_description": "Journalists from different media areas meet to discuss current issues.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1d49b44c-2022-47bb-b042-f96918085afe/cover",
+          "start_time": "00:00",
+          "end_time": "00:30"
+        },
+        {
+          "show_name": "Journalists' Hangout",
+          "show_description": "Journalists from different media areas meet to discuss current issues.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b572b952-f7fc-4378-9820-b90dd98a50ba/cover",
+          "start_time": "00:30",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "Journalists' Hangout",
+          "show_description": "Journalists from different media areas meet to discuss current issues.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/42cdcc01-7ea5-43e7-bce6-e39e4bb9c9e7/cover",
+          "start_time": "01:00",
+          "end_time": "01:30"
+        },
+        {
+          "show_name": "Politics On Sunday",
+          "show_description": "A panorama of the major political issues of the past week and an agenda-setter for the new week.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/09a1e14d-015e-4368-a1d0-157aebdec9d3/cover",
+          "start_time": "01:30",
+          "end_time": "02:00"
+        },
+        {
+          "show_name": "Fireworks",
+          "show_description": "An investigative interview show looking at events and issues through hard-talk.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/00afa0c5-1a9d-4fbd-b300-5168b0e27267/cover",
+          "start_time": "02:00",
+          "end_time": "02:30"
+        },
+        {
+          "show_name": "Reporters Files",
+          "show_description": "A feature of special stories by TVC News reporters.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/69a3038b-cc5e-47e9-8887-971cd93e9ffb/cover",
+          "start_time": "02:30",
+          "end_time": "03:00"
+        },
+        {
+          "show_name": "Green Angle",
+          "show_description": "An exploration of issues related to the environment.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1d709095-a005-4bc9-b595-bf90ece3c37d/cover",
+          "start_time": "03:00",
+          "end_time": "03:30"
+        },
+        {
+          "show_name": "Hallowed Chambers",
+          "show_description": "A window into goings on at the Nigerian parliament.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/288919eb-2387-476e-8090-1e2fed31395f/cover",
+          "start_time": "03:30",
+          "end_time": "04:00"
+        },
+        {
+          "show_name": "Journalists' Hangout",
+          "show_description": "Journalists from different media areas meet to discuss current issues.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/235c6156-a0ff-42bb-ba98-0ae1f2952ff9/cover",
+          "start_time": "04:00",
+          "end_time": "04:30"
+        },
+        {
+          "show_name": "Journalists' Hangout",
+          "show_description": "Journalists from different media areas meet to discuss current issues.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/39ee8158-648d-4158-a180-56c8b58302a6/cover",
+          "start_time": "04:30",
+          "end_time": "05:00"
+        },
+        {
+          "show_name": "Journalists' Hangout",
+          "show_description": "Journalists from different media areas meet to discuss current issues.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0021a218-59e9-4362-b03a-cb83133b3d72/cover",
+          "start_time": "05:00",
+          "end_time": "05:30"
+        },
+        {
+          "show_name": "Journalists' Hangout",
+          "show_description": "Journalists from different media areas meet to discuss current issues.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3360b5e3-712c-4001-919f-16cac8878478/cover",
+          "start_time": "05:30",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Art Express",
+          "show_description": "News from the world of entertainment and the arts.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b40ad460-3fee-4d38-af6b-ab6892aff183/cover",
+          "start_time": "06:00",
+          "end_time": "06:30"
+        },
+        {
+          "show_name": "TVC Insights",
+          "show_description": "This is a documentary series on special investigative stories made by our team of reporters.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c1b50bde-611d-412d-8691-e7a2ceead941/cover",
+          "start_time": "06:30",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "TVC Breakfast",
+          "show_description": "Breakfast news coverage from TVC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3386df9d-30a9-4de1-859e-6d470265af6a/cover",
+          "start_time": "07:00",
+          "end_time": "07:30"
+        },
+        {
+          "show_name": "TVC Breakfast",
+          "show_description": "Breakfast news coverage from TVC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1f62b290-fd12-434d-bdf8-6f3f093258cb/cover",
+          "start_time": "07:30",
+          "end_time": "08:00"
+        },
+        {
+          "show_name": "TVC Breakfast",
+          "show_description": "Breakfast news coverage from TVC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0c8657e9-521f-4f1a-88e5-b4235ec7057c/cover",
+          "start_time": "08:00",
+          "end_time": "08:30"
+        },
+        {
+          "show_name": "TVC Breakfast",
+          "show_description": "Breakfast news coverage from TVC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d282fa07-45e2-4411-b854-67f5938d8886/cover",
+          "start_time": "08:30",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Your View",
+          "show_description": "The latest news and cultural trends are discussed in the studio by the panel, as they explore your views on the range of subjects.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ca3d6017-762f-4f79-8504-19b96e5fdc2d/cover",
+          "start_time": "09:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Your View",
+          "show_description": "The latest news and cultural trends are discussed in the studio by the panel, as they explore your views on the range of subjects.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7178686d-1cfa-42f1-ac82-cc8927791021/cover",
+          "start_time": "09:30",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Your View",
+          "show_description": "The latest news and cultural trends are discussed in the studio by the panel, as they explore your views on the range of subjects.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7e29f3d0-bf78-4e11-bb93-eba51b26ba8c/cover",
+          "start_time": "10:00",
+          "end_time": "10:30"
+        },
+        {
+          "show_name": "Your View",
+          "show_description": "The latest news and cultural trends are discussed in the studio by the panel, as they explore your views on the range of subjects.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d29a277c-98a6-49c5-b7a3-491920bf2ee7/cover",
+          "start_time": "10:30",
+          "end_time": "11:00"
+        },
+        {
+          "show_name": "This Morning",
+          "show_description": "An interview programme that focuses on highlighting various topical issues in the polity.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f2b01a77-24f1-489d-922f-5b604136066c/cover",
+          "start_time": "11:00",
+          "end_time": "11:30"
+        },
+        {
+          "show_name": "This Morning",
+          "show_description": "An interview programme that focuses on highlighting various topical issues in the polity.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a0622854-51cc-4640-95cf-1f33233330d1/cover",
+          "start_time": "11:30",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "Mid Day News",
+          "show_description": "A half hour live, breaking and in-depth news from across Nigeria.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/ad425fc2-41ac-4f53-98b0-2a23529f8e96/cover",
+          "start_time": "12:00",
+          "end_time": "12:30"
+        },
+        {
+          "show_name": "Labour Lens",
+          "show_description": "This is a half hour programme highlighting issues in Labour, work force, worker's welfare, unionism among others.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7f1af0d4-01e8-444d-b999-fa5c2a5d40b9/cover",
+          "start_time": "12:30",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "From its headquarters in Lagos, Nigeria, TVC News' teams of reporters and correspondents bring you the latest news and analysis of events from around Africa and beyond.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/6c49738a-3d2e-4b79-88bf-2eced1ceb5ef/cover",
+          "start_time": "13:00",
+          "end_time": "13:30"
+        },
+        {
+          "show_name": "News",
+          "show_description": "From its headquarters in Lagos, Nigeria, TVC News' teams of reporters and correspondents bring you the latest news and analysis of events from around Africa and beyond.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/fcb28104-9b25-4ee1-850c-cd7f2c783573/cover",
+          "start_time": "13:30",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Business Nigeria",
+          "show_description": "Business news from Nigeria.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/43520e51-667e-40e5-90a6-d38bfc44c391/cover",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "Business Nigeria",
+          "show_description": "Business news from Nigeria.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/58becbbf-6f42-486c-82dd-eec20f0ee79e/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "World Now",
+          "show_description": "Latest news updates from around the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c538dae5-8740-4dcf-8c8a-10356009ddad/cover",
+          "start_time": "15:00",
+          "end_time": "15:30"
+        },
+        {
+          "show_name": "Technyfire",
+          "show_description": "A half-hour programme with cutting edge technologies and innovations from real estate to healthcare and fintech.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9dcb9f52-d915-4cf8-a0dc-874389a4b020/cover",
+          "start_time": "15:30",
+          "end_time": "16:00"
+        },
+        {
+          "show_name": "News",
+          "show_description": "From its headquarters in Lagos, Nigeria, TVC News' teams of reporters and correspondents bring you the latest news and analysis of events from around Africa and beyond.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/548ed802-48ed-414c-aaa9-b9bb74b8b438/cover",
+          "start_time": "16:00",
+          "end_time": "16:15"
+        },
+        {
+          "show_name": "Sports Desk",
+          "show_description": "A 30-minute topical programme, showcasing the latest in the world of sports.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/28f2d4b0-0b14-4547-ab33-19b87f703cf8/cover",
+          "start_time": "16:15",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Journalists' Hangout",
+          "show_description": "Journalists from different media areas meet to discuss current issues.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c6940645-58da-4f2b-ba34-43a6036b316c/cover",
+          "start_time": "17:00",
+          "end_time": "17:30"
+        },
+        {
+          "show_name": "Journalists' Hangout",
+          "show_description": "Journalists from different media areas meet to discuss current issues.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/56adb184-e89b-446c-8cc9-1d8bc55acda0/cover",
+          "start_time": "17:30",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "NAFDAC & Your Health",
+          "show_description": "A weekly health watchdog programme designed to educate and inform the public about activities of NAFDAC in regulating products in Nigeria.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a8f780ae-1113-46eb-b590-3ec60761747b/cover",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "TVC News",
+          "show_description": "This is a half hour news bulletin of TVC News featuring breaking and in-depth news from Nigeria and across the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5c7ac3d0-b137-4c33-be25-51f973629b01/cover",
+          "start_time": "19:00",
+          "end_time": "19:30"
+        },
+        {
+          "show_name": "TVC News",
+          "show_description": "This is a half hour news bulletin of TVC News featuring breaking and in-depth news from Nigeria and across the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/11fcfc88-b9a7-4e00-a82d-16ee567f6af1/cover",
+          "start_time": "19:30",
+          "end_time": "20:00"
+        },
+        {
+          "show_name": "Politics Tonight",
+          "show_description": "A look at the day's political news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/3271a4dc-ca51-48b0-9bf3-8b23169a0a18/cover",
+          "start_time": "20:00",
+          "end_time": "20:30"
+        },
+        {
+          "show_name": "Politics Tonight",
+          "show_description": "A look at the day's political news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/bc6c8b69-8897-401e-ae43-384a60e6abd0/cover",
+          "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Art Express",
+          "show_description": "News from the world of entertainment and the arts.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/327a8e36-840d-4839-b7cc-c10cccb98c1b/cover",
+          "start_time": "21:00",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "Reporters Files",
+          "show_description": "A feature of special stories by TVC News reporters.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1030bcdf-67ad-44bf-ad9e-9ec300d4a616/cover",
+          "start_time": "21:30",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "TVC News",
+          "show_description": "This is a half hour news bulletin of TVC News featuring breaking and in-depth news from Nigeria and across the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/1087fef5-d434-44a6-aaeb-649f80ad3af7/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "TVC News",
+          "show_description": "This is a half hour news bulletin of TVC News featuring breaking and in-depth news from Nigeria and across the world.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f64df45f-6519-4d75-bf5b-2149f28bc27b/cover",
+          "start_time": "22:30",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Journalists' Hangout",
+          "show_description": "Journalists from different media areas meet to discuss current issues.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/80616a27-2de5-47a0-9300-4cf390cc0323/cover",
+          "start_time": "23:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "Journalists' Hangout",
+          "show_description": "Journalists from different media areas meet to discuss current issues.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9eaaa942-ec24-49c5-8900-9392c2a6d69d/cover",
           "start_time": "23:30",
           "end_time": "00:00"
         }
