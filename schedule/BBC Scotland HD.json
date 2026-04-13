@@ -3,88 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-scotland-uk.png",
   "schedule": [
     {
-      "date": "12 April 2026",
-      "programmes": [
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "This is BBC Scotland",
-          "show_description": "Highlights from the BBC Scotland channel.",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Reporting Scotland: News at Seven",
-          "show_description": "All the weekend national, UK-wide and international news on Sunday evening at 7.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/164cf3c3-3d13-480e-8592-cb11b104c6d7/cover",
-          "start_time": "19:00",
-          "end_time": "19:15"
-        },
-        {
-          "show_name": "Sportscene: Premiership Highlights",
-          "show_description": "Highlights of Falkirk v Rangers, and the best of Saturday's Premiership action.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/893f2cd6-4c22-4995-bc7a-0553b3555beb/cover",
-          "start_time": "19:15",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "Paramedics on Scene",
-          "show_description": "8/10. Paramedics are at the scene of a huge, potentially toxic fire on an industrial estate.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/46691fa3-22b8-451a-93e9-6a3f327a0405/cover",
-          "start_time": "20:00",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Still Game",
-          "show_description": "5/6. Jack and Victor are determined to get their hands on the last steak pie at the butcher's. Contains adult humour.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ab6112f2-eceb-45c9-bb40-f7fc742836b8/cover",
-          "start_time": "21:00",
-          "end_time": "21:30"
-        },
-        {
-          "show_name": "Scot Squad",
-          "show_description": "2/4. The cops deal with foul play at the farmyard and reckless road users. Contains some strong language.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/27908514-b077-48c8-ad36-ae501c4cc424/cover",
-          "start_time": "21:30",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Situationships with Sophie and Christine",
-          "show_description": "8/8. Sophie and Christine find out whether looksmaxxing is dangerous or just a bit of filler. Contains some strong language.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a44194cd-791b-4368-86ea-3a0319079ac3/cover",
-          "start_time": "22:00",
-          "end_time": "22:30"
-        },
-        {
-          "show_name": "Debate Night: Leaders Special",
-          "show_description": "2/24. The first TV debate of the election campaign as Scotland prepares to go to the polls.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/d6ab3666-bb99-43b9-b0f7-17acc9e1e535/cover",
-          "start_time": "22:30",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "13 April 2026",
       "programmes": [
         {
@@ -203,6 +121,81 @@
           "show_name": "Street Gangs",
           "show_description": "1/3. Ex-gang member Graeme Armstrong tries to understand why young people are seduced by the perceived glamour and excitement of gang. Contains very strong language.",
           "show_logo": "https://images.metadata.sky.com/pd-image/31b49183-d68a-390a-854c-d0aae8becace/cover",
+          "start_time": "23:30",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "14 April 2026",
+      "programmes": [
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "This is BBC Scotland",
+          "show_description": "Highlights from the BBC Scotland channel.",
+          "show_logo": "",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Reporting Scotland: News at Seven",
+          "show_description": "More from the day's top stories and communities across Scotland.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5e90be60-3cd4-461e-a949-3827031b2e25/cover",
+          "start_time": "19:00",
+          "end_time": "19:15"
+        },
+        {
+          "show_name": "Women's International: Scotland v Belgium",
+          "show_description": "Live coverage from Easter Road as Scotland host Belgium in the Women's World Cup qualifiers.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e2c3e564-45b1-4d5c-bf78-705cf3cf79d1/cover",
+          "start_time": "19:15",
+          "end_time": "21:45"
+        },
+        {
+          "show_name": "Sacked in the Morning",
+          "show_description": "10/10. Craig Levein and Amy Irons explore the ins and outs of football management. Author and Podcaster Alastair Campbell on team talks, name-drops, and playing with Diego Maradona.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/c07694ca-db1b-43ac-bb51-a94892c62283/cover",
+          "start_time": "21:45",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "New: Inside Barlinnie",
+          "show_description": "2/2. Billy's new start is on a knife edge, and Alan is tempted back to his old ways. Contains very strong language.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/5a0b3b76-97ae-4cb1-b682-853b8792b97f/cover",
+          "start_time": "22:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Scotcast",
+          "show_description": "Conversation about Scotland's biggest news stories, hosted by Martin Geissler.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e607d9b3-2143-4206-aa13-2d4718d0fb76/cover",
+          "start_time": "23:00",
+          "end_time": "23:30"
+        },
+        {
+          "show_name": "Jules and Greg's Wild Swim",
+          "show_description": "2/6. Jules and Greg get ratty with each other as they spend hours driving round Fife's sea coasts and tidal pools.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/53a71672-9791-3b8d-8975-ccfdf41e9658/cover",
           "start_time": "23:30",
           "end_time": "00:00"
         }

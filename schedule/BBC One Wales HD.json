@@ -3,200 +3,6 @@
   "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
   "schedule": [
     {
-      "date": "12 April 2026",
-      "programmes": [
-        {
-          "show_name": "Weather for the Week Ahead",
-          "show_description": "Detailed weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/e9acc998-4b72-4470-bf7d-f58d906e2f27/cover",
-          "start_time": "01:55",
-          "end_time": "02:00"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/0796f5cc-97d9-48a1-a5e0-d0df19c60f43/cover",
-          "start_time": "02:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Breakfast",
-          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/a83b05d0-bd06-44e5-9977-3b08eb08a821/cover",
-          "start_time": "06:00",
-          "end_time": "07:50"
-        },
-        {
-          "show_name": "Match of the Day",
-          "show_description": "Highlights from five Premier League games as the season enters the final stretch. Leaders Arsenal are at home to Bournemouth looking to widen the gap at the top of the table.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/7c59a25d-a3a7-47a0-b485-c6977329d471/cover",
-          "start_time": "07:50",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Sunday with Laura Kuenssberg",
-          "show_description": "Victoria Derbyshire presents, with guests including health secretary Wes Streeting MP, leader of the Liberal Democrats Ed Davey MP and defence secretary James Cartlidge MP.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/df830a10-6c39-4ebc-ab7e-deba259e2075/cover",
-          "start_time": "09:00",
-          "end_time": "10:10"
-        },
-        {
-          "show_name": "Politics Wales",
-          "show_description": "To discuss the latest political news ahead of the Senedd election, we have Betsan Powys, Professor Matthew Wall, Heledd Fychan, Samuel Kurtz and Rodney Berman on the programme.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/c62e8862-a723-46a0-87a1-8f8f2a7e1399/cover",
-          "start_time": "10:10",
-          "end_time": "10:55"
-        },
-        {
-          "show_name": "Bargain Hunt",
-          "show_description": "Roo Irvine presents this episode from Detling in Kent. Experts Irita Marriott and Nick Hall help the reds and blues as they shop for antiques to sell at auction.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1df51732-f721-3b38-aae0-93534c05d96f/cover",
-          "start_time": "10:55",
-          "end_time": "11:25"
-        },
-        {
-          "show_name": "Nigel Slater's Simple Suppers",
-          "show_description": "Nigel Slater demonstrates straightforward, down to earth cooking, filmed at his home.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/6f202b80-683e-4fd9-b577-59c298b89b9b/cover",
-          "start_time": "11:25",
-          "end_time": "11:35"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ab5331c5-0209-4d37-bb95-b3b65323bd9d/cover",
-          "start_time": "11:35",
-          "end_time": "11:45"
-        },
-        {
-          "show_name": "Weather for the Week Ahead",
-          "show_description": "Detailed weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/35bb6ada-0c81-4887-b545-50f785f28d8a/cover",
-          "start_time": "11:45",
-          "end_time": "11:50"
-        },
-        {
-          "show_name": "Songs of Praise: Faith and Hospitality",
-          "show_description": "Pam Rhodes meets Christians expressing faith through hospitality and explores why offering a welcome lies at the heart of Christianity.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b6b23674-94bc-4903-8d77-4e552405585c/cover",
-          "start_time": "11:50",
-          "end_time": "12:30"
-        },
-        {
-          "show_name": "Rugby League Challenge Cup:...",
-          "show_description": "...Wakefield Trinity v Wigan Warriors. Wakefield Trinity play Wigan Warriors in the Rugby League Challenge Cup quarter-finals.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/eb3b13e2-da91-44b1-99fd-6c49e5255b17/cover",
-          "start_time": "12:30",
-          "end_time": "15:05"
-        },
-        {
-          "show_name": "Weatherman Walking: The Welsh Coast",
-          "show_description": "6/8. Weatherman Derek Brockway is in Flintshire, walking from Talacre to Rhyl.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/19090dc3-bfff-4a57-801f-9db6bbb968b7/cover",
-          "start_time": "15:05",
-          "end_time": "15:35"
-        },
-        {
-          "show_name": "Flaming Feasts",
-          "show_description": "3/6. Chris explores the real Wrexham, from historic lager and five-generation fruit farms to vegan pioneers, Portuguese flavours and a fire-cooked feast celebrating local produce.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/8763a88e-a457-48ac-b365-d32fe6847b1f/cover",
-          "start_time": "15:35",
-          "end_time": "16:05"
-        },
-        {
-          "show_name": "21st Century TV with Lucy Owen",
-          "show_description": "3/10. Lucy Owen looks back at 2002, the year that the History Hunters team solved clues in Fishguard and a Welsh artist sold hundreds of war paintings to Saudi Arabia.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/b0eaf940-dcef-46de-8009-519174e509ae/cover",
-          "start_time": "16:05",
-          "end_time": "16:35"
-        },
-        {
-          "show_name": "BBC News",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9f02cceb-eeee-4f0b-ad99-c0caadb25ed7/cover",
-          "start_time": "16:35",
-          "end_time": "16:50"
-        },
-        {
-          "show_name": "BBC Wales Today",
-          "show_description": "News and weather from BBC Wales.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/3bb7fc95-ffd5-4bb9-bf16-06f91c2a1ecb/cover",
-          "start_time": "16:50",
-          "end_time": "16:55"
-        },
-        {
-          "show_name": "Weather",
-          "show_description": "The latest weather forecast.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4dc22a63-af5a-4640-927a-fd74992e5d88/cover",
-          "start_time": "16:55",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Countryfile",
-          "show_description": "John Craven and Charlotte Smith head to the National Forest in the Midlands as it reaches a milestone moment: the planting of its 10-millionth tree.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/89dc7c96-ac9c-4261-93ce-140f9a98a406/cover",
-          "start_time": "17:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Secret Garden",
-          "show_description": "2/5. David Attenborough reveals the hidden lives of foxes, hedgehogs, blue tits and frogs, each making a life for themselves in a small urban garden in Bristol.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/480badd1-e5c7-4a0f-b4d6-5fcc096464a6/cover",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Antiques Roadshow",
-          "show_description": "The roadshow returns to Cromford Mills in Derbyshire, where finds include a rare opal collection, a pair of 300-year-old long johns and an Albert Medal for gallantry.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/74f0962e-e63e-4366-be03-bff4f381b88b/cover",
-          "start_time": "19:00",
-          "end_time": "20:00"
-        },
-        {
-          "show_name": "The Other Bennet Sister",
-          "show_description": "9/10. During a group hike up Scafell Pike, Mary prepares to speak her heart, but a fateful miscommunication and a sudden storm threaten to throw everything off course.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/9da22095-30e5-4347-badd-4c85ed4e8259/cover",
-          "start_time": "20:00",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "The Other Bennet Sister",
-          "show_description": "10/10. Mary receives a surprising offer and faces renewed pressure from her mother to find a match. With Mr Hayward absent from London, she must decide what happiness looks like for her.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/2c72536f-dcde-492f-a26a-a63438d7fd4d/cover",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "The Capture",
-          "show_description": "6/6. Carey is drawn deeper into Simon's insidious plan, with devastating consequences. Contains strong language, graphic violence and upsetting scenes.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/4e704fe8-c586-4def-897a-890f06a1e952/cover",
-          "start_time": "21:00",
-          "end_time": "22:15"
-        },
-        {
-          "show_name": "BBC News and Weather",
-          "show_description": "The latest national and international news from the BBC.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/818ab696-1a85-4947-bdfa-5bf1aa4ea1db/cover",
-          "start_time": "22:15",
-          "end_time": "22:40"
-        },
-        {
-          "show_name": "BBC Wales Today",
-          "show_description": "News and weather from BBC Wales.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/ad71dddf-9823-478b-9493-6ac377811461/cover",
-          "start_time": "22:40",
-          "end_time": "22:45"
-        },
-        {
-          "show_name": "Match of the Day",
-          "show_description": "Gabby Logan presents highlights from Sunday's four Premier League games, including title contenders Manchester City against Chelsea.",
-          "show_logo": "https://images.metadata.sky.com/pd-image/1b27be8f-c648-46b4-b2de-8060cb4a2690/cover",
-          "start_time": "22:45",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "13 April 2026",
       "programmes": [
         {
@@ -394,6 +200,165 @@
           "show_logo": "https://images.metadata.sky.com/pd-image/bd040420-481c-48b8-8f9d-b7f3bc5a760e/cover",
           "start_time": "23:10",
           "end_time": "01:10"
+        }
+      ]
+    },
+    {
+      "date": "14 April 2026",
+      "programmes": [
+        {
+          "show_name": "Weather for the Week Ahead",
+          "show_description": "Detailed weather forecast.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/48999f7a-f618-4d3c-b88f-c08c7f2c593f/cover",
+          "start_time": "01:10",
+          "end_time": "01:15"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "BBC One joins the BBC's rolling news channel for a night of news.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/0ec0c687-7c5f-48b6-a2d9-c1b1545a3fde/cover",
+          "start_time": "01:15",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Breakfast",
+          "show_description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d4dd2eef-e860-44de-a87e-5a9c79b3739d/cover",
+          "start_time": "06:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Morning Live",
+          "show_description": "Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/cac87848-dfd4-4855-9511-612e6ef963ca/cover",
+          "start_time": "09:30",
+          "end_time": "10:45"
+        },
+        {
+          "show_name": "Farm 999",
+          "show_description": "12/15. Farmers help rescue teams as floodwaters threaten lives in Lincolnshire, a massive bird crime is uncovered on a Wiltshire farm, and Paul Colgan joins a rural mountain rescue team.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f8fa62c3-0c05-4f10-a0eb-59d8ae4ef134/cover",
+          "start_time": "10:45",
+          "end_time": "11:15"
+        },
+        {
+          "show_name": "Homes Under the Hammer",
+          "show_description": "Martin comes across a layout he's never seen before, which is rare given his 20-plus years on the show! Dion encounters all weathers in Manchester and Leeds.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/09912f45-3124-49d1-9fc5-be3d3d87fe36/cover",
+          "start_time": "11:15",
+          "end_time": "12:15"
+        },
+        {
+          "show_name": "Bargain Hunt",
+          "show_description": "Join Charlie Ross for today's show in Shropshire. Experts Charles Hanson and Ben Cooper help the Red and Blue teams as they do battle at Oswestry Showground.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/7837553f-42d4-3a3e-b092-e28f9c34e2e8/cover",
+          "start_time": "12:15",
+          "end_time": "13:00"
+        },
+        {
+          "show_name": "BBC News at One including Wales Today",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/94b9a41a-9bff-40ad-af38-d497cc535742/cover",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Shift the Thrift",
+          "show_description": "2/12. In High Wycombe, mother and daughter Liz and Alice battle to raise money for Great Ormond Street Hospital, gambling on vintage fashion, ceramics and a bold sewing machine buy.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/9ff82bfe-6c61-40e5-8042-831e83670e3f/cover",
+          "start_time": "14:00",
+          "end_time": "14:30"
+        },
+        {
+          "show_name": "Designing the Hebrides",
+          "show_description": "2/6. Banjo and his team have been tasked with updating a crumbling bothy for the community on the Isle of Ulva. Can Banjo transform it into a cosy, welcoming retreat?",
+          "show_logo": "https://images.metadata.sky.com/pd-image/116e2071-597b-3362-b76a-d5727f26e548/cover",
+          "start_time": "14:30",
+          "end_time": "15:00"
+        },
+        {
+          "show_name": "Escape to the Country",
+          "show_description": "44/50. Alistair Appleton helps a couple find a characterful, older home in East Anglia.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/e3669cd1-28fe-4cb9-86e0-ab07d0f3a387/cover",
+          "start_time": "15:00",
+          "end_time": "15:45"
+        },
+        {
+          "show_name": "I Made It at Market",
+          "show_description": "6/10. Dom revisits metal sculptor Lindon and keepsake artist Andie to find out about their growing businesses and how much they are earning after leaving his unique business boot camp.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/4f787d3c-a6da-4959-b08c-9c11529bacee/cover",
+          "start_time": "15:45",
+          "end_time": "16:30"
+        },
+        {
+          "show_name": "The Finish Line",
+          "show_description": "10/30. Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a4ca6728-19a5-4bd6-94bc-b5537f40fa0f/cover",
+          "start_time": "16:30",
+          "end_time": "17:15"
+        },
+        {
+          "show_name": "New: Pointless",
+          "show_description": "5/47. Alexander Armstrong is joined by co-host Tom Allen for the quiz where contestants try to score as few points as possible by coming up with the answers no-one else could think of.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f18d7e8f-090b-45e8-b8ef-c035e3d5593a/cover",
+          "start_time": "17:15",
+          "end_time": "18:00"
+        },
+        {
+          "show_name": "BBC News",
+          "show_description": "The latest national and international news from the BBC.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/f1cc14fd-2aa6-4c38-8b3e-37c04691bbfd/cover",
+          "start_time": "18:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "BBC Wales Today",
+          "show_description": "News and weather from BBC Wales.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/008e1872-7411-4b5f-a0d8-82b88485dc86/cover",
+          "start_time": "18:30",
+          "end_time": "18:55"
+        },
+        {
+          "show_name": "Party Election Broadcast by the Wales Green Party",
+          "show_description": "A party election broadcast on behalf of Wales Green Party.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/a93b84a1-e7d5-447d-912d-b47eedfe0bc5/cover",
+          "start_time": "18:55",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Match of the Day Wales: Wales v Albania",
+          "show_description": "Catrin Heledd brings you live coverage of Wales versus Albania at the Stok Cae Ras in Wrexham as Wales continue qualification for the World Cup in 2027.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/8745816c-5739-49c8-8453-801b69cd40ac/cover",
+          "start_time": "19:00",
+          "end_time": "21:30"
+        },
+        {
+          "show_name": "Extraordinary Portraits with Bill Bailey",
+          "show_description": "3/6. Bill Bailey matches wildlife sanctuary owner Lindsay with celebrity artist and animal lover Ricky Wilson. But Ricky faces an artistic dilemma.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d514ed9c-e2bd-4256-ab43-7b444c421b95/cover",
+          "start_time": "21:30",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "BBC News and Weather",
+          "show_description": "The latest national and international news, with reports from BBC correspondents worldwide.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/b7ae3563-4b49-4d5b-937b-6f8fdb175749/cover",
+          "start_time": "22:00",
+          "end_time": "22:30"
+        },
+        {
+          "show_name": "BBC Wales Today",
+          "show_description": "News and weather from BBC Wales.",
+          "show_logo": "https://images.metadata.sky.com/pd-image/91f0ae3e-f2c5-4db5-aed8-e744652b4ed3/cover",
+          "start_time": "22:30",
+          "end_time": "22:40"
+        },
+        {
+          "show_name": "Yesterday",
+          "show_description": "An unsuccessful singer-songwriter wakes up in a world where no-one remembers The Beatles. Contains very strong language. [2019]",
+          "show_logo": "https://images.metadata.sky.com/pd-image/d37d9b4a-239e-4dc0-a5ef-98a1c2bb94e2/cover",
+          "start_time": "22:40",
+          "end_time": "00:30"
         }
       ]
     }
