@@ -3,8 +3,22 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Scotland.png",
   "schedule": [
     {
-      "date": "13 April 2026",
+      "date": "14 April 2026",
       "programmes": [
+        {
+          "show_name": "Scotcast",
+          "show_description": "Martin Geissler asks who benefits from Wes Streeting stirring up a fresh row about another independence referendum.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "00:30"
+        },
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "Joining Radio 5 Live.",
+          "show_logo": "",
+          "start_time": "00:30",
+          "end_time": "06:00"
+        },
         {
           "show_name": "Radio Scotland Breakfast",
           "show_description": "News from across Scotland and the world, plus sport, weather, entertainment and big name interviews.",
@@ -35,7 +49,7 @@
         },
         {
           "show_name": "Afternoons",
-          "show_description": "Kerr Mercer's Love Me Twice is Len's Arts Mixtape, and Gene Kelly's widow Patricia Ward Kelly and Scottish Ballet's Christopher Hampson talk about Scottish Ballet's Starstruck.",
+          "show_description": "Len Pennie keeps you up to date on what's happening in the arts and culture scene across Scotland.",
           "show_logo": "",
           "start_time": "15:30",
           "end_time": "16:00"
@@ -49,21 +63,21 @@
         },
         {
           "show_name": "Party Election Broadcasts 2026",
-          "show_description": "A party election broadcast by the Scottish Liberal Democrats for the Scottish Parliament Election on Thursday the 7th of May 2026.",
+          "show_description": "A party election broadcast by Reform UK for the Scottish Parliament Election on Thursday the 7th of May 2026.",
           "show_logo": "",
           "start_time": "17:58",
           "end_time": "18:00"
         },
         {
           "show_name": "Get It On with Bryan Burnett",
-          "show_description": "On tonight's show, we want to hear about the bands who have a number in their name. We could head in One Direction along with 10,000 Maniacs and end up with S Club 7!",
+          "show_description": "Tonight, it's all going to be Oh So Quiet! We are after the singers who sing quietly - from Mark Knopfler to Lana Del Rey, it's the softly sung songs in a night of whisperpop.",
           "show_logo": "",
           "start_time": "18:00",
           "end_time": "20:00"
         },
         {
-          "show_name": "Vic Galloway",
-          "show_description": "Vic has new music from The Twilight Sad and Pictish Trail, and Scottish classics from The Delgados and The Rezillos. Parallel Lines features the Small Faces and Led Zeppelin.",
+          "show_name": "Another Country with Ricky Ross",
+          "show_description": "New and classic country and Americana from Kacey Musgraves, Ella Langley, Willie Nelson, Teddy Thompson, Ashley McBryde and the song played in space during the Artemis mission.",
           "show_logo": "",
           "start_time": "20:00",
           "end_time": "22:00"
@@ -78,7 +92,7 @@
       ]
     },
     {
-      "date": "14 April 2026",
+      "date": "15 April 2026",
       "programmes": [
         {
           "show_name": "Scotcast",
@@ -134,18 +148,25 @@
           "show_description": "Breaking down the day's talking points with comment and opinion, plus sport, travel and weather.",
           "show_logo": "",
           "start_time": "16:00",
+          "end_time": "17:58"
+        },
+        {
+          "show_name": "Party Election Broadcasts 2026",
+          "show_description": "A party election broadcast by the Scottish Family party for the Scottish Parliament Election on Thursday 7 May 2026.",
+          "show_logo": "",
+          "start_time": "17:58",
           "end_time": "18:00"
         },
         {
           "show_name": "Get It On with Bryan Burnett",
-          "show_description": "Tonight, it's all going to be Oh So Quiet! We are after the singers who sing quietly - from Mark Knopfler to Lana Del Rey, it's the softly sung songs in a night of whisperpop.",
+          "show_description": "From George Michael sitting in a Different Corner to Bonnie Raitt wishing her love was reciprocated, we are after the songs about one-way love.",
           "show_logo": "",
           "start_time": "18:00",
           "end_time": "20:00"
         },
         {
-          "show_name": "Another Country with Ricky Ross",
-          "show_description": "Showcasing new and classic country and Americana music.",
+          "show_name": "The Quay Sessions",
+          "show_description": "Live sessions and archive performances from Pacific Quay alongside news of upcoming gigs and festivals with upfront releases and classic tracks from some of your favourite artists.",
           "show_logo": "",
           "start_time": "20:00",
           "end_time": "22:00"

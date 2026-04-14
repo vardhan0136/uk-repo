@@ -3,60 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Humberside.png",
   "schedule": [
     {
-      "date": "13 April 2026",
-      "programmes": [
-        {
-          "show_name": "As Radio 5 Live",
-          "show_description": "A simulcast with the BBC's news and sport network Radio 5 Live",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Kofi Smiles",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Sally Fairfax",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Richard Stead",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "18:00"
-        },
-        {
-          "show_name": "Humberside Sport",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "18:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Arzu Dutta",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "The Late Show",
-          "show_description": "",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "01:00"
-        }
-      ]
-    },
-    {
       "date": "14 April 2026",
       "programmes": [
         {
@@ -85,6 +31,53 @@
           "show_description": "",
           "show_logo": "",
           "start_time": "14:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Humberside Sport Live",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "19:00",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "The Late Show",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "01:00"
+        }
+      ]
+    },
+    {
+      "date": "15 April 2026",
+      "programmes": [
+        {
+          "show_name": "As Radio 5 Live",
+          "show_description": "A simulcast with the BBC's news and sport network Radio 5 Live",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Kofi Smiles",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Sally Fairfax",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Richard Stead",
+          "show_description": "",
+          "show_logo": "",
+          "start_time": "14:00",
           "end_time": "18:00"
         },
         {
@@ -95,7 +88,7 @@
           "end_time": "19:00"
         },
         {
-          "show_name": "Bek Homer",
+          "show_name": "John Kane's Northern Soul and Motown",
           "show_description": "",
           "show_logo": "",
           "start_time": "19:00",
