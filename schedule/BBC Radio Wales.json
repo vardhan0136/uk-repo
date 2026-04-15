@@ -3,102 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Wales.png",
   "schedule": [
     {
-      "date": "14 April 2026",
-      "programmes": [
-        {
-          "show_name": "Relax with Radio Wales",
-          "show_description": "Relax, unwind and chill out with an hour of classic and contemporary tunes.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "01:00"
-        },
-        {
-          "show_name": "As BBC Radio 5 Live",
-          "show_description": "See listings for BBC Radio 5 Live on BBC Sounds.",
-          "show_logo": "",
-          "start_time": "01:00",
-          "end_time": "06:00"
-        },
-        {
-          "show_name": "Radio Wales News Update",
-          "show_description": "The latest news from Wales and the world.",
-          "show_logo": "",
-          "start_time": "06:00",
-          "end_time": "06:05"
-        },
-        {
-          "show_name": "Wake Up with Radio Wales",
-          "show_description": "A lively mix of music to start the day. Perfect for your pod!",
-          "show_logo": "",
-          "start_time": "06:05",
-          "end_time": "06:31"
-        },
-        {
-          "show_name": "Mel Owen's Manifesto",
-          "show_description": "With the Senedd election looming, what do the people of Wales actually want? Comedian Mel Owen heads across the country, speaking to voters and writing her own manifesto.",
-          "show_logo": "",
-          "start_time": "06:31",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Radio Wales Breakfast",
-          "show_description": "Everything you need to know as you wake up.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "09:00"
-        },
-        {
-          "show_name": "Bronwen Lewis",
-          "show_description": "Bronwen brightens your morning with great music and entertainment. Call 03700 100 110 Text 81012 or message via X @bbcradiowales.",
-          "show_logo": "",
-          "start_time": "09:00",
-          "end_time": "12:00"
-        },
-        {
-          "show_name": "The Phone In",
-          "show_description": "Be part of the nation's conversation.",
-          "show_logo": "",
-          "start_time": "12:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Behnaz Akhgar",
-          "show_description": "Former crimefighter turned crime writer Clare Mackintosh chats about her latest novel, and king of the crops Terry Walton answers your questions on growing your own.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Radio Wales Drive",
-          "show_description": "Everything you need to know as you head home.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "18:30"
-        },
-        {
-          "show_name": "The Swansea Boys Who Built Bombs",
-          "show_description": "The little known story of the Welsh scientists who developed atomic weapons and how their research eventually turned to peace.",
-          "show_logo": "",
-          "start_time": "18:30",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Radio Wales Sport",
-          "show_description": "Live commentary of Wales v Albania in the Women's World Cup qualifiers. Kick-off 7.15pm. Huddersfield v Cardiff City available on FM in south east Wales only.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "22:00"
-        },
-        {
-          "show_name": "Eleri Siôn",
-          "show_description": "Eleri brightens your night-time with great music and chat. Call 03700 100 110 Text 81012 or via X @bbcradiowales.",
-          "show_logo": "",
-          "start_time": "22:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "15 April 2026",
       "programmes": [
         {
@@ -173,7 +77,7 @@
         },
         {
           "show_name": "Country Focus",
-          "show_description": "Programme serving everyone living in the countryside and tackling the issues affecting them. With rural, farming and environmental news.",
+          "show_description": "Rhodri tries a secure off-lead dog field with his four-legged friend Gordon, a jewellery business in Carmarthenshire, and insight into rural chaplaincy in Montgomeryshire.",
           "show_logo": "",
           "start_time": "18:30",
           "end_time": "19:00"
@@ -197,6 +101,102 @@
           "show_description": "The Walescast team present a live edition of their podcast following the leaders' debate.",
           "show_logo": "",
           "start_time": "21:30",
+          "end_time": "22:00"
+        },
+        {
+          "show_name": "Eleri Siôn",
+          "show_description": "Eleri brightens your night-time with great music and chat. Call 03700 100 110 Text 81012 or via X @bbcradiowales.",
+          "show_logo": "",
+          "start_time": "22:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "16 April 2026",
+      "programmes": [
+        {
+          "show_name": "Relax with Radio Wales",
+          "show_description": "Relax, unwind and chill out with an hour of classic and contemporary tunes.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "01:00"
+        },
+        {
+          "show_name": "As BBC Radio 5 Live",
+          "show_description": "See listings for BBC Radio 5 Live on BBC Sounds.",
+          "show_logo": "",
+          "start_time": "01:00",
+          "end_time": "06:00"
+        },
+        {
+          "show_name": "Radio Wales News Update",
+          "show_description": "The latest news from Wales and the world.",
+          "show_logo": "",
+          "start_time": "06:00",
+          "end_time": "06:05"
+        },
+        {
+          "show_name": "Wake Up with Radio Wales",
+          "show_description": "A lively mix of music to start the day. Perfect for your pod!",
+          "show_logo": "",
+          "start_time": "06:05",
+          "end_time": "06:31"
+        },
+        {
+          "show_name": "Country Focus",
+          "show_description": "Rhodri tries a secure off-lead dog field with his four-legged friend Gordon, a jewellery business in Carmarthenshire, and insight into rural chaplaincy in Montgomeryshire.",
+          "show_logo": "",
+          "start_time": "06:31",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Radio Wales Breakfast",
+          "show_description": "Everything you need to know as you wake up.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "09:00"
+        },
+        {
+          "show_name": "Bronwen Lewis",
+          "show_description": "Bronwen brightens your morning with great music and entertainment. Call 03700 100 110 Text 81012 or message via X @bbcradiowales.",
+          "show_logo": "",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "show_name": "The Phone In",
+          "show_description": "Be part of the nation's conversation.",
+          "show_logo": "",
+          "start_time": "12:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Behnaz Akhgar",
+          "show_description": "Celebrity guests, expert advice, and we test your anagram-solving skills in The Name Game. Call or WhatsApp 03700 100 110 Text 81012.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Radio Wales Drive",
+          "show_description": "Everything you need to know as you head home.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "18:30"
+        },
+        {
+          "show_name": "What Just Happened?",
+          "show_description": "2/4. Comedy panel show hosted by Robin Morgan.",
+          "show_logo": "",
+          "start_time": "18:30",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Aleighcia Scott",
+          "show_description": "Aleighcia Scott with a show mixing old school, new school and in-between school.",
+          "show_logo": "",
+          "start_time": "19:00",
           "end_time": "22:00"
         },
         {

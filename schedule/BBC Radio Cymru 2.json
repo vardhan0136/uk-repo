@@ -3,74 +3,6 @@
   "channel_logo": "https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/Radio/BBC-Radio-Cymru-2.png",
   "schedule": [
     {
-      "date": "14 April 2026",
-      "programmes": [
-        {
-          "show_name": "Gweler BBC Radio 2",
-          "show_description": "Mae Radio Cymru 2 yn ymuno â BBC Radio 2 dros nos.",
-          "show_logo": "",
-          "start_time": "00:00",
-          "end_time": "07:00"
-        },
-        {
-          "show_name": "Sioe Frecwast",
-          "show_description": "Cerddoriaeth ac adloniant gyda Rhydian Bowen Phillips. Music and entertainment breakfast show with Rhydian Bowen Phillips.",
-          "show_logo": "",
-          "start_time": "07:00",
-          "end_time": "10:00"
-        },
-        {
-          "show_name": "Lisa Gwilym",
-          "show_description": "Lisa Gwilym yn chwarae eich hoff fiwsig. Lisa Gwilym plays your favourite music.",
-          "show_logo": "",
-          "start_time": "10:00",
-          "end_time": "14:00"
-        },
-        {
-          "show_name": "Ifan Jones Evans",
-          "show_description": "Digon o gerddoriaeth, chwerthin a sgwrsio, yn ogystal â chystadleuaeth neu ddwy. Music and chat, plus a competition or two.",
-          "show_logo": "",
-          "start_time": "14:00",
-          "end_time": "17:00"
-        },
-        {
-          "show_name": "Traciau Radio Cymru 2",
-          "show_description": "Tiwns trwy'r dydd yn parhau ar Radio Cymru 2. More tunes on Radio Cymru 2.",
-          "show_logo": "",
-          "start_time": "17:00",
-          "end_time": "19:00"
-        },
-        {
-          "show_name": "Y Gerddorfa: Cowbois Rhos Botwnnog",
-          "show_description": "Aled Hughes yn cyflwyno gig arbennig gan Cowbois Rhos Botwnnog a Cherddorfa Genedlaethol Gymreig y BBC.  Aled Hughes presents a concert with Cowbois Rhos Botwnnog and BBC Now.",
-          "show_logo": "",
-          "start_time": "19:00",
-          "end_time": "20:30"
-        },
-        {
-          "show_name": "Tapiau Coll",
-          "show_description": "Barry 'Archie' Jones yn taflu golwg unigryw ar haenau sain rhai o dapiau pwysicaf cerddoriaeth Gymraeg. Barry 'Archie' Jones looks at the master tapes of influential Welsh albums.",
-          "show_logo": "",
-          "start_time": "20:30",
-          "end_time": "21:00"
-        },
-        {
-          "show_name": "Caryl",
-          "show_description": "Cerddoriaeth a hwyl gyda'r hwyr gyda Caryl Parry Jones. Music and fun with Caryl Parry Jones.",
-          "show_logo": "",
-          "start_time": "21:00",
-          "end_time": "23:00"
-        },
-        {
-          "show_name": "Y Clwb PJs",
-          "show_description": "Ymunwch â Caryl i ymlacio wrth wrando ar gerddoriaeth hudolus cyn cysgu. Unwind with Caryl while listening to soothing music before sleeping.",
-          "show_logo": "",
-          "start_time": "23:00",
-          "end_time": "00:00"
-        }
-      ]
-    },
-    {
       "date": "15 April 2026",
       "programmes": [
         {
@@ -103,7 +35,7 @@
         },
         {
           "show_name": "Ifan Jones Evans",
-          "show_description": "Digon o gerddoriaeth, chwerthin a sgwrsio, yn ogystal â chystadleuaeth neu ddwy. Music and chat, plus a competition or two.",
+          "show_description": "Colin Parri sy'n cadw cwmni i Ifan Jones Evans i hel atgofion am ei ddyddiau ysgol. Colin Parri joins Ifan to talk about his school days.",
           "show_logo": "",
           "start_time": "14:00",
           "end_time": "17:00"
@@ -127,6 +59,74 @@
           "show_description": "Rhestr chwarae wedi'i churadu gan Molly Palmer. A playlist curated by Molly Palmer.",
           "show_logo": "",
           "start_time": "20:30",
+          "end_time": "21:00"
+        },
+        {
+          "show_name": "Caryl",
+          "show_description": "Cerddoriaeth a hwyl gyda'r hwyr gyda Steffan Hughes yn lle Caryl Parry Jones. Music and fun with Steffan Hughes sitting in for Caryl Parry Jones.",
+          "show_logo": "",
+          "start_time": "21:00",
+          "end_time": "23:00"
+        },
+        {
+          "show_name": "Y Clwb PJs",
+          "show_description": "Ymunwch â Steffan Hughes i ymlacio wrth wrando ar gerddoriaeth hudolus cyn cysgu.  Unwind with Steffan Hughes while listening to soothing music before sleeping.",
+          "show_logo": "",
+          "start_time": "23:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "date": "16 April 2026",
+      "programmes": [
+        {
+          "show_name": "Gweler BBC Radio 2",
+          "show_description": "Mae Radio Cymru 2 yn ymuno â BBC Radio 2 dros nos.",
+          "show_logo": "",
+          "start_time": "00:00",
+          "end_time": "07:00"
+        },
+        {
+          "show_name": "Sioe Frecwast",
+          "show_description": "Cerddoriaeth ac adloniant gyda Rhydian Bowen Phillips. Music and entertainment breakfast show with Rhydian Bowen Phillips.",
+          "show_logo": "",
+          "start_time": "07:00",
+          "end_time": "09:30"
+        },
+        {
+          "show_name": "Nôl i'r 90au",
+          "show_description": "Taith nôl i ddegawd y Spice Girls, Eden, Big Leaves ac Oasis! Take a trip back to the Nineties.",
+          "show_logo": "",
+          "start_time": "09:30",
+          "end_time": "10:00"
+        },
+        {
+          "show_name": "Lisa Gwilym",
+          "show_description": "Lisa Gwilym yn chwarae eich hoff fiwsig. Lisa Gwilym plays your favourite music.",
+          "show_logo": "",
+          "start_time": "10:00",
+          "end_time": "14:00"
+        },
+        {
+          "show_name": "Ifan Jones Evans",
+          "show_description": "Digon o gerddoriaeth, chwerthin a sgwrsio, yn ogystal â chystadleuaeth neu ddwy. Music and chat, plus a competition or two.",
+          "show_logo": "",
+          "start_time": "14:00",
+          "end_time": "17:00"
+        },
+        {
+          "show_name": "Traciau Radio Cymru 2",
+          "show_description": "Tiwns trwy'r dydd yn parhau ar Radio Cymru 2. More tunes on Radio Cymru 2.",
+          "show_logo": "",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "show_name": "Ifan Davies",
+          "show_description": "Dwy awr o'r gerddoriaeth orau o fyd Ifan Davies a'r criw.  Two hours of the best music from Ifan Davies and the crew.",
+          "show_logo": "",
+          "start_time": "19:00",
           "end_time": "21:00"
         },
         {
